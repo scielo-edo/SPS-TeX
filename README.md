@@ -1,4 +1,5 @@
-  SciELO Publishing Schema plus TeX
+  SciELO Publishing Schema + TeX
+  =================================
   
   Uma biblioteca de comandos ConTeXt equivalentes à documentação do
   *SciELO Publishing Schema* e compatíveis com o conversor jats2tex. 
