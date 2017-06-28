@@ -1,0 +1,304 @@
+%%% LaTeX Template: Two column article
+%%%
+%%% Source: http://www.howtotex.com/
+%%% Feel free to distribute this template, but please keep to referal to http://www.howtotex.com/ here.
+%%% Date: February 2011
+
+%%% Preamble
+\documentclass[DIV=calc,%
+              paper=a4,%
+              fontsize=11pt%
+              ]{scrartcl}            % KOMA-article class
+
+% chinese fonts
+\usepackage{xeCJK}
+\setCJKmainfont{SimSun}
+\setCJKsansfont{SimHei}
+\setCJKmonofont{FangSong}
+
+\usepackage[pdfpagelabels,implicit=false,hidelinks]{hyperref} % configurar pagina inicial do pdf
+\usepackage{lipsum}
+\usepackage{abstract}
+\usepackage{penalidades, biblio}
+\usepackage[xetex,chicagofootnotes]{tipografia}
+
+\usepackage{amsmath,amsfonts,amsthm}          % Math packages
+\usepackage[svgnames]{xcolor}                 % Enabling colors by their 'svgnames'
+%\usepackage[hang, small,labelfont=bf,up,textfont=up]{caption}  % Custom captions under/above floats
+\usepackage{caption}
+\usepackage{hyphenat}
+\usepackage{epstopdf}                       % Converts .eps to .pdf
+\usepackage{subfig}                         % Subfigures
+\usepackage{booktabs}                       % Nicer tables
+\usepackage{fix-cm}                         % Custom fontsizes
+\usepackage{multicol}
+%
+%% scielo
+\usepackage{graphicx}
+\usepackage{ctable}
+\usepackage{balance}
+\usepackage{verse}
+\usepackage{seqsplit}
+\usepackage{afterpage}
+\usepackage{setspace} %espaçamento entre linhas
+
+% START packages do ctable + longtable
+% http://tex.stackexchange.com/questions/88304/multipage-tables-with-ctable-package
+\usepackage[utf8]{inputenc}
+%\usepackage{libertine}
+%\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[english]{babel}
+\usepackage[babel]{csquotes}
+\usepackage[backend=bibtex8, style=authoryear]{biblatex}
+\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{lscape}
+\usepackage{multirow}
+\usepackage{pbox}
+\usepackage{longtable}
+% END packages do ctable + longtable
+
+% mathml to tex
+\usepackage{bm} % bold
+\usepackage{pmml-new} % math template
+\usepackage{unicode-math}
+\setmathfont{XITS Math}
+
+\makeatletter
+
+
+\input{BEFORE-BEGINDOC-COMMANDS.tex}
+
+% table columns
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% attrib verse
+\newcommand{\attrib}[1]{%
+\nopagebreak{\raggedleft\footnotesize #1\par}}
+\renewcommand{\poemtitlefont}{\normalfont\large\itshape\centering}
+
+% START ctable + longtable
+% http://tex.stackexchange.com/questions/88304/multipage-tables-with-ctable-package
+\newif\if@ctbl@long
+\define@key{ctbl}{long}[]{\@ctbl@longtrue}
+
+\long\def\foo#1\sbox#2!!{%
+\long\expandafter\def\csname\string\ctable\endcsname[##1]##2##3##4{%
+#1\if@ctbl@long\ctbl@long\fi\sbox#2}}
+
+\expandafter\expandafter\expandafter\foo
+\csname\string\ctable\endcsname[#1]{#2}{#3}{#4}!!
+
+\def\ctbl@long\fi\sbox#1#2#3\@ctblend{\fi
+\ctbl@@long#2%
+}
+
+\long\def\ctbl@@long#1#2#3#4#5#6{%
+\ctbl@@@long#6%
+}
+
+\def\ctbl@@@long#1\begin#2#3#4\end#5{%
+\def\@tempa{#5}%
+\def\@tempb{tabular}%
+\ifx\@tempa\@tempb\else\show\@tempa\ERROR\fi
+\begin{longtable}{#3}%
+%\caption{\@ctblcaption\ifx\@ctbllabel\empty\else\label{\@ctbllabel}\fi}%
+\caption{\@ctblcaption}
+\endfirsthead
+\caption*{\@ctblcaption\space(continued)}%
+\endhead
+#4\end{longtable}}
+% END ctable + longtable
+
+% remove label automatico das tabelas
+\captionsetup{justification=raggedright, singlelinecheck=false, labelformat=empty}
+\captionsetup[table]{labelformat=empty}
+
+% remove padding entre colunas da tabela
+\setlength\tabcolsep{0.005\textwidth}
+
+% includegraphics maxwidth
+\def\maxwidth#1{\ifdim\Gin@nat@width>#1 #1\else\Gin@nat@width\fi}
+
+% footnotes
+\newcommand{\scieloTitleFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+\newcommand{\scieloContributorFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+\newcommand{\scieloBodyFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\ifx&#4&%
+\protect\footnote{#2}
+\else
+\protect\footnotemark[#3]
+\fi
+}%
+
+\newcommand{\scieloCorrespFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+% exibicao da seção
+\newcommand{\scieloSectionContainer}[1]{%
+\section*{#1}
+}%
+\newcommand{\scieloSubSectionContainer}[1]{%
+\subsection*{#1}
+}%
+
+% exibicao dos creditos do documento
+\newcommand{\scieloLicenseContainer}[1]{%
+\medskip\par\noindent
+\footnotesize{#1}
+}%
+
+% exibicao do abstract
+\newcommand{\scieloAbstractContainer}[4]{%
+\renewcommand{\abstractname}{#1}
+\begin{abstract}
+#2
+\scieloKeywordsContainer{#3}{#4}
+\end{abstract}
+}%
+
+% exibicao keywords abstract
+\newcommand{\scieloKeywordsContainer}[2]{%
+\medskip\par\noindent
+\footnotesize{\textit{#1} #2}
+}%
+
+% image one col command
+\newcommand{\scieloImageContainerOneCol}[3]{% {width}{url}{caption}
+\par
+\centerline{
+\includegraphics[width=\maxwidth{#1}]{#2}
+}
+\ifx&#3&%
+\else
+\captionof{figure}{#3} 
+\fi
+\par
+}%
+
+% image two col command
+\newcommand{\scieloImageContainerTwoCol}[2]{% {url}{caption}
+\begin{figure*}
+\centerfloat
+\includegraphics[width=\maxwidth{\textwidth}]{#1}
+\ifx&#2&%
+\else
+\caption{#2} 
+\fi
+\end{figure*}
+}%
+
+% image inline  command
+\newcommand{\scieloImageInlineContainer}[1]{% {url}{caption}
+{
+\centering{
+\includegraphics[width=\maxwidth{0.5\textwidth},height=0.7cm,keepaspectratio]{#1}
+}
+}
+}%
+
+%%% Headers and footers
+\usepackage{fancyhdr}                       % Needed to define custom headers/footers
+  \pagestyle{fancy}                           % Enabling the custom headers/footers
+\usepackage{lastpage} 
+
+% Header (empty)
+\lhead{}
+\chead{}
+\rhead{}
+% Footer (you may change this to your own needs)
+\lfoot{\scieloFooterText \ifnum\thepage=1{\\\scieloArticleId}\fi }
+\cfoot{}
+\rfoot{\footnotesize \scieloFooterRight}  % "Page 1 of 2"
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+%%% Creating an initial of the very first character of the content
+\usepackage{lettrine}
+\newcommand{\initial}[1]{%
+     \lettrine[lines=3,lhang=0.3,nindent=0em]{
+            \color{DarkGoldenrod}
+            {\textsf{#1}}}{}}
+
+
+
+%%% Title, author and date metadata
+\usepackage{titling}                              % For custom titles
+
+\newcommand{\HorRule}{\color{DarkGoldenrod}%      % Creating a horizontal rule
+                      \rule{\linewidth}{1pt}%
+                    }
+
+\pretitle{
+  \vspace{-30pt} 
+  \begin{flushright}{\small\scieloArticleType \\\HorRule}\end{flushright} 
+  \begin{flushleft} % start flush
+    \fontsize{\scieloTitleFontSize}{\scieloTitleFontSize} 
+    \usefont{\encodingdefault}{phv}{b}{n} 
+    \color{DarkRed} 
+    \selectfont 
+}
+
+\title{\scieloArticleTitle}
+
+\posttitle{
+  \par
+  \end{flushleft} % end flush
+  \vskip 0.5em
+  \@ifundefined{scieloArticleTitleTranslation}
+  {}
+  {
+    \color{DarkRed}{\Large\scieloArticleTitleTranslation}
+    \vskip 0.5em
+  }
+}
+
+\preauthor{
+  \begin{flushleft} % start flush
+    \large 
+    \color{DarkRed}
+}
+
+\author{\scieloContributorNames}
+
+\postauthor
+{
+  \color{Black} 
+  \vskip 0.5em
+  { \scriptsize \setstretch{0.5} \scieloContributorsFootNotes \par\relax}
+  \par
+  \end{flushleft} % end flush
+  \HorRule
+}
+
+\date{}                                       % No date
+
+%
+%
+%%%% Begin document
+\begin{document}
+
+\scieloDefineFootnotes
+
+\maketitle
+\thispagestyle{fancy}       % Enabling the custom headers/footers for the first page 
+
+\input{AFTER-BEGINDOC-COMMANDS.tex}
+
+\input{ORIGINAL.tex}
+
+\end{document}

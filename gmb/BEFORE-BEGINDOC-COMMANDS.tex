@@ -1,0 +1,42 @@
+\makeatletter
+\def\@fnsymbol#1{
+     \ensuremath{
+         \ifcase#1
+\or ~
+\or §
+\or 1
+\or 2
+\or 3
+\or 4
+\or 5
+\or 6
+\or 7
+         \fi
+     }
+}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\makeatother
+
+\newcommand\scieloDefineFootnotes{
+\footnotetext[1]{Send correspondence to Federico D. Brown. Departamento de
+Zoologia, Instituto de Biociências, Universidade de São Paulo, Rua
+do Matão, Travessa 14, No. 101, Cidade Universitária, 05508-090
+São Paulo, SP, Brazil. E-mail: fdbrown@usp.br.}
+\footnotetext[2]{These authors contributed equally to the present work.}
+}
+
+\newcommand{\scieloYear}{2015}
+\newcommand\scieloArticlePubIdType{DOI}
+\newcommand\scieloArticleType{Research Article}
+\newcommand{\scieloArticleRef}{, 38, 3, 233-248 (2015)}
+\newcommand\scieloArticleTitle{Evolution of flatworm central nervous systems: Insights from polyclads}
+\newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/S1415-475738320150013}
+\newcommand{\scieloHeaderAuthorAbbrev}{Quiroga et al.}
+\newcommand\scieloHeaderArticleTitle{Nervous system in flatworms}
+%\newcommand\scieloArticleTitleTranslation{Tradução do título 1\\Tradução do título 2}
+\newcommand{\scieloAuthor}{Sigmer Y. Quiroga \scieloContributorFn{1}{xxx}{3}{},\scieloContributorFn{§}{xxx}{2}{} , E. Carolina Bonilla \scieloContributorFn{3}{xxx}{5}{}\textsuperscript{,}\scieloContributorFn{§}{xxx}{2}{} , D. Marcela Bolaños \scieloContributorFn{2}{xxx}{4}{}\textsuperscript{,}\scieloContributorFn{3}{xxx}{5}{}\textsuperscript{,}\scieloContributorFn{§}{xxx}{2}{} , Fernando Carbayo \scieloContributorFn{4}{xxx}{6}{}\textsuperscript{,}\scieloContributorFn{5}{xxx}{7}{} , Marian K. Litvaitis \scieloContributorFn{2}{xxx}{4}{} and Federico D. Brown \scieloContributorFn{3}{xxx}{5}{}\textsuperscript{,}\scieloContributorFn{5}{xxx}{7}{}\textsuperscript{,}\scieloContributorFn{6}{xxx}{8}{}\textsuperscript{,}\scieloContributorFn{7}{xxx}{9}{}}
+
+\newcommand\scieloContributorsFootNotes{\textsuperscript{1}Programa de Biología, Facultad de Ciencias Básicas, Universidad del Magdalena, Santa Marta, Colombia.\\\textsuperscript{2}Department of Natural Resources and the Environment, University of New Hampshire, Durham, NH, USA.\\\textsuperscript{3}Laboratorio de Biología del Desarrollo, Departamento de Ciencias Biológicas, Universidad de los Andes, Bogotá, Colombia.\\\textsuperscript{4}Laboratório de Ecologia e Evolução, Escola de Artes, Ciências e Humanidades,
+Universidade de São Paulo, São Paulo, SP, Brazil.\\\textsuperscript{5}Programa de Pós-Graduação em Zoologia, Departamento de Zoologia, Instituto de Biociências,
+Universidade de São Paulo, São Paulo, SP, Brazil.\\\textsuperscript{6}Departamento de Zoologia, Instituto de Biociências, Universidade de São Paulo, São Paulo, Brazil.\\\textsuperscript{7}Centro de Biologia Marinha, Universidade de São Paulo, São Sebastião, Brazil.}
+

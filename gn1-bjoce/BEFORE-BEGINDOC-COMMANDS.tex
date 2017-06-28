@@ -1,0 +1,28 @@
+\makeatletter
+\def\@fnsymbol#1{
+     \ensuremath{
+         \ifcase#1
+\or ~
+         \fi
+     }
+}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\makeatother
+
+\newcommand\scieloDefineFootnotes{
+\footnotetext[1]{\scieloArticleUrl}
+%\footnotetext[1]{EDVC é Mestre em Urbanisme et Aménagement, e-mail: eugeniadoria@gmail.com}
+%\footnotetext[2]{\\\textbf{Endereço para correspondência}\\Vanessa de Paula Tiago.\\Universidade Federal do Triângulo Mineiro. Departamento de Pediatria da Universidade Federal do Triângulo Mineiro. Av. Frei Paulino, no 30, Bairro Abadia\\Uberaba - MG. Brasil. CEP: 38025-180.}
+}
+
+\newcommand{\scieloYear}{2015}
+\newcommand\scieloArticleType{ORIGINAL ARTICLE}
+\newcommand\scieloArticleTypeTranslation{ARTIGO ORIGINAL}
+\newcommand{\scieloArticleRef}{63(3):239-254;2015}
+\newcommand\scieloArticleTitle{Phytoplankton community structure in one sector of Guanabara Bay (RJ, Brazil) during 2011 and 2012}
+\newcommand\scieloArticleTitleTranslation{Phytoplankton community structure in one sector of Guanabara Bay (RJ, Brazil) during 2011 and 1\\Phytoplankton community structure in one sector of Guanabara Bay (RJ, Brazil) during 2011 and 2}
+\newcommand{\scieloAuthor}{Katia Regina Vieira de Rezende\textsuperscript{*}, Melissa Medeiros Ferreira Hatherly, Cristiane Marques Monteiro Pimenta, Janaina Eduardo, Simone de Castro Vianna, Norberto Mangiavacchi}
+\newcommand\scieloContributorsFootNotes{GESAR, Unidade de Desenvolvimento Tecnológico, Universidade do Estado do Rio de Janeiro\\
+(Rua Fonseca Teles, 121, São Cristóvão, Rio de Janeiro, Brazil)\\\\
+*Corresponding author: katiarvr@gmail.com}
+\newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/S1679-87592015086506303}

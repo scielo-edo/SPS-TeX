@@ -1,0 +1,27 @@
+\makeatletter
+\def\@fnsymbol#1{
+     \ensuremath{
+         \ifcase#1
+\or *
+\or ~
+         \fi
+     }
+}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\makeatother
+
+\newcommand\scieloDefineFootnotes{
+\footnotetext[1]{e-mail: carjulio@peb.ufrj.br; e.p.lana@ieee.org}
+\footnotetext[2]{Received: 10 May 2015 / Accepted: 02 September 2015}
+}
+
+\newcommand{\scieloYear}{2015}
+\newcommand\scieloArticlePubIdType{DOI}
+\newcommand\scieloArticleType{Original Article}
+\newcommand{\scieloArticleRef}{Volume 31, Number 4, p. 285-294, 2015}
+\newcommand\scieloArticleTitle{Detection of movement intention using EEG in a human-robot interaction environment}
+%\newcommand\scieloArticleTitleTranslation{Tradução do título 1\\Tradução do título 2}
+\newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/2446-4740.0777}
+\newcommand{\scieloHeaderLeft}{Lana EP, Adorno BV, Tierra-Criollo CJ}
+\newcommand{\scieloHeaderRight}{2015 December; 31(4): 285-294}
+\newcommand{\scieloAuthor}{Ernesto Pablo Lana, Bruno Vilhena Adorno, Carlos Julio Tierra-Criollo\scieloContributorFn{*}{e-mail: carjulio@peb.ufrj.br; e.p.lana@ieee.org}{1}{}}
