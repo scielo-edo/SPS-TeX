@@ -3,7 +3,7 @@ XMLtemplate   	Arquivos XML e imagens fornecidos pelo SciELO;
 
 TeXsample	A classe em TeX da forma que foi originalmente concebida
 
-Jats2TeX	LINKS.md  	Descrição da tabela de correspondência XML e comandos TeX da classe
-		sample.yaml	Template jats2tex
+Jats2TeX	LINKS.md  	Descrição da tabela de correspondência XML e comandos TeX 
+                sample.yaml	Template jats2tex
 		0_sample.tex	Exemplo feito manualmente
 		1_sample.tex	Exemplo feito com o conversor  	
