@@ -1,0 +1,386 @@
+\documentclass[numberinsection,times,9pt,spreadimages]{memoir}
+\usepackage[xetex]{tipografia}
+
+\usepackage{anyfontsize}
+\usepackage{changepage}
+\DisemulatePackage{setspace}
+\usepackage{setspace}
+\usepackage{tikz}
+
+\usepackage{hedraextra}
+\usepackage{penalidades}
+\usepackage{graficos}
+\usepackage{hedralogo}
+\usepackage{hifensextras}
+\usepackage{aparatos}
+\usepackage{tabelas}
+\usepackage{versos}
+\usepackage{abstract}
+\usepackage{amsmath,amsfonts,amsthm} % Math packages
+%\usepackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats
+\usepackage{epstopdf}                       % Converts .eps to .pdf
+\usepackage{subfig}                         % Subfigures
+\usepackage{booktabs}                       % Nicer tables
+\usepackage{fix-cm}                         % Custom fontsizes
+\usepackage{ctable}
+\usepackage{textcase}
+\usepackage{etoolbox}
+\usepackage{flushend}
+\usepackage{mdframed}
+\usepackage{multicol}
+\usepackage[hyphens]{url}
+
+\usepackage{xeCJK}
+\usepackage{caption}
+\usepackage{hyphenat}
+\usepackage{verse}
+\usepackage{seqsplit}
+\usepackage{lscape}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{enumitem}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{pbox}
+\usepackage{longtable}
+\usepackage[pdfpagelabels,implicit=false,hidelinks,hyperfootnotes=false]{hyperref} % configurar pagina inicial do pdf
+
+% mathml to tex
+\usepackage{bm} % bold
+\usepackage{unicode-math}
+
+
+% fontes
+\newfontfamily\minionprofont{Minion Pro}[%  
+  BoldFont=MinionPro-Bold,%
+  ItalicFont=MinionPro-It,%
+  BoldItalicFont=MinionPro-BoldIt%
+]
+\newfontfamily\arnoprofont{Arno Pro}
+\newfontfamily\cronosprofont{Cronos Pro}[%  
+  BoldFont=CronosPro-Bold,%
+  ItalicFont=CronosPro-Italic,%
+  BoldItalicFont=CronosPro-BoldIt%
+]
+\newfontfamily\cronosprolightfont{CronosPro-Lt}
+\newfontfamily\cronosprosemiboldfont{CronosPro-Semibold}
+\newfontfamily\frutigerlightcondensedfont{FrutigerLTStd-Cn}[%  
+  BoldFont=FrutigerLTStd-BoldCn
+]
+\newfontfamily\myriadprocondensedfont{MyriadPro-Cond}[%  
+  BoldFont=MyriadPro-BoldCond,%
+  ItalicFont=MyriadPro-CondIt,%
+  BoldItalicFont=MyriadPro-BoldCondIt%
+]
+\newfontfamily\timesnewromanfont{Times New Roman}
+
+\newfontfamily\futurastdheavyfont{FuturaStd-Heavy}
+\newfontfamily\futurastdbookfont{FuturaStd-Book}[% 
+  ItalicFont=FuturaStd-BookOblique
+]
+\newfontfamily\futurastdlightcondensedfont{FuturaStd-CondensedLight}[% 
+  ItalicFont=FuturaStd-CondensedLightObl
+]
+\newfontfamily\cambriafont{Cambria}[%  
+  BoldFont=Cambria Bold,%
+  ItalicFont=Cambria Italic,%
+  BoldItalicFont=Cambria Bold Italic%
+]
+\newfontfamily\helveticaworldfont{Helvetica World}[%  
+  BoldFont=HelveticaWorld-Bold,%
+  ItalicFont=HelveticaWorld-Italic,%
+  BoldItalicFont=HelveticaWorld-BoldItalic%
+]
+\newfontfamily\calibrifont{Calibri}[%  
+  BoldFont=Calibri-Bold,%
+  ItalicFont=Calibri-Italic,%
+  BoldItalicFont=Calibri-BoldItalic%
+]
+\newfontfamily\arialfont{Arial}[%  
+  BoldFont=Arial-Bold,%
+  ItalicFont=Arial-Italic,%
+  BoldItalicFont=Arial-Bold Italic%
+]
+\newfontfamily\centurygothicfont{Century Gothic}[%  
+  BoldFont=Century Gothic Bold,%
+  ItalicFont=Century Gothic Italic,%
+  BoldItalicFont=Century Gothic Bold Italic%
+]
+\newfontfamily\futurabtfont{Century Gothic}[%  
+  BoldFont=Century Gothic Bold,%
+  ItalicFont=Century Gothic Italic,%
+  BoldItalicFont=Century Gothic Bold Italic%
+]
+\newfontfamily\futuramdbtfont{Futura Md BT}[%  
+  BoldFont=Futura Md BT Bold
+]
+\newfontfamily\verdanafont{Verdana}[%  
+  BoldFont=Verdana Bold,%
+  ItalicFont=Verdana Italic,%
+  BoldItalicFont=Verdana Bold Italic%
+]
+\newfontfamily\zurichcondensedfont{Zurich Cn BT}[%
+  BoldFont=Zurich Cn BT Bold,%
+  ItalicFont=Zurich Cn BT Italic,%
+  BoldItalicFont=Zurich Cn BT Bold Italic%
+]
+\newfontfamily\zurichlightcondensedfont{Zurich LtCn BT}
+
+\newfontfamily\adobegaramondprofont{Adobe Garamond Pro}[%
+  BoldFont=Adobe Garamond Pro Bold,%
+  ItalicFont=Adobe Garamond Pro Italic,%
+  BoldItalicFont=Adobe Garamond Pro Bold Italic%
+]
+\newfontfamily\centurybtfont{Century731 BT}[%
+  BoldFont=Century 731 Bold BT,%
+  ItalicFont=Century 731 Italic BT,%
+  BoldItalicFont=Century 731 Bold Italic BT%
+]
+\newfontfamily\garamondfont{Garamond}[%
+  BoldFont=Garamond Bold,%
+  ItalicFont=Garamond Italic,%
+  BoldItalicFont=Garamond Bold Italic%
+]
+\newfontfamily\myriadprofont{MyriadPro-Regular}[%  
+  BoldFont=MyriadPro-Bold,%
+  ItalicFont=MyriadPro-It,%
+  BoldItalicFont=MyriadPro-BoldIt%
+]
+\newfontfamily\perpetuafont{Perpetua}[%  
+  BoldFont=Perpetua Bold,%
+  ItalicFont=Perpetua Italic,%
+  BoldItalicFont=Perpetua Bold Italic%
+]
+\newfontfamily\bookmanoldstylefont{BookmanOldStyleStd}[%  
+  BoldFont=BookmanOldStyleStd-Bold,%
+  ItalicFont=BookmanOldStyleStd-Italic,%
+  BoldItalicFont=BookmanOldStyleStd-BoldIt%
+]
+
+\newfontfamily\futuraboldcondensedbtfont{Futura Bold Condensed BT}[% 
+  ItalicFont=Futura Bold Condensed Italic BT
+]
+\newfontfamily\futuralightbtfont{Futura Light BT}
+\newfontfamily\souvenirfont{Souvenir}[%  
+  BoldFont=Souvenir Bold,%
+  ItalicFont=Souvenir Italic,%
+  BoldItalicFont=Souvenir Bold Italic%
+]
+\newfontfamily\swissbtfont{Swis721 BT}
+\newfontfamily\univerltstdfourfivelightfont{Univers LT Std}
+
+\begin{document}
+
+\section*{GN1 JORDI}
+
+\par{\arialfont\fontsize{9}{10.8}\selectfont\textbf{ORIGINAL ARTICLE}}
+\par{\myriadprofont\fontsize{16}{19.2}\selectfont{Prevalence of oral and maxillofacial diseases diagnosed in an Oral Medicine service during a 7-year period}}
+\par{\calibrifont\fontsize{7}{8.4}\selectfont{DDS, MSc, Post-graduation Program in Dentistry, Estácio de Sá University, Rio de Janeiro, Brazil (Oral Medicine, Brazilian Dental Association, Rio de Janeiro, Brazil).}
+\par{\bookmanoldstylefont\fontsize{9}{10.8}\selectfont{Simone de Macedo Amaral}
+\par{\perpetuafont\fontsize{10}{12}\selectfont\textbf{ABSTRACT}}
+\par{\perpetuafont\fontsize{9}{10.8}\selectfont{Prevalence of oral and maxillofacial diseases is highly variable depending on the region, country and source of
+the data.}}
+\par{\souvenirfont\fontsize{11}{13.2}\selectfont\textbf{INTRODUCTION}}
+\par{\perpetuafont\fontsize{11}{13.2}\selectfont{Studies reporting on the prevalence of oral diseases}}
+
+\newcommand{\swissfivefont}[1]{\swissbtfont\fontsize{5.5}{6.6}\selectfont#1}
+\newcommand{\swisseightfont}[1]{\swissbtfont\fontsize{8}{9.6}\selectfont#1}
+
+\par{\swisseightfont{J}\swissfivefont{OURNAL OF} \swisseightfont{O}\swissfivefont{RAL} \swisseightfont{D}\swissfivefont{IAGNOSIS} \swisseightfont{2012}}
+%in different countries from all continents have been reported
+%in the literature in a regular basis in the last years 1-6 . They are
+%essential in highlighting epidemiologic, geographic and racial
+%biases and similarities among different populations, offering
+%the possibility of comparing health service needs in different
+%countries and regions. In large countries, such as Brazil, even
+%local economic, cultural and social differences, for example, can affect the prevalence of oral diseases in specific regions.}}
+
+\newpage
+
+\section*{GN1 BJOCE}
+
+\par{\univerltstdfourfivelightfont\fontsize{7.5}{9}\selectfont{Rezende et al.: Phytoplankton community structure}}
+\par{\timesnewromanfont\fontsize{16}{19.2}\selectfont{Original Article / Artigo Original}}
+\par{\timesnewromanfont\fontsize{13.5}{16.2}\selectfont\textbf{Phytoplankton community structure in one sector of Guanabara Bay (RJ, Brazil) during 2011 and 2012}}
+\par{{\garamondfont\fontsize{12}{14.4}\selectfont\textbf{A}}{\garamondfont\fontsize{10.5}{12.6}\selectfont\textbf{BSTRACT}}
+\par{{\garamondfont\fontsize{12}{14.4}\selectfont\textbf{R}}{\garamondfont\fontsize{10.5}{12.6}\selectfont\textbf{ESUMO}}
+
+\newpage
+
+\section*{GN1 RBCP}
+
+\par{\centurybtfont\fontsize{22.5}{27}\selectfont{Condutas atuais na prevenção da hipertrofia cicatricial pós-operatória}}
+\par{\centurybtfont\fontsize{16.5}{19.8}\selectfont\textit{Current management for the prevention of postoperative scar hypertrophy}}
+\par{\centurybtfont\fontsize{9}{10.8}\selectfont{PEDRO LEONARDO SANCHES FAVERET \textsuperscript{1,2 *}}
+\par{\centurybtfont\fontsize{11}{13.2}\selectfont\textbf{RESULTADOS}
+\par{\centurybtfont\fontsize{10}{12}\selectfont{oram obtidas um total de 2.986 referências, das quais foram selecionadas 119 para revisão (Tabela 1). Os métodos não invasivos de prevenção da hipertrofia cicatricial pós-opera}
+
+\newpage
+
+\section*{GN1 RBTI}
+
+\par{\zurichcondensedfont\fontsize{11}{13.2}\selectfont\textbf{ARTIGO ORIGINAL}}
+\par{\adobegaramondprofont\fontsize{16}{19.2}\selectfont\textbf{Falta de concordância entre diferentes observadores e métodos na mensuração do tempo de reenchimento capilar em voluntários saudáveis: estudo observacional}
+\par{\adobegaramondprofont\fontsize{14}{16.8}\selectfont\textit{Lack of agreement between different observers and methods in the measurement of capillary refill time in healthy volunteers: an observational study}
+\par{\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{Emilio Daniel Valenzuela Espinoza \textsuperscript{1}, Sebastián Welsh\textsuperscript{1}, Arnaldo Dubin\textsuperscript{1,2}}}
+\par{\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{1. Serviço de Terapia Intensiva, Sanatorio Otamendi y Miroli - Buenos Aires, Argentina.}}
+\par{\zurichcondensedfont\fontsize{11}{13.2}\selectfont{\textbf{MÉTODOS \\ Análise Estatística}}
+\par{\zurichcondensedfont\fontsize{7}{8.4}\selectfont{Rev Bras Ter Intensiva. 2014;26(3):00-00}}
+
+\newpage
+
+\section*{GN1 EEAN}
+
+
+\par{\futuraboldcondensedbtfont\fontsize{9}{10.8}\selectfont\textbf{Acolhimento com Classificação de Risco: Avaliação de SHE}
+\par{\futuralightbtfont\fontsize{9}{10.8}\selectfont\textbf{Costa MAR, Versa GLGS, Bellucci Júnior JA, Inoue KC, Sales CA, Matsuda LM}
+\par{\futuramdbtfont\fontsize{9}{10.8}\selectfont\textbf{PESQUISA | RESEARCH}
+\par{\centurygothicfont\fontsize{16}{19.2}\selectfont\textbf{Acolhimento com Classificação de Risco: Avaliação de Serviços Hospitalares de Emergência}}
+\par{\centurygothicfont\fontsize{10}{12}\selectfont\textbf{\textit{Admittance of Risk-Classified Cases: Assessment of Hospital Emergency Services}}}
+\par{\calibrifont\fontsize{8}{9.6}\selectfont{Maria Antonia Ramos Costa \textsuperscript{1}\\Gelena Lucinéia Gomes da Silva Versa\textsuperscript{2}\\José Aparecido Bellucci\textsuperscript{3}}
+\par{\helveticaworldfont\fontsize{10}{12}\selectfont\textbf{R}{\helveticaworldfont\fontsize{7}{8.4}\selectfont\textbf{ESUMO}
+\par{\helveticaworldfont\fontsize{6.5}{7.8}\selectfont\textbf{Objetivo}: Avaliar o Acolhimento com Classificação de Risco (ACCR) implantado em dois serviços hospitalares de emergência
+\textbf{Métodos}: Pesquisa exploratório-descritiva, de abordagem quantitativa, realizada entre março e maio de 2013. Participara}
+\par{\verdanafont\fontsize{4.5}{5.4}\selectfont{Escola Anna Nery Revista deEnfermagem 19(3) Jul-Set 2015}
+\par{\verdanafont\fontsize{4.5}{5.4}\selectfont{ESCOLA ANNA NERY REVISTA DEENFERMAGEM 19(3) \verdanafont\fontsize{6}{7.2}\selectfont{JUL-SET 2015}}
+\par{\verdanafont\fontsize{5}{6}\selectfont{Escola Anna Nery Revista deEnfermagem 19(3) Jul-Set 2015}
+\par{\verdanafont\fontsize{5}{6}\selectfont{ESCOLA ANNA NERY REVISTA DEENFERMAGEM 19(3) \verdanafont\fontsize{6}{7.2}\selectfont{JUL-SET 2015}}
+\par{\verdanafont\fontsize{6}{7.2}\selectfont{Escola Anna Nery Revista deEnfermagem 19(3) Jul-Set 2015}
+\par{\verdanafont\fontsize{6}{7.2}\selectfont{ESCOLA ANNA NERY REVISTA DEENFERMAGEM 19(3) JUL-SET 2015}
+\par{\verdanafont\fontsize{7}{8.4}\selectfont{Escola Anna Nery Revista deEnfermagem 19(3) Jul-Set 2015}
+\par{\verdanafont\fontsize{7}{8.4}\selectfont{ESCOLA ANNA NERY REVISTA DEENFERMAGEM 19(3) JUL-SET 2015}
+
+\par{\verdanafont\fontsize{5}{6}\selectfont{ESCOLA ANNA NERY REVISTA DEENFERMAGEM 19(3) \verdanafont\fontsize{6}{7.2}\selectfont{JUL-SET 2015}}
+
+%\par{\verdanafont\fontsize{9}{10.8}\selectfont{Escola Anna Nery Revista de Enfermagem ~~~~2}}
+
+\newpage
+
+\section*{GN1 RBTI}
+
+\par{\zurichcondensedfont\fontsize{11}{13.2}\selectfont\textbf{ARTIGO ORIGINAL}}
+
+\par{Falta de concordância entre diferentes observadores e métodos na mensuração do tempo de reenchimento capilar em voluntários saudáveis: estudo observacional}
+
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{GN1 Acta Fisiatrica}
+
+\par{\centurygothicfont\fontsize{14}{16.2}\selectfont\textbf{Atuação da fisioterapia nas disfunções sexuais
+femininas: uma revisão sistemática}}
+
+\par{\centurygothicfont\fontsize{11.5}{13.8}\selectfont\textbf{\textit{Physical therapy in sexually dysfunctional women: a systematic review}}}
+
+\par{\calibrifont\fontsize{9}{10.8}\selectfont{Raquel Eleine Wolpe\textsuperscript{1}, Ariana Machado Toriy\textsuperscript{1}, Fabiana Pinheiro da Silva\textsuperscript{2}, Kamilla Zomkowski\textsuperscript{2}, Fabiana Flores Sperandio \textsuperscript{3}}
+
+\par{\centurygothicfont\fontsize{11.5}{13.8}\selectfont\textbf{RESUMO}}
+
+\par{\calibrifont\fontsize{8}{9.6}\selectfont{As disfunções sexuais femininas (DSFs) são consideradas um problema de saúde pública pela Organização Mundial da Saúde (OMS). Consistem em inúmeras desordens, como distúrbio da excitação feminina, distúrbio do desejo sexual hipoativo, transtorno sexual do orgasmo feminino, dispareunia e vaginismo. As DSFs são detectadas em 67,9\% das mulheres no mundo e estão presentes em 50\% das asiáticas, em 30 a 50\% das americanas e em 30\% das brasileiras.}}
+
+\par{\calibrifont\fontsize{8}{9.6}\selectfont\textbf{Palavras-chave:} Disfunção Sexual Fisiológica/reabilitação, Mulheres, Modalidades de Fisioterapia}
+
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section*{GN1 RP}
+
+\par{\helveticaworldfont\fontsize{16}{20}\selectfont\textbf{Síndrome de diferenciação na leucemia promielocítica aguda: relato de caso pediátrico no HC-UFTM}}
+
+\par
+\par{\arialfont\fontsize{11}{13.2}\selectfont\textbf{\textit{Differentiation syndrome in acute promyelocytic leukemia: report of a pediatric case in HC-UFTM}}}
+
+\par
+\par{\calibrifont\fontsize{9}{10.8}\selectfont{O uso do ácido all-trans-retinoico (ATRA) no tratamento de leucemia promielocítica aguda está associado, em 5\% a 20\% dos pacientes, a uma condição conhecida como síndrome de diferenciação. A apresentação clínica inclui sintomas respiratórios decorrente de lesão pulmonar associados a outros sintomas sistêmicos. Este caso chama a atenção para a necessidade do diagnóstico precoce, devendo o tratamento adequado ser imediatamente introduzido.}}
+
+\par
+\par
+
+\par{\helveticaworldfont{}Helvetica World}
+\par{\helveticaworldfont\textbf{Helvetica World BOLD} }
+\par{\helveticaworldfont\textit{Helvetica World ITALIC} }
+\par{\helveticaworldfont\textbf{\textit{Helvetica World BOLD ITALIC} }}
+
+\par
+
+\par{\arialfont{}Arial}
+\par{\arialfont\textbf{Arial BOLD} }
+\par{\arialfont\textit{Arial ITALIC}}
+\par{\arialfont\textbf{\textit{Arial BOLD ITALIC}}}
+
+\par
+
+\par{\calibrifont{}Calibri}
+\par{\calibrifont\textbf{Calibri BOLD}} 
+\par{\calibrifont\textit{Calibri ITALIC}}
+\par{\calibrifont\textbf{\textit{Calibri BOLD ITALIC}}}
+
+\newpage
+
+
+
+
+
+\section*{CUBO ROU}
+
+\par{\arnoprofont\fontsize{10}{12}\selectfont ARTIGO ORIGINAL }
+\par{\minionprofont\fontsize{19}{22.8}\selectfont recommend}
+\par{\minionprofont\fontsize{10.5}{12.6}\selectfont\textbf{Resumo }}
+\par{\minionprofont\fontsize{11}{13.2}\selectfont\textit{ortodontistas recomendam o tratamento }}
+\par{\minionprofont\fontsize{11}{13.2}\selectfont ortodontistas recomendam o tratamento }
+
+\par\par
+
+
+\section*{CUBO FLORAM}
+
+\par{\minionprofont\fontsize{11}{13.2}\selectfont{Floresta e Ambiente}}
+\par{\minionprofont\fontsize{11}{13}\selectfont\textbf{Artigo Original}}
+\par{\minionprofont\fontsize{16}{19.2}\selectfont{Estrutura Diamétrica}}
+
+\par\par
+
+
+\section*{CUBO JVB}
+
+\par{\cronosprofont\fontsize{11}{13.2}\selectfont\textbf{ORIGINAL ARTICLE}}
+\par{\cronosprofont\fontsize{11}{13.2}\selectfont\textbf{ORIGINAL ARTICLE}}
+\par{\cronosprofont\fontsize{13}{15.6}\selectfont\textbf{ORIGINAL ARTICLE}}
+\par{\cronosprofont\fontsize{13}{15.6}\selectfont{ORIGINAL ARTICLE}}
+\par{\cronosprofont\fontsize{12}{14.4}\selectfont\textit{Avaliação da taxa de obliteração}}
+
+\par{\cronosprosemiboldfont\fontsize{15}{18}\selectfont{Evaluation of great saphenous}}
+\par{\cronosprolightfont\fontsize{9}{11}\selectfont{Walter Junior}}
+
+
+\par\par
+
+
+\section*{CUBO RBE}
+
+\par{\frutigerlightcondensedfont\fontsize{7}{9}\selectfont{Volume 31, Number 4}}
+\par{\frutigerlightcondensedfont\fontsize{14.5}{17.4}\selectfont\textbf{Original Article}}
+\par{\timesnewromanfont\fontsize{14.5}{17.4}\selectfont\textbf{Detection of movement intention}}
+\par{\timesnewromanfont\fontsize{10}{12}\selectfont\textbf{Ernesto Pablo Lana}}
+\par{\myriadprocondensedfont\fontsize{8}{9.6}\selectfont{Lana EP, Adorno BV, Tierra-Criollo CJ}}
+
+\par\par
+
+
+\section*{CUBO URBE}
+
+\par{\futurastdheavyfont\fontsize{16}{20}\selectfont{As novas lógicas de fortificação}}
+\par{\futurastdbookfont\fontsize{13}{18}\selectfont\textit{New forms of residential}}
+\par{\futurastdlightcondensedfont\fontsize{10.5}{13.5}\selectfont{Eugênia Dória Viana}}
+\par{\cambriafont\fontsize{9.5}{13.5}\selectfont{Segregação socioespacial}}
+\par{\cambriafont\fontsize{9.5}{13.5}\selectfont\textit{In recent years}}
+
+
+
+
+
+\end{document}
