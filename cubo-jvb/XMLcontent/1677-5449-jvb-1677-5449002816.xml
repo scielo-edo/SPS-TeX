@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "http://jats.nlm.nih.gov/publishing/1.0/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" specific-use="sps-1.5" xml:lang="pt" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">jvb</journal-id>
+			<journal-title-group>
+				<journal-title>Jornal Vascular Brasileiro</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">J. Vasc. Bras.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1677-5449</issn>
+			<issn pub-type="epub">1677-7301</issn>
+			<publisher>
+				<publisher-name>Sociedade Brasileira de Angiologia e de Cirurgia Vascular
+					(SBACV)</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">jvbDT20160028_PT</article-id>
+			<article-id pub-id-type="doi">10.1590/1677-5449.002816</article-id>
+			<article-id pub-id-type="other">01102</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Uso de curativo a vácuo como terapia adjuvante na cicatrização de
+					sítio cirúrgico infectado</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Camargo</surname>
+						<given-names>Paula Angeleli Bueno de</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+					<xref ref-type="corresp" rid="c01">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bertanha</surname>
+						<given-names>Matheus</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Moura</surname>
+						<given-names>Regina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jaldin</surname>
+						<given-names>Rodrigo Gibin</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yoshida</surname>
+						<given-names>Ricardo de Alvarenga</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pimenta</surname>
+						<given-names>Rafael Elias Farres</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mariúba</surname>
+						<given-names>Jamil Victor de Oliveira</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sobreira</surname>
+						<given-names>Marcone Lima</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff01">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<aff id="aff01">
+					<label>1</label>
+					<institution content-type="orgname">Universidade Estadual Paulista “Júlio de
+						Mesquita Filho”</institution>
+					<institution content-type="orgdiv1">Faculdade de Medicina de
+						Botucatu</institution>
+					<institution content-type="normalized">Universidade Estadual
+						Paulista</institution>
+					<addr-line>
+						<named-content content-type="city">São Paulo</named-content>
+						<named-content content-type="state">SP</named-content>
+					</addr-line>
+					<country country="BR">Brasil</country>
+					<institution content-type="original">Universidade Estadual Paulista “Júlio de
+						Mesquita Filho” – UNESP, Faculdade de Medicina de Botucatu, Departamento de
+						Cirurgia e Ortopedia, São Paulo, SP, Brasil.</institution>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<fn fn-type="conflict">
+					<p>Conflito de interesse: Os autores declararam não haver conflitos de interesse
+						que precisam ser informados.</p>
+				</fn>
+				<corresp id="c01">
+					<label>*</label>Correspondência Paula Angeleli Bueno de Camargo Universidade
+					Estadual Paulista “Júlio de Mesquita Filho” – UNESP, Faculdade de Medicina de
+					Botucatu, Departamento de Cirurgia e Ortopedia Distrito de Rubião Jr., s/n CEP
+					18618-970 - Botucatu (SP), Brasil Tel.: (14) 3880-1447 E-mail:
+						<email>paula.angeleli@gmail.com</email>
+				</corresp>
+				<fn fn-type="other">
+					<p>Informações sobre os autores PABC, RGJ, REFP e JVOM - Médicos Assistentes,
+						Departamento de Cirurgia e Ortopedia, Faculdade de Medicina de Botucatu,
+						Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP). MB, RM e MLS
+						- Professores Assistentes Doutores, Departamento de Cirurgia e Ortopedia,
+						Faculdade de Medicina de Botucatu, Universidade Estadual Paulista Júlio de
+						Mesquita Filho (UNESP). RAY - Professor Colaborador, Departamento de
+						Cirurgia e Ortopedia, Faculdade de Medicina de Botucatu, Universidade
+						Estadual Paulista Júlio de Mesquita Filho (UNESP).</p>
+				</fn>
+				<fn fn-type="con">
+					<p>Contribuições dos autores Concepção e desenho do estudo: PABC, MB, RM Análise
+						e interpretação dos dados: PABC, RGJ, RAY, JVOM Coleta de dados: PABC, RGJ,
+						RAY, JVOM Redação do artigo: PABC, MB, RM Revisão crítica do texto: MB, RGJ,
+						REFP, JVOM, MLS Aprovação final do artigo*: PABC, MB, RM, MLS, RGJ, RAY,
+						REFP, JVOM Análise estatística: N/A. Responsabilidade geral pelo estudo:
+						PABC, MLS *Todos os autores leram e aprovaram a versão final submetida ao J
+						Vasc Bras.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>05</day>
+				<month>01</month>
+				<year>2017</year>
+			</pub-date>
+			<volume>00</volume>
+			<issue>00</issue>
+			<fpage>000</fpage>
+			<lpage>000</lpage>
+			<history>
+				<date date-type="received">
+					<day>10</day>
+					<month>05</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>31</day>
+					<month>08</month>
+					<year>2016</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="pt">
+					<license-p>Este é um artigo publicado em acesso aberto (<italic>Open
+							Access</italic>) sob a licença <italic>Creative Commons
+							Attribution</italic>, que permite uso, distribuição e reprodução em
+						qualquer meio, sem restrições desde que o trabalho original seja
+						corretamente citado.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumo</title>
+				<p>Infecções de sítios cirúrgicos com envolvimento de próteses sintéticas constituem
+					grande desafio para tratamento. Apresentamos o caso de uma paciente com
+					múltiplas comorbidades, histórico de enxerto aortobifemoral há 6 anos e
+					reabordagem das anastomoses femorais por reestenoses há 5 anos. Apresentou dor
+					inguinal esquerda e abaulamento súbitos com diagnóstico de pseudoaneurisma
+					femoral roto e instabilidade hemodinâmica. Foi submetida a correção emergencial
+					com interposição de prótese de dácron recoberta por prata e correção de grande
+					hérnia incisional abdominal com tela sintética ao mesmo tempo. No
+					pós-operatório, manteve-se por longo período sob terapia intensiva com
+					dificuldade de extubação. Nesse ínterim, apresentou deiscência das suturas e
+					fístula purulenta inguinal esquerda em contato com a prótese vascular. Optou-se
+					pelo tratamento conservador, com desbridamento das feridas e aplicação de
+					curativo a vácuo. A paciente evoluiu com melhora e cicatrização das feridas.
+					Essa pode se constituir em ferramenta importante em casos similares.</p>
+			</abstract>
+			<kwd-group xml:lang="pt">
+				<title>Palavras-chave: </title>
+				<kwd>terapêutica</kwd>
+				<kwd>cicatrização</kwd>
+				<kwd>técnicas de fechamento de ferimentos abdominais</kwd>
+				<kwd>infecção</kwd>
+				<kwd>prótese vascular</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="4"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="21"/>
+				<page-count count="1"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>INTRODUÇÃO</title>
+			<p>As deiscências de incisões cirúrgicas, particularmente com envolvimento de próteses
+				sintéticas, constituem grande desafio para tratamento<xref ref-type="bibr" rid="B001">
+					<sup>1</sup>
+				</xref>. Nas próteses vasculares, em particular, há um
+				microambiente favorável à produção de biofilme, que sustenta a colonização
+				bacteriana e encapsula os germes, protegendo-os contra as defesas naturais do
+				organismo e da terapia antibiótica<xref ref-type="bibr" rid="B001">
+					<sup>1</sup>
+				</xref>. O tratamento geralmente preconizado é a remoção da prótese
+					infectada<xref ref-type="bibr" rid="B001">
+					<sup>1</sup>
+				</xref>. Porém, essas
+				cirurgias são geralmente maiores que as prévias, uma vez que apresentam forte
+				envolvimento inflamatório. Assim, o paciente deve ter boas condições clínicas para
+				suportar uma cirurgia que pode envolver reconstruções vasculares extra-anatômicas
+				complexas, que demandam maior tempo operatório e elevam as taxas de
+				morbimortalidade. Dessa forma, pretende-se evitar a progressão da infecção, quadros
+				isquêmicos graves decorrentes da remoção isolada da prótese e o risco de amputações.
+				Nesse contexto, apresentamos um caso de sucessivas complicações cirúrgicas
+				decorrentes de reintervenções emergenciais sobre um enxerto aortobifemoral antigo,
+				realizado há 6 anos para o tratamento de isquemia crítica de membros inferiores.
+				Retornou com degeneração da artéria femoral comum esquerda e constituiu um grande
+				desafio terapêutico.</p>
+		</sec>
+		<sec>
+			<title>PARTE I - SITUAÇÃO CLÍNICA</title>
+			<p>Paciente do sexo feminino, branca, com 75 anos de idade, dislipidêmica, tabagista
+				ativa com doença pulmonar obstrutiva crônica, doença renal crônica, obesidade
+				mórbida e portadora de insuficiência cardíaca. Tinha histórico de cirurgia
+				convencional de enxerto aortobifemoral com prótese de dácron bifurcada, realizada
+				para o tratamento de isquemia crítica de membros inferiores 6 anos atrás, quando
+				havia uma situação clínica mais favorável. O quadro de isquemia crítica inicial
+				caracterizava-se por claudicação intermitente, lesões tróficas em ambos os pés
+				(necrose puntiforme de pododáctilos) e dor em repouso. Como complicação daquela
+				cirurgia, no pós-operatório, teve deiscência da incisão abdominal com consequente
+				hérnia incisional.</p>
+			<p>Um ano após a primeira cirurgia, a paciente apresentou necrose em região calcânea
+				esquerda, que foi relacionada a uma piora da perfusão desse membro. Isso foi
+				confirmado por meio de ultrassom dúplex colorido, o qual demonstrou estenose &gt;
+				75% nas anastomoses femorais. A correção foi realizada com reabordagem cirúrgica das
+				anastomoses e confecção de remendo de dácron, com sucesso técnico. A evolução
+				pós-operatória trouxe compensação circulatória para os membros inferiores e
+				cicatrização da ferida.</p>
+			<p>Após 5 anos de acompanhamento ambulatorial regular, deu entrada no pronto-socorro de
+				nossa instituição queixando-se de dor forte e abaulamento súbito em região inguinal
+				esquerda. Clinicamente, a paciente apresentou instabilidade hemodinâmica e, após um
+				rastreamento emergencial com ultrassom dúplex colorido, visualizou-se
+				pseudoaneurisma na interface entre a artéria femoral e o remendo de dácron e
+				extravasamento de sangue para o retroperitônio. Foi indicado tratamento cirúrgico de
+				emergência.</p>
+			<p>Foi, então, realizada correção cirúrgica convencional, com remoção do remendo e
+				interposição de segmento de dácron recoberto por prata entre a porção média do ramo
+				esquerdo da prótese aortobifemoral e a bifurcação femoral. Além disso, a hérnia
+				incisional abdominal prévia foi corrigida por meio de colocação de tela sintética no
+				mesmo ato cirúrgico, pela equipe de gastrocirurgia.</p>
+			<p>Em decorrência das várias comorbidades, a evolução pós-operatória foi desfavorável,
+				permanecendo a paciente em regime de terapia intensiva por longo período. Ocorreu
+				deiscência de sutura das incisões inguinal e abdominal com drenagem de secreção
+				purulenta na inguinotomia esquerda. Detectou-se, por tomografia computadorizada, uma
+				fístula de drenagem da coleção adjacente ao enxerto pela inguinotomia, sem exposição
+				direta da prótese. Foi realizada a cultura das secreções, que se apresentou positiva
+				para <italic>Staphylococcus epidermidis</italic> e <italic>Staphylococcus
+					aureus</italic> coagulase negativo, ambos sensíveis à vancomicina. A situação
+				clínica da paciente era agravada, ainda, por quadro de pneumonia, tratada com
+				imipenem, tazocin e polimixina B, e pelo antecedente de doença pulmonar obstrutiva
+				crônica, o que a manteve em ventilação mecânica invasiva por 45 dias.</p>
+			<p>Diante desse quadro e sem condições cirúrgicas, as opções de tratamento eram:</p>
+			<list id="L1" list-type="alpha-lower">
+				<list-item>
+					<label>a</label>
+					<p>Antibióticos sistêmicos, desbridamentos e curativos locais;</p>
+				</list-item>
+				<list-item>
+					<label>b</label>
+					<p>Lavagem contínua dos sítios infectados com antissépticos e antibióticos;</p>
+				</list-item>
+				<list-item>
+					<label>c</label>
+					<p>Remoção cirúrgica de todas as próteses, apesar das condições clínicas
+						desfavoráveis, seguida de reconstrução vascular extra-anatômica;</p>
+				</list-item>
+				<list-item>
+					<label>d</label>
+					<p>Remoção cirúrgica de todas as próteses, apesar das condições clínicas
+						desfavoráveis, e espera por delimitação isquêmica para posterior
+						amputação;</p>
+				</list-item>
+				<list-item>
+					<label>e</label>
+					<p>Curativo a vácuo, antibioticoterapia e observação das condições clínicas da
+						paciente.</p>
+				</list-item>
+			</list>
+		</sec>
+		<sec>
+			<title>PARTE II – O QUE FOI FEITO</title>
+			<p>Foi instalado curativo a vácuo nas deiscências do abdome e região inguinal esquerda.
+				O equipamento usado foi o Sistema de Terapia V.A.C. ATS® (KCI Kinetic Concepts Inc,
+				San Antonio, Texas, EUA) e antibioticoterapia (vancomicina e imipenem por 21 dias)
+				com observação das condições clínicas da paciente.</p>
+			<p>Após desbridamento das feridas, foi colocada esponja de poliuretano exclusivamente
+				dentro do leito das deiscências, com cobertura total com filme plástico (<xref ref-type="fig" rid="gf01">Figuras 1A</xref> e <xref ref-type="fig" rid="gf01">1B</xref>). O tubo de sucção foi acoplado ao equipamento de pressão negativa,
+				mantendo-se uma pressão de -125 mmHg de forma contínua (<xref ref-type="fig" rid="gf01">Figuras 1C</xref> e <xref ref-type="fig" rid="gf01">1D</xref>). A
+				troca dos kits de sucção foi feita a cada 3 dias. Houve drenagem de,
+				aproximadamente, 50 mL/dia de secreção purulenta. A paciente evoluiu com
+				estabilização das comorbidades e controle da infecção, extubação após 45 dias,
+				fechamento progressivo das deiscências incisionais, granulação total em 60 dias com
+				suspensão do uso do curativo a vácuo, curativos convencionais com hidrogel durante
+				internação por mais 25 dias e fechamento ambulatorial das feridas após 9 meses de
+				tratamento (<xref ref-type="fig" rid="gf02">Figuras 2A</xref> e <xref ref-type="fig" rid="gf02">2B</xref>).</p>
+			<fig fig-type="figure" id="gf01" position="float">
+				<label>Figura 1</label>
+				<caption>
+					<title>Aplicação do curativo a vácuo após o desbridamento das incisões
+						deiscentes. (A) Troca do curativo com a colocação da esponja de poliuretano
+						no leito das feridas; (B) Kit de sucção e filme plástico devidamente
+						instalados; (C) Equipamento de pressão negativa fixado no leito da paciente;
+						(D) Refil do frasco de drenagem do curativo a vácuo.</title>
+				</caption>
+				<graphic xlink:href="1677-5449-jvb-1677-5449002816-gf01.jpg"/>
+			</fig>
+			<fig fig-type="figure" id="gf02" position="float">
+				<label>Figura 2</label>
+				<caption>
+					<title>Processo de cicatrização das feridas com uso do curativo a vácuo. (A)
+						Resultado intermediário do processo de cicatrização, ainda em uso de
+						curativo a vácuo; (B) Resultado final do processo de cicatrização das
+						feridas.</title>
+				</caption>
+				<graphic xlink:href="1677-5449-jvb-1677-5449002816-gf02.jpg"/>
+			</fig>
+		</sec>
+		<sec sec-type="discussion">
+			<title>DISCUSSÃO</title>
+			<p>O uso de curativos com pressão negativa para tratamentos diversos é conhecido desde a
+					antiguidade<xref ref-type="bibr" rid="B002">
+					<sup>2</sup>
+				</xref>. O tratamento de
+				feridas crônicas com terapia a vácuo padronizada teve início em 1997<xref ref-type="bibr" rid="B003">
+					<sup>3</sup>
+				</xref>. Sua ação é baseada nos conceitos
+				de: contração da ferida, eliminação do exsudado e do tecido inviável, estímulo à
+				mitose celular, manutenção de um ambiente úmido, redução do edema tecidual, remoção
+				de bactérias, melhora da vascularização e aceleração da granulação<xref ref-type="bibr" rid="B004">
+					<sup>4</sup>
+				</xref>
+				<sup>-</sup>
+				<xref ref-type="bibr" rid="B007">
+					<sup>7</sup>
+				</xref>.</p>
+			<p>Pode-se considerar a indicação de tratamento com curativo a vácuo para feridas com
+				baixa resposta ao tratamento convencional, em que se prevê um longo período para
+				cicatrização, feridas profundas e com elevada quantidade de exsudado e como
+				coadjuvante a outras terapias ou intervenções. As contraindicações são: feridas com
+				malignidade, fístulas para órgãos e cavidades, osteomielites e exposição de vasos
+				sanguíneos com risco de sangramento.</p>
+			<p>Pode-se, ainda, atribuir como vantagens dessa terapia a redução da inflamação e da
+				dor resultantes da manipulação constante da ferida, isenção de contaminação por
+				contato e conforto para o paciente, uma vez que não deixa odores desagradáveis. Em
+				contrapartida, apresenta custos imediatos mais elevados, principalmente relacionados
+				às trocas do refil e do próprio curativo em condições assépticas ao menos uma vez
+				por semana. Entretanto, quando se somam todos os benefícios do uso do curativo a
+				vácuo em comparação com os curativos convencionais, fica evidente que há uma relação
+				de custo-efetividade com a adoção do curativo a vácuo. Com relação ao caso
+				previamente apresentado, provavelmente um curativo convencional teria dificuldade em
+				manter um ambiente propício à cicatrização, levando-se em consideração a presença de
+				uma fístula purulenta em contato com a prótese arterial implantada e as grandes
+				áreas deiscentes.</p>
+			<p>Revisões sistemáticas<xref ref-type="bibr" rid="B008">
+					<sup>8</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B009">
+					<sup>9</sup>
+				</xref> e um estudo randomizado<xref ref-type="bibr" rid="B010">
+					<sup>10</sup>
+				</xref> mostraram a efetividade do curativo com pressão
+				negativa em várias situações, com relação à proporção de feridas cicatrizadas e
+				velocidade de fechamento das mesmas, sendo particularmente efetivo em pés
+					diabéticos<xref ref-type="bibr" rid="B011">
+					<sup>11</sup>
+				</xref>
+				<sup>-</sup>
+				<xref ref-type="bibr" rid="B013">
+					<sup>13</sup>
+				</xref>, enxertos de pele<xref ref-type="bibr" rid="B014">
+					<sup>14</sup>
+				</xref> e infecções pós-cirúrgicas<xref ref-type="bibr" rid="B015">
+					<sup>15</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B016">
+					<sup>16</sup>
+				</xref>. No entanto, faltam ainda estudos randomizados
+				de boa qualidade e isentos de conflitos de interesse para melhor avaliar esse
+					método<xref ref-type="bibr" rid="B017">
+					<sup>17</sup>
+				</xref>.</p>
+			<p>As complicações descritas como relacionadas ao uso do curativo a vácuo são
+				infrequentes, sendo a maioria relacionada a dor local, hipertrofia do tecido de
+				granulação e danos aos vasos sanguíneos adjacentes<xref ref-type="bibr" rid="B018">
+					<sup>18</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B019">
+					<sup>19</sup>
+				</xref>. Ressalta-se, então, que a esponja do curativo a vácuo
+				não deve ser aplicada diretamente sobre vasos sanguíneos. Nessa situação, um filme
+				de silicone não adesivo deve servir de anteparo como proteção de interface entre a
+				esponja e o tecido, evitando a erosão do vaso<xref ref-type="bibr" rid="B015">
+					<sup>15</sup>
+				</xref>.</p>
+			<p>A pressão negativa nas feridas é geralmente usada de forma contínua, mas existem
+				equipamentos que podem atuar de forma intermitente ou variável, não sendo possível
+				encontrar evidências clínicas de vantagem relacionada a essa variável<xref ref-type="bibr" rid="B019">
+					<sup>19</sup>
+				</xref>. Níveis de pressão negativa
+				menores que 80 mmHg (pressão negativa) são recomendados para se obter algum efeito
+				do tratamento<xref ref-type="bibr" rid="B020">
+					<sup>20</sup>
+				</xref>. A instilação de
+				fluidos no leito da ferida pode melhorar a eficiência do tratamento em alguns
+					casos<xref ref-type="bibr" rid="B021">
+					<sup>21</sup>
+				</xref>.</p>
+			<p>Pode-se concluir que os curativos com pressão negativa têm recomendações bem
+				estabelecidas para o tratamento de feridas com características variadas, sendo que
+				podem apresentar redução no tempo de cicatrização de feridas, maior conforto para o
+				paciente e raras complicações. No caso apresentado, para o qual houve aprovação do
+				Comitê de Ética de nossa instituição e que não apresenta conflito de interesse, o
+				curativo a vácuo foi uma importante ferramenta para o sucesso terapêutico em uma
+				situação de exceção, na qual a abordagem cirúrgica para remoção das próteses
+				arteriais estaria associada a um elevado risco cirúrgico e de amputação. A conduta
+				adotada apresentou um resultado bastante satisfatório.</p>
+		</sec>
+	</body>
+	<back>
+		<fn-group>
+			<fn fn-type="supported-by">
+				<p>Fonte de financiamento: Nenhuma.</p>
+			</fn>
+			<fn fn-type="other">
+				<p>O estudo foi realizado no Hospital das Clínicas da Faculdade de Medicina de
+					Botucatu, Universidade Estadual Paulista “Júlio de Mesquita Filho” (UNESP), São
+					Paulo, SP, Brasil.</p>
+			</fn>
+		</fn-group>
+		<ref-list>
+			<title>REFERÊNCIAS</title>
+			<ref id="B001">
+				<label>1</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Donato</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Setacci</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Galzerano</surname>
+							<given-names>G</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title>Prosthesis infection: prevention and treatment</article-title>
+					<source>J Cardiovasc Surg (Torino)</source>
+					<year>2014</year>
+					<volume>55</volume>
+					<issue>6</issue>
+					<fpage>779</fpage>
+					<lpage>792</lpage>
+					<pub-id pub-id-type="pmid">25017788.</pub-id>
+				</element-citation>
+				<mixed-citation>1 Donato G, Setacci F, Galzerano G, et al. Prosthesis infection:
+					prevention and treatment. J Cardiovasc Surg (Torino). 2014;55(6):779-92.
+					PMid:25017788.</mixed-citation>
+			</ref>
+			<ref id="B002">
+				<label>2</label>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rezende</surname>
+							<given-names>JM</given-names>
+						</name>
+					</person-group>
+					<source>Modismos na História da Medicina</source>
+					<publisher-loc>Goiás</publisher-loc>
+					<publisher-name>Universidade Federal de Goiás</publisher-name>
+					<year>2011</year>
+					<comment>citado 2016 mar 10</comment>
+					<comment>Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.medicinabiomolecular.com.br/biblioteca/pdfs/Doencas/do-0516.pdf">http://www.medicinabiomolecular.com.br/biblioteca/pdfs/Doencas/do-0516.pdf</ext-link>
+					</comment>
+				</element-citation>
+				<mixed-citation>2 Rezende JM. Modismos na História da Medicina. Goiás: Universidade
+					Federal de Goiás; 2011. [citado 2016 mar 10]. Disponível em: <ext-link ext-link-type="uri" xlink:href="http://www.medicinabiomolecular.com.br/biblioteca/pdfs/Doencas/do-0516.pdf">http://www.medicinabiomolecular.com.br/biblioteca/pdfs/Doencas/do-0516.pdf</ext-link>
+				</mixed-citation>
+			</ref>
+			<ref id="B003">
+				<label>3</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Argenta</surname>
+							<given-names>LC</given-names>
+						</name>
+						<name>
+							<surname>Morykwas</surname>
+							<given-names>MJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Vacuum-assisted closure: a new method for wound control and
+						treatment: clinical experience</article-title>
+					<source>Ann Plast Surg</source>
+					<year>1997</year>
+					<volume>38</volume>
+					<issue>6</issue>
+					<fpage>563</fpage>
+					<lpage>576</lpage>
+					<pub-id pub-id-type="pmid">9188971.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/00000637-199706000-00002">http://dx.doi.org/10.1097/00000637-199706000-00002</ext-link>
+				</element-citation>
+				<mixed-citation>3 Argenta LC, Morykwas MJ. Vacuum-assisted closure: a new method for
+					wound control and treatment: clinical experience. Ann Plast Surg.
+					1997;38(6):563-76. PMid:9188971. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/00000637-199706000-00002">http://dx.doi.org/10.1097/00000637-199706000-00002</ext-link>.
+				</mixed-citation>
+			</ref>
+			<ref id="B004">
+				<label>4</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ballard</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Baxter</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<article-title>Developments in wound care for difficult to manage
+						wounds</article-title>
+					<source>BJN</source>
+					<year>2000</year>
+					<volume>9</volume>
+					<issue>7</issue>
+					<fpage>405</fpage>
+					<lpage>408</lpage>
+					<pub-id pub-id-type="pmid">11111435.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.12968/bjon.2000.9.7.6319">http://dx.doi.org/10.12968/bjon.2000.9.7.6319</ext-link>
+				</element-citation>
+				<mixed-citation>4 Ballard K, Baxter H. Developments in wound care for difficult to
+					manage wounds. BJN. 2000;9(7):405-8. PMid:11111435. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.12968/bjon.2000.9.7.6319">http://dx.doi.org/10.12968/bjon.2000.9.7.6319</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B005">
+				<label>5</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kaufman</surname>
+							<given-names>MW</given-names>
+						</name>
+						<name>
+							<surname>Pahl</surname>
+							<given-names>DW</given-names>
+						</name>
+					</person-group>
+					<article-title>Vacuum-assisted closure therapy: wound care and nursing
+						implications</article-title>
+					<source>Dermatol Nurs</source>
+					<year>2003</year>
+					<volume>15</volume>
+					<issue>4</issue>
+					<fpage>317</fpage>
+					<lpage>320</lpage>
+					<pub-id pub-id-type="pmid">14515610.</pub-id>
+				</element-citation>
+				<mixed-citation>5 Kaufman MW, Pahl DW. Vacuum-assisted closure therapy: wound care
+					and nursing implications. Dermatol Nurs. 2003;15(4):317-20.
+					PMid:14515610.</mixed-citation>
+			</ref>
+			<ref id="B006">
+				<label>6</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Braakenburg</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Obdeijn</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Feitz</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>van Rooij</surname>
+							<given-names>IA</given-names>
+						</name>
+						<name>
+							<surname>van Griethuysen</surname>
+							<given-names>AJ</given-names>
+						</name>
+						<name>
+							<surname>Klinkenbijl</surname>
+							<given-names>JH</given-names>
+						</name>
+					</person-group>
+					<article-title>The clinical efficacy and cost effectiveness of the
+						vacuum-assisted closure technique in the management of acute and chronic
+						wounds: a randomized controlled trial</article-title>
+					<source>Plast Reconstr Surg</source>
+					<year>2006</year>
+					<volume>118</volume>
+					<issue>2</issue>
+					<fpage>390</fpage>
+					<lpage>7, discussion 398-400</lpage>
+					<pub-id pub-id-type="pmid">16874208.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.prs.0000227675.63744.af">http://dx.doi.org/10.1097/01.prs.0000227675.63744.af</ext-link>
+				</element-citation>
+				<mixed-citation>6 Braakenburg A, Obdeijn MC, Feitz R, van Rooij IA, van Griethuysen
+					AJ, Klinkenbijl JH. The clinical efficacy and cost effectiveness of the
+					vacuum-assisted closure technique in the management of acute and chronic wounds:
+					a randomized controlled trial. Plast Reconstr Surg. 2006;118(2):390-7,
+					discussion 398-400. PMid:16874208. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.prs.0000227675.63744.af">http://dx.doi.org/10.1097/01.prs.0000227675.63744.af</ext-link>.
+				</mixed-citation>
+			</ref>
+			<ref id="B007">
+				<label>7</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wada</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Ferreira</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Tuma</surname>
+							<given-names>P</given-names>
+							<suffix>Jr</suffix>
+						</name>
+						<name>
+							<surname>Arrunátegui</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<article-title>Experience with local negative pressure (vacuum method) in the
+						treatment of complex wounds</article-title>
+					<source>Sao Paulo Med J</source>
+					<year>2006</year>
+					<volume>124</volume>
+					<issue>3</issue>
+					<fpage>150</fpage>
+					<lpage>153</lpage>
+					<pub-id pub-id-type="pmid">17119692.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/S1516-31802006000300008">http://dx.doi.org/10.1590/S1516-31802006000300008</ext-link>
+				</element-citation>
+				<mixed-citation>7 Wada A, Ferreira MC, Tuma P Jr, Arrunátegui G. Experience with
+					local negative pressure (vacuum method) in the treatment of complex wounds. Sao
+					Paulo Med J. 2006;124(3):150-3. PMid:17119692. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/S1516-31802006000300008">http://dx.doi.org/10.1590/S1516-31802006000300008</ext-link>.
+				</mixed-citation>
+			</ref>
+			<ref id="B008">
+				<label>8</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bruhin</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Ferreira</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Chariker</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Smith</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Runkel</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>Systematic review and evidence based recommendations for the use
+						of negative pressure wound therapy in the open abdomen</article-title>
+					<source>Int J Surg</source>
+					<year>2014</year>
+					<volume>12</volume>
+					<issue>10</issue>
+					<fpage>1105</fpage>
+					<lpage>1114</lpage>
+					<pub-id pub-id-type="pmid">25174789.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ijsu.2014.08.396">http://dx.doi.org/10.1016/j.ijsu.2014.08.396</ext-link>
+				</element-citation>
+				<mixed-citation>8 Bruhin A, Ferreira F, Chariker M, Smith J, Runkel N. Systematic
+					review and evidence based recommendations for the use of negative pressure wound
+					therapy in the open abdomen. Int J Surg. 2014;12(10):1105-14. PMid:25174789.
+						<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.ijsu.2014.08.396">http://dx.doi.org/10.1016/j.ijsu.2014.08.396</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B009">
+				<label>9</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guffanti</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Negative pressure wound therapy in the treatment of diabetic foot
+						ulcers: a systematic review of the literature</article-title>
+					<source>J Wound Ostomy Continence Nurs.</source>
+					<year>2014</year>
+					<volume>41</volume>
+					<issue>3</issue>
+					<fpage>233</fpage>
+					<lpage>237</lpage>
+					<pub-id pub-id-type="pmid">24805174.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/WON.0000000000000021">http://dx.doi.org/10.1097/WON.0000000000000021</ext-link>
+				</element-citation>
+				<mixed-citation>9 Guffanti A. Negative pressure wound therapy in the treatment of
+					diabetic foot ulcers: a systematic review of the literature. J Wound Ostomy
+					Continence Nurs. 2014;41(3):233-7. PMid:24805174. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/WON.0000000000000021">http://dx.doi.org/10.1097/WON.0000000000000021</ext-link>.
+				</mixed-citation>
+			</ref>
+			<ref id="B010">
+				<label>10</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Monsen</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Wann-Hansson</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Wictorsson</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Acosta</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Vacuum-assisted wound closure versus alginate for the treatment
+						of deep perivascular wound infections in the groin after vascular
+						surgery</article-title>
+					<source>J Vasc Surg</source>
+					<year>2014</year>
+					<volume>59</volume>
+					<issue>1</issue>
+					<fpage>145</fpage>
+					<lpage>151</lpage>
+					<pub-id pub-id-type="pmid">24055512.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jvs.2013.06.073">http://dx.doi.org/10.1016/j.jvs.2013.06.073</ext-link>
+				</element-citation>
+				<mixed-citation>10 Monsen C, Wann-Hansson C, Wictorsson C, Acosta S. Vacuum-assisted
+					wound closure versus alginate for the treatment of deep perivascular wound
+					infections in the groin after vascular surgery. J Vasc Surg. 2014;59(1):145-51.
+					PMid:24055512. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.jvs.2013.06.073">http://dx.doi.org/10.1016/j.jvs.2013.06.073</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B011">
+				<label>11</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Game</surname>
+							<given-names>FL</given-names>
+						</name>
+						<name>
+							<surname>Hinchliffe</surname>
+							<given-names>RJ</given-names>
+						</name>
+						<name>
+							<surname>Apelqvist</surname>
+							<given-names>J</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title>A systematic review of interventions to enhance the healing of
+						chronic ulcers of the foot in diabetes</article-title>
+					<source>Diabetes Metab Res Rev</source>
+					<year>2012</year>
+					<volume>28</volume>
+					<supplement>Supl 1</supplement>
+					<fpage>119</fpage>
+					<lpage>141</lpage>
+					<pub-id pub-id-type="pmid">22271737.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/dmrr.2246">http://dx.doi.org/10.1002/dmrr.2246</ext-link>
+				</element-citation>
+				<mixed-citation>11 Game FL, Hinchliffe RJ, Apelqvist J, et al. A systematic review
+					of interventions to enhance the healing of chronic ulcers of the foot in
+					diabetes. Diabetes Metab Res Rev. 2012;28(Supl 1):119-41. PMid:22271737.
+						<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/dmrr.2246">http://dx.doi.org/10.1002/dmrr.2246</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B012">
+				<label>12</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ubbink</surname>
+							<given-names>DT</given-names>
+						</name>
+						<name>
+							<surname>Westerbos</surname>
+							<given-names>SJ</given-names>
+						</name>
+						<name>
+							<surname>Nelson</surname>
+							<given-names>EA</given-names>
+						</name>
+						<name>
+							<surname>Vermeulen</surname>
+							<given-names>H</given-names>
+						</name>
+					</person-group>
+					<article-title>A systematic review of topical negative pressure therapy for
+						acute and chronic wounds</article-title>
+					<source>Br J Surg</source>
+					<year>2008</year>
+					<volume>95</volume>
+					<issue>6</issue>
+					<fpage>685</fpage>
+					<lpage>692</lpage>
+					<pub-id pub-id-type="pmid">18446777.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/bjs.6238">http://dx.doi.org/10.1002/bjs.6238</ext-link>
+				</element-citation>
+				<mixed-citation>12 Ubbink DT, Westerbos SJ, Nelson EA, Vermeulen H. A systematic
+					review of topical negative pressure therapy for acute and chronic wounds. Br J
+					Surg. 2008;95(6):685-92. PMid:18446777. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/bjs.6238">http://dx.doi.org/10.1002/bjs.6238</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B013">
+				<label>13</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Xie</surname>
+							<given-names>X</given-names>
+						</name>
+						<name>
+							<surname>McGregor</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Dendukuri</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>The clinical effectiveness of negative pressure wound therapy: a
+						systematic review</article-title>
+					<source>J Wound Care</source>
+					<year>2010</year>
+					<volume>19</volume>
+					<issue>11</issue>
+					<fpage>490</fpage>
+					<lpage>495</lpage>
+					<pub-id pub-id-type="pmid">21135797.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.12968/jowc.2010.19.11.79697">http://dx.doi.org/10.12968/jowc.2010.19.11.79697</ext-link>
+				</element-citation>
+				<mixed-citation>13 Xie X, McGregor M, Dendukuri N. The clinical effectiveness of
+					negative pressure wound therapy: a systematic review. J Wound Care.
+					2010;19(11):490-5. PMid:21135797. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.12968/jowc.2010.19.11.79697">http://dx.doi.org/10.12968/jowc.2010.19.11.79697</ext-link>.
+				</mixed-citation>
+			</ref>
+			<ref id="B014">
+				<label>14</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Llanos</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Danilla</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Barraza</surname>
+							<given-names>C</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title>Effectiveness of negative pressure closure in the integration of
+						split thickness skin grafts: a randomized, double-masked, controlled
+						trial</article-title>
+					<source>Ann Surg</source>
+					<year>2006</year>
+					<volume>244</volume>
+					<issue>5</issue>
+					<fpage>700</fpage>
+					<lpage>705</lpage>
+					<pub-id pub-id-type="pmid">17060762.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.sla.0000217745.56657.e5">http://dx.doi.org/10.1097/01.sla.0000217745.56657.e5</ext-link>
+				</element-citation>
+				<mixed-citation>14 Llanos S, Danilla S, Barraza C, et al. Effectiveness of negative
+					pressure closure in the integration of split thickness skin grafts: a
+					randomized, double-masked, controlled trial. Ann Surg. 2006;244(5):700-5.
+					PMid:17060762. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.sla.0000217745.56657.e5">http://dx.doi.org/10.1097/01.sla.0000217745.56657.e5</ext-link>.
+				</mixed-citation>
+			</ref>
+			<ref id="B015">
+				<label>15</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Damiani</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Pinnarelli</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Sommella</surname>
+							<given-names>L</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title>Vacuum-assisted closure therapy for patients with infected
+						sternal wounds: a meta-analysis of current evidence</article-title>
+					<source>J Plast Reconstr Aesthet Surg</source>
+					<year>2011</year>
+					<volume>64</volume>
+					<issue>9</issue>
+					<fpage>1119</fpage>
+					<lpage>1123</lpage>
+					<pub-id pub-id-type="pmid">21256819.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.bjps.2010.11.022">http://dx.doi.org/10.1016/j.bjps.2010.11.022</ext-link>
+				</element-citation>
+				<mixed-citation>15 Damiani G, Pinnarelli L, Sommella L, et al. Vacuum-assisted
+					closure therapy for patients with infected sternal wounds: a meta-analysis of
+					current evidence. J Plast Reconstr Aesthet Surg. 2011;64(9):1119-23.
+					PMid:21256819. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.bjps.2010.11.022">http://dx.doi.org/10.1016/j.bjps.2010.11.022</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B016">
+				<label>16</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silva</surname>
+							<given-names>CG</given-names>
+						</name>
+						<name>
+							<surname>Crossetti</surname>
+							<given-names>MGO</given-names>
+						</name>
+					</person-group>
+					<article-title>Curativos para tratamento de feridas operatórias abdominais: uma
+						revisão sistemática</article-title>
+					<source>RGE</source>
+					<year>2012</year>
+					<volume>33</volume>
+					<issue>3</issue>
+					<fpage>182</fpage>
+					<lpage>189</lpage>
+				</element-citation>
+				<mixed-citation>16 Silva CG, Crossetti MGO. Curativos para tratamento de feridas
+					operatórias abdominais: uma revisão sistemática. RGE.
+					2012;33(3):182-9.</mixed-citation>
+			</ref>
+			<ref id="B017">
+				<label>17</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mermerkaya</surname>
+							<given-names>U</given-names>
+						</name>
+						<name>
+							<surname>Bekmez</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Alkan</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Ayvaz</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Tokgozoglu</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Evaluation of vacuum-assisted closure in patients with wound
+						complications following tumour surgery</article-title>
+					<source>Int Wound J</source>
+					<year>2016</year>
+					<volume>13</volume>
+					<issue>3</issue>
+					<fpage>394</fpage>
+					<lpage>397</lpage>
+					<pub-id pub-id-type="pmid">24976480.</pub-id>
+				</element-citation>
+				<mixed-citation>17 Mermerkaya U, Bekmez S, Alkan E, Ayvaz M, Tokgozoglu M.
+					Evaluation of vacuum-assisted closure in patients with wound complications
+					following tumour surgery. Int Wound J. 2016;13(3):394-7.
+					PMid:24976480.</mixed-citation>
+			</ref>
+			<ref id="B018">
+				<label>18</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>Z</given-names>
+						</name>
+						<name>
+							<surname>Yu</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Complications of negative pressure wound therapy: a mini
+						review</article-title>
+					<source>Wound Repair Regen</source>
+					<year>2014</year>
+					<volume>22</volume>
+					<issue>4</issue>
+					<fpage>457</fpage>
+					<lpage>461</lpage>
+					<pub-id pub-id-type="pmid">24852446.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/wrr.12190">http://dx.doi.org/10.1111/wrr.12190</ext-link>
+				</element-citation>
+				<mixed-citation>18 Li Z, Yu A. Complications of negative pressure wound therapy: a
+					mini review. Wound Repair Regen. 2014;22(4):457-61. PMid:24852446. <ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1111/wrr.12190">http://dx.doi.org/10.1111/wrr.12190</ext-link>. </mixed-citation>
+			</ref>
+			<ref id="B019">
+				<label>19</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Malmsjö</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Gustafsson</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Lindstedt</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Gesslein</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Ingemansson</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>The effects of variable, intermittent, and continuous negative
+						pressure wound therapy, using foam or gauze, on wound contraction,
+						granulation tissue formation, and ingrowth into the wound
+						filler</article-title>
+					<source>Eplasty</source>
+					<year>2012</year>
+					<volume>12</volume>
+					<fpage>e5</fpage>
+					<pub-id pub-id-type="pmid">22292101.</pub-id>
+				</element-citation>
+				<mixed-citation>19 Malmsjö M, Gustafsson L, Lindstedt S, Gesslein B, Ingemansson R.
+					The effects of variable, intermittent, and continuous negative pressure wound
+					therapy, using foam or gauze, on wound contraction, granulation tissue
+					formation, and ingrowth into the wound filler. Eplasty. 2012;12:e5.
+					PMid:22292101.</mixed-citation>
+			</ref>
+			<ref id="B020">
+				<label>20</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Borgquist</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Ingemansson</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Malmsjo</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Individualizing the use of negative pressure wound therapy for
+						optimal wound healing: a focused review of the literature</article-title>
+					<source>Ostomy Wound Manage</source>
+					<year>2011</year>
+					<volume>57</volume>
+					<issue>4</issue>
+					<fpage>44</fpage>
+					<lpage>54</lpage>
+					<pub-id pub-id-type="pmid">21512192.</pub-id>
+				</element-citation>
+				<mixed-citation>20 Borgquist O, Ingemansson R, Malmsjo M. Individualizing the use of
+					negative pressure wound therapy for optimal wound healing: a focused review of
+					the literature. Ostomy Wound Manage. 2011;57(4):44-54.
+					PMid:21512192.</mixed-citation>
+			</ref>
+			<ref id="B021">
+				<label>21</label>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jerome</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<article-title>Advances in negative pressure wound therapy: the VAC
+						instill</article-title>
+					<source>J Wound Ostomy Continence Nurs.</source>
+					<year>2007</year>
+					<volume>34</volume>
+					<issue>2</issue>
+					<fpage>191</fpage>
+					<lpage>194</lpage>
+					<pub-id pub-id-type="pmid">17413837.</pub-id>
+					<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.WON.0000264834.18732.3b">http://dx.doi.org/10.1097/01.WON.0000264834.18732.3b</ext-link>
+				</element-citation>
+				<mixed-citation>21 Jerome D. Advances in negative pressure wound therapy: the VAC
+					instill. J Wound Ostomy Continence Nurs. 2007;34(2):191-4. PMid:17413837.
+						<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/01.WON.0000264834.18732.3b">http://dx.doi.org/10.1097/01.WON.0000264834.18732.3b</ext-link>.
+				</mixed-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="S01" xml:lang="en">
+		<front-stub>
+			<article-id pub-id-type="publisher-id">jvbDT20160028_EN</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Using vacuum therapy as an adjunctive treatment for healing of
+					infected surgical sites</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Camargo</surname>
+						<given-names>Paula Angeleli Bueno de</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+					<xref ref-type="corresp" rid="c0100">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Bertanha</surname>
+						<given-names>Matheus</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Moura</surname>
+						<given-names>Regina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Jaldin</surname>
+						<given-names>Rodrigo Gibin</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yoshida</surname>
+						<given-names>Ricardo de Alvarenga</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Pimenta</surname>
+						<given-names>Rafael Elias Farres</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mariúba</surname>
+						<given-names>Jamil Victor de Oliveira</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sobreira</surname>
+						<given-names>Marcone Lima</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff0100">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+				<aff id="aff0100">
+					<label>1</label>
+					<institution content-type="orgname">Universidade Estadual Paulista “Júlio de
+						Mesquita Filho”</institution>
+					<institution content-type="orgdiv1">Faculdade de Medicina de
+						Botucatu</institution>
+					<institution content-type="normalized">Universidade Estadual
+						Paulista</institution>
+					<addr-line>
+						<named-content content-type="city">São Paulo</named-content>
+						<named-content content-type="state">SP</named-content>
+					</addr-line>
+					<country country="BR">Brazil</country>
+					<institution content-type="original">Universidade Estadual Paulista “Júlio de
+						Mesquita Filho” – UNESP, Faculdade de Medicina de Botucatu, Departamento de
+						Cirurgia e Ortopedia, São Paulo, SP, Brazil.</institution>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<fn fn-type="conflict">
+					<p>Conflicts of interest: No conflicts of interest declared concerning the
+						publication of this article.</p>
+				</fn>
+				<corresp id="c0100">
+					<label>*</label>Correspondence Paula Angeleli Bueno de Camargo Universidade
+					Estadual Paulista “Júlio de Mesquita Filho” – UNESP, Faculdade de Medicina de
+					Botucatu, Departamento de Cirurgia e Ortopedia Distrito de Rubião Jr., s/n CEP
+					18618-970 - Botucatu (SP), Brazil Tel.: +55 (14) 3880-1447 E-mail:
+						<email>paula.angeleli@gmail.com</email>
+				</corresp>
+				<fn fn-type="other">
+					<p>Author information PABC, RGJ, REFP and JVOM - Assistant physicians,
+						Departamento de Cirurgia e Ortopedia, Faculdade de Medicina de Botucatu,
+						Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP). MB, RM and
+						MLS - PhDs, assistant professors, Departamento de Cirurgia e Ortopedia,
+						Faculdade de Medicina de Botucatu, Universidade Estadual Paulista Júlio de
+						Mesquita Filho (UNESP). RAY - Collaborating professor, Departamento de
+						Cirurgia e Ortopedia, Faculdade de Medicina de Botucatu, Universidade
+						Estadual Paulista Júlio de Mesquita Filho (UNESP).</p>
+				</fn>
+				<fn fn-type="con">
+					<p>Author contributions Conception and design: PABC, MB, RM Analysis and
+						interpretation: PABC, RGJ, RAY, JVOM Data collection: PABC, RGJ, RAY, JVOM
+						Writing the article: PABC, MB, RM Critical revision of the article: MB, RGJ,
+						REFP, JVOM, MLS Final approval of the article*: PABC, MB, RM, MLS, RGJ, RAY,
+						REFP, JVOM Statistical analysis: N/A. Overall responsibility: PABC, MLS *All
+						authors have read and approved of the final version of the article submitted
+						to J Vasc Bras.</p>
+				</fn>
+			</author-notes>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an Open Access article distributed under the terms of the
+						Creative Commons Attribution License, which permits unrestricted use,
+						distribution, and reproduction in any medium, provided the original work is
+						properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Abstract</title>
+				<p>Infections at the sites of surgery involving synthetic prostheses are challenging
+					to treat. We present a case of a patient with multiple comorbidities who had
+					undergone an aortobifemoral bypass 6 years previously and then re-intervention
+					at the femoral anastomoses for restenosis 5 years previously. The patient
+					presented with acute left inguinal pain and swelling and was diagnosed with a
+					ruptured femoral pseudoaneurysm and hemodynamic instability. A repair was
+					conducted by interposition of a silver-coated Dacron graft in the emergency
+					room, and a large abdominal incisional hernia was repaired with synthetic mesh
+					during the same intervention. After surgery, the patient remained intubated in
+					intensive care for a long period. Meanwhile, she presented dehiscence of sutures
+					and a left inguinal purulent fistula that was in contact with the vascular
+					prosthesis. Conservative treatment was chosen, with debridement of wounds and
+					vacuum therapy. The patient improved and the wounds healed. This could be an
+					important tool in similar cases.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords: </title>
+				<kwd>treatment</kwd>
+				<kwd>healing</kwd>
+				<kwd>abdominal injury closure techniques</kwd>
+				<kwd>infection</kwd>
+				<kwd>vascular prosthesis</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>INTRODUCTION</title>
+				<p>Dehiscence of surgical incisions is a major challenge to treat, particularly when
+					they involve synthetic prostheses.<xref ref-type="bibr" rid="B001">
+						<sup>1</sup>
+					</xref> Vascular prostheses in particular provide a
+					microenvironment that is conducive to production of biofilm, which supports
+					bacterial colonization and encapsulates the germs, protecting them from the
+					body’s natural defenses and from antibiotics.<xref ref-type="bibr" rid="B001">
+						<sup>1</sup>
+					</xref> The treatment that is generally recommended is
+					removal of the infected prosthesis.<xref ref-type="bibr" rid="B001">
+						<sup>1</sup>
+					</xref> However, these operations are generally of a larger
+					scale than the original surgery because of the significant inflammatory
+					involvement. The patient must therefore be in good clinical conditions to
+					withstand a surgical operation that may include complex extra-anatomic vascular
+					reconstruction, requiring longer operating times and elevating morbidity and
+					mortality rates. The objectives are to prevent continued development of the
+					infection, to avoid severe ischemia resulting from simply removing the
+					prosthesis, and to reduce the risk of amputations. Against this background, we
+					present a case of successive surgical complications triggered by emergency
+					reinterventions to repair a previous aortobifemoral bypass that had been
+					constructed 6 years previously to treat critical lower limb ischemia. The
+					patient presented with degeneration of the left common femoral artery and the
+					case was a significant therapeutic challenge.</p>
+			</sec>
+			<sec>
+				<title>PART I – CLINICAL SITUATION</title>
+				<p>The patient was a white, 75-year-old, female, active smoker with dyslipidemia,
+					chronic obstructive pulmonary disease, chronic kidney disease, morbid obesity,
+					and heart failure. Six years previously she had undergone conventional surgery
+					to construct an aortobifemoral bypass using a bifurcated dacron graft to treat
+					critical lower limb ischemia, when her clinical situation had been less
+					unfavorable. Her initial critical ischemia had presented with intermittent
+					claudication, trophic ulcers on both feet (necrosis punctiform of the toes), and
+					pain at rest. The patient had already suffered a complication during the
+					postoperative period of that operation: dehiscence of the abdominal incision,
+					causing an incisional hernia.</p>
+				<p>One year after the first operation, the patient presented once more, with
+					necrosis of the left heel, which was related to deterioration of perfusion to
+					the left lower limb. This was confirmed with color duplex ultrasound, which
+					showed &gt; 75% stenosis of the femoral anastomoses. A surgical reintervention
+					was conducted to repair the anastomoses with a dacron patch and was a technical
+					success. Postoperative recovery was accompanied by compensation of the lower
+					limb circulation and the wound healed.</p>
+				<p>After 5 years of regular outpatients follow-up, the patient was admitted to the
+					emergency room at our institution complaining of severe pain and swelling in the
+					left inguinal region. Clinically, the patient was hemodynamically unstable and
+					emergency duplex ultrasound screening revealed a pseudoaneurysm at the interface
+					between the femoral artery and the dacron patch, with blood leaking into the
+					retroperitoneal space. The patient was prepared for emergency surgical
+					treatment.</p>
+				<p>The pseudoaneurysm was repaired during a conventional surgical operation, with
+					removal of the patch and interposition of a silver-coated dacron segment between
+					the medial portion of the left branch of the aortobifemoral graft and the
+					femoral bifurcation. During the same operation, the gastric surgery team
+					repaired the preexisting incisional hernia by placement of a synthetic mesh.</p>
+				<p>The multiple comorbidities caused unfavorable postoperative progress and the
+					patient was kept in intensive care for a long period of time. The inguinal and
+					abdominal sutures underwent dehiscence and there were purulent secretions
+					draining from the left inguinotomy. On computed tomography, a fistula was
+					detected draining pus adjacent to the graft via the inguinotomy, to which the
+					prosthesis was not directly exposed. The secretions were cultured and found to
+					be positive for <italic>Staphylococcus epidermidis</italic> and coagulase
+					negative <italic>Staphylococcus aureus</italic>, both sensitive to vancomycin.
+					The patient’s clinical situation was further aggravated by pneumonia, which was
+					treated with imipenem, tazocin and polymyxin B, and by the preexisting chronic
+					obstructive pulmonary disease, which kept her on invasive mechanical ventilation
+					for 45 days.</p>
+				<p>Faced with this clinical status and without the necessary conditions for surgery,
+					the treatment options were as follows:</p>
+				<list id="L100" list-type="alpha-lower">
+					<list-item>
+						<label>a</label>
+						<p>Systemic antibiotics, debridement and local dressings;</p>
+					</list-item>
+					<list-item>
+						<label>b</label>
+						<p>Continuous cleaning of the infected sites with antiseptics and
+							antibiotics;</p>
+					</list-item>
+					<list-item>
+						<label>c</label>
+						<p>Surgical removal of all prostheses, despite the unfavorable clinical
+							conditions, followed by extra-anatomic vascular reconstruction;</p>
+					</list-item>
+					<list-item>
+						<label>d</label>
+						<p>Surgical removal of all prostheses, despite the unfavorable clinical
+							conditions, and amputation after delimitation of ischemia;</p>
+					</list-item>
+					<list-item>
+						<label>e</label>
+						<p>Vacuum dressing, antibiotic therapy and observation of the patient’s
+							clinical condition.</p>
+					</list-item>
+				</list>
+			</sec>
+			<sec>
+				<title>PART II – WHAT WAS DONE</title>
+				<p>A vacuum dressing was applied to the dehiscences at the abdomen and left inguinal
+					region. The V.A.C. ATS Therapy System® (KCI Kinetic Concepts Inc, San Antonio,
+					Texas, United States) was used in combination with antibiotic therapy
+					(vancomycin and imipenem for 21 days) and observation of the patient’s clinical
+					conditions.</p>
+				<p>After debridement of the wounds, polyurethane foam was placed exclusively within
+					the dehiscence bed and completely covered with plastic film (<xref ref-type="fig" rid="gf0100">Figures 1A</xref> and <xref ref-type="fig" rid="gf0100">1B</xref>). The suction tube was fitted to the negative
+					pressure unit, maintaining a pressure of -125 mmHg continuously (<xref ref-type="fig" rid="gf0100">Figures 1C</xref> and <xref ref-type="fig" rid="gf0100">1D</xref>). Suction kits were changed every 3 days.
+					Approximately 50 mL/day of purulent secretions were drained. The patient’s
+					comorbidities stabilized and the infection was controlled. She was extubated
+					after 45 days, and the incisional dehiscences closed progressively, achieving
+					total granulation at 60 days, when the vacuum dressing was withdrawn, followed
+					by conventional hydrogel dressings for a further 25 days while still in
+					hospital, and the wounds closed during outpatients follow-up 9 months after
+					starting treatment (<xref ref-type="fig" rid="gf0200">Figures 2A</xref> and
+						<xref ref-type="fig" rid="gf0200">2B</xref>).</p>
+				<fig fig-type="figure" id="gf0100" position="float">
+					<label>Figure 1</label>
+					<caption>
+						<title>Application of vacuum dressing after debridement of dehiscent
+							incisions. (A) Dressing change, placing polyurethane foam on wound beds;
+							(B) Suction kit and plastic film correctly fitted; (C) Negative pressure
+							unit attched to patient’s bed; (D) Replacement vacuum dressing drainage
+							jar.</title>
+					</caption>
+					<graphic xlink:href="1677-5449-jvb-1677-5449002816-gf01-en.jpg"/>
+				</fig>
+				<fig fig-type="figure" id="gf0200" position="float">
+					<label>Figure 2</label>
+					<caption>
+						<title>Wound healing process with vacuum dressing. (A) Intermediate stage of
+							healing process, vacuum dressing still in use; (B) Final result of wound
+							healing process.</title>
+					</caption>
+					<graphic xlink:href="1677-5449-jvb-1677-5449002816-gf02-en.jpg"/>
+				</fig>
+			</sec>
+			<sec sec-type="discussion">
+				<title>DISCUSSION</title>
+				<p>Utilization of dressings with negative pressure has been known since ancient
+					times for a range of treatments.<xref ref-type="bibr" rid="B002">
+						<sup>2</sup>
+					</xref> Treatment of chronic wounds using standardized vacuums
+					began in 1997.<xref ref-type="bibr" rid="B003">
+						<sup>3</sup>
+					</xref> The effects
+					are based on the following concepts: contraction of the wound, removal of
+					exudate and non-viable tissues, stimulation of cell mitosis, maintenance of a
+					humid environment, reduction of tissue edema, removal of bacteria, improvement
+					of vascularization, and acceleration of granulation.<xref ref-type="bibr" rid="B004">
+						<sup>4</sup>
+					</xref>
+					<sup>-</sup>
+					<xref ref-type="bibr" rid="B007">
+						<sup>7</sup>
+					</xref>
+				</p>
+				<p>Treatment with vacuum dressings may be indicated for wounds that do not respond
+					well to conventional treatment, when a long healing period is predicted, for
+					deep wounds and those with high quantities of exudate, and as a supplementary
+					technique in combination with other treatments or interventions.
+					Contraindications are: wounds with malignancies, fistulae into organs and
+					cavities, osteomyelitis, and exposure of blood vessels at risk of bleeding.</p>
+				<p>Advantages of this treatment include reduction of inflammation and pain caused by
+					constant manipulation of the wound, exclusion of contamination by contact, and
+					improved patient comfort, since it does not produce unpleasant odors. On the
+					other hand, immediate costs are high, primarily related to changing the refill
+					and the dressing itself under aseptic conditions at least once a week. However,
+					when all the benefits of using a vacuum dressing compared with conventional
+					dressings are added up, it is clear that the choice of a vacuum dressing offers
+					a good cost-effectiveness ratio. With regard to the case described above, it is
+					probable that conventional dressings would have been unlikely to have
+					successfully maintained an environment conducive to healing, considering the
+					presence of a purulent fistula in contact with the prosthetic arterial graft and
+					the large areas of dehiscence.</p>
+				<p>Systematic reviews<xref ref-type="bibr" rid="B008">
+						<sup>8</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B009">
+						<sup>9</sup>
+					</xref> and a randomized study<xref ref-type="bibr" rid="B010">
+						<sup>10</sup>
+					</xref> show the effectiveness of negative pressure
+					dressings in a range of situations, in terms both of the proportion of wounds
+					healed and the speed with which they close, and they are particularly effective
+					for diabetic feet,<xref ref-type="bibr" rid="B011">
+						<sup>11</sup>
+					</xref>
+					<sup>-</sup>
+					<xref ref-type="bibr" rid="B013">
+						<sup>13</sup>
+					</xref> skin grafts<xref ref-type="bibr" rid="B014">
+						<sup>14</sup>
+					</xref> and infections after surgery.<xref ref-type="bibr" rid="B015">
+						<sup>15</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B016">
+						<sup>16</sup>
+					</xref> However, there is still a lack of good quality
+					randomized studies free from conflicts of interest that would allow the method
+					to be evaluated more thoroughly.<xref ref-type="bibr" rid="B017">
+						<sup>17</sup>
+					</xref>
+				</p>
+				<p>Complications that have been described in relation to vacuum dressings are
+					uncommon and the majority are related to local pain, hypertrophy of granulation
+					tissue, and damage to adjacent blood vessels.<xref ref-type="bibr" rid="B018">
+						<sup>18</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B019">
+						<sup>19</sup>
+					</xref> It should however be stressed that the dressing
+					foam should not be placed in direct contact with blood vessels. In such
+					situations, a non-adhesive silicone film should be used as a pre-preparation as
+					a protection for the interface between foam and tissue, preventing erosion of
+					the vessel.<xref ref-type="bibr" rid="B015">
+						<sup>15</sup>
+					</xref>
+				</p>
+				<p>In general the negative pressure is applied to wounds continuously, but there are
+					systems that can provide intermittent or variable action, although there is no
+					clinical evidence that this variable offers advantages.<xref ref-type="bibr" rid="B019">
+						<sup>19</sup>
+					</xref> Negative pressure levels below 80 mmHg
+					(negative pressure) are recommended to obtain treatment effectiveness.<xref ref-type="bibr" rid="B020">
+						<sup>20</sup>
+					</xref> In some cases instillation
+					of fluids to the wound bed can improve efficacy.<xref ref-type="bibr" rid="B021">
+						<sup>21</sup>
+					</xref>
+				</p>
+				<p>It can be concluded that there are well-established recommendations for using
+					negative pressure dressing to treat wounds with a variety of characteristics and
+					they can offer reductions in the time taken for wounds to heal, combined with
+					greater patient comfort and rare complications. In the case described here,
+					which was approved by our institutional Ethics Committee and does not involve
+					any conflicts of interests, the vacuum dressing was an important tool for
+					achieving therapeutic success in an exceptional situation, in which an
+					additional surgical operation to remove the arterial prostheses would have
+					incurred a high surgical risk and high risk of amputation. The conduct chosen
+					achieved very satisfactory results.</p>
+			</sec>
+		</body>
+		<back>
+			<fn-group>
+				<fn fn-type="supported-by">
+					<p>Financial support: None.</p>
+				</fn>
+				<fn fn-type="other">
+					<p>The study was carried out at Hospital das Clínicas, Faculdade de Medicina de
+						Botucatu, Universidade Estadual Paulista “Júlio de Mesquita Filho” (UNESP),
+						São Paulo, SP, Brazil.</p>
+				</fn>
+			</fn-group>
+		</back>
+	</sub-article>
+</article>
