@@ -1,0 +1,493 @@
+%\RequirePackage[xetex,chicagofootnotes]{tipografia} % desabilitado chicagofootnotes para customizar as notas de rodape
+\RequirePackage[xetex]{tipografia}
+%\RequirePackage[standart,sempontinhos]{toc}
+
+\RequirePackage{anyfontsize}
+\RequirePackage{changepage}
+\DisemulatePackage{setspace}
+\RequirePackage{setspace}
+\RequirePackage{tikz}
+
+\RequirePackage{hedraextra}
+\RequirePackage{penalidades}
+\RequirePackage{graficos}
+\RequirePackage{hedralogo}
+\RequirePackage{hifensextras}
+\RequirePackage{aparatos}
+\RequirePackage{tabelas}
+\RequirePackage{versos}
+\RequirePackage{abstract}
+\RequirePackage{amsmath,amsfonts,amsthm} % Math packages
+\RequirePackage{epstopdf}                       % Converts .eps to .pdf
+\RequirePackage{subfig}                         % Subfigures
+\RequirePackage{booktabs}                       % Nicer tables
+\RequirePackage{fix-cm}                         % Custom fontsizes
+\RequirePackage{ctable}
+\RequirePackage{textcase}
+\RequirePackage{etoolbox}
+\RequirePackage{flushend}
+\RequirePackage{mdframed}
+\RequirePackage{multicol}
+\RequirePackage[hyphens]{url}
+
+\RequirePackage{xeCJK}
+\RequirePackage{caption}
+\RequirePackage{hyphenat}
+\RequirePackage{verse}
+\RequirePackage{seqsplit}
+\RequirePackage{lscape}
+\RequirePackage{amssymb}
+\RequirePackage{mathtools}
+\RequirePackage{enumitem}
+\RequirePackage{array}
+\RequirePackage{multirow}
+\RequirePackage{pbox}
+\RequirePackage{longtable}
+\RequirePackage[pdfpagelabels,implicit=false,hidelinks,hyperfootnotes=false]{hyperref} % configurar pagina inicial do pdf
+
+% mathml to tex
+\RequirePackage{bm} % bold
+\RequirePackage{pmml-new} % math template
+\RequirePackage{unicode-math}
+
+
+%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% fontes chinesas
+\setCJKmainfont{SimSun}
+\setCJKsansfont{SimHei}
+\setCJKmonofont{FangSong}
+
+% math
+\setmathfont{XITS Math}
+
+% remove label automatico das tabelas
+\captionsetup{justification=raggedright, singlelinecheck=false}
+\captionsetup[table]{labelformat=empty}
+
+% remove padding entre colunas da tabela
+\setlength\tabcolsep{0.005\textwidth}
+
+% includegraphics maxwidth
+\def\maxwidth#1{\ifdim\Gin@nat@width>#1 #1\else\Gin@nat@width\fi}
+
+% table columns
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% attrib verse
+%\newcommand{\attrib}[1]{%
+%\nopagebreak{\raggedleft\footnotesize #1\par}}
+\renewcommand{\poemtitlefont}{\normalfont\large\itshape\centering}
+
+% override footnotes (tipografia.sty)
+\setlength{\footnotemargin}{1mm}
+\renewcommand*{\footnoterule}{
+%  \vfill %
+%  \kern 3mm %
+%  \hrule width \textwidth %
+%  \kern 0.4mm %
+}
+
+% bibliografia
+\newcommand{\scieloReferencesItem}[1]{
+\item #1
+}
+
+\newenvironment{scieloReferencesContainer}[1][Bibliografia]{%
+  \ifthenelse{\equal{#1}{}}%
+  {\relax}{\scieloSectionContainer{{#1}}\vspace{0mm}}
+  \begin{spacing}{1.005}
+  \cronosprofont\fontsize{8}{9.6}\selectfont
+  \begin{enumerate}[itemindent=0mm,labelsep=0mm,leftmargin=4mm,labelwidth=4mm,align=left,itemsep=0mm]
+  %}
+}%
+{%
+  \end{enumerate} 
+  \end{spacing}
+  \normalsize
+}
+
+% cores
+\definecolor{customgraycolor}{RGB}{209,210,212}
+
+\DeclareRobustCommand*\sectionrect[1]{%
+\hspace{-3mm}\tikz\fill[customgraycolor] (0.1,0.1) rectangle (0.3,0.3);
+}
+
+% footnotes
+\newcommand{\scieloTitleFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+\newcommand{\scieloContributorFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+\newcommand{\scieloBodyFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\ifx&#4&%
+\protect\footnote{#2}
+\else
+\protect\footnotemark[#3]
+\fi
+}%
+
+\newcommand{\scieloCorrespFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+% exibicao da seção
+\newcommand{\scieloSectionContainer}[1]{%
+\section*{\sectionrect~#1}
+}%
+\newcommand{\scieloSubSectionContainer}[1]{%
+\subsection*{#1}
+}%
+
+% exibicao dos creditos do documento
+\newcommand{\scieloLicenseContainer}[1]{%
+\vspace*{3mm}
+\noindent\timesnewromanfont\fontsize{6}{7.2}\selectfont#1
+}%
+
+% exibicao do abstract
+\newcommand{\scieloAbstractContainer}[4]{%
+\renewcommand{\abstractname}{\hspace{7.5mm}#1}
+\begin{spacing}{0.90}
+\begin{abstract}
+\vspace*{-4mm}
+{#2}\par
+\scieloKeywordsContainer{#3}{#4}
+\end{abstract}
+\end{spacing}
+\vspace*{-1.5mm}
+}%
+
+% exibicao keywords abstract
+\newcommand{\scieloKeywordsContainer}[2]{%
+\vspace*{1mm}
+{\cronosprolightfont\fontsize{9}{11}\selectfont{\textbf{#1} #2}}
+}%
+
+% image one col command
+\newcommand{\scieloImageContainerOneCol}[3]{% {width}{url}{caption}
+\vspace{8mm}
+\centerline{
+\includegraphics[width=\maxwidth{#1}]{#2}
+}
+\ifx&#3&%
+\else
+\captionof{figure}{#3} 
+\fi
+\vspace{8mm}
+}%
+
+% image two col command
+\newcommand{\scieloImageContainerTwoCol}[2]{% {url}{caption}
+\begin{figure*}
+\centerfloat
+\includegraphics[width=\maxwidth{\textwidth}]{#1}
+\ifx&#2&%
+\else
+\caption{#2} 
+\fi
+\end{figure*}
+}%
+
+% image inline  command
+\newcommand{\scieloImageInlineContainer}[1]{% {url}{caption}
+{
+\centering{
+\includegraphics[width=\maxwidth{0.5\textwidth},height=0.7cm,keepaspectratio]{#1}
+}
+}
+}%
+
+% fontes
+\newfontfamily\cronosprofont{Cronos Pro}[%  
+  BoldFont=CronosPro-Bold,%
+  ItalicFont=CronosPro-Italic,%
+  BoldItalicFont=CronosPro-BoldIt%
+]
+\newfontfamily\cronosprolightfont{CronosPro-Lt}
+\newfontfamily\cronosprosemiboldfont{CronosPro-Semibold}
+\newfontfamily\frutigerlightcondensedfont{FrutigerLTStd-Cn}[%  
+  BoldFont=FrutigerLTStd-BoldCn
+]
+\newfontfamily\timesnewromanfont{Times New Roman}
+\setmainfont{Times New Roman}
+
+% footer font size
+\renewcommand{\footnotesize}{\cronosprolightfont\fontsize{7}{8.4}\selectfont}
+
+% paragrafo
+\setlength\parindent{4mm}
+
+% espaçamento dos floats figure e table
+\setlength{\textfloatsep}{8mm}
+\setlength{\dbltextfloatsep}{8mm}
+\setlength{\dblfloatsep}{8mm}
+
+\renewcommand{\thefigure}{\arabic{figure}}
+
+\epigraphtextposition{flushleft}
+\epigraphsourceposition{flushright}
+\epigraphfontsize{\footnotesize}
+\setlength{\epigraphrule}{0pt}
+\setlength{\epigraphwidth}{.7\textwidth}
+
+\renewcommand*{\@fnsymbol}[1]{%
+  % Änderungen:
+  % * Symbol "**" an Position 2 verschoben.
+  % * Symbol "***" eingefügt.
+  % * Symbole mit \dagger entfernt.
+  \ensuremath{%
+    \ifcase#1%
+    \or
+      {*}%
+    \or
+      \ddagger
+    \or
+      \mathsection
+    \or
+      \mathparagraph
+    \or
+      \ddagger\ddagger
+    \else
+      \@ctrerr
+    \fi
+  }%
+}
+
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% http://tex.stackexchange.com/questions/88304/multipage-tables-with-ctable-package
+\newif\if@ctbl@long
+\define@key{ctbl}{long}[]{\@ctbl@longtrue}
+
+\long\def\foo#1\sbox#2!!{%
+\long\expandafter\def\csname\string\ctable\endcsname[##1]##2##3##4{%
+#1\if@ctbl@long\ctbl@long\fi\sbox#2}}
+
+\expandafter\expandafter\expandafter\foo
+\csname\string\ctable\endcsname[#1]{#2}{#3}{#4}!!
+
+\def\ctbl@long\fi\sbox#1#2#3\@ctblend{\fi
+\ctbl@@long#2%
+}
+
+\long\def\ctbl@@long#1#2#3#4#5#6{%
+\ctbl@@@long#6%
+}
+
+\def\ctbl@@@long#1\begin#2#3#4\end#5{%
+\def\@tempa{#5}%
+\def\@tempb{tabular}%
+\ifx\@tempa\@tempb\else\show\@tempa\ERROR\fi
+\begin{longtable}{#3}%
+%\caption{\@ctblcaption\ifx\@ctbllabel\empty\else\label{\@ctbllabel}\fi}%
+\caption{\@ctblcaption}
+\endfirsthead
+\caption*{\@ctblcaption\space(continued)}%
+\endhead
+#4\end{longtable}}
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% END Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+% Template CUBO JVB %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareOption{jvb}{%
+
+
+
+
+% se showtrims, aumenta o tamanho do stock em 20mm e centraliza para o trim
+\@ifclasswith{memoir}{showtrims}{
+  \setstocksize{285mm}{200mm} % {height}{width}
+  \setpagecc{265mm}{180mm}{*} % {height}{width}{ratio}
+}
+{
+  \setstocksize{265mm}{180mm} % {height}{width}
+  \settrimmedsize{\stockheight}{\stockwidth}{*} % {height}{width}{ratio}
+  \settrims{0mm}{0mm} % {top}{foredge}
+}
+
+% ao especificiar a largura do spine e fore-edge margin a largura do blocksize é calculado automaticamente
+\setlrmarginsandblock{18mm}{12mm}{*} % {spine}{edge}{ratio}
+
+% ao especificiar a margem top e bottom a altura do blocksize é calculado automaticamente
+\setulmarginsandblock{22.2mm}{22mm}{*} % {upper}{lower}{ratio}
+  
+% altura do header e footer
+\setheadfoot {2.5mm}{11.2mm} % {headheight}{footskip}
+
+% margens do header
+\setheaderspaces {10.2mm}{*}{*} % {headdrop}{headsep}{ratio}
+
+% não possui margin notes
+\setlength{\marginparwidth}{0mm}
+\setlength{\marginparsep}{0mm}
+\setlength{\marginparpush}{0mm}
+
+% compila as alterações no layout
+\checkandfixthelayout
+
+
+
+%%% Estilo de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makepagestyle{estilo}
+  
+\makeevenhead{estilo}{}{}{\cronosprolightfont\fontsize{8}{9.6}\selectfont{\scieloHeader}}
+\makeoddhead{estilo}{}{}{\cronosprolightfont\fontsize{8}{9.6}\selectfont{\scieloHeader}}
+
+\makeoddfoot{estilo}{}{}{{\cronosprolightfont\fontsize{8}{9.6}\selectfont{}J Vasc Bras. \scieloArticleRef}\hspace{3mm}{\cronosprofont\fontsize{8.5}{10.2}\selectfont\textbf\thepage}}
+\makeevenfoot{estilo}{}{}{{\cronosprolightfont\fontsize{8}{9.6}\selectfont{}J Vasc Bras. \scieloArticleRef}\hspace{3mm}{\cronosprofont\fontsize{8.5}{10.2}\selectfont\textbf\thepage}}
+
+\pagestyle{estilo}
+
+\makepagestyle{firstpage}
+
+
+%\renewcommand{\makefootrule}[4]{%
+%  \mem@ps@safe@change{#1}%
+%  \@namedef{#1footrule}{%
+%    \vskip-#4\vskip-#3\vskip-4mm%
+%    \hrule\@width #2\@height #3 \vskip #4 
+    %\noindent\parbox{\textwidth}{\cronosprofont\fontsize{7}{8}\selectfont{}The study was carried out at Hospital de Clínicas, Universidade Federal do Paraná (UFPR), Curitiba, PR, Brazil.}
+%    }}
+
+
+\makeheadfootruleprefix{firstpage}{\color{black}}{\color{black}}
+\makefootrule{firstpage}{1\textwidth}{0.1mm}{2.5mm}
+\makeoddfoot{firstpage}{\cronosprolightfont\fontsize{8}{9.6}\selectfont\scieloArticleUrl}{}{{\cronosprolightfont\fontsize{8}{9.6}\selectfont{}J Vasc Bras. \scieloArticleRef}\hspace{3.5mm}{\cronosprofont\fontsize{8.5}{10.2}\selectfont\textbf\thepage}}
+\makeevenfoot{firstpage}{\cronosprolightfont\fontsize{8}{9.6}\selectfont\scieloArticleUrl}{}{{\cronosprolightfont\fontsize{8}{9.6}\selectfont{}J Vasc Bras. \scieloArticleRef}\hspace{3.5mm}{\cronosprofont\fontsize{8.5}{10.2}\selectfont\textbf\thepage}}
+
+%%% END Estilos de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%% Abertura %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\AtBeginDocument{%
+
+%\input{BEFORE-BEGINDOC-COMMANDS.tex}
+
+\scieloDefineFootnotes
+
+% align abstract title left
+\renewcommand{\absnamepos}{flushleft}  
+
+% abstract font size
+\renewcommand{\abstractnamefont}{\cronosprosemiboldfont\fontsize{11}{13}\selectfont}
+\renewcommand{\abstracttextfont}{\cronosprolightfont\fontsize{9}{11}\selectfont}
+
+% abstract margins
+\setlength{\absparindent}{0mm}
+\setlength{\absleftindent}{7.5mm}
+\setlength{\absrightindent}{7.5mm}
+
+% sections
+\setsecindent{0mm}
+\setbeforesecskip{0mm} % nao funciona
+\setaftersecskip{1.7mm}%
+\setbeforesubsecskip{0cm}% nao funciona
+\setaftersubsecskip{1.7mm}%
+\setbeforesubsubsecskip{0mm}% nao funciona
+\setaftersubsubsecskip{1.2mm}%
+\setsecheadstyle{\cronosprofont\fontsize{11}{13}\selectfont\flushleft\textbf}%
+\setsubsecheadstyle{\cronosprofont\fontsize{10}{12}\selectfont\flushleft\textbf}%
+\setsubsubsecheadstyle{\cronosprofont\fontsize{9}{10.8}\selectfont\flushleft\textbf}%
+
+\setcolsepandrule{5mm}{0mm} % {colsep}{thickness}
+
+% primeira pagina nao tem header
+\thispagestyle{firstpage}
+
+%\enlargethispage{-4mm} % reduz o tamanho da pagina, por causa do footer
+
+% sobe a altura do header (headsep + headheight)
+\vspace*{-26mm}
+
+\noindent\hspace*{43.2mm}\includegraphics[width=51.46mm,keepaspectratio]{rect.jpg}\\
+\noindent\hspace*{43.2mm}\begin{minipage}[t]{51.46mm}
+  \vspace*{-10mm}
+  \centering
+  {\color{white}\cronosprofont\fontsize{11}{13.2}\selectfont\textbf\scieloArticleType}
+\end{minipage}
+
+
+
+\noindent\hspace*{7.5mm}\parbox{135mm}{%
+\vspace{6mm}  
+
+% titulo do artigo
+{
+\centering
+\begin{spacing}{1.5}
+\noindent{\cronosprosemiboldfont\fontsize{15}{18}\selectfont\scieloArticleTitle}
+\end{spacing}
+
+% traducoes dos titulos
+\ifdef\scieloArticleTitleTranslation
+{
+  \vspace*{1mm}
+  \begin{spacing}{1.2}
+  \noindent{\cronosprofont\fontsize{12}{14.4}\selectfont{\textit\scieloArticleTitleTranslation}}  
+  \end{spacing}
+}{}
+}
+
+\vspace*{1.85mm}
+
+% autores
+{
+\centering
+\begin{spacing}{0.4}
+\noindent{\cronosprolightfont\fontsize{9}{11}\selectfont\scieloAuthor}
+\end{spacing}
+}
+
+
+% linha cinza
+\vspace*{2.5mm}
+{\noindent\hspace*{32.3mm}\color{customgraycolor}\rule{70.15mm}{0.8mm}}}
+
+\vspace{0.8mm}
+
+
+%\end{adjustwidth}
+
+
+\begin{spacing}{1}
+
+} % END AtBeginDocument
+
+
+\AtEndDocument{%
+
+\end{spacing}
+
+}
+
+} % \DeclareOption{jvb}{
+
+
+%END GMB %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\DeclareOption{trimframe}{\renewcommand{\marcadecorte}{\trimFrame}}
+\DeclareOption{sembinding}{\setbinding{0mm}}
+\DeclareOption{semcabeco}{
+      \setulmargins{*}{*}{1.9}
+      \headsep=0pt}
+
+\DeclareOption{numberinsection}{%
+\setcounter{secnumdepth}{4}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\let\l@subsection\l@section
+\let\l@section\l@chapter}
+
+\ProcessOptions

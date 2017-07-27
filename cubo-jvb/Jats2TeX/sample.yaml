@@ -1,0 +1,28 @@
+article: |
+    \documentclass[numberinsection,times,10pt,spreadimages]{memoir}
+    \usepackage[jvb]{scielo}
+
+    \makeatletter
+    \def\@fnsymbol#1{
+         \ensuremath{
+             \ifcase#1
+    \or 1
+    \or ~
+    \or ~
+    \or ~
+             \fi
+         }
+    }
+
+    @@heads
+
+    \begin{document}
+
+    \setcounter{footnote}{4}
+    \selectlanguage{english}
+
+    @@bodies
+
+    % \input{ORIGINAL}
+
+    \end{document}
