@@ -1,21 +1,25 @@
 article:
   head: |
-    \documentclass{article}
+    \documentclass[numberinsection,times,10pt,spreadimages]{memoir}
 
     % jats2tex requirements
     @@requirements
-    \usepackage[T1]{fontenc}
+    % \usepackage[T1]{fontenc}
     \usepackage{amstext}
     \usepackage{authblk}
     \usepackage{unicode-math}
     \usepackage{multirow}
     \usepackage{graphicx}
+    \usepackage[jvb]{scielo}
 
     \begin{document}
 
     @@heads
 
     \maketitle
+
+    \setcounter{footnote}{4}
+    \selectlanguage{english}
 
     @@bodies
 
