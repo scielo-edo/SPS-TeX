@@ -11,11 +11,12 @@ article:
     \usepackage{graphicx}
     \usepackage[jvb]{scielo}
 
+    @@heads
+
     \newcommand{\scieloYear}{2015}
     \newcommand\scieloArticlePubIdType{DOI}
     \newcommand\scieloArticleType{ORIGINAL ARTICLE}
     \newcommand{\scieloArticleRef}{2015 Oct.-Dec.; 14(4):281-288}
-    \newcommand\scieloArticleTitle{Evaluation of great saphenous vein occlusion rate and clinical outcome in patients undergoing laser thermal ablation with a 1470-nm bare fiber laser with low linear endovenous energy density }
     \newcommand\scieloArticleTitleTranslation{Avaliação da taxa de obliteração da veia safena magna e da evolução clínica de pacientes submetidos a termoablação com lase 1470 nm, fibra linear e baixa densidade de energia endovenosa linear\\Título traduzido 2}
     \newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/1677-5449.004015}
     \newcommand{\scieloHeader}{Walter Junior Boim Araujo, Jorge Rufino Ribas Timi et al.}
@@ -23,7 +24,6 @@ article:
 
     \begin{document}
 
-    @@heads
 
     \maketitle
 
@@ -36,7 +36,7 @@ article:
 
 article-title:
   head: |
-    \title{@@children}
+    \newcommand\scieloArticleTitle{@@children}
 
 back: ""
 
@@ -106,7 +106,8 @@ b: |
   \textbf{@@children}
 
 sup: |
-  \textsuperscript{th}
+  \textsuperscript{@@children}
+
 
 sec: |
   \section{@@lua(return find('//title'))@@}
