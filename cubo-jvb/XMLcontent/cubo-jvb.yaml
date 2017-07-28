@@ -3,7 +3,6 @@ article:
     \documentclass[numberinsection,times,10pt,spreadimages]{memoir}
 
     % jats2tex requirements
-    @@requirements
     % \usepackage[T1]{fontenc}
     \usepackage{amstext}
     \usepackage{authblk}
@@ -11,6 +10,16 @@ article:
     \usepackage{multirow}
     \usepackage{graphicx}
     \usepackage[jvb]{scielo}
+
+    \newcommand{\scieloYear}{2015}
+    \newcommand\scieloArticlePubIdType{DOI}
+    \newcommand\scieloArticleType{ORIGINAL ARTICLE}
+    \newcommand{\scieloArticleRef}{2015 Oct.-Dec.; 14(4):281-288}
+    \newcommand\scieloArticleTitle{Evaluation of great saphenous vein occlusion rate and clinical outcome in patients undergoing laser thermal ablation with a 1470-nm bare fiber laser with low linear endovenous energy density }
+    \newcommand\scieloArticleTitleTranslation{Avaliação da taxa de obliteração da veia safena magna e da evolução clínica de pacientes submetidos a termoablação com lase 1470 nm, fibra linear e baixa densidade de energia endovenosa linear\\Título traduzido 2}
+    \newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/1677-5449.004015}
+    \newcommand{\scieloHeader}{Walter Junior Boim Araujo, Jorge Rufino Ribas Timi et al.}
+    \newcommand{\scieloAuthor}{Walter Junior Boim Araujo\scieloContributorFn{1}{xx}{1}{}, Jorge Rufino Ribas Timi\scieloContributorFn{1}{xx}{1}{}, Carlos Seme Nejm Júnior\scieloContributorFn{1}{xx}{1}{}, Filipe Carlos CaronCronos}
 
     \begin{document}
 
@@ -66,33 +75,13 @@ kwd: |
 
 p: |
 
-  @@lua(
-    align_to_ragged = {
-      ["center"] = "Center",
-      ["left"] = "FlushLeft",
-      ["right"] = "FlushRight",
-    }
-
-    if attr('align') == nil then
-      return children()
-    end
-
-    env = align_to_ragged[attr('align')]
-    if env == nil then
-      return children()
-    end
-
-    return string.format([[
-      \begin{%s}
-      %s
-      \end{%s}
-    ]], env, children(), env)
-  )@@
+  @@children
 
 pub-date: |
   \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
 
 abstract: |
+
   \abstract{@@children}
 
 volume: |
