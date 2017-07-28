@@ -4,9 +4,9 @@ article:
 
     % jats2tex requirements
     % \usepackage[T1]{fontenc}
-    \usepackage{amstext}
-    \usepackage{authblk}
-    \usepackage{unicode-math}
+    % \usepackage{amstext}
+    % \usepackage{authblk}
+    % \usepackage{unicode-math}
     \usepackage{multirow}
     \usepackage{graphicx}
     \usepackage[jvb]{scielo}
@@ -107,7 +107,6 @@ b: |
 
 sup: |
   \textsuperscript{@@children}
-
 
 sec: |
   \section{@@lua(return find('//title'))@@}
