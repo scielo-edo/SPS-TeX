@@ -17,15 +17,11 @@ article:
     \newcommand\scieloArticlePubIdType{DOI}
     \newcommand\scieloArticleType{ORIGINAL ARTICLE}
     \newcommand{\scieloArticleRef}{2015 Oct.-Dec.; 14(4):281-288}
-    \newcommand\scieloArticleTitleTranslation{Avaliação da taxa de obliteração da veia safena magna e da evolução clínica de pacientes submetidos a termoablação com lase 1470 nm, fibra linear e baixa densidade de energia endovenosa linear\\Título traduzido 2}
     \newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/1677-5449.004015}
     \newcommand{\scieloHeader}{Walter Junior Boim Araujo, Jorge Rufino Ribas Timi et al.}
     \newcommand{\scieloAuthor}{Walter Junior Boim Araujo\scieloContributorFn{1}{xx}{1}{}, Jorge Rufino Ribas Timi\scieloContributorFn{1}{xx}{1}{}, Carlos Seme Nejm Júnior\scieloContributorFn{1}{xx}{1}{}, Filipe Carlos CaronCronos}
 
     \begin{document}
-
-
-    \maketitle
 
     \setcounter{footnote}{4}
     \selectlanguage{english}
@@ -36,7 +32,13 @@ article:
 
 article-title:
   head: |
-    \newcommand\scieloArticleTitle{@@children}
+    @@lua(
+      if attr('lang') == 'en' then
+        return "\newcommand\scieloArticleTitle{" .. children() .. "}"
+      end
+
+      return "\newcommand\scieloArticleTitleTranslation{" .. children() .. "}"
+    )@@
 
 back: ""
 
@@ -47,12 +49,13 @@ name: |
   return s .. ", " .. g
   )@@
 
-contrib:
+contrib-group:
   head: |
+    \newcommand{\scieloAuthor}{@@children}
 
-    \author[@@lua(
-      return find('//xref')
-    )@@]{@@children}
+# contrib:
+#   head: |
+#     @@children
 
 aff:
   head: |
