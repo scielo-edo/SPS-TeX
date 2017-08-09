@@ -7,21 +7,19 @@
 \usepackage{unicode-math}
 \usepackage{multirow}
 \usepackage{graphicx}
+\usepackage{authblk}
+\usepackage{multicol}
 
 \begin{document}
 
 \title{Planejamento urbano participativo por meio da utilização de novas
 tecnologias: uma avaliação por especialistas}
-\author[\textsuperscript{th}
-]{Bugs, Geisa
-\textsuperscript{th}
-}
-\author[\textsuperscript{th}
-]{Reis, Antônio Tarcísio da Luz
-\textsuperscript{th}
-}\affil[aff01]{Universidade FeevaleUniversidade FEEVALEUniversidade Feevale,
+\author[1]{Bugs, Geisa}
+\author[2]{Reis, Antônio Tarcísio da Luz}
+\affil[1]{Universidade FeevaleUniversidade FEEVALEUniversidade Feevale,
 Novo Hamburgo, RS,
-Brasil.}\affil[aff02]{Universidade Federal do Rio Grande do
+Brasil.}
+\affil[2]{Universidade Federal do Rio Grande do
 SulFaculdade de ArquiteturaUniversidade Federal do Rio Grande do
 SulUniversidade Federal do Rio Grande do Sul –
 UFRGS, Faculdade de Arquitetura, Programa de Pós-graduação em Planejamento
@@ -29,28 +27,11 @@ Urbano - PROPUR, Porto Alegre, RS, Brasil.}
 
 \maketitle
 
-urbeurbe. Revista Brasileira de Gestão Urbanaurbe, Rev. Bras. Gest.
-Urbana2175-3369Pontifícia Universidade Católica do
-Paranáurbe0901AO060810110.1590/2175-3369.009.001.AO06ArticlesParticipatory urban
-planning through the use of new technologies:
-an evaluation by experts
-GB é Arquiteta e Urbanista; Doutora pelo PROPUR/UFRGS, e-mail:
-geisa@feevale.br
-
-ATLR é Arquiteto e Urbanista; Doutor pela Pos Graduate Research School,
-Oxford Brookes University, e-mail: tarcisio.reis@ufrgs.br
-\date{2016}{12}{08}
-\newcommand{\volume}{00}
-00\newcommand{\fpage}{000}
-\newcommand{\lpage}{000}
-0309201512012016Este é um artigo publicado em acesso aberto (Open
-Access) sob a licença Creative Commons
-Attribution, que permite uso, distribuição e reprodução em
-qualquer meio, sem restrições desde que o trabalho original seja
-corretamente citado.
 
 \begin{abstract}
-Resumo
+% PEDRO: Retirar "Resumo"
+% PEDRO: Escolher a língua do abstract conforme a língua do artigo
+% JORGE: Colocar "Resumo" como titulo; 
 O objetivo deste artigo é avaliar a aceitação, por parte dos especialistas, da
 participação pública e da utilização de novas tecnologias, bem como investigar
 como eles avaliam metodologias alternativas, como a Participação Pública com
@@ -69,7 +50,11 @@ de incorporar a perspectiva do usuário do espaço urbano, na opinião dos
 respondentes.
 \end{abstract}
 
-Abstract
+\begin{abstract}
+% PEDRO: Retirar a palavra "Abstract"
+% PEDRO: Escolher a língua do abstract conforme o atributo. Obs: em LaTeX, \begingroup\selectlanguage{english} ... \endgroup
+% JORGE: Colocar "Resumo" como titulo; 
+
 This paper aims to evaluate the experts acceptance of the public participation,
 the use of new technologies, and to investigate how they evaluate alternative
 methodologies such as the Public Participation Geographic Information Systems
@@ -84,12 +69,22 @@ institutional barriers and the necessity of technical training, the public
 participation and the use of new tools are accepted, and that PPSIG can help in
 the difficult task of incorporating the urban space users perspective, in the
 respondents opinion.
+
+% PEDRO: Colocar dentro do abstract
+% PEDRO: Colocar vírgula
 Palavras-chave: \textit{Planejamento participativo}
-\textit{PPSIG}
-\textit{TIC}
+\textit{PPSIG},
+\textit{TIC},
+
+% ISSUE: Quebrar linha
 Keywords: \textit{Participatory planning}
 \textit{PPGIS}
 \textit{ICT}
+\end{abstract}
+
+
+\begin{multicols}{2}
+
 \section{Introdução}
 
 O planejamento urbano normalmente tem sido baseado na coleta e na troca de
@@ -278,21 +273,8 @@ foram
 realizadas entrevistas com sete AU: dois servidores públicos, dois profissionais
 liberais, dois docentes e um estudante de pós-graduação.
 
-\section{ResultadosAceitação da participação do público e da utilização de novas
-tecnologias- Os habitantes são peças fundamentais e o modus
-operandi não responde às demandas- Os planejadores tendem a desconsiderar os
-dados produzidos pelos
-cidadãos, e estes, a partir das transformações socioculturais e
-tecnológicas, estão capacitados- Faz-se obrigatório adicionar novas ferramentas
-e não se dispõe da
-capacitação técnica necessáriaAvaliação do método PPSIG- Fatores de qualidade
-individualmente significativos podem ser
-facilmente analisados, e as informações coletadas com a PPSIG podem
-levar a soluções diferentes- As informações coletadas com a PPSIG podem
-dificultar ainda mais a
-tarefa do planejamento urbano, e as informações coletadas são difíceis
-de interpretar- Mapa apresentado no questionário- Como você avalia a
-legibilidade e a utilidade deste mapa}
+% Desconsiderar! Conteúdo estranho no XML
+\section{Resultados}
 
 A expressiva maioria dos AU (88,1\%, ou 37 de 42) concorda totalmente (40,5\%,
 ou
@@ -902,5 +884,7 @@ novas
 tecnologias, tais como a PPSIG, necessidade esta já identificada em outros
 estudos
 (Batty et al., 2012; Pereira et al., 2013).
+
+\end{multicols}
 
 \end{document}
