@@ -118,7 +118,7 @@ b: |
   \textbf{@@children}
 
 sup: |
-  \textsuperscript{th}
+  \textsuperscript{@@children}
 
 sec: |
   \section{@@lua(return find('//title'))@@}
