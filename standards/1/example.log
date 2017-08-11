@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  11 AUG 2017 12:10
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  11 AUG 2017 13:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,255 +453,24 @@ JK)
 ))
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
-) (./example.aux)
-\openout1 = `example.aux'.
+)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-\g__fontspec_family_latinmodern-math.otf_int=\count138
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'latinmodern-math.otf(0)' created for font
-. 'latinmodern-math.otf' with options
-. [BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Size=10-},{Size=7
--10,Font=latinmodern-math.otf,Style=MathScript},{Size=-7,Font=latinmodern-math.
-otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf}].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <10->"[latinmodern-math.otf]/OT:script=math;language=DFLT;"<7-10>"[latinmoder
-n-math.otf]/OT:script=math;language=DFLT;+ssty=0;"<-7>"[latinmodern-math.otf]/O
-T:script=math;language=DFLT;+ssty=1;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-.................................................
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 11.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(0)/m/n on input
- line 11.
-LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 11.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on inp
-ut line 11.
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'latinmodern-math.otf(1)' created for font
-. 'latinmodern-math.otf' with options
-. [BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Size=10-},{Size=7
--10,Font=latinmodern-math.otf,Style=MathScript},{Size=-7,Font=latinmodern-math.
-otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},Scale=1.00001,Font
-Adjustment={\fontdimen
-. 8\font =6.77pt\relax \relax \fontdimen 9\font =3.94pt\relax \relax
-. \fontdimen 10\font =4.44pt\relax \relax \fontdimen 11\font =6.86pt\relax
-. \relax \fontdimen 12\font =3.45pt\relax \relax \fontdimen 13\font
-. =3.63pt\relax \relax \fontdimen 14\font =3.63pt\relax \relax \fontdimen
-. 15\font =2.89pt\relax \relax \fontdimen 16\font =2.47pt\relax \relax
-. \fontdimen 17\font =2.47pt\relax \relax \fontdimen 18\font =2.5pt\relax
-. \relax \fontdimen 19\font =2.0pt\relax \relax \fontdimen 20\font =0pt\relax
-. \fontdimen 21\font =0pt\relax \fontdimen 22\font =2.5pt\relax \relax }].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <10->s*[1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"<7-10>s
-*[1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=0;"<-7>s*[
-1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-. and font adjustment code:
-. \fontdimen 8\font =6.77pt\relax \relax \fontdimen 9\font =3.94pt\relax
-. \relax \fontdimen 10\font =4.44pt\relax \relax \fontdimen 11\font
-. =6.86pt\relax \relax \fontdimen 12\font =3.45pt\relax \relax \fontdimen
-. 13\font =3.63pt\relax \relax \fontdimen 14\font =3.63pt\relax \relax
-. \fontdimen 15\font =2.89pt\relax \relax \fontdimen 16\font =2.47pt\relax
-. \relax \fontdimen 17\font =2.47pt\relax \relax \fontdimen 18\font
-. =2.5pt\relax \relax \fontdimen 19\font =2.0pt\relax \relax \fontdimen
-. 20\font =0pt\relax \fontdimen 21\font =0pt\relax \fontdimen 22\font
-. =2.5pt\relax \relax 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->s*[1.00001]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. and font adjustment code:
-. \fontdimen 8\font =6.77pt\relax \relax \fontdimen 9\font =3.94pt\relax
-. \relax \fontdimen 10\font =4.44pt\relax \relax \fontdimen 11\font
-. =6.86pt\relax \relax \fontdimen 12\font =3.45pt\relax \relax \fontdimen
-. 13\font =3.63pt\relax \relax \fontdimen 14\font =3.63pt\relax \relax
-. \fontdimen 15\font =2.89pt\relax \relax \fontdimen 16\font =2.47pt\relax
-. \relax \fontdimen 17\font =2.47pt\relax \relax \fontdimen 18\font
-. =2.5pt\relax \relax \fontdimen 19\font =2.0pt\relax \relax \fontdimen
-. 20\font =0pt\relax \fontdimen 21\font =0pt\relax \fontdimen 22\font
-. =2.5pt\relax \relax 
-.................................................
-LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 11.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
-(Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
-t line 11.
-LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 11.
-LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
-(Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 11.
-.................................................
-. fontspec info: "defining-font"
-. 
-. Font family 'latinmodern-math.otf(2)' created for font
-. 'latinmodern-math.otf' with options
-. [BoldItalicFont={},ItalicFont={},Script=Math,SizeFeatures={{Size=10-},{Size=7
--10,Font=latinmodern-math.otf,Style=MathScript},{Size=-7,Font=latinmodern-math.
-otf,Style=MathScriptScript}},BoldFont={latinmodern-math.otf},Scale=0.99999,Font
-Adjustment={\fontdimen
-. 8\font =0.4pt\relax \relax \fontdimen 9\font =2.0pt\relax \relax \fontdimen
-. 10\font =1.67pt\relax \relax \fontdimen 11\font =1.11pt\relax \relax
-. \fontdimen 12\font =6.0pt\relax \relax \fontdimen 13\font =0pt\relax }].
-.  
-.  This font family consists of the following NFSS series/shapes:
-.  
-. - 'normal' (m/n) with NFSS spec.:
-. <10->s*[0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"<7-10>s
-*[0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=0;"<-7>s*[
-0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;+ssty=1;"
-. - 'small caps'  (m/sc) with NFSS spec.: 
-. and font adjustment code:
-. \fontdimen 8\font =0.4pt\relax \relax \fontdimen 9\font =2.0pt\relax \relax
-. \fontdimen 10\font =1.67pt\relax \relax \fontdimen 11\font =1.11pt\relax
-. \relax \fontdimen 12\font =6.0pt\relax \relax \fontdimen 13\font =0pt\relax 
-. - 'bold' (bx/n) with NFSS spec.:
-. <->s*[0.99999]"[latinmodern-math.otf]/OT:script=math;language=DFLT;"
-. - 'bold small caps'  (bx/sc) with NFSS spec.: 
-. and font adjustment code:
-. \fontdimen 8\font =0.4pt\relax \relax \fontdimen 9\font =2.0pt\relax \relax
-. \fontdimen 10\font =1.67pt\relax \relax \fontdimen 11\font =1.11pt\relax
-. \relax \fontdimen 12\font =6.0pt\relax \relax \fontdimen 13\font =0pt\relax 
-.................................................
-LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 1
-1.
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
-(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 11.
-LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 11.
+! LaTeX Error: Missing \begin{document}.
 
-LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
-(Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 11.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 18.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 18.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 18.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 18.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 18.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 18.
-
-[1
-
-]
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 30.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 30.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 30.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 30.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 30.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 30.
-
-Overfull \hbox (6.87202pt too wide) in paragraph at lines 32--39
-[]\TU/lmr/m/n/10 urbeurbe, Rev. Bras. Gest. Urbana2175-3369Pontifícia Universid
-ade Católica
- []
-
-
-Overfull \hbox (24.68pt too wide) in paragraph at lines 32--39
-\TU/lmr/m/n/10 do Paranáurbe0901AO060810110.1590/2175-3369.009.001.AO06Articles
-Participatory
- []
-
-
-Overfull \hbox (58.53703pt too wide) in paragraph at lines 40--52
-\TU/lmr/m/n/10 Oxford Brookes University, e-mail: tarcisio.reis@ufrgs.br 201612
-08  00  0309201512012016Este
- []
-
-
-Overfull \hbox (0.24597pt too wide) in paragraph at lines 54--70
-[]\TU/lmr/m/n/9 O objetivo deste artigo é avaliar a aceitação, por parte dos es
-pecialistas,
- []
-
-[2] [3] [4] [5]
-Overfull \hbox (8.6063pt too wide) in paragraph at lines 302--302
-[]\TU/lmr/bx/n/14.4 ResultadosAceitação da participação do público
- []
-
-
-Overfull \hbox (24.47508pt too wide) in paragraph at lines 302--302
-\TU/lmr/bx/n/14.4 tantes são peças fundamentais e o modus operandi
- []
-
-
-Overfull \hbox (5.10712pt too wide) in paragraph at lines 302--302
-\TU/lmr/bx/n/14.4 dem levar a soluções diferentes- As informações
- []
-
-
-Overfull \hbox (0.54051pt too wide) in paragraph at lines 302--302
-\TU/lmr/bx/n/14.4 coletadas com a PPSIG podem dificultar ainda
- []
-
-
-Overfull \hbox (0.58551pt too wide) in paragraph at lines 302--302
-\TU/lmr/bx/n/14.4 formações coletadas são difíceis de interpretar-
- []
-
-
-Overfull \hbox (1.69429pt too wide) in paragraph at lines 302--302
-\TU/lmr/bx/n/14.4 Mapa apresentado no questionário- Como você
- []
-
-[6] [7] [8] [9] [10] [11] [12]
-Overfull \hbox (3.02002pt too wide) in paragraph at lines 665--675
-\TU/lmr/m/n/10 que objetiva mostrar relações entre varáveis e diferentes interp
-retações da questão
- []
-
-[13] [14] [15] [16] [17] (./example.aux) ) 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \author[\textsuperscript{th}]{Bugs, Geisa}
+                                               
+? x
+ 
 Here is how much of TeX's memory you used:
- 13899 strings out of 493068
- 280705 string characters out of 6141028
- 432520 words of memory out of 5000000
- 17747 multiletter control sequences out of 15000+600000
- 9736 words of font info for 50 fonts, out of 8000000 for 9000
+ 13508 strings out of 493068
+ 272724 string characters out of 6141028
+ 353708 words of memory out of 5000000
+ 17404 multiletter control sequences out of 15000+600000
+ 6654 words of font info for 18 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 42i,5n,71p,10379b,257s stack positions out of 5000i,500n,10000p,200000b,80000s
-
-Output written on example.pdf (17 pages).
+ 41i,0n,33p,10379b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

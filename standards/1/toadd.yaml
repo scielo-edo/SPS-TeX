@@ -1,0 +1,16 @@
+article-id: 
+  luapublisher-id"
+  head: |
+    \newcommand{\publisherid}{@@children}
+
+article-id: 
+  pub-id-type="other"
+  head: |
+    \newcommand{\articleid}{@@children}
+
+article-id: 
+  pub-id-type="doi"
+      \newcommand{\doi}{@@children}
+
+
+      

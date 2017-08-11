@@ -22,7 +22,53 @@ article:
 
 article-title:
   head: |
+
     \title{@@children}
+
+
+journal-id: 
+  head: |
+
+    %% METADATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \newcommand{\journalid}{@@children}
+
+journal-title: 
+  head: |
+
+    \newcommand{\journaltitle}{@@children}
+
+abbrev-journal-title: 
+  head: |
+
+    \newcommand{\abbrevjournaltitle}{@@children}
+
+pub-date: 
+  head: |
+
+    \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
+
+issn:
+  head: |
+
+    \newcommand{\issn}{@@children}
+
+publisher-name:
+  head: |
+
+    \newcommand{\publishername}{@@children}
+
+
+subject:
+  head: |
+
+    \newcommand{\subject}{@@children}
+
+trans-title:
+  head: |
+
+      \newcommand{\transtitle}{@@children}
+      %% METADATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
 
 
@@ -89,8 +135,6 @@ p: |
     ]], env, children(), env)
   )@@
 
-pub-date: |
-  \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
 
 abstract: |
 
