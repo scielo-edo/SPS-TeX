@@ -9,9 +9,10 @@ article:
     \usepackage{multirow}
     \usepackage{graphicx}
 
+    @@heads
+    
     \begin{document}
 
-    @@heads
 
     \maketitle
 
@@ -22,6 +23,19 @@ article:
 article-title:
   head: |
     \title{@@children}
+
+
+
+
+codebold:
+  head: |
+    \code{@@children}
+
+kwd: |
+  \textit{@@children}
+
+
+
 
 back: ""
 
@@ -49,14 +63,6 @@ aff:
 
 break: "\n"
 
-code: |
-  \code{@@children}
-
-codebold: |
-  \code{@@children}
-
-kwd: |
-  \textit{@@children}
 
 p: |
 
@@ -87,32 +93,23 @@ pub-date: |
   \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
 
 abstract: |
+
+  \renewcommand{\abstractname}{@@lua(return find "//title")@@}
   \begin{abstract}
-  @@children
+  @@lua(return find "//p")@@
   \end{abstract}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 trans-abstract: |
+
+  \renewcommand{\abstractname}{@@lua(return find "//title")@@}
   \begin{abstract}
-  @@children
+  @@lua(return find "//p")@@
   \end{abstract}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-volume: |
-  \newcommand{\volume}{@@children}
 
-numero: |
-  \newcommand{\numero}{@@children}
 
-fpage: |
-  \newcommand{\fpage}{@@children}
-
-lpage: |
-  \newcommand{\lpage}{@@children}
-
-copyright-statement: |
-  \newcommand{\copyrightstatement}{@@children}
-
-copyright-year: |
-  \newcommand{\copyrightyear}{@@children}
 
 b: |
   \textbf{@@children}
@@ -168,7 +165,4 @@ td: |
 
 fig: ""
 
-journal-title: ""
-jornal-meta: ""
-jornal-id: ""
-licence: ""
+
