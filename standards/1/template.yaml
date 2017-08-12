@@ -35,7 +35,7 @@ journal-id:
 journal-title: 
   head: |
 
-    \newcommand{\journaltitle}{@@children}
+    \newcommand{\journaltitle}{@@children} %%%%
 
 abbrev-journal-title: 
   head: |

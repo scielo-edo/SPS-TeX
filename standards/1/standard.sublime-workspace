@@ -1,0 +1,1179 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "example.tex",
+			"settings":
+			{
+				"buffer_size": 46380,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template.yaml",
+			"settings":
+			{
+				"buffer_size": 3244,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "example.xml",
+			"settings":
+			{
+				"buffer_size": 140189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "template.tex",
+			"settings":
+			{
+				"buffer_size": 45280,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"last_filter": "docu",
+		"selected_items":
+		[
+			[
+				"docu",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Light"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"make",
+				"Build With: Make"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pan",
+				"Pandoc"
+			],
+			[
+				"pando",
+				"Pandoc"
+			],
+			[
+				"brack",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"pand",
+				"Pandoc"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"loer",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Pandoc"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a"
+	],
+	"file_history":
+	[
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standards/1/toadd.yaml",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/default/LIVRO.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/README.md",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/template.yaml",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/example.xml",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/example.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/templateB.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/template.aux",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/template.pdf",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/example2.xml",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/template2.yaml",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a/example2ed.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standart_a/example2.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standart_a/example2.xml",
+		"/home/editorial/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/editorial/.config/sublime-text-3/Packages/LaTeXTools/Default (Linux).sublime-keymap",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/1677-5449-jvb-1677-5449002816.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/1677-5449-jvb-1677-5449002816.xml",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/sample.yam",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/test.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/Makefile",
+		"/home/editorial/Área de trabalho/matilde/ORIGINAL.tex",
+		"/home/editorial/Área de trabalho/matilde/INPUTS.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/amssymb.sty",
+		"/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty",
+		"/home/editorial/Dropbox/LATEX/git/annap_brutalidades/TEMP.tex",
+		"/home/editorial/Dropbox/LATEX/git/annap_brutalidades/INPUTS.tex",
+		"/home/editorial/Dropbox/LATEX/git/annap_brutalidades/LIVRO.tex",
+		"/home/editorial/Dropbox/LATEX/git/annap_brutalidades/PRETAS.tex",
+		"/home/editorial/Dropbox/LATEX/git/annap_brutalidades/ORIGINAL.tex",
+		"/home/editorial/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/aaa.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/TESTE.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/TERCEIRODIALOGO237.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/DEDICATORIA.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/frontconselho.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/fronthedra.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/INPUTS.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/LIVRO.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/ORESPEITOPELOPACIENTE231.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/POSFACIO240.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/PRETAS.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/PRIMEIRODIALOGO234.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/PSICANALISEDAESPERA233.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/QUARTODIALOGO238.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/QUINTODIALOGO239.tex",
+		"/home/editorial/Dropbox/LATEX/git/jaco_psicanalise/SEGUNDODIALOGO236.tex",
+		"/home/editorial/Área de trabalho/TESTE.md",
+		"/home/editorial/Área de trabalho/TESTE.tex",
+		"/home/editorial/Dropbox/SCIELO/XML/xmls/Hedra/1677-5449-jvb-nahead0117/1677-5449-jvb-1677-5449002116.xml",
+		"/home/editorial/Dropbox/LATEX/git/mill/newedition.sh",
+		"/home/editorial/Dropbox/LATEX/git/mill/PUBLICIDADE.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/TEXTO.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/ROSTO.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/LIVRO.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/INTRODUCA.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/APENDICE.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/COLOFAO.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/CREDITOS.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/HUNGAROS.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/INPUTS.tex",
+		"/home/editorial/Dropbox/LATEX/git/contos_hungaros/INTRO.tex",
+		"/home/editorial/Dropbox/LATEX/Templates/ebook/Makefile",
+		"/home/editorial/Dropbox/LATEX/git/marx_manifesto/Makefile",
+		"/home/editorial/Dropbox/LATEX/Templates/bolso/Makefile",
+		"/home/editorial/Dropbox/LATEX/git/capek_robos/ebook/TEXTO.tex",
+		"/home/editorial/Dropbox/LATEX/git/capek_robos/ebook/PRETAS.tex",
+		"/home/editorial/Dropbox/LATEX/git/capek_robos/ebook/FICHA_DE_LEITURA.tex",
+		"/home/editorial/Dropbox/LATEX/git/capek_robos/ebook/CAPEK.tex",
+		"/home/editorial/Dropbox/LATEX/git/capek_robos/ebook/FINAIS.tex",
+		"/home/editorial/Dropbox/LATEX/git/capek_robos/ebook/INTRO.tex",
+		"/home/editorial/Dropbox/LATEX/git/capek_robos/ebook/PUBLICIDADE.tex",
+		"/home/editorial/Dropbox/LATEX/git/nietzsche_extemporanea/PRETAS.tex",
+		"/home/editorial/Dropbox/LATEX/Templates/ebook/stylesheet.css",
+		"/home/editorial/Dropbox/LATEX/git/nietzsche_extemporanea/ebook/Makefile",
+		"/home/editorial/Área de trabalho/albornoz_oqueetrabalho/SUZANAGUERRAALBORNOZ_OQUEETRABALHO.md",
+		"/home/editorial/texmf/tex/hedrastyles.sty",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/AENTREVISTACOMELE96.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/AESTORIASEMFIM95.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/AGRADECIMENTO.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/ALAGRIMAATRASDOGORRONINJA86.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/ANTONIOSANTIAGO90.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/ASOMBRADOVULCAO100.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/CRACKENTREDOISJULGAMENTOS85.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/DEDICATORIA.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/EUOSUPREMO98.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/GATODESETEVIDAS87.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/INPUTS.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/IVANOTERRIVEL94.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/LIVRO.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/MASCARADOCORPOEMDOISTEMPOS505.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/NUNCAMAIS93.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/OCANTODANOIA102.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/OCONTODEALICE506.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/ORELHA.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/OSOBREVIVENTEDETROIA101.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/OXDAQUESTAO97.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/POSFACIO507.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/PRETAS.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/PUBLICIDADE.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/QUARTA.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/QUASEMEMORIASPOSTUMAS99.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/QUATROTEMPOSANTESDEUMACERTODECONTAS504.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/RESUMO.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/SEMCHORONEMVELA92.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/SIGLAS.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/SISIFONOCAMINHODASPEDRAS91.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/TESTE.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/TITULODOCAPITULO729.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/TRAICAO89.tex",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/TRANSFUSAOTOTAL503.tex",
+		"/home/editorial/Área de trabalho/usr/local/bin/S0250-54602016000400003.xml",
+		"/home/editorial/Dropbox/LATEX/git/marx_manifesto/LIVRO.tex",
+		"/home/editorial/Dropbox/LATEX/git/marx_manifesto/PRETAS.tex",
+		"/home/editorial/Dropbox/LATEX/git/marx_manifesto/MARX.tex",
+		"/home/editorial/Dropbox/LATEX/git/marx_manifesto/ORIG.tex",
+		"/home/editorial/Área de trabalho/usr/local/bin/teste.tex",
+		"/home/editorial/Dropbox/LATEX/git/marx_manifesto/LIVRO.toc",
+		"/home/editorial/Dropbox/SCIELO/pesquisa/pdftoepub/TESTE.html",
+		"/home/editorial/Dropbox/SCIELO/pesquisa/pdftoepub/TESTEs.html",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/ebook/Makefile",
+		"/home/editorial/Dropbox/LATEX/git/marra_crack/ebook/MARRA_CRACK.txt",
+		"/home/editorial/kropotkin/smb.conf",
+		"/home/editorial/pK",
+		"/home/editorial/Dropbox/PRODUCAO/FLUXO_DE_PRODUCAO_EDITORIAL.md",
+		"/home/editorial/Dropbox/LATEX/PRODUCAO/temp/mi_trans_passaros/AA",
+		"/home/editorial/Dropbox/LATEX/PRODUCAO/temp/mi_trans_passaros/MONSTROKEYAKEYA651.tex",
+		"/home/editorial/Dropbox/LATEX/PRODUCAO/temp/mi_trans_passaros/MINHOCAO645.tex",
+		"/home/editorial/Dropbox/LATEX/PRODUCAO/temp/mi_trans_passaros/LIVRO.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"journal",
+			"-grou",
+			"kwd",
+			"citado",
+			"licen",
+			"journal-meta",
+			"jornal",
+			"trans",
+			"abstract//",
+			"abstract/",
+			"abstract",
+			"abstra",
+			"3369",
+			"3369P",
+			"Aceitação da pa",
+			"##",
+			"scieloBody",
+			"abstract",
+			"As deiscências de incisões cirúrgicas",
+			"dei",
+			"lua",
+			"sec",
+			"kwd",
+			"INTR",
+			"sec",
+			"DOI",
+			"doi",
+			"year",
+			"head",
+			"year",
+			"\\\\part",
+			"Alunos do nono ano",
+			"\\\\part",
+			"PALAVRA DO DI",
+			"\\\\section{(.*)}\\n\\n\\\\aluno{(.*)}",
+			"\\\\section{(.*)\\n\\n\\\\aluno{(.*)}",
+			"(\\\\section{.*)\\n(.*})",
+			"\\\\section{.*",
+			"\\\\label{.*}\\n\\n(.*)",
+			"\\\\label{",
+			"\\\\section{",
+			"\"",
+			"\"(\\w)",
+			"Azul é cor de menino",
+			"(#.*)#",
+			"#(.*)#",
+			"# Não fique calado! #",
+			"#\\n",
+			"texorpdfstring",
+			"A sociedade e suas",
+			"{style=\".*\"}",
+			" ",
+			"<div>",
+			"{style=\"background-color:transparent; color:rgb(0, 0, 0)\"}",
+			"{style=\"color:.*\"}",
+			"\\\\",
+			"\\",
+			"\\\\",
+			"]",
+			"\\[",
+			"[",
+			"{style=\"color:#333333\"}",
+			"style=\"color:#333333\"}",
+			"###",
+			"<div class=\"verse\">",
+			"</div>",
+			"<div class=\"section chapter\" data-id=.*\\n\\n\\#\\ (.*)\\n\\n\\#\\#\\#",
+			"<div class=\"section chapter\" data-id=.*\\n\\n(.*)\\n\\n\\#\\#\\#",
+			"<div class=\"section chapter\" data-id=.*\\n\\n(.*)",
+			"<div class=\"section chapter\" data-id=",
+			"<div class=\"section chapter\" data-id=\"7e912c21-6541-7f5b-3afd-46d500b4f994\">",
+			"author",
+			"articleti",
+			"articletit",
+			"ragge",
+			"Entre",
+			"Orides",
+			"idéia",
+			"onário",
+			"e é",
+			"sabe",
+			"A gente",
+			"minha vivencia",
+			"individuo",
+			"autor",
+			"titulagem",
+			"\\\\linha{",
+			"item",
+			"\\russ",
+			"\\\\paren",
+			"\"-",
+			"\\paren{.*}",
+			"\\repl",
+			"\\asterisc",
+			"\\cast",
+			"\\endgroup",
+			"\\begingroup\\small",
+			"\\paragraph",
+			"paragraph",
+			"Em conson",
+			"[",
+			"^$\\n",
+			"S/N\\n",
+			"^$\\n",
+			"~/Dropbox/LATEX/git/",
+			"~/LATEX/",
+			"-$\\n-",
+			"(\\w)- (\\w)",
+			"\\n\\n^([a-zá-ź])",
+			"\\ ::\\ .*",
+			" :: Água",
+			"chapterspecial",
+			"includegraphics",
+			"image1",
+			"image",
+			"texorpdfstring",
+			"tex",
+			"\\\\hypertarget",
+			"textbf",
+			"includeimage",
+			"\\documentclass[showtrims,12pt,conselho,spreadimages]{memoir}",
+			"^(.*)",
+			"^",
+			"\\)",
+			")",
+			"__",
+			"\\.",
+			"\\("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"* ",
+			"\\\\chapterspecial{\\1}{}{\\2}",
+			"\\\\chapter{\\1}{}{\\2}",
+			"\\1 \\2",
+			"\\n\\n\\\\aluno{\\1}",
+			"''",
+			"``\\1",
+			"\\1",
+			" ",
+			"",
+			"\\n",
+			"\\n\\n",
+			"",
+			"# \\1 #",
+			"* \\1 *",
+			"",
+			"\\\\emph",
+			"-",
+			"\\textbf",
+			"***",
+			"\\textsc",
+			"%\\endgroup",
+			"%\\begingroup\\small",
+			"\\subsubsection",
+			"",
+			"~/Dropbox/LATEX/Templates/",
+			"~/Dropbox/LATEX/",
+			"-",
+			"\\1\\2",
+			"\\n\\1",
+			"",
+			"rtf",
+			"rft",
+			"\\\\input{\\1}",
+			"pandoc ",
+			"",
+			"_",
+			"",
+			"mkdir ",
+			"\\1",
+			"oquee",
+			"_",
+			" ",
+			"",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/editorial/Dropbox/SCIELO/SPS+TeX/github/standard_a"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "example.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								895,
+								895
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "template.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1019,
+								1019
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 468.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "example.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "template.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								881,
+								881
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										880,
+										881
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										862,
+										863
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 195.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 273.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"template.yaml"
+			],
+			[
+				"tex",
+				"example2.tex"
+			],
+			[
+				"sam",
+				"~/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/sample.yaml"
+			],
+			[
+				"mak",
+				"~/Dropbox/SCIELO/SPS+TeX/github/cubo-jvb/XMLcontent/Makefile"
+			],
+			[
+				"segun",
+				"~/Dropbox/LATEX/git/jaco_psicanalise/SEGUNDODIALOGO236.tex"
+			],
+			[
+				"anot",
+				"~/Dropbox/LATEX/git/marra_crack/ANTONIOSANTIAGO90.tex"
+			],
+			[
+				"inp",
+				"~/Dropbox/LATEX/git/marra_crack/INPUTS.tex"
+			],
+			[
+				"aque",
+				"~/Dropbox/LATEX/PRODUCAO/temp/mi_trans_passaros/AQUEDADOCEU639.tex"
+			],
+			[
+				"634",
+				"~/Dropbox/LATEX/PRODUCAO/temp/mi_trans_passaros/OSURGIMENTODOCUPIM634.tex"
+			],
+			[
+				"tere",
+				"~/Dropbox/LATEX/PRODUCAO/temp/mi_trans_passaros/TEPEREYARUXEPRARIONOWEI607.tex"
+			],
+			[
+				"li",
+				"~/Dropbox/LATEX/PRODUCAO/hedra/mi_uira_awaguaja/LIVRO.tex"
+			],
+			[
+				"lin",
+				"~/Dropbox/LATEX/PRODUCAO/hedra/mi_uira_awaguaja/INPUTS.tex"
+			],
+			[
+				"03",
+				"~/Dropbox/LATEX/PRODUCAO/hedra/mi_uira_awaguaja/03.tex"
+			],
+			[
+				"02",
+				"~/Dropbox/LATEX/PRODUCAO/hedra/mi_uira_awaguaja/02.tex"
+			],
+			[
+				"livro",
+				"~/Dropbox/LATEX/PRODUCAO/hedra/mi_uira_awaguaja/LIVRO.tex"
+			],
+			[
+				"01",
+				"~/Dropbox/LATEX/PRODUCAO/hedra/mi_uira_awaguaja/01.tex"
+			],
+			[
+				"p",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 142.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
