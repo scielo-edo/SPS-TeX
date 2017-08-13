@@ -47,10 +47,12 @@ pub-date:
 
     \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
 
+
 issn:
   head: |
 
     \newcommand{\issn}{@@children}
+
 
 publisher-name:
   head: |
