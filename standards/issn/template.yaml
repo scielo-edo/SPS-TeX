@@ -1,0 +1,7 @@
+issn:
+  |
+    \textit{
+    @@lua(
+    return attr('pub-type')
+    )@@
+    }

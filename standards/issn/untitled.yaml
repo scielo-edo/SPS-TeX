@@ -1,0 +1,4 @@
+issn:
+  head: |
+  
+    \newcommand{\issn}{@@children}

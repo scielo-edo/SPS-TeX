@@ -26,38 +26,36 @@ article-title:
     \title{@@children}
 
 
+issn:
+  head: |
+  
+    \newcommand{\issn}{@@children}
+    
 journal-id: 
   head: |
 
-    %% METADATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \newcommand{\journalid}{@@children}
 
 journal-title: 
   head: |
 
-    \newcommand{\journaltitle}{@@children} %%%%
+    \newcommand{\journaltitle}{@@children}
 
-abbrev-journal-title: 
+abbrev-journal-title:
   head: |
 
     \newcommand{\abbrevjournaltitle}{@@children}
+    
+publisher-name:
+  head: |
+  
+    \newcommand{\publishername}{@@children}
+
 
 pub-date: 
   head: |
 
     \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
-
-
-issn:
-  head: |
-
-    \newcommand{\issn}{@@children}
-
-
-publisher-name:
-  head: |
-
-    \newcommand{\publishername}{@@children}
 
 
 subject:
@@ -104,7 +102,7 @@ contrib:
 aff:
   head: |
     \affil[@@lua(
-      return attr('id')
+      return find('//label')
     )@@]{@@lua(
       return find('//institution')
     )@@}

@@ -1,0 +1,9 @@
+kwd-group:
+  |
+    @@lua(
+    return find('//title')
+    )@@
+
+  kwd: |
+
+  \textit{@@children}
