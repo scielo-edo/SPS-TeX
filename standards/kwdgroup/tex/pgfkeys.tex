@@ -1,0 +1,48 @@
+\documentclass{article}
+\usepackage{pgfkeys}
+
+%https://tex.stackexchange.com/questions/34312/how-to-create-a-command-with-key-values
+
+% Set up the keys.  Only the ones directly under /myparbox
+% can be accepted as options to the \myparbox macro.
+\pgfkeys{
+ /myparbox/.is family, /myparbox,
+ % Here are the options that a user can pass
+ default/.style = 
+  {width = \textwidth, height = \baselineskip,
+   position = center, inner position = center},
+ width/.estore in = \myparboxWidth,
+ height/.estore in = \myparboxHeight,
+ position/.style = {positions/#1/.get = \myparboxPosition},
+ inner position/.style = {positions/#1/.get = \myparboxInnerPos},
+ % Here is the dictionary for positions.
+ positions/.cd,
+  top/.initial = t,
+  center/.initial = c,
+  bottom/.initial = b,
+  stretch/.initial = s,
+}
+
+% We process the options first, then pass them to `\parbox` in the form of macros.
+\newcommand\myparbox[2][]{%
+ \pgfkeys{/myparbox, default, #1}%
+ \parbox[\myparboxPosition][\myparboxHeight]
+        [\myparboxInnerPos]{\myparboxWidth}{#2}
+}
+
+
+\begin{document}
+ % This should print "Some text, and"
+ % followed by "a box" raised about one line above the natural position
+ % followed by "and more text" after a large space.
+ Some text, and \myparbox[width = 50pt, height = 20pt, position = bottom, inner position = top]{a box} and more text.
+
+ % Should look pretty much like normal text, with slight offsets down and over around the box.
+ Some text, and \myparbox[width = 30pt]{a box} and more text.
+
+ % The box should have very spread-out lines
+ Some text, and
+ \myparbox[width = 30pt, height = 100pt, inner position = stretch]
+ {a box\par \vspace{\stretch{1}}with\par\vspace{\stretch{1}}words}
+ and more text.
+\end{document}
