@@ -7,14 +7,14 @@
 \usepackage{unicode-math}
 \usepackage{multirow}
 \usepackage{graphicx}
+\usepackage{etoolbox}
 \usepackage[brazilian]{babel}
 
-%% METADATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newcommand{\journalid}{urbe}
-\newcommand{\journaltitle}{urbe. Revista Brasileira de Gestão Urbana} %%%%
+\newcommand{\journaltitle}{urbe. Revista Brasileira de Gestão Urbana}
 \newcommand{\abbrevjournaltitle}{urbe, Rev. Bras. Gest.
 Urbana}
-\newcommand{\issn}{2175-3369}
+\newcommand{\issnepub}{2175-3369}
 \newcommand{\publishername}{Pontifícia Universidade Católica do Paraná}
 \newcommand{\subject}{Articles}
 \title{Planejamento urbano participativo por meio da utilização de novas
@@ -22,17 +22,21 @@ tecnologias: uma avaliação por especialistas}
 \newcommand{\transtitle}{Participatory urban planning through the use of new
 technologies:
 an evaluation by experts}
-%% METADATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\author[1]{Bugs, Geisa}
-\author[1]{Reis, Antônio Tarcísio da Luz}
-\affil[aff01]{Universidade FeevaleUniversidade FEEVALEUniversidade Feevale,
-Novo Hamburgo, RS,
-Brasil.}\affil[aff02]{Universidade Federal do Rio Grande do
+\author[a]{Bugs, Geis}
+\author[b]{Reis, Antônio Tarcísio da Luz}
+\affil[a]{Universidade FeevaleUniversidade FEEVALEUniversidade Feevale, Novo
+Hamburgo, RS, Brasil.}
+\affil[b]{Universidade Federal do Rio Grande do
 SulFaculdade de ArquiteturaUniversidade Federal do Rio Grande do
 SulUniversidade Federal do Rio Grande do Sul –
 UFRGS, Faculdade de Arquitetura, Programa de Pós-graduação em Planejamento
 Urbano - PROPUR, Porto Alegre, RS, Brasil.}
-\date{2016/12/08}
+\date{2016 12 08}
+\newcommand{\kwdgrouptrans}{\medskip\noindent {Palavras-chave: Planejamento
+participativo, PPSIG, TIC}}
+\newcommand{\kwdgroup}{\medskip\noindent {Keywords: Participatory planning,
+PPGIS, ICT}}
+
 
 \begin{document}
 
@@ -69,6 +73,7 @@ utilização de novas ferramentas, e que a PPSIG pode auxiliar na difícil taref
 de incorporar a perspectiva do usuário do espaço urbano, na opinião dos
 respondentes.
 
+\ifdef{\kwdgroup}{\kwdgroup}{}
 \end{abstract}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -90,14 +95,9 @@ participation and the use of new tools are accepted, and that PPSIG can help in
 the difficult task of incorporating the urban space users perspective, in the
 respondents opinion.
 
+\ifdef{\kwdgrouptrans}{\kwdgrouptrans}{}
 \end{abstract}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-Palavras-chave: \textit{Planejamento participativo}
-\textit{PPSIG}
-\textit{TIC}
-Keywords: \textit{Participatory planning}
-\textit{PPGIS}
-\textit{ICT}
 \section{Introdução}
 
 O planejamento urbano normalmente tem sido baseado na coleta e na troca de

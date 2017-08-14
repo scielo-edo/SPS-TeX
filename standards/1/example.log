@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  13 AUG 2017 09:18
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  14 AUG 2017 13:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -454,6 +454,10 @@ JK)
 \Gin@req@height=\dimen139
 \Gin@req@width=\dimen140
 )
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count138
+)
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2016/04/23 3.9r The Babel package
 
@@ -462,7 +466,7 @@ Language: portuges 2008/03/18 v1.2q Portuguese support from the babel system
 
 (/usr/share/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2016/04/23 3.9r Babel common definitions
-\babel@savecnt=\count138
+\babel@savecnt=\count139
 \U@D=\dimen141
 
 (/usr/share/texmf-dist/tex/generic/babel/xebabel.def))
@@ -471,23 +475,23 @@ Package babel Info: Making " an active character on input line 145.
 )) (./example.aux)
 \openout1 = `example.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-\g__fontspec_family_latinmodern-math.otf_int=\count139
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+\g__fontspec_family_latinmodern-math.otf_int=\count140
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -509,15 +513,15 @@ T:script=math;language=DFLT;+ssty=1;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 37.
+(Font)              `operators' in the math version `normal' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(0)/m/n on input
- line 37.
+ line 41.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 37.
+(Font)              `operators' in the math version `bold' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on inp
-ut line 37.
+ut line 41.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -568,15 +572,15 @@ Adjustment={\fontdimen
 . =2.5pt\relax \relax 
 .................................................
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 37.
+(Font)              `symbols' in the math version `normal' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
-t line 37.
+t line 41.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 37.
+(Font)              `symbols' in the math version `bold' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 37.
+ut line 41.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -610,37 +614,37 @@ Adjustment={\fontdimen
 . \relax \fontdimen 12\font =6.0pt\relax \relax \fontdimen 13\font =0pt\relax 
 .................................................
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 3
-7.
+(Font)              `largesymbols' in the math version `normal' on input line 4
+1.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 37.
+t line 41.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 37.
+(Font)              `largesymbols' in the math version `bold' on input line 41.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 37.
+ut line 41.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 39.
+(Font)              scaled to size 12.00018pt on input line 43.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 39.
+(Font)              scaled to size 8.00012pt on input line 43.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 39.
+(Font)              scaled to size 6.00009pt on input line 43.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 39.
+(Font)              scaled to size 11.99982pt on input line 43.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 39.
+(Font)              scaled to size 7.99988pt on input line 43.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 39.
+(Font)              scaled to size 5.99991pt on input line 43.
 
-Overfull \hbox (49.65703pt too wide) in paragraph at lines 45--53
+Overfull \hbox (49.65703pt too wide) in paragraph at lines 49--57
 \TU/lmr/m/n/10 Oxford Brookes University, e-mail: tarcisio.reis@ufrgs.br 000000
 00000309201512012016Este
  []
 
 
-Overfull \hbox (0.24597pt too wide) in paragraph at lines 55--71
+Overfull \hbox (0.24597pt too wide) in paragraph at lines 59--75
 []\TU/lmr/m/n/9 O objetivo deste artigo é avaliar a aceitação, por parte dos es
 pecialistas,
  []
@@ -654,10 +658,10 @@ Overfull \hbox (8.01588pt too wide) in paragraph at lines 303--303
 
 [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] (./example.aux) ) 
 Here is how much of TeX's memory you used:
- 14316 strings out of 493068
- 285484 string characters out of 6141028
- 447745 words of memory out of 5000000
- 18160 multiletter control sequences out of 15000+600000
+ 14621 strings out of 493068
+ 289002 string characters out of 6141028
+ 454511 words of memory out of 5000000
+ 18461 multiletter control sequences out of 15000+600000
  8495 words of font info for 39 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  42i,5n,71p,10379b,257s stack positions out of 5000i,500n,10000p,200000b,80000s

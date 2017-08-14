@@ -8,6 +8,7 @@ article:
     \usepackage{unicode-math}
     \usepackage{multirow}
     \usepackage{graphicx}
+    \usepackage{etoolbox}
 
     @@heads
     
@@ -28,8 +29,14 @@ article-title:
 
 issn:
   head: |
-  
-    \newcommand{\issn}{@@children}
+
+    \newcommand{@@lua(
+    pub_type = attr('pub-type')
+    if pub_type ~= '' then
+      return '\\issn' .. pub_type
+    end
+    return '\\issn'
+    )@@}{@@children}
     
 journal-id: 
   head: |
@@ -55,7 +62,7 @@ publisher-name:
 pub-date: 
   head: |
 
-    \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
+    \date{@@lua(return find "//year")@@ @@lua(return find "//month")@@ @@lua(return find "//day")@@}
 
 
 subject:
@@ -67,19 +74,25 @@ trans-title:
   head: |
 
       \newcommand{\transtitle}{@@children}
-      %% METADATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-
-
-
+kwd-group:
+  head: |
+  
+    \newcommand{@@lua(
+    lang = attr('xml:lang')
+    if lang ~= 'en' then
+      return '\\kwdgrouptrans'
+    end
+    return '\\kwdgroup'
+    )@@}{\medskip\noindent {@@lua(
+    title = find('//title')
+    keyword_list = findAll('//kwd')
+    return title .. table.concat(keyword_list, ', ') 
+    )@@}}
 
 codebold:
   head: |
     \code{@@children}
-
-kwd: |
-  \textit{@@children}
-
 
 
 
@@ -141,6 +154,7 @@ abstract: |
   \renewcommand{\abstractname}{@@lua(return find "//title")@@}
   \begin{abstract}
   @@lua(return find "//p")@@
+  \ifdef{\kwdgroup}{\kwdgroup}{}
   \end{abstract}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -149,6 +163,7 @@ trans-abstract: |
   \renewcommand{\abstractname}{@@lua(return find "//title")@@}
   \begin{abstract}
   @@lua(return find "//p")@@
+  \ifdef{\kwdgrouptrans}{\kwdgrouptrans}{}
   \end{abstract}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
