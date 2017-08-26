@@ -1,8 +1,15 @@
 kwd-group:
-  |
-    @@lua(
-    t = find('//title')
-    k = find('//kwd')
-    return t .. k
+  head: |
+    \newcommand{@@lua(
+    lang = attr('xml:lang')
+    if lang ~= 'en' then
+      return '\\kwdgrouptrans'
+    end
+    return '\\kwdgroup'
+    )@@}{\medskip\noindent{@@lua(
+    title = find('//title')
+    keyword_list = findAll('//kwd')
+    return title .. table.concat(keyword_list, ', ') 
     )@@
+    }
 
