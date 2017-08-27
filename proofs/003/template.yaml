@@ -183,7 +183,13 @@ aff:
     )@@}
 
 xref: |
-  (@@lua(return find('//sup'))@@)
+  (@@lua(
+  reftype = attr('fn')
+  if reftype ~= 'fn' then
+  return find('//sup')
+  end
+  return find('//sup')
+  )@@)
 
 break: "\n"
 
