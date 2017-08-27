@@ -1,0 +1,313 @@
+article:
+  head: |
+    \documentclass{article}
+
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc} %% *
+    \usepackage[portuges,spanish,english]{babel} %% *
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+    \usepackage{etoolbox}
+    \usepackage{xtab}
+    \usepackage[footnotesize,bf,hang]{caption}
+    \usepackage[nodayofweek,level]{datetime}
+    \selectlanguage{portuges}
+
+    @@heads
+    
+    \begin{document}
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \section*{Metadados não aplicados}
+    \begin{itemize}
+    \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
+    \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+    \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}] \abbrevjournaltitle}{}
+    \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
+    \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
+    \ifdef{\publishername}{\item[\textbf{publishername}] \publishername}{}
+    \ifdef{\subject}{\item[\textbf{subject}] \subject}{} 
+    \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
+    \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
+    \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
+    \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
+    \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
+    \ifdef{\lpage}{\item[\textbf{lpage}] \lpage}{}
+    \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
+    \end{itemize}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+    \maketitle
+
+    @@bodies
+
+    \end{document}
+
+sub-article: ""
+
+article-title:
+  head: |
+
+    \title{@@children}
+
+issn:
+  head: |
+
+    \newcommand{@@lua(
+    pub_type = attr('pub-type')
+    if pub_type ~= '' then
+      return '\\issn' .. pub_type
+    end
+    return '\\issn'
+    )@@}{@@children}
+    
+journal-id: 
+  head: |
+
+    \newcommand{\journalid}{@@children}
+
+journal-title: 
+  head: |
+
+    \newcommand{\journaltitle}{@@children}
+
+abbrev-journal-title:
+  head: |
+
+    \newcommand{\abbrevjournaltitle}{@@children}
+    
+publisher-name:
+  head: |
+  
+    \newcommand{\publishername}{@@children}
+
+author-notes:
+  head: |
+
+    \def\authornotes{@@children}
+
+article-id:
+  head: |
+
+    \def\articleid{DOI @@children}
+
+volume:
+  head: |
+
+    \def\volume{@@children}
+
+issue:
+  head: |
+
+    \def\issue{@@children}
+
+fpage:
+  head: |
+
+    \def\fpage{@@children}
+
+lpage:
+  head: |
+
+    \def\lpage{@@children}
+
+permissions:
+  head: |
+
+    \def\permissions{@@children}
+
+
+pub-date: 
+  head: |
+
+    \date{\selectlanguage{portuges}\formatdate{@@lua(return find "//day")@@}{@@lua(return find "//month")@@}{@@lua(return find "//year")@@}}
+
+
+subject:
+  head: |
+
+    \def\subject{@@children}
+
+trans-title:
+  head: |
+
+      \newcommand{\transtitle}{@@children}
+
+kwd-group:
+  head: |
+  
+    \newcommand{@@lua(
+    lang = attr('xml:lang')
+    if lang ~= 'pt' then
+      return '\\kwdgroup' .. lang
+    end
+    return '\\kwdgroup'
+    )@@}{\medskip\noindent{@@lua(
+    title = find('//title')
+    keyword_list = findAll('//kwd')
+    return title .. table.concat(keyword_list, ', ') 
+    )@@}}
+
+codebold:
+  head: |
+    \code{@@children}
+
+
+
+back: ""
+
+name: |
+  @@lua(
+  s = find "//surname"
+  g = find "//given-names"
+  return s .. ", " .. g
+  )@@
+
+contrib:
+  head: |
+
+    \author[@@lua(
+      return find('//xref')
+    )@@]{@@children}
+
+aff:
+  head: |
+    \affil[@@lua(
+      return find('//label')
+    )@@]{@@lua(
+      return find('//institution')
+    )@@}
+
+xref: |
+  (@@lua(return find('//sup'))@@)
+
+break: "\n"
+
+p: |
+
+  @@lua(
+    align_to_ragged = {
+      ["center"] = "Center",
+      ["left"] = "FlushLeft",
+      ["right"] = "FlushRight",
+    }
+
+    if attr('align') == nil then
+      return children()
+    end
+
+    env = align_to_ragged[attr('align')]
+    if env == nil then
+      return children()
+    end
+
+    return string.format([[
+      \begin{%s}
+      %s
+      \end{%s}
+    ]], env, children(), env)
+  )@@
+
+
+abstract: |
+
+  \selectlanguage{portuges}
+  % \renewcommand{\abstractname}{@@lua(return find "//title")@@}
+  \begin{abstract}
+  @@lua(return find "//p")@@
+  \ifdef{\kwdgroup}{\kwdgroup}{}
+  \end{abstract}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+trans-abstract: |
+
+  \selectlanguage{spanish}
+  % \renewcommand{\abstractname}{@@lua(return find "//title")@@}
+  \begin{abstract}
+  @@lua(return find "//p")@@
+  \ifdef{\kwdgroupes}{\kwdgroupes}{}
+  \ifdef{\kwdgroupen}{\kwdgroupen}{}
+  \end{abstract}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+graphic: |
+  @@lua(return attr('xlink:href'))@@
+
+
+fig: |
+
+  \begin{figure}
+  \caption{@@lua(return find "//title")@@}
+  \end{figure}
+
+
+b: |
+  \textbf{@@children}
+
+
+sec: |
+  \section{@@lua(return find('//title'))@@}
+  @@lua(return find('//p'))@@
+
+table: |
+
+  \begin{table}
+  \begin{xtabular}{@@heads}
+  \hline
+  @@bodies
+  \end{xtabular}
+  \end{table}
+
+thead/tr:
+
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('//th'))
+      do
+        ret[i] = 'l'
+      end
+      return ' ' .. table.concat(ret, ' | ') .. ' '
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(findAll('//th'), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+italic: |
+  \textit{@@children}
+
+tbody/tr: |
+  @@lua(
+    return table.concat(findAll('//td'), ' & ') .. '\\\\ \\hline \n'
+  )@@
+
+td: |
+  @@lua(
+    output = children()
+
+    if attr('colspan') ~= "" then
+      output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
+    end
+
+    if attr('rowspan') ~= "" then
+      output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
+    end
+
+    return output
+  )@@
+
+
+date: ""
+
+
+
+
+
+
