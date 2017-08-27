@@ -11,6 +11,7 @@ article:
     \usepackage{multirow}
     \usepackage{graphicx}
     \usepackage{etoolbox}
+    \usepackage{xtab}
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
     \selectlanguage{portuges}
@@ -142,13 +143,11 @@ kwd-group:
   
     \newcommand{@@lua(
     lang = attr('xml:lang')
-    if lang ~= 'en' then
-      return '\\kwdgrouptrans'
+    if lang ~= 'pt' then
+      return '\\kwdgroup' .. lang
     end
     return '\\kwdgroup'
-    )@@}{
-    \selectlanguage{portuges}
-    \medskip\noindent\textbf{Palavras-chave}: {@@lua(
+    )@@}{\medskip\noindent{@@lua(
     title = find('//title')
     keyword_list = findAll('//kwd')
     return title .. table.concat(keyword_list, ', ') 
@@ -229,21 +228,22 @@ trans-abstract: |
   % \renewcommand{\abstractname}{@@lua(return find "//title")@@}
   \begin{abstract}
   @@lua(return find "//p")@@
-  \ifdef{\kwdgrouptrans}{\kwdgrouptrans}{}
+  \ifdef{\kwdgroupes}{\kwdgroupes}{}
+  \ifdef{\kwdgroupen}{\kwdgroupen}{}
   \end{abstract}
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-graphic: |
-  @@lua(return attr('xlink:href'))@@
-
-
-fig: |
-
+fig : |
   \begin{figure}
+  \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
   \caption{@@lua(return find "//title")@@}
   \end{figure}
-
+  
+graphic: |
+  @@lua(
+  return attr "xlink:href"
+  )@@
 
 b: |
   \textbf{@@children}
@@ -254,10 +254,13 @@ sec: |
   @@lua(return find('//p'))@@
 
 table: |
-  \begin{tabular}{@@heads}
+
+  \begin{table}
+  \begin{xtabular}{@@heads}
   \hline
   @@bodies
-  \end{tabular}
+  \end{xtabular}
+  \end{table}
 
 thead/tr:
   head: |
@@ -267,7 +270,7 @@ thead/tr:
       do
         ret[i] = 'l'
       end
-      return '| ' .. table.concat(ret, ' | ') .. ' |'
+      return ' ' .. table.concat(ret, ' | ') .. ' '
     )@@
 
   body: |
