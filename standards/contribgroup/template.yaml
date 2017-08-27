@@ -1,0 +1,22 @@
+name: |
+  @@lua(
+  s = find "//surname"
+  g = find "//given-names"
+  return g .. " " .. s
+  )@@
+
+contrib:
+  head: |
+
+    \author[@@lua(
+      return find('//xref')
+    )@@]{@@children}
+
+aff:
+  head: |
+
+    \affil[@@lua(
+      return find('//label')
+    )@@]{@@lua(
+      return find('//institution')
+    )@@}

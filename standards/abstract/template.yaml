@@ -1,0 +1,213 @@
+article:
+  head: |
+    \documentclass{article}
+
+    \usepackage[T1]{fontenc}
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+
+    @@heads
+    
+    \begin{document}
+
+
+    \maketitle
+
+    @@bodies
+
+    \end{document}
+
+article-title:
+  head: |
+
+    \title{@@children}
+
+
+issn:
+  head: |
+  
+    \newcommand{\issn}{@@children}
+    
+journal-id: 
+  head: |
+
+    \newcommand{\journalid}{@@children}
+
+journal-title: 
+  head: |
+
+    \newcommand{\journaltitle}{@@children}
+
+abbrev-journal-title:
+  head: |
+
+    \newcommand{\abbrevjournaltitle}{@@children}
+    
+publisher-name:
+  head: |
+  
+    \newcommand{\publishername}{@@children}
+
+
+pub-date: 
+  head: |
+
+    \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
+
+
+subject:
+  head: |
+
+    \newcommand{\subject}{@@children}
+
+trans-title:
+  head: |
+
+      \newcommand{\transtitle}{@@children}
+      %% METADATA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+
+codebold:
+  head: |
+    \code{@@children}
+
+kwd: |
+  \textit{@@children}
+
+
+
+
+back: ""
+
+name: |
+  @@lua(
+  s = find "//surname"
+  g = find "//given-names"
+  return s .. ", " .. g
+  )@@
+
+contrib:
+  head: |
+
+    \author[@@lua(
+      return find('//xref')
+    )@@]{@@children}
+
+aff:
+  head: |
+    \affil[@@lua(
+      return find('//label')
+    )@@]{@@lua(
+      return find('//institution')
+    )@@}
+
+break: "\n"
+
+
+p: |
+
+  @@lua(
+    align_to_ragged = {
+      ["center"] = "Center",
+      ["left"] = "FlushLeft",
+      ["right"] = "FlushRight",
+    }
+
+    if attr('align') == nil then
+      return children()
+    end
+
+    env = align_to_ragged[attr('align')]
+    if env == nil then
+      return children()
+    end
+
+    return string.format([[
+      \begin{%s}
+      %s
+      \end{%s}
+    ]], env, children(), env)
+  )@@
+
+
+abstract: |
+
+  \renewcommand{\abstractname}{@@lua(return find "//title")@@}
+  \begin{abstract}
+  @@lua(return find "//p")@@
+  \ifdef{\kwdgroup}{\kwdgroup}{}
+  \end{abstract}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+trans-abstract: |
+
+  \renewcommand{\abstractname}{@@lua(return find "//title")@@}
+  \begin{abstract}
+  @@lua(return find "//p")@@
+  \end{abstract}
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+b: |
+  \textbf{@@children}
+
+sup: |
+  \textsuperscript{th}
+
+sec: |
+  \section{@@lua(return find('//title'))@@}
+  @@lua(return find('//p'))@@
+
+table: |
+  \begin{tabular}{@@heads}
+  \hline
+  @@bodies
+  \end{tabular}
+
+thead/tr:
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('//th'))
+      do
+        ret[i] = 'l'
+      end
+      return '| ' .. table.concat(ret, ' | ') .. ' |'
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(findAll('//th'), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+tbody/tr: |
+  @@lua(
+    return table.concat(findAll('//td'), ' & ') .. '\\\\ \\hline \n'
+  )@@
+
+td: |
+  @@lua(
+    output = children()
+
+    if attr('colspan') ~= "" then
+      output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
+    end
+
+    if attr('rowspan') ~= "" then
+      output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
+    end
+
+    return output
+  )@@
+
+fig: ""
+
+
