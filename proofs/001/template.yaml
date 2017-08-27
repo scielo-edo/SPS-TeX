@@ -234,13 +234,16 @@ trans-abstract: |
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
+graphic: |
+  @@lua(return attr('xlink:href'))@@
+
+
 fig: |
 
   \begin{figure}
-  \includegraphics[width=\textwidth]{0034-8910-rsp-47-04-0791-gf01}
-  % FIGURA %%%%%%%%%%%%%%%%%%%%%%%%%%%
   \caption{@@lua(return find "//title")@@}
   \end{figure}
+
 
 b: |
   \textbf{@@children}

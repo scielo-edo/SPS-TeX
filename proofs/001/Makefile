@@ -12,6 +12,9 @@ pdf:
 	evince $(TAG).pdf
 pdf-modelo:
 	evince MODELO.pdf
+git:
+	-git add .
+	-git commit -m "General edition"
 clean:
 	-rm *.aux *.log
 
