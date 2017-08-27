@@ -27,4 +27,10 @@ git:
 
 clean:
 	-rm *.aux *.log
+update:
+	-cp Makefile ..
+	-cp template.yaml ..
+upgrade:
+	-cp ../Makefile .
+	-cp ../template.yaml .
 

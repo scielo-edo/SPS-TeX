@@ -139,6 +139,18 @@
         <kwd>Sistema Único de Saúde</kwd>
         <kwd>Garantia da Qualidade dos Cuidados de Saúde</kwd>
       </kwd-group>
+      <kwd-group xml:lang="es">
+        <kwd>Segurança do Paciente</kwd>
+        <kwd>Avaliação de Programas e Projetos de Saúde</kwd>
+        <kwd>Sistema Único de Saúde</kwd>
+        <kwd>Garantia da Qualidade dos Cuidados de Saúde</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="en">
+        <kwd>Segurança do Paciente</kwd>
+        <kwd>Avaliação de Programas e Projetos de Saúde</kwd>
+        <kwd>Sistema Único de Saúde</kwd>
+        <kwd>Garantia da Qualidade dos Cuidados de Saúde</kwd>
+      </kwd-group>
       <counts>
         <fig-count count="2"/>
         <ref-count count="23"/>

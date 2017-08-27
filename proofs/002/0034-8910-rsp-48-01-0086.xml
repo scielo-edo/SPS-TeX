@@ -1,0 +1,2296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.0" article-type="research-article" xml:lang="pt">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+			<journal-title-group>
+				<journal-title>Revista de Saúde Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0034-8910</issn>
+			<issn pub-type="epub">1518-8787</issn>
+			<publisher>
+				<publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>			
+			<article-id pub-id-type="doi">10.1590/S0034-8910.2014048004540</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artigos Originais</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="pt">Sorteio intradomiciliar em inquéritos de saúde</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Sorteo intra-domiciliar en pesquisa de salud</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Alves</surname>
+						<given-names>Maria Cecilia Goi Porto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>I</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Escuder</surname>
+						<given-names>Maria Mercedes Loureiro</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>I</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Claro</surname>
+						<given-names>Rafael Moreira</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>II</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Silva</surname>
+						<given-names>Nilza Nunes da</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3">
+						<sup>III</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>I</label>
+				<institution content-type="orgdiv1">Instituto de Saúde</institution>
+				<institution content-type="orgname">Secretaria de Estado da Saúde de São Paulo</institution>
+				<addr-line>
+					<named-content content-type="city">São Paulo</named-content>
+					<named-content content-type="state">SP</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Instituto de Saúde. Secretaria de Estado da Saúde de São Paulo. São Paulo, SP, Brasil</institution>
+			</aff>
+			<aff id="aff2">
+				<label>II</label>
+				<institution content-type="orgdiv1">Departamento de Nutrição</institution>
+				<institution content-type="orgname">Universidade Federal de Minas Gerais</institution>
+				<addr-line>
+					<named-content content-type="city">Belo Horizonte</named-content>
+					<named-content content-type="state">MG</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Departamento de Nutrição. Universidade Federal de Minas Gerais. Belo Horizonte, MG, Brasil</institution>
+			</aff>
+			<aff id="aff3">
+				<label>III</label>
+				<institution content-type="orgdiv2">Departamento de Epidemiologia</institution>
+				<institution content-type="orgdiv1">Faculdade de Saúde Pública</institution>
+				<institution content-type="orgname">Universidade de São Paulo</institution>
+				<addr-line>
+					<named-content content-type="city">São Paulo</named-content>
+					<named-content content-type="state">SP</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Departamento de Epidemiologia. Faculdade de Saúde Pública. Universidade de São Paulo. São Paulo, SP, Brasil</institution>
+			</aff>
+			<author-notes>
+				<corresp>
+					<label>Correspondência | Correspondence</label>: Maria Cecilia Goi Porto Alves. Rua Santo Antônio, 590. 01314-000 São Paulo, SP, Brasil. E-mail: <email>cecilia@isaude.sp.gov.br</email>
+				</corresp>
+				<fn fn-type="conflict">
+					<p>Os autores declaram não haver conflito de interesses.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<month>02</month>
+				<year>2014</year>
+			</pub-date>
+			<volume>48</volume>
+			<issue>1</issue>
+			<fpage>86</fpage>
+			<lpage>93</lpage>
+			<history>
+				<date date-type="received">
+					<day>6</day>
+					<month>9</month>
+					<year>2012</year>
+				</date>
+				<date date-type="accepted">
+					<day>4</day>
+					<month>9</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract xml:lang="pt">
+				<sec>
+					<title>OBJETIVO</title>
+					<p> : Comparar a eficiência e a acurácia de delineamentos de amostragem com e sem sorteio intradomiciliar em inquéritos de saúde.</p>
+				</sec>
+				<sec>
+					<title>MÉTODOS</title>
+					<p> : Com base nos dados de um inquérito realizado na Baixada Santista, SP, entre 2006 e 2007, foram retiradas 1.000 amostras sob cada um dos delineamentos e, em cada amostra, foram obtidas estimativas para pessoas de 18 a 59 anos de idade e de 18 anos e mais. Sob o primeiro, foram sorteados 40 setores censitários, 12 domicílios por setor e uma pessoa por domicílio. Na análise, os dados foram ponderados pelo número de adultos residentes nos domicílios. Sob o segundo, foram sorteados 40 setores, seis domicílios por setor para o grupo de 18 a 59 anos de idade e cinco ou seis domicílios para o grupo de 18 anos e mais. Não houve sorteio dentro do domicílio. Medidas de precisão e de vício das estimativas de proporção para 11 indicadores foram calculadas nos dois conjuntos finais das amostras selecionadas para os dois tipos de delineamentos. Estes foram comparados por meio das medidas relativas: coeficiente de variação, razão vício/média, razão vício/erro padrão e erro quadrático médio relativo. O custo foi comparado considerando custo básico por pessoa, custo por domicílio e números de pessoas e domicílios.</p>
+				</sec>
+				<sec>
+					<title>RESULTADOS</title>
+					<p> : Os vícios mostraram-se desprezíveis nos dois delineamentos. A precisão foi maior para o delineamento sem sorteio e o custo foi menor.</p>
+				</sec>
+				<sec>
+					<title>CONCLUSÕES</title>
+					<p> : O delineamento sem sorteio intradomicilar mostrou-se superior em termos de eficiência e acurácia, devendo ser a opção preferencial do pesquisador. O sorteio de moradores deve ser adotado quando houver razões referentes ao objeto de estudo que possam levar à introdução de vícios nas respostas dos entrevistados no caso de vários moradores responderem ao questionário proposto.</p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<p>OBJETIVO: Comparar la eficiencia y la precisión de delineamientos de muestreo con y sin sorteo intra-domiciliar en pesquisas de salud.</p>
+				<p>MÉTODOS: Con base en los datos de una pesquisa realizada en la Baixada Santista, SP – Brasil, entre 2006 y 2007, se retiraron 1.000 muestras considerando cada uno de los delineamientos y, en cada muestra, se obtuvo estimativas para personas de 18 a 59 años de edad y de 18 años y más. En el primero, fueron sorteados 40 sectores censados, 12 domicilios por sector y una persona por domicilio. En el análisis, los datos fueron ponderados por el número de adultos residentes en los domicilios. En el segundo, se sortearon 40 sectores, seis domicilios por sector para el grupo de 18 a 59 años de edad y cinco o seis domicilios para el grupo de 18 años y más. No hubo sorteo dentro del domicilio. Medidas de precisión y de vicio de las estimativas de proporción para 11 indicadores fueron calculadas en los dos conjuntos finales de muestras seleccionadas para los dos tipos de delineamientos. Ambos fueron comparados por medio de medidas relativas: coeficiente de variación, cociente vicio/promedio, cociente vicio/desviación estándar y desviación media cuadrática relativa. El costo fue comparado considerando costo básico por persona, costo por domicilio y número de personas y domicilios.</p>
+				<p>RESULTADOS: Los vicios se mostraron insignificantes en los dos delineamientos. La precisión fue mayor para el delineamiento sin sorteo y el costo fue menor.</p>
+				<p>CONCLUSIONES: El delineamiento sin sorteo intra-domiciliar se mostró superior en términos de eficiencia y precisión, siendo la opción preferencial del investigador. El sorteo de la población debe ser adoptado cuando existan motivos relacionados con el objeto de estudio que puedan llevar a la introducción de vicios en las respuestas de los entrevistados en el caso de que varios de ellos respondan al cuestionario propuesto.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="pt">
+				<kwd>Inquéritos Epidemiológicos, métodos</kwd>
+				<kwd>Inquéritos Demográficos</kwd>
+				<kwd>Amostragem por Conglomerados</kwd>
+				<kwd>Amostragem</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<kwd>Encuestas Epidemiológicas, métodos</kwd>
+				<kwd>Encuestas Demográficas</kwd>
+				<kwd>Muestreo por Conglomerados</kwd>
+				<kwd>Muestreo</kwd>
+			</kwd-group>
+			<counts>
+				<table-count count="8"/>
+				<ref-count count="17"/>
+				<page-count count="8"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>INTRODUÇÃO</title>
+			<p>Em inquéritos de base populacional em que amostras em múltiplos estágios são retiradas, o domicílio é sempre utilizado como unidade de amostragem em algum desses estágios. Considerando que as pessoas são os elementos de interesse de tais inquéritos, o domicílio deve ser visto como um conglomerado, na medida em que engloba ou pode englobar vários elementos.</p>
+			<p>Há, portanto, duas opções para os delineamentos de amostragem a serem utilizados: considerar o domicílio como unidade de último estágio e incluir na amostra todos os moradores que preencham os critérios estabelecidos<xref ref-type="fn" rid="fn1">
+					<sup>a</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="fn" rid="fn2">
+					<sup>b</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="fn" rid="fn3">
+					<sup>c</sup>
+				</xref> ou considerar a inclusão no delineamento de mais um estágio de seleção e sortear um ou mais moradores de cada domicílio.<xref ref-type="fn" rid="fn4">
+					<sup>d</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="fn" rid="fn5">
+					<sup>e</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="fn" rid="fn6">
+					<sup>f</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="fn" rid="fn7">
+					<sup>g</sup>
+				</xref>
+			</p>
+			<p>O primeiro deles é o mais frequentemente utilizado<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref> e tem como principal vantagem a possibilidade, em função da ausência de sorteio intradomiciliar, de manter a equiprobabilidade de amostras que tenham sido originalmente concebidas com essa propriedade. Por outro lado, entrevistar várias pessoas de uma mesma família poderia diminuir a precisão das estimativas como consequência da homogeneidade existente dentro dos domicílios.</p>
+			<p>Com o sorteio intradomiciliar e a consequente inclusão na amostra de um número maior de domicílios, esse problema seria contornado. Haveria necessidade, no entanto, de utilizar pesos de amostragem para compensar as diferentes probabilidades de seleção, o que também acarretaria uma diminuição da precisão das estimativas.</p>
+			<p>O sorteio de pessoas no domicílio é o procedimento mais adequado quando questões sensíveis estão presentes nos questionários e supõe-se que as respostas de um entrevistado podem influenciar as de outros membros da família.<xref ref-type="bibr" rid="B5">
+					<sup>5</sup>
+				</xref> Tem sido adotado, ainda, em algumas pesquisas nas quais o questionário é excessivamente longo, acreditando-se que as taxas de resposta poderiam ser afetadas se a entrevista for percebida como onerosa pelos respondentes.<xref ref-type="bibr" rid="B5">
+					<sup>5</sup>
+				</xref> Nesses casos, os sorteios são usualmente realizados utilizando procedimentos propostos por Kish, adaptados ou não,<xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B9">
+					<sup>9</sup>
+				</xref> ou com base em técnicas que selecionam os indivíduos a partir de suas datas de aniversários.<xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B14">
+					<sup>14</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B16">
+					<sup>16</sup>
+				</xref>
+			</p>
+			<p>Há pouca literatura sobre sorteio intradomiciliar. Faltam estudos que discutam quantas pessoas devem ser selecionadas nos domicílios e o impacto das diversas alternativas disponíveis nas estatísticas produzidas.</p>
+			<p>O objetivo deste estudo foi comparar a eficiência e a acurácia de delineamentos de amostragem sem sorteio intradomiciliar e com sorteio de uma única pessoa.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>MÉTODOS</title>
+			<p>Tomou-se como ponto de partida o inquérito domiciliar sobre acesso a serviços de saúde da Baixada Santista, SP, realizado entre 2006 e 2007, no qual haviam sido realizadas 6.826 entrevistas em 2.189 domicílios de 100 setores censitários, incluindo-se na amostra todas as pessoas residentes nos domicílios sorteados.<xref ref-type="fn" rid="fn8">
+					<sup>h</sup>
+				</xref>
+			</p>
+			<p>O tamanho dessa amostra e a inclusão de todas as pessoas dos domicílios, com exceção dos que se recusaram a participar do inquérito, permitiram que ela fosse a população de estudo deste trabalho. Dessa forma, do conjunto de dados do inquérito, foram sorteadas 1.000 amostras sob cada um dos delineamentos em avaliação, com e sem sorteio intradomiciliar. Em cada amostra, foram obtidas estimativas para dois grupos populacionais: o de adultos (18 a 59 anos de idade) e o de adultos e idosos em conjunto (18 anos e mais). Esses grupos foram escolhidos por constituírem, com frequência, populações alvo de inquéritos de saúde.</p>
+			<p>O primeiro delineamento considerou três estágios de seleção: setor censitário, domicílio e indivíduo. Foram sorteados 40 setores censitários com probabilidade proporcional ao tamanho e, posteriormente, 12 domicílios por setor e uma pessoa por domicílio. O tamanho planejado da amostra foi de 480 pessoas. Para compensar as diferenças nas probabilidades de seleção, foram introduzidos pesos equivalentes aos números de adultos ou adultos e idosos existentes nos domicílios selecionados.</p>
+			<p>O segundo delineamento considerou dois estágios de seleção: setor censitário e domicílio. Foram também sorteados 40 setores censitários com probabilidade proporcional ao tamanho e seis domicílios por setor para adultos e cinco ou seis domicílios (média de 5,66) para adultos e idosos. Não houve sorteio dentro do domicílio. Todas as pessoas dos grupos populacionais de interesse residentes nos domicílios sorteados foram entrevistadas. Considerando, respectivamente, razões de dois adultos e de 2,12 adultos e idosos por domicílio, esperava-se alcançar 480 entrevistas em cada amostra.</p>
+			<p>O aplicativo Stata Versão 11.2 foi empregado para a produção de uma estrutura de <italic>looping</italic> capaz de produzir as 1.000 amostras utilizadas em cada um dos delineamentos em avaliação. A função <italic>runiform</italic> foi utilizada para o estabelecimento de um ponto aleatório para início do sorteio dos setores e, a seguir, dos domicílios. O comando <italic>sample</italic> foi utilizado para a seleção aleatória do morador dentro de cada um dos domicílios nos delineamentos com sorteio intradomiciliar.</p>
+			<p>As frações de amostragem utilizadas no sorteio das amostras e outros aspectos referentes aos planos de amostragem estão apresentados na <xref ref-type="table" rid="t01">Tabela 1</xref>.</p>
+			<p>
+				<table-wrap id="t01">
+					<label>Tabela 1</label>
+					<caption>
+						<title>Aspectos referentes aos delineamentos de amostragem. Região Metropolitana da Baixada Santista, SP, 2006-2007.</title>
+					</caption>
+					<graphic xlink:href="0034-8910-rsp-48-01-0086-gt01"/>
+				</table-wrap>
+			</p>
+			<p>Para a obtenção das estimativas utilizadas, foram escolhidos 11 indicadores de saúde do Inquérito Domiciliar sobre Acesso a Serviços de Saúde da Baixada Santista,<xref ref-type="fn" rid="fn9">
+					<sup>i</sup>
+				</xref> agrupados em três categorias, a saber: 1. Situação de saúde (auto avaliação de saúde como ruim ou péssima; não realização das atividades habituais nos últimos 15 dias; referência à hipertensão; referência a diabetes; ingestão de bebida alcoólica nos últimos três meses); 2. Uso e acesso a serviços de saúde (uso de medicamento para hipertensão na última semana; necessidade de atendimento de saúde nos últimos 15 dias; procura de atendimento de saúde nos últimos 15 dias; prescrição de algum medicamento nesse atendimento) e 3. Condição socioeconômica (posse de plano de saúde suplementar e posse de oito ou mais bens domésticos).</p>
+			<p>Medidas de precisão e de vício das estimativas de proporção para cada indicador considerado foram calculadas nos dois conjuntos finais das 1.000 amostras selecionadas sob os dois tipos de delineamentos.</p>
+			<p>A média da distribuição de frequência, estimativa do valor esperado do estimador do parâmetro P, foi calculada por: <inline-formula>
+					<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii01"/>
+				</inline-formula> , sendo <italic>p</italic>
+				<sub>
+					<italic>i</italic>
+				</sub> a proporção estimada na amostra<italic> i</italic>. O erro padrão do estimador foi calculado por: <inline-formula>
+					<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii02"/>
+				</inline-formula>; o vício por: Vic(p)=E(p)-P, e o erro quadrático médio, indicador da acurácia do estimador, por: EQM(p)=[DP(p)]<sup>2</sup>+[Vic(p)]<sup>2</sup>.</p>
+			<p>Os delineamentos de amostragem foram comparados por meio de medidas relativas.<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref> A precisão foi comparada pelo coeficiente de variação <inline-formula>
+					<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii03"/>
+				</inline-formula>, o vício por meio do vício relativo (razão entre o vício e a média)<inline-formula>
+					<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii04"/>
+				</inline-formula> e a acurácia por meio do erro quadrático médio relativo, <inline-formula>
+					<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii05"/>
+				</inline-formula>. Para detectar o impacto do vício nas inferências por intervalo de confiança, foi empregada a razão entre o vício e o erro padrão <inline-formula>
+					<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii06"/>
+				</inline-formula>, adotando critério proposto por Cochran.<xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref> Se o vício for menor que a décima parte do erro padrão da estimativa (razão menor que 0,10), será considerado desprezível.</p>
+			<p>Considerou-se que a eficiência de um delineamento diz respeito ao grau de adequação entre as exigências de precisão e vício das estimativas e o custo de obtê-las. Kish<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref> propõe que a comparação entre o custo dos delineamentos com sorteio de uma única pessoa e sem sorteio intradomiciliar seja feita pela expressão: custo = nc + m.dc, em que <italic>c</italic> é o custo básico por elemento (pessoa), igual para os dois delineamentos, tais como: aplicação de questionários e processamento de dados; <italic>dc</italic> é o custo de incluir um domicílio, tais como: custo de pedir permissão para entrar no domicílio, de conseguir cooperação dos moradores e de realizar a listagem de moradores; <italic>n</italic> é número de pessoas e <italic>m</italic> é o número de domicílios.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>RESULTADOS</title>
+			<p>Foram inicialmente calculadas as proporções populacionais para as variáveis do estudo e as médias das estimativas obtidas sob os dois delineamentos em avaliação, com e sem sorteio intradomiciliar, para os dois grupos populacionais de interesse, adultos e o conjunto de adultos e idosos (<xref ref-type="table" rid="t02">Tabela 2</xref>).</p>
+			<p>
+				<table-wrap id="t02">
+					<label>Tabela 2</label>
+					<caption>
+						<title>Parâmetros para proporções (P) de adultos e de adultos/idosos e médias das distribuições de frequência [E(p)], segundo delineamento com sorteio (del1) e sem sorteio (del2). Região Metropolitana da Baixada Santista, SP, 2006-2007.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="15%">
+							<col width="1%"/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th colspan="2" rowspan="2" align="left">Proporções</th>
+								<th rowspan="2">P</th>
+								<th colspan="2">E(p) <hr/>  </th>
+							</tr>
+							<tr>
+								<th>del1</th>
+								<th>del2</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td colspan="2" rowspan="1">Adultos</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui 8 ou mais bens domésticos</td>
+								<td align="center">46,237</td>
+								<td align="center">46,128</td>
+								<td align="center">46,344</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Auto avaliação ruim</td>
+								<td align="center">10,755</td>
+								<td align="center">10,806</td>
+								<td align="center">10,752</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Deixou de realizar atividade nos últimos 15 dias</td>
+								<td align="center">13,177</td>
+								<td align="center">13,197</td>
+								<td align="center">13,175</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere hipertensão</td>
+								<td align="center">17,637</td>
+								<td align="center">17,632</td>
+								<td align="center">17,612</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Tomou medicamentos para HA nos últimos 15 dias</td>
+								<td align="center">70,781</td>
+								<td align="center">70,799</td>
+								<td align="center">70,921</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere diabetes</td>
+								<td align="center">4,805</td>
+								<td align="center">4,814</td>
+								<td align="center">4,798</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui convenio ou plano de saúde</td>
+								<td align="center">42,313</td>
+								<td align="center">42,273</td>
+								<td align="center">42,394</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Precisou de atendimento de saúde nos últimos 15dias</td>
+								<td align="center">19,374</td>
+								<td align="center">19,434</td>
+								<td align="center">19,322</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Foi receitado algum medicamento nesse atendimento</td>
+								<td align="center">59,429</td>
+								<td align="center">59,440</td>
+								<td align="center">59,294</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Consulta odontológica no último ano</td>
+								<td align="center">44,304</td>
+								<td align="center">44,207</td>
+								<td align="center">44,353</td>
+							</tr>
+							<tr>
+								<td colspan="2" rowspan="1">Adultos e idosos</td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui 8 ou mais bens domésticos</td>
+								<td align="center">46,472</td>
+								<td align="center">46,326</td>
+								<td align="center">46,275</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Auto avaliação ruim</td>
+								<td align="center">13,228</td>
+								<td align="center">13,236</td>
+								<td align="center">13,185</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Deixou de realizar atividade nos últimos 15 dias</td>
+								<td align="center">13,476</td>
+								<td align="center">13,562</td>
+								<td align="center">13,321</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere hipertensão</td>
+								<td align="center">22,698</td>
+								<td align="center">22,617</td>
+								<td align="center">22,567</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Tomou medicamentos para HA nos últimos 15 dias</td>
+								<td align="center">78,026</td>
+								<td align="center">77,898</td>
+								<td align="center">78,284</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere diabetes</td>
+								<td align="center">7,286</td>
+								<td align="center">7,286</td>
+								<td align="center">7,256</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui convênio ou plano de saúde</td>
+								<td align="center">43,267</td>
+								<td align="center">43,331</td>
+								<td align="center">43,344</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Precisou de atendimento de saúde nos últimos 15dias</td>
+								<td align="center">20,093</td>
+								<td align="center">20,199</td>
+								<td align="center">20,046</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Foi receitado algum medicamento nesse atendimento</td>
+								<td align="center">57,638</td>
+								<td align="center">57,435</td>
+								<td align="center">57,185</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Consulta odontológica no último ano</td>
+								<td align="center">41,808</td>
+								<td align="center">41,857</td>
+								<td align="center">41,880</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<p>HA: Hipertensão arterial</p>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>As diferenças entre a esperança do estimador <italic>p</italic> e o parâmetro populacional, equivalente ao vício do estimador, foram semelhantes para os dois delineamentos. Isso pode ser atestado pela proximidade das estimativas do vício relativo. As diferenças, à exceção de uma delas, situaram-se na terceira casa decimal (<xref ref-type="table" rid="t03">Tabela 3</xref>). As razões entre o vício e o erro padrão foram menores que 0,10, indicando vícios desprezíveis para ambos os delineamentos.</p>
+			<p>
+				<table-wrap id="t03">
+					<label>Tabela 3</label>
+					<caption>
+						<title>Razões vício/média e vício/erro, segundo delineamento de amostragem com sorteio (del1) e sem sorteio (del2). Região Metropolitana da Baixada Santista, SP, 2006-2007.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="20%">
+							<col width="1%"/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th colspan="2" rowspan="3" align="left">Estimadores</th>
+								<th colspan="2">Vício/média</th>
+								<th colspan="2">Vício/erro</th>
+							</tr>
+							<tr>
+								<th colspan="4" rowspan="1">
+									<hr/>
+								</th>
+							</tr>
+							<tr>
+								<th>del1</th>
+								<th>del2</th>
+								<th>del1</th>
+								<th>del2</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td colspan="2" rowspan="1">Adultos</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui 8 ou mais bens domésticos</td>
+								<td align="center">0,0024</td>
+								<td align="center">0,0023</td>
+								<td align="center">0,034</td>
+								<td align="center">0,027</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Auto avaliação ruim</td>
+								<td align="center">0,0048</td>
+								<td align="center">0,0002</td>
+								<td align="center">0,034</td>
+								<td align="center">0,002</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Deixou de realizar atividade nos últimos 15 dias</td>
+								<td align="center">0,0015</td>
+								<td align="center">0,0002</td>
+								<td align="center">0,012</td>
+								<td align="center">0,001</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere hipertensão</td>
+								<td align="center">0,0003</td>
+								<td align="center">0,0014</td>
+								<td align="center">0,003</td>
+								<td align="center">0,015</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Tomou medicamentos para HA nos últimos 15 dias</td>
+								<td align="center">0,0003</td>
+								<td align="center">0,0020</td>
+								<td align="center">0,003</td>
+								<td align="center">0,028</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere diabetes</td>
+								<td align="center">0,0019</td>
+								<td align="center">0,0015</td>
+								<td align="center">0,008</td>
+								<td align="center">0,007</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui convenio ou plano de saúde</td>
+								<td align="center">0,0009</td>
+								<td align="center">0,0019</td>
+								<td align="center">0,014</td>
+								<td align="center">0,025</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Precisou de atendimento de saúde nos últimos 15dias</td>
+								<td align="center">0,0031</td>
+								<td align="center">0,0027</td>
+								<td align="center">0,030</td>
+								<td align="center">0,029</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Foi receitado algum medicamento nesse atendimento</td>
+								<td align="center">0,0002</td>
+								<td align="center">0,0023</td>
+								<td align="center">0,002</td>
+								<td align="center">0,027</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Consulta odontológica no último ano</td>
+								<td align="center">0,0022</td>
+								<td align="center">0,0011</td>
+								<td align="center">0,038</td>
+								<td align="center">0,019</td>
+							</tr>
+							<tr>
+								<td colspan="2" rowspan="1">Adultos e idosos</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui 8 ou mais bens domésticos</td>
+								<td align="center">0,0031</td>
+								<td align="center">0,0043</td>
+								<td align="center">0,046</td>
+								<td align="center">0,049</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Auto avaliação ruim</td>
+								<td align="center">0,0006</td>
+								<td align="center">0,0033</td>
+								<td align="center">0,005</td>
+								<td align="center">0,027</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Deixou de realizar atividade nos últimos 15 dias</td>
+								<td align="center">0,0064</td>
+								<td align="center">0,0116</td>
+								<td align="center">0,052</td>
+								<td align="center">0,097</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere hipertensão</td>
+								<td align="center">0,0036</td>
+								<td align="center">0,0058</td>
+								<td align="center">0,038</td>
+								<td align="center">0,066</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Tomou medicamentos para HA nos últimos 15 dias</td>
+								<td align="center">0,0016</td>
+								<td align="center">0,0033</td>
+								<td align="center">0,030</td>
+								<td align="center">0,064</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere diabetes</td>
+								<td align="center">0,0001</td>
+								<td align="center">0,0041</td>
+								<td align="center">0,000</td>
+								<td align="center">0,024</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui convênio ou plano de saúde</td>
+								<td align="center">0,0015</td>
+								<td align="center">0,0018</td>
+								<td align="center">0,022</td>
+								<td align="center">0,022</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Precisou de atendimento de saúde nos últimos 15dias</td>
+								<td align="center">0,0052</td>
+								<td align="center">0,0023</td>
+								<td align="center">0,051</td>
+								<td align="center">0,025</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Foi receitado algum medicamento nesse atendimento</td>
+								<td align="center">0,0035</td>
+								<td align="center">0,0079</td>
+								<td align="center">0,034</td>
+								<td align="center">0,086</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Consulta odontológica no último ano</td>
+								<td align="center">0,0012</td>
+								<td align="center">0,0017</td>
+								<td align="center">0,019</td>
+								<td align="center">0,029</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<p>HA: Hipertensão arterial</p>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+			<p>A comparação entre os coeficientes de variação indica que existência de sorteio intradomiciliar levou a aumento do erro de amostragem para a maior parte das variáveis (<xref ref-type="table" rid="t04">Tabela 4</xref>). Esse resultado se reflete nas medidas de acurácia. Para 80,0% das variáveis, as estimativas do erro quadrático médio relativo foram inferiores no delineamento sem sorteio nos domicílios.</p>
+			<p>
+				<table-wrap id="t04">
+					<label>Tabela 4</label>
+					<caption>
+						<title>Coeficiente de variação [CV(p)] e erro quadrático médio relativo [EQMR(p)], segundo delineamento de amostragem com sorteio (del1) e sem sorteio (del2). Região Metropolitana da Baixada Santista, SP, 2006-2007.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="20%">
+							<col width="1%"/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th colspan="2" rowspan="3" align="left">Estimadores</th>
+								<th colspan="2">CV (p)</th>
+								<th colspan="2">EQMR (p)</th>
+							</tr>
+							<tr>
+								<th colspan="4" rowspan="1">
+									<hr/>
+								</th>
+							</tr>
+							<tr>
+								<th>del1</th>
+								<th>del2</th>
+								<th>del1</th>
+								<th>del2</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td colspan="2" rowspan="1">Adultos</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui 8 ou mais bens domésticos</td>
+								<td align="center">6,902</td>
+								<td align="center">8,642</td>
+								<td align="center">0,005</td>
+								<td align="center">0,007</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Auto avaliação ruim</td>
+								<td align="center">14,200</td>
+								<td align="center">13,336</td>
+								<td align="center">0,020</td>
+								<td align="center">0,018</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Deixou de realizar atividade nos últimos 15 dias</td>
+								<td align="center">12,823</td>
+								<td align="center">10,996</td>
+								<td align="center">0,016</td>
+								<td align="center">0,012</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere hipertensão</td>
+								<td align="center">11,040</td>
+								<td align="center">9,519</td>
+								<td align="center">0,012</td>
+								<td align="center">0,009</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Tomou medicamentos para hipertensão arterial nos últimos 15 dias</td>
+								<td align="center">7,496</td>
+								<td align="center">7,000</td>
+								<td align="center">0,006</td>
+								<td align="center">0,005</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere diabetes</td>
+								<td align="center">24,610</td>
+								<td align="center">21,606</td>
+								<td align="center">0,061</td>
+								<td align="center">0,047</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui convênio ou plano de saúde</td>
+								<td align="center">6,606</td>
+								<td align="center">7,647</td>
+								<td align="center">0,004</td>
+								<td align="center">0,006</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Precisou de atendimento de saúde nos últimos 15dias</td>
+								<td align="center">10,238</td>
+								<td align="center">9,267</td>
+								<td align="center">0,010</td>
+								<td align="center">0,009</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Foi receitado algum medicamento nesse atendimento</td>
+								<td align="center">9,849</td>
+								<td align="center">8,594</td>
+								<td align="center">0,010</td>
+								<td align="center">0,007</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Consulta odontológica no último ano</td>
+								<td align="center">5,715</td>
+								<td align="center">5,697</td>
+								<td align="center">0,003</td>
+								<td align="center">0,003</td>
+							</tr>
+							<tr>
+								<td colspan="2" rowspan="1">Adultos e idosos</td>
+								<td> </td>
+								<td> </td>
+								<td> </td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui 8 ou mais bens domésticos</td>
+								<td align="center">6,846</td>
+								<td align="center">8,638</td>
+								<td align="center">0,005</td>
+								<td align="center">0,007</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Auto avaliação ruim</td>
+								<td align="center">12,267</td>
+								<td align="center">12,132</td>
+								<td align="center">0,015</td>
+								<td align="center">0,015</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Deixou de realizar atividade nos últimos 15 dias</td>
+								<td align="center">12,231</td>
+								<td align="center">12,004</td>
+								<td align="center">0,015</td>
+								<td align="center">0,015</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere hipertensão</td>
+								<td align="center">9,333</td>
+								<td align="center">8,838</td>
+								<td align="center">0,009</td>
+								<td align="center">0,008</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Tomou medicamentos para hipertensão arterial nos últimos 15 dias</td>
+								<td align="center">5,502</td>
+								<td align="center">5,159</td>
+								<td align="center">0,003</td>
+								<td align="center">0,003</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Refere diabetes</td>
+								<td align="center">19,736</td>
+								<td align="center">17,182</td>
+								<td align="center">0,039</td>
+								<td align="center">0,030</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Possui convênio ou plano de saúde</td>
+								<td align="center">6,760</td>
+								<td align="center">7,933</td>
+								<td align="center">0,005</td>
+								<td align="center">0,006</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Precisou de atendimento de saúde nos últimos 15dias</td>
+								<td align="center">10,292</td>
+								<td align="center">9,228</td>
+								<td align="center">0,011</td>
+								<td align="center">0,009</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Foi receitado algum medicamento nesse atendimento</td>
+								<td align="center">10,330</td>
+								<td align="center">9,223</td>
+								<td align="center">0,011</td>
+								<td align="center">0,009</td>
+							</tr>
+							<tr>
+								<td> </td>
+								<td>Consulta odontológica no último ano</td>
+								<td align="center">6,105</td>
+								<td align="center">5,923</td>
+								<td align="center">0,004</td>
+								<td align="center">0,004</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+			<p>Em relação ao custo, considerando o número de pessoas incluídas na amostra nos dois delineamentos, 480, e os números de domicílios: 480 no delineamento com sorteio e 240 (para adultos) e 226 ou 227 (para adultos e idosos) no delineamento sem sorteio, tem-se que os custos foram maiores para este último. Para adultos, foram pesquisados 240 domicílios a mais; para adultos e idosos em conjunto, 254 domicílios a mais.</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>DISCUSSÃO</title>
+			<p>Os resultados do presente estudo indicam que, nas condições em que as amostras foram sorteadas, o delineamento que não prevê o sorteio dentro do domicílio é superior em termos de acurácia ao que preconiza o sorteio de uma pessoa por domicílio. Embora as diferenças não sejam grandes, o menor custo do primeiro delineamento agrega mais uma vantagem, confirmando sua superioridade. Em geral, um desenho ótimo é desenvolvido determinando o efeito no custo e na variância de procedimentos alternativos de amostragem e escolhendo o que minimiza a variância para um custo fixo.<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref>
+			</p>
+			<p>Os números médios de adultos dentro dos domicílios e o de adultos e idosos, em conjunto, foram baixos: 2 e 2,12, respectivamente. Nessa situação, a concentração de entrevistas nos domicílios não é grande, o que favorece a opção de não realizar o sorteio.<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref> Isso ocorre em diversos inquéritos, tanto os que são dirigidos para grupos populacionais específicos,<xref ref-type="bibr" rid="B3">
+					<sup>3</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B17">
+					<sup>17</sup>
+				</xref> como os que definem domínios de idade ou sexo.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref> Nestes, a homogeneidade intradomiciliar não é relevante uma vez que as análises são conduzidas para grupos populacionais específicos e para os quais há, geralmente, pequena aglomeração no nível domiciliar.<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref> Krenzke et al<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref> confirmam que, quando há múltiplos domínios de interesse, é frequentemente melhor entrevistar mais de uma pessoa dentro do domicílio.</p>
+			<p>O efeito de conglomerado é um dos fatores que aumenta a variância das estimativas obtidas nos inquéritos. No entanto, para amostras em múltiplos estágios, o impacto na variância da homogeneidade dentro dos domicílios é afetado pela homogeneidade existente nas unidades de amostragem anteriores. Assim sendo, o impacto incremental da conglomeração dentro de domicílios pode ser amortecido pela dominação dos componentes de variância do primeiro estágio de seleção.<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref>
+			</p>
+			<p>No presente estudo, somente os dois indicadores para os quais eram esperados valores iguais para os moradores de um mesmo domicílio (posse de plano de saúde e número de bens no domicílio) apresentaram erros de amostragem maiores sob o delineamento sem sorteio. Embora o estudo desses indicadores não se constitua objeto de pesquisas na área de saúde, é possível supor que existam indicadores “de saúde” para os quais a correlação intradomicílio seja extremamente alta, como ocorre quando estimativas são exatamente iguais para todos os moradores dos domicílios. Nessas situações, a superioridade do delineamento sem sorteio deixa de existir.</p>
+			<p>Krenzke et al<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref> avaliaram diversas regras de seleção referentes ao número de adultos sorteados dentro dos domicílios em delineamentos de quatro estágios: sorteio de um adulto independente do número existente; sorteio de um adulto se houver até dois e sorteio de dois para mais adultos; sorteio de um adulto se houver até três e de dois para mais adultos; sorteio de um adulto se houver até quatro e de dois para mais adultos; e sorteio de um ou dois adultos, sendo o tamanho da amostra uma fração. Os autores propuseram uma forma de computar o efeito do delineamento devido à homogeneidade domiciliar. Mediram, então, a redução percentual da função variância/custo para as várias estratégias propostas em relação à de “um adulto sorteado” e verificaram que a homogeneidade domiciliar teve pequeno impacto na redução dessa função. A função variância/custo levou em conta a função custo proposta por Kish,<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref> que inclui o custo de inclusão de uma pessoa e de um domicílio, e os efeitos de delineamento devido à conglomeração e à ponderação. Mostraram, ainda, que a redução foi fortemente influenciada pelo nível de dominação dos componentes de variância dos dois primeiros estágios de seleção.</p>
+			<p>O efeito de conglomerado não é o único fator que aumenta a variância. Esse aumento também pode ser causado pela utilização de pesos no cálculo das estimativas, decorrente da seleção de indivíduos com probabilidades distintas dentro dos domicílios. Por meio de pesos, cada observação feita na pessoa sorteada é repetida tantas vezes quantas forem os moradores existentes no domicílio, inflacionando o efeito do delineamento. Assim, a probabilidade de seleção passa a depender do número de pessoas no domicílio e o aumento da variância estará diretamente relacionado ao coeficiente de variação desses tamanhos.<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref> O efeito do delineamento total é, sob algumas condições, o produto do efeito do delineamento devido ao sorteio de conglomerados e do efeito do delineamento devido à ponderação dos dados.</p>
+			<p>Dentre os fatores que têm sido apontados como favoráveis ao sorteio intradomiciliar inclui-se a possibilidade de que as taxas de respostas sejam afetadas pela sobrecarga que os moradores podem sentir com a realização de várias entrevistas no mesmo domicílio.<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref> No entanto, estudos recentes têm mostrado resultados que contradizem essa avaliação. Mohadjer et al<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref> consideram que a seleção de amostras maiores dentro dos domicílios é uma abordagem com impacto favorável nas taxas de resposta do <italic>National Health and Nutrition Examination Survey</italic>. Esse inquérito prevê a realização de exames sorológicos e torna-se conveniente para os membros do domicílio ir juntos ao centro de exames. As taxas de resposta para o delineamento sem sorteio foram superiores às obtidas com sorteio (acréscimo de 3,8 a 6,9 pontos percentuais, dependendo do tipo de domicílio). Da mesma forma, Krenzke et al<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref> não observaram diferenças estatisticamente significantes nas taxas de resposta obtidas sob delineamentos com sorteio de uma ou de duas pessoas por domicílio na <italic>National Assessment of Adult Literacy</italic>.</p>
+			<p>Há ainda outros fatores que podem ser levados em conta ao se optar pela realização ou não do sorteio intradomicilar. Contrário ao sorteio está o interesse no estudo da dependência entre valores para diferentes pessoas de um mesmo domicílio.</p>
+			<p>A favor do sorteio, menciona-se a existência de perguntas sensíveis nos questionários, cujas respostas podem ter a qualidade comprometida ao serem respondidas por mais de uma pessoa do domicílio.<xref ref-type="bibr" rid="B5">
+					<sup>5</sup>
+				</xref> Foreman<xref ref-type="bibr" rid="B7">
+					<sup>7</sup>
+				</xref> também aventa a possibilidade de que a reação à entrevista de um dos moradores contamine a resposta de outros, especialmente quando as entrevistas são muito longas ou desconfortáveis. Na mesma linha de argumentação, Kish<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref> afirma que um dos motivos para não realizar mais que uma entrevista por domicílio é evitar que o respondente tenha oportunidade de discutir as questões previamente.</p>
+			<p>No presente estudo, o custo foi representado pelo número de domicílios, uma vez que o número de pessoas entrevistadas foi igual nos dois delineamentos comparados. O custo de inclusão de um domicílio na amostra é considerado sempre superior ao de inclusão de uma pessoa por envolver a realização da listagem de todos os moradores e o deslocamento entre endereços, quando as entrevistas são face-a-face. Esse deslocamento ocorre em diversos momentos do processo de coleta de dados: identificação dos moradores dos domicílios, realização da entrevista, retornos para reversão da não resposta, supervisão e controle de qualidade.</p>
+			<p>Em nosso estudo, a amostra de domicílios sob o delineamento sem sorteio foi metade daquela obtida no delineamento com sorteio, mostrando-se, portanto, mais econômica. Esse é um aspecto relevante a ser considerado nos inquéritos domiciliares com entrevistas face-a-face realizados na área de saúde pública, uma vez que a diminuição de gastos é alternativa sempre desejada.</p>
+			<p>Deve-se considerar, ainda, que o sorteio de pessoas dentro dos domicílios aumenta a complexidade das amostras. É necessário treinar o entrevistador para que, em campo, utilize procedimentos adequados de sorteio que evitem a introdução de vícios. É necessário, ainda, que sejam utilizados pesos que compensem as diferenças na probabilidade de seleção dos indivíduos da amostra, produzidas pelo sorteio de um número fixo de moradores (um, em geral) na presença de diferentes números de moradores. A não introdução desses pesos, como não raro ocorre em análises de dados advindos de inquéritos que utilizam o sorteio intradomiciliar, produz estimativas viciadas.</p>
+			<p>Os resultados deste estudo mostraram que o delineamento sem sorteio dentro do domicílio é mais eficiente, devendo ser a opção preferencial do pesquisador. O sorteio de moradores deve ser adotado quando houver razões referentes ao objeto de estudo que possam levar à introdução de vícios nas respostas dos entrevistados caso vários moradores respondam ao questionário proposto.</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>REFERÊNCIAS</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>Bastos TF, Alves MCGP, Barros MBA, Cesar CLG. A saúde dos homens: desigualdades sociais em estudo de base populacional. <italic>Cad Saude Publica.</italic> 2012;28(11):2133-42. DOI:10.1590/S0102-311X2012001100013</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bastos</surname>
+							<given-names>TF</given-names>
+						</name>
+						<name>
+							<surname>Alves</surname>
+							<given-names>MCGP</given-names>
+						</name>
+						<name>
+							<surname>Barros</surname>
+							<given-names>MBA</given-names>
+						</name>
+						<name>
+							<surname>Cesar</surname>
+							<given-names>CLG</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">A saúde dos homens: desigualdades sociais em estudo de base populacional</article-title>
+					<source>Cad Saude Publica</source>
+					<year>2012</year>
+					<volume>28</volume>
+					<issue>11</issue>
+					<fpage>2133</fpage>
+					<lpage>2142</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0102-311X2012001100013</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>Berquó ES. Selección de unidades de información en encuestas demográficas: un método para construir tablas de sorteio. Santiago: CELADE; 1975 (Notas de Población, 3).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Berquó</surname>
+							<given-names>ES</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="es">Selección de unidades de información en encuestas demográficas: un método para construir tablas de sorteio</source>
+					<publisher-loc>Santiago</publisher-loc>
+					<publisher-name>CELADE</publisher-name>
+					<year>1975</year>
+					<comment>Notas de Población, 3</comment>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>Berquó ES, Garcia S, Lima L. Reprodução na juventude: perfis sociodemográficos, comportamentais e reprodutivos na PNDS 2006. <italic>Rev Saude Publica. </italic>2012;46(4):685-93. DOI:10.1590/S0034-89102012005000048</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Berquó</surname>
+							<given-names>ES</given-names>
+						</name>
+						<name>
+							<surname>Garcia</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Lima</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Reprodução na juventude: perfis sociodemográficos, comportamentais e reprodutivos na PNDS 2006</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2012</year>
+					<volume>46</volume>
+					<issue>4</issue>
+					<fpage>685</fpage>
+					<lpage>693</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0034-89102012005000048</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>Clark RG, Steel DG. Sampling within households in household surveys. <italic>J Royal Statist Soc Series A.</italic> 2007;170(1):63-82. DOI:10.1111/j.1467-985X.2006.00434.x</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Clark</surname>
+							<given-names>RG</given-names>
+						</name>
+						<name>
+							<surname>Steel</surname>
+							<given-names>DG</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Sampling within households in household surveys</article-title>
+					<source>J Royal Statist Soc Series A</source>
+					<year>2007</year>
+					<volume>170</volume>
+					<issue>1</issue>
+					<fpage>63</fpage>
+					<lpage>82</lpage>
+					<pub-id pub-id-type="doi">10.1111/j.1467-985X.2006.00434.x</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>Clark RG, Steel DG. The effect of using household as a sampling unit. <italic>Int Statist Rev</italic>. 2002;70(2):289-314.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Clark</surname>
+							<given-names>RG</given-names>
+						</name>
+						<name>
+							<surname>Steel</surname>
+							<given-names>DG</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The effect of using household as a sampling unit</article-title>
+					<source>Int Statist Rev</source>
+					<year>2002</year>
+					<volume>70</volume>
+					<issue>2</issue>
+					<fpage>289</fpage>
+					<lpage>314</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>Cochran WG. Sampling techniques. 3. ed. New York: John Wiley &amp; Sons; 1977.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cochran</surname>
+							<given-names>WG</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Sampling techniques</source>
+					<edition>3. ed</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+					<year>1977</year>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>Foreman E. Survey sampling principles. New York: Marcel Dekker; 1991.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Foreman</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Survey sampling principles</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Marcel Dekker</publisher-name>
+					<year>1991</year>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>Kish L, Frankel MR. Inference from complex samples. <italic>J Rl Stat Soc. Series B Stat Methodol.</italic>1974;36:1-37.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kish</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Frankel</surname>
+							<given-names>MR</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Inference from complex samples</article-title>
+					<source>J Rl Stat Soc. Series B Stat Methodol</source>
+					<year>1974</year>
+					<volume>36</volume>
+					<fpage>1</fpage>
+					<lpage>37</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>Kish L. A procedure for objetive respondent selection within the household. <italic>Amer Statist Assoc J.</italic> 1949;44(247):380-7. DOI:10.1080/01621459.1949.10483314</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kish</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">A procedure for objetive respondent selection within the household</article-title>
+					<source>Amer Statist Assoc J</source>
+					<year>1949</year>
+					<volume>44</volume>
+					<issue>247</issue>
+					<fpage>380</fpage>
+					<lpage>387</lpage>
+					<pub-id pub-id-type="doi">10.1080/01621459.1949.10483314</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>Kish L. Survey sampling. New York: John Wiley &amp; Sons; 1965.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kish</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Survey sampling</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+					<year>1965</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>Krenzkle T, Li L, Rust K. Evaluating within household selection rules under a multi-stage design. <italic>Surv Methodol.</italic> 2010;36(1):111-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Krenzkle</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Li</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Rust</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Evaluating within household selection rules under a multi-stage design</article-title>
+					<source>Surv Methodol</source>
+					<year>2010</year>
+					<volume>36</volume>
+					<issue>1</issue>
+					<fpage>111</fpage>
+					<lpage>119</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation>Mohadjer L, Curtin LR. N. Balancing sample design goals for the National Health and Nutrition Examination Survey. <italic>Surv Methodol. </italic>2008;34(1):119-26.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mohadjer</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Curtin</surname>
+							<given-names>LR. N</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Balancing sample design goals for the National Health and Nutrition Examination Survey</article-title>
+					<source>Surv Methodol</source>
+					<year>2008</year>
+					<volume>34</volume>
+					<issue>1</issue>
+					<fpage>119</fpage>
+					<lpage>126</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation>O’Rourke D, Blair J. Improving random respondent selection in telephone surveys. <italic>J Marketing Res.</italic> 1983;20(4):428-32.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>O’Rourke</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Blair</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Improving random respondent selection in telephone surveys</article-title>
+					<source>J Marketing Res</source>
+					<year>1983</year>
+					<volume>20</volume>
+					<issue>4</issue>
+					<fpage>428</fpage>
+					<lpage>432</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation>Oldendick RW, Bishop GF, Sorenson SB, Tuchfarber AJ. A comparison of the Kish and last birthday methods of respondent selection in telephone surveys. <italic>J Official Statist.</italic> 1988;4(4):307-18.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Oldendick</surname>
+							<given-names>RW</given-names>
+						</name>
+						<name>
+							<surname>Bishop</surname>
+							<given-names>GF</given-names>
+						</name>
+						<name>
+							<surname>Sorenson</surname>
+							<given-names>SB</given-names>
+						</name>
+						<name>
+							<surname>Tuchfarber</surname>
+							<given-names>AJ</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">A comparison of the Kish and last birthday methods of respondent selection in telephone surveys</article-title>
+					<source>J Official Statist</source>
+					<year>1988</year>
+					<volume>4</volume>
+					<issue>4</issue>
+					<fpage>307</fpage>
+					<lpage>318</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation>Roncalli AG, Silva NN, Nascimento AC, Freitas CHSM, Casotti E, Peres KG, et al. Aspectos metodológicos do Projeto SBBrasil 2010 de interesse para inquéritos nacionais de saúde. <italic>Cad Saude Publica.</italic> 2012;28Suppl:40-57. DOI:10.1590/S0102-311X2012001300006</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Roncalli</surname>
+							<given-names>AG</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>NN</given-names>
+						</name>
+						<name>
+							<surname>Nascimento</surname>
+							<given-names>AC</given-names>
+						</name>
+						<name>
+							<surname>Freitas</surname>
+							<given-names>CHSM</given-names>
+						</name>
+						<name>
+							<surname>Casotti</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Peres</surname>
+							<given-names>KG</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="pt">Aspectos metodológicos do Projeto SBBrasil 2010 de interesse para inquéritos nacionais de saúde</article-title>
+					<source>Cad Saude Publica</source>
+					<year>2012</year>
+					<volume>28</volume>
+					<supplement>Suppl</supplement>
+					<fpage>40</fpage>
+					<lpage>57</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0102-311X2012001300006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation>Salmon CT, Nichols JS. The next-birthday method of respondent selection. <italic>Public Opinion Q.</italic> 1983;47(2):270-6. DOI:10.1086/268785</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salmon</surname>
+							<given-names>CT</given-names>
+						</name>
+						<name>
+							<surname>Nichols</surname>
+							<given-names>JS</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The next-birthday method of respondent selection</article-title>
+					<source>Public Opinion Q</source>
+					<year>1983</year>
+					<volume>47</volume>
+					<issue>2</issue>
+					<fpage>270</fpage>
+					<lpage>276</lpage>
+					<pub-id pub-id-type="doi">10.1086/268785</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation>Silva NN. Processo de amostragem. In: Lebrão ML, Duarte YAO. O projeto SABE no Município de São Paulo: uma abordagem inicial. Brasília (DF): Organização Pan-Americana da Saúde; 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silva</surname>
+							<given-names>NN</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="pt">Processo de amostragem</chapter-title>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lebrão</surname>
+							<given-names>ML</given-names>
+						</name>
+						<name>
+							<surname>Duarte</surname>
+							<given-names>YAO</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">O projeto SABE no Município de São Paulo: uma abordagem inicial</source>
+					<publisher-loc>Brasília (DF)</publisher-loc>
+					<publisher-name>Organização Pan-Americana da Saúde</publisher-name>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn fn-type="presented-at">
+				<p>Trabalho apresentado no VIII Congresso de Epidemiologia, São Paulo, SP, 2011 e na III Escola de Amostragem e Metodologia de Pesquisa, Juiz de Fora, MG, 2011.</p>
+			</fn>
+			<fn id="fn1">
+				<label>a </label>
+				<p> Instituto Brasileiro de Geografia e Estatística (BR). Pesquisa Nacional por Amostra de Domicílios. Brasília (DF); [s.d.].</p>
+			</fn>
+			<fn id="fn2">
+				<label>b </label>
+				<p> Centers for Disease Control and Prevention (US). National Health Interview Survey. Washington (DC); [s.d.].</p>
+			</fn>
+			<fn id="fn3">
+				<label>c </label>
+				<p> National Centre for Social Research (UK). Health Survey for England. Londres; [s.d.].</p>
+			</fn>
+			<fn id="fn4">
+				<label>d </label>
+				<p> Fundação Oswaldo Cruz (BR). Pesquisa Mundial de Saúde no Brasil. Rio de Janeiro; [s.d.].</p>
+			</fn>
+			<fn id="fn5">
+				<label>e </label>
+				<p> Centers for Disease Control and Prevention (US). National Health and Nutrition Examination. Washington (DC); [s.d.].</p>
+			</fn>
+			<fn id="fn6">
+				<label>f </label>
+				<p> Institut de Veille Sanitaire (FR). Etude Nationale Nutrition Santé. Paris ; [s.d.].</p>
+			</fn>
+			<fn id="fn7">
+				<label>g </label>
+				<p> Statistics Canadá (CA). Canadian Community Health Survey. Ottawa; [s.d.].</p>
+			</fn>
+			<fn id="fn8">
+				<label>h </label>
+				<p> Alves MCGP, Escuder MML. Plano de amostragem. In. Escuder MML, Monteiro PHN, Pupo LR. Acesso aos serviços de saúde em municípios da baixada santista. São Paulo: Instituto de saúde; 2009. (Temas em saúde coletiva, 8).</p>
+			</fn>
+			<fn id="fn9">
+				<label>i </label>
+				<p> Escuder MML, Monteiro PHN, Pupo LR. Acesso aos serviços de saúde em municípios da baixada santista. São Paulo: Instituto de saúde; 2009. (Temas em saúde coletiva, 8).</p>
+			</fn>
+			<fn fn-type="financial-disclosure">
+				<p>Trabalho financiado pelo Projeto de Expansão e Consolidação do Programa da Saúde da Família – PROESF 2006 do Ministério da Saúde.</p>
+			</fn>
+		</fn-group>
+	</back>
+	<sub-article article-type="translation" id="TRen" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Selection within households in health surveys</article-title>
+			</title-group>
+			<author-notes>
+				<corresp>
+					<label>Correspondence</label>: Maria Cecilia Goi Porto Alves. Rua Santo Antônio, 590. 01314-000 São Paulo, SP, Brasil. E-mail: <email>cecilia@isaude.sp.gov.br</email>
+				</corresp>
+				<fn fn-type="conflict">
+					<p>The authors declare that there are no conflicts of interest.</p>
+				</fn>
+			</author-notes>
+			<abstract xml:lang="en">
+				<sec>
+					<title>OBJECTIVE</title>
+					<p> : To compare the efficiency and accuracy of sampling designs including and excluding the sampling of individuals within sampled households in health surveys.</p>
+				</sec>
+				<sec>
+					<title>METHODS</title>
+					<p> : From a population survey conducted in Baixada Santista Metropolitan Area, SP, Southeastern Brazil, lowlands between 2006 and 2007, 1,000 samples were drawn for each design and estimates for people aged 18 to 59 and 18 and over were calculated for each sample. In the first design, 40 census tracts, 12 households per sector, and one person per household were sampled. In the second, no sampling within the household was performed and 40 census sectors and 6 households for the 18 to 59-year old group and 5 or 6 for the 18 and over age group or more were sampled. Precision and bias of proportion estimates for 11 indicators were assessed in the two final sets of the 1000 selected samples with the two types of design. They were compared by means of relative measurements: coefficient of variation, bias/mean ratio, bias/standard error ratio, and relative mean square error. Comparison of costs contrasted basic cost per person, household cost, number of people, and households.</p>
+				</sec>
+				<sec>
+					<title>RESULTS</title>
+					<p> : Bias was found to be negligible for both designs. A lower precision was found in the design including individuals sampling within households, and the costs were higher.</p>
+				</sec>
+				<sec>
+					<title>CONCLUSIONS</title>
+					<p> : The design excluding individual sampling achieved higher levels of efficiency and accuracy and, accordingly, should be first choice for investigators. Sampling of household dwellers should be adopted when there are reasons related to the study subject that may lead to bias in individual responses if multiple dwellers answer the proposed questionnaire.</p>
+				</sec>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<kwd>Health Surveys, methods</kwd>
+				<kwd>Population Surveys</kwd>
+				<kwd>Cluster Sampling</kwd>
+				<kwd>Sampling Studies</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>INTRODUCTION</title>
+				<p>In population-based surveys in which multiple stages are selected, the household is always used as a sampling unit at one of these stages. Considering that people are the elements which are of real interest in such surveys, the household should be viewed as a cluster, as it encompasses various elements.</p>
+				<p>There are, then, two options for sample designs which could be used: to consider the household as the final sampling unit and include all inhabitants meeting the established criteria in the sample<xref ref-type="fn" rid="fn1_en">
+						<sup>a</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="fn" rid="fn2_en">
+						<sup>b</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="fn" rid="fn3_en">
+						<sup>c</sup>
+					</xref> or to consider including one more stage in the selection and select one or more inhabitant per household.<xref ref-type="fn" rid="fn4_en">
+						<sup>d</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="fn" rid="fn5_en">
+						<sup>e</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="fn" rid="fn6_en">
+						<sup>f</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="fn" rid="fn8_en">
+						<sup>g</sup>
+					</xref>
+				</p>
+				<p>The former is the most commonly used option<xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref> and the main advantage is that, due to there being no intra-household selection, it is possible to maintain the self-weighting samples for those that had originally been designed with this property. On the other hand, interview various individuals in the same family may diminish the precision of the estimates, as a consequence of homogeneity within the households. With inter-household sampling and the consequent inclusion of a greater number of households in the sample, this problem would be avoided. It would, however, be necessary to use sampling weights to compensate for the different probabilities of selection, which also implies lower precision of the estimates.</p>
+				<p>Selecting individuals in the household is the most appropriate procedure when there are sensitive issues in the questionnaire and supposes that the responses of one interviewee may influence other family members responses.<xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref> Some pieces of research in which the questionnaire is excessively long have adopted this approach, believing that the rates of response may be affected if the interview is perceived as onerous by the respondents.<xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref> In these cases, the selection usually takes place using the procedures proposed by Kish, adapted or otherwise,<xref ref-type="bibr" rid="B2">
+						<sup>2</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B9">
+						<sup>9</sup>
+					</xref> or based on techniques for selecting individuals based on the dates of their birthdays.<xref ref-type="bibr" rid="B13">
+						<sup>13</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B14">
+						<sup>14</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B16">
+						<sup>16</sup>
+					</xref>
+				</p>
+				<p>There is little literature on intra-household selection. There is a lack of studies discussing how many individuals should be selected in the households and the impact of the various available alternatives on the statistics produced.</p>
+				<p>The aim of this study was to compare the efficiency and accuracy of sample designs without inter-household selection and selecting one single individual.</p>
+			</sec>
+			<sec sec-type="methods">
+				<title>METHODS</title>
+				<p>The starting point was the household survey on access to health care services in Baixada Santista, SP, Southeastern Brazil, which took place between 2006 and 2007, in which 6,826 interviews were conducted in 2,189 households in 100 census tracts, in which all residents in the selected household were included in the sample.<xref ref-type="fn" rid="fn9_en">
+						<sup>h</sup>
+					</xref>
+				</p>
+				<p>The sample size and the inclusion of all household residents, with the exception of those which refused to participate in the survey, enabled this to became the study population. Thus, 1,000 samples were selected from the data set from the survey following each of the designs in question, with and without intra-household sampling. In each sample, estimates were obtained for the two population groups: one group was of adults (aged 18 to 59) and one of adults and older individuals together (aged 18 and over). These groups were chosen as they often constituted the target population of the health survey.</p>
+				<p>The first design consists of three stages: census tract, household and individual. Forty census tracts were selected, with probability proportional to size, then 12 households per tract and one person per household. The planned sample size was 480 individuals. To compensate for the difference in selection probability, weights were introduced equivalent to the number of adults or adults and older individuals in the selected households.</p>
+				<p>The second design consists of two stages: census tract and household. In this case, 40 census tracts were also selected with a probability proportional to size and six households per tract for adults and five or six households (mean of 5.66) for adults and older individuals. There was no sampling within the household. All of the individuals of the population groups in question residing in the selected households were interviewed. Considering, respectively, ratios of two adults and 2.12 adults and elderly individuals per household, it was expected that there would be 480 interviews in each sample.</p>
+				<p>The Stata software version 11.2 was used to produce a looping structure capable of producing the 1,000 samples used in each of the designs in question. The <italic>runiform</italic> function was used to establish a random starting point from which to begin the selection of tracts and, later, the households. The <italic>sample</italic> command was used to randomly select a resident within each of the households in the intra-household selection sampling plan.</p>
+				<p>The sampling fractions used in selecting the samples and in other aspects of the sampling plans are shown in <xref ref-type="table" rid="t01_en">Table 1</xref>.</p>
+				<p>
+					<table-wrap id="t01_en">
+						<label>Table 1</label>
+						<caption>
+							<title>Aspects referent to sample design. Baixada Santista Metropolitan Area, SP, Southeastern Brazil, 2006-2007.</title>
+						</caption>
+						<graphic xlink:href="0034-8910-rsp-48-01-0086-gt01-en"/>
+					</table-wrap>
+				</p>
+				<p>To obtain the estimates used, 11 health indicators were chosen according to the Household Survey on Health Care Service Access in Baixada Santista,<xref ref-type="fn" rid="fn10_en">
+						<sup>i</sup>
+					</xref> grouped in three categories, namely: 1. Health situation (self-evaluated health as bad or very bad; not carrying out usual activities in the preceding 15 days; reporting high blood pressure; reporting diabetes; alcohol intake in the preceding three months); 2. Use of and access to health care services (use of high blood pressure medication in the preceding week; need for health care services in the preceding 15 days; using health care services in the preceding 15 days; some kind of medicine prescribed in this appointment) and 3. Socio-economic conditions (health insurance and having eight or more consumer goods).</p>
+				<p>Measures of precision and bias in the estimates for each indicator were calculated in the two final sets of 1,000 samples selected under both sample designs.</p>
+				<p>The mean of frequency distribution, estimating the expected value of the estimator of the parameter P, was calculated using: <inline-formula>
+						<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii01-en"/>
+					</inline-formula>, when <italic>p</italic>
+					<sub>
+						<italic>i</italic>
+					</sub> is the estimated proportion in the sample <italic>i</italic>. Standard error for the estimator was calculated using: <inline-formula>
+						<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii02-en"/>
+					</inline-formula>; bias using: Vic(p)=E(p)-P, and the mean square error, indicator of the accuracy of the estimator, using: EQM(p)=[DP(p)]<sup>2</sup>+[Vic(p)]<sup>2</sup>.</p>
+				<p>The sample designs were compared using relative measures.<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref> Precision was compared using the coefficient of variation,  <inline-formula>
+						<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii03-en"/>
+					</inline-formula>, bias using the relative bias (ration between the bias and the mean)<inline-formula>
+						<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii04-en"/>
+					</inline-formula>, and accuracy through relative mean square error, <inline-formula>
+						<inline-formula>
+							<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii05-en"/>
+						</inline-formula>
+					</inline-formula>. To detect the impact of the bias on the inferences, the confidence interval, the ratio between the bias and the standard error <inline-formula>
+						<inline-formula>
+							<inline-graphic xlink:href="0034-8910-rsp-48-01-0086-ii06-en"/>
+						</inline-formula>
+					</inline-formula>was used, adopting the criterion proposed by Cochran.<xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref> If the bias was lower than a tenth of the standard error of the estimation (ratio below 0.10), this was not considered significant.</p>
+				<p>The efficiency of a design concerns the degree of fit between the requirements of precision and bias of the estimates and the cost of obtaining them. Kish<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref> proposes that the comparison between the cost of designs which select one single person and those with no intra-household selection be shown using the equation: cost = nc + m∙dc, in which <italic>c</italic> is the basic cost per element (person), which are the same for the two designs, such as: applying questionnaires and data processing; <italic>dc</italic> is the cost of including one household, such as: cost of asking permission to enter the residence, of getting the residents’ cooperation and of drawing up a list of residents; <italic>n</italic> is the number of individuals and <italic>m</italic> is the number of households.</p>
+			</sec>
+			<sec sec-type="results">
+				<title>RESULTS</title>
+				<p>The population proportions were calculated for the study variables and the mean of the estimates were obtained from the two designs in question, with and without intra-household sampling for both population groups in question, adults and adults and the elderly (<xref ref-type="table" rid="t02_en">Table 2</xref>).</p>
+				<p>
+					<table-wrap id="t02_en">
+						<label>Table 2</label>
+						<caption>
+							<title>Parameters for proportions (P) of adults and adults/older individuals and mean frequency distributions [E(p)], according to the sample design with intra-household selection (del1) and without it (del2). Baixada Santista Metropolitan Area, SP, Southeastern Brazil, 2006-2007.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="20%">
+								<col width="1%"/>
+								<col width="20%"/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th colspan="2" rowspan="2" align="left">Proportions</th>
+									<th rowspan="2">P</th>
+									<th colspan="2">E(p) <hr/>  </th>
+								</tr>
+								<tr>
+									<th>del1</th>
+									<th>del2</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="2" rowspan="1">Adults</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>8 or more consumer goods</td>
+									<td align="center">46.237</td>
+									<td align="center">46.128</td>
+									<td align="center">46.344</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Very bad self-evaluated health</td>
+									<td align="center">10.755</td>
+									<td align="center">10.806</td>
+									<td align="center">10.752</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Did not do usual activities in preceding 15 days</td>
+									<td align="center">13.177</td>
+									<td align="center">13.197</td>
+									<td align="center">13.175</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported hypertension</td>
+									<td align="center">17.637</td>
+									<td align="center">17.632</td>
+									<td align="center">17.612</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Took AH medication in the preceding 15 days</td>
+									<td align="center">70.781</td>
+									<td align="center">70.799</td>
+									<td align="center">70.921</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported diabetes</td>
+									<td align="center">4.805</td>
+									<td align="center">4.814</td>
+									<td align="center">4.798</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Had health insurance</td>
+									<td align="center">42.313</td>
+									<td align="center">42.273</td>
+									<td align="center">42.394</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Needed health care services in preceding 15 days</td>
+									<td align="center">19.374</td>
+									<td align="center">19.434</td>
+									<td align="center">19.322</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Was prescribed medication at that appointment</td>
+									<td align="center">59.429</td>
+									<td align="center">59.440</td>
+									<td align="center">59.294</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Visited the dentist within the last year</td>
+									<td align="center">44.304</td>
+									<td align="center">44.207</td>
+									<td align="center">44.353</td>
+								</tr>
+								<tr>
+									<td colspan="2" rowspan="1">Adults and older individuals</td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>8 or more consumer goods</td>
+									<td align="center">46.472</td>
+									<td align="center">46.326</td>
+									<td align="center">46.275</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Very bad self-evaluated health</td>
+									<td align="center">13.228</td>
+									<td align="center">13.236</td>
+									<td align="center">13.185</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Did not do usual activities in preceding 15 days</td>
+									<td align="center">13.476</td>
+									<td align="center">13.562</td>
+									<td align="center">13.321</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported hypertension</td>
+									<td align="center">22.698</td>
+									<td align="center">22.617</td>
+									<td align="center">22.567</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Took AH medication in the preceding 15 days</td>
+									<td align="center">78.026</td>
+									<td align="center">77.898</td>
+									<td align="center">78.284</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported diabetes</td>
+									<td align="center">7.286</td>
+									<td align="center">7.286</td>
+									<td align="center">7.256</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Had health insurance</td>
+									<td align="center">43.267</td>
+									<td align="center">43.331</td>
+									<td align="center">43.344</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Needed health care services in preceding 15 days</td>
+									<td align="center">20.093</td>
+									<td align="center">20.199</td>
+									<td align="center">20.046</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Was prescribed medication at that appointment</td>
+									<td align="center">57.638</td>
+									<td align="center">57.435</td>
+									<td align="center">57.185</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Visited the dentist within the last year</td>
+									<td align="center">41.808</td>
+									<td align="center">41.857</td>
+									<td align="center">41.880</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>AH: Arterial hypertension</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>The differences between the expected value of the estimator and the population parameter, equivalent to the estimation bias, were similar for both studies. This is shown in the proximity of the estimates of relative bias. The differences, apart from one, are in the third decimal place (<xref ref-type="table" rid="t03_en">Table 3</xref>). The ratios between bias and the standard error were lower than 0.10, indicating non-significant bias for both sample designs.</p>
+				<p>
+					<table-wrap id="t03_en">
+						<label>Table 3</label>
+						<caption>
+							<title>Bias ratio/mean and bias/error, according to the sample design with intra-household selection (del1) and without it (del2). Baixada Santista Metropolitan Area, SP, Southeastern Brazil, 2006-2007.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="18%">
+								<col width="1%"/>
+								<col width="20%"/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th colspan="2" rowspan="3" align="left">Estimations</th>
+									<th colspan="2">Bias/mean</th>
+									<th colspan="2">Bias/error</th>
+								</tr>
+								<tr>
+									<th colspan="4" rowspan="1">
+										<hr/>
+									</th>
+								</tr>
+								<tr>
+									<th>del1</th>
+									<th>del2</th>
+									<th>del1</th>
+									<th>del2</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="2" rowspan="1">Adults</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>8 or more consumer goods</td>
+									<td align="center">0.0024</td>
+									<td align="center">0.0023</td>
+									<td align="center">0.034</td>
+									<td align="center">0.027</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Very bad self-evaluated health</td>
+									<td align="center">0.0048</td>
+									<td align="center">0.0002</td>
+									<td align="center">0.034</td>
+									<td align="center">0.002</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Did not do usual activities in preceding 15 days</td>
+									<td align="center">0.0015</td>
+									<td align="center">0.0002</td>
+									<td align="center">0.012</td>
+									<td align="center">0.001</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported hypertension</td>
+									<td align="center">0.0003</td>
+									<td align="center">0.0014</td>
+									<td align="center">0.003</td>
+									<td align="center">0.015</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Took AH medication in the preceding 15 days</td>
+									<td align="center">0.0003</td>
+									<td align="center">0.0020</td>
+									<td align="center">0.003</td>
+									<td align="center">0.028</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported diabetes</td>
+									<td align="center">0.0019</td>
+									<td align="center">0.0015</td>
+									<td align="center">0.008</td>
+									<td align="center">0.007</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Had health insurance</td>
+									<td align="center">0.0009</td>
+									<td align="center">0.0019</td>
+									<td align="center">0.014</td>
+									<td align="center">0.025</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Needed health care services in preceding 15 days</td>
+									<td align="center">0.0031</td>
+									<td align="center">0.0027</td>
+									<td align="center">0.030</td>
+									<td align="center">0.029</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Was prescribed medication at that appointment</td>
+									<td align="center">0.0002</td>
+									<td align="center">0.0023</td>
+									<td align="center">0.002</td>
+									<td align="center">0.027</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Visited the dentist within the last year</td>
+									<td align="center">0.0022</td>
+									<td align="center">0.0011</td>
+									<td align="center">0.038</td>
+									<td align="center">0.019</td>
+								</tr>
+								<tr>
+									<td colspan="2" rowspan="1">Adults and older individuals</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>8 or more consumer goods</td>
+									<td align="center">0.0031</td>
+									<td align="center">0.0043</td>
+									<td align="center">0.046</td>
+									<td align="center">0.049</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Very bad self-evaluated health</td>
+									<td align="center">0.0006</td>
+									<td align="center">0.0033</td>
+									<td align="center">0.005</td>
+									<td align="center">0.027</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Did not do usual activities in preceding 15 days</td>
+									<td align="center">0.0064</td>
+									<td align="center">0.0116</td>
+									<td align="center">0.052</td>
+									<td align="center">0.097</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported hypertension</td>
+									<td align="center">0.0036</td>
+									<td align="center">0.0058</td>
+									<td align="center">0.038</td>
+									<td align="center">0.066</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Took AH medication in the preceding 15 days</td>
+									<td align="center">0.0016</td>
+									<td align="center">0.0033</td>
+									<td align="center">0.030</td>
+									<td align="center">0.064</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported diabetes</td>
+									<td align="center">0.0001</td>
+									<td align="center">0.0041</td>
+									<td align="center">0.000</td>
+									<td align="center">0.024</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Had health insurance</td>
+									<td align="center">0.0015</td>
+									<td align="center">0.0018</td>
+									<td align="center">0.022</td>
+									<td align="center">0.022</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Needed health care services in preceding 15 days</td>
+									<td align="center">0.0052</td>
+									<td align="center">0.0023</td>
+									<td align="center">0.051</td>
+									<td align="center">0.025</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Was prescribed medication at that appointment</td>
+									<td align="center">0.0035</td>
+									<td align="center">0.0079</td>
+									<td align="center">0.034</td>
+									<td align="center">0.086</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Visited the dentist within the last year</td>
+									<td align="center">0.0012</td>
+									<td align="center">0.0017</td>
+									<td align="center">0.019</td>
+									<td align="center">0.029</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>AH: Arterial hypertension</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>The comparison between the coefficients of variation indicates that the existence of intra-household selection leads to increased sampling error for the majority of variable (<xref ref-type="table" rid="t04_en">Table 4</xref>). This result is reflected in the measures of accuracy. For 80.0% of the variables, the estimates of relative mean square error were lower in the design which did not select within the households.</p>
+				<p>
+					<table-wrap id="t04_en">
+						<label>Table 4</label>
+						<caption>
+							<title>Coefficient of variation [CV(p)] and relative mean square error [EQMR(p)], according to the sample design with intra-household selection (del1) and without it (del2). Baixada Santista Metropolitan Area, SP, Southeastern Brazil, 2006-2007.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="18%">
+								<col width="1%"/>
+								<col width="20%"/>
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th colspan="2" rowspan="3" align="left">Estimations</th>
+									<th colspan="2">CV (p)</th>
+									<th colspan="2">EQMR (p)</th>
+								</tr>
+								<tr>
+									<th colspan="4" rowspan="1">
+										<hr/>
+									</th>
+								</tr>
+								<tr>
+									<th>del1</th>
+									<th>del2</th>
+									<th>del1</th>
+									<th>del2</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="2" rowspan="1">Adults</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>8 or more consumer goods</td>
+									<td align="center">6.902</td>
+									<td align="center">8.642</td>
+									<td align="center">0.005</td>
+									<td align="center">0.007</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Very bad self-evaluated health</td>
+									<td align="center">14.200</td>
+									<td align="center">13.336</td>
+									<td align="center">0.020</td>
+									<td align="center">0.018</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Did not do usual activities in preceding 15 days</td>
+									<td align="center">12.823</td>
+									<td align="center">10.996</td>
+									<td align="center">0.016</td>
+									<td align="center">0.012</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported hypertension</td>
+									<td align="center">11.040</td>
+									<td align="center">9.519</td>
+									<td align="center">0.012</td>
+									<td align="center">0.009</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Took AH medication in the preceding 15 days</td>
+									<td align="center">7.496</td>
+									<td align="center">7.000</td>
+									<td align="center">0.006</td>
+									<td align="center">0.005</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported diabetes</td>
+									<td align="center">24.610</td>
+									<td align="center">21.606</td>
+									<td align="center">0.061</td>
+									<td align="center">0.047</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Had health insurance</td>
+									<td align="center">6.606</td>
+									<td align="center">7.647</td>
+									<td align="center">0.004</td>
+									<td align="center">0.006</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Needed health care services in preceding 15 days</td>
+									<td align="center">10.238</td>
+									<td align="center">9.267</td>
+									<td align="center">0.010</td>
+									<td align="center">0.009</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Was prescribed medication at that appointment</td>
+									<td align="center">9.849</td>
+									<td align="center">8.594</td>
+									<td align="center">0.010</td>
+									<td align="center">0.007</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Visited the dentist within the last year</td>
+									<td align="center">5.715</td>
+									<td align="center">5.697</td>
+									<td align="center">0.003</td>
+									<td align="center">0.003</td>
+								</tr>
+								<tr>
+									<td colspan="2" rowspan="1">Adults and older individuals</td>
+									<td> </td>
+									<td> </td>
+									<td> </td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>8 or more consumer goods</td>
+									<td align="center">6.846</td>
+									<td align="center">8.638</td>
+									<td align="center">0.005</td>
+									<td align="center">0.007</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Very bad self-evaluated health</td>
+									<td align="center">12.267</td>
+									<td align="center">12.132</td>
+									<td align="center">0.015</td>
+									<td align="center">0.015</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Did not do usual activities in preceding 15 days</td>
+									<td align="center">12.231</td>
+									<td align="center">12.004</td>
+									<td align="center">0.015</td>
+									<td align="center">0.015</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported hypertension</td>
+									<td align="center">9.333</td>
+									<td align="center">8.838</td>
+									<td align="center">0.009</td>
+									<td align="center">0.008</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Took AH medication in the preceding 15 days</td>
+									<td align="center">5.502</td>
+									<td align="center">5.159</td>
+									<td align="center">0.003</td>
+									<td align="center">0.003</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Reported diabetes</td>
+									<td align="center">19.736</td>
+									<td align="center">17.182</td>
+									<td align="center">0.039</td>
+									<td align="center">0.030</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Had health insurance</td>
+									<td align="center">6.760</td>
+									<td align="center">7.933</td>
+									<td align="center">0.005</td>
+									<td align="center">0.006</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Needed health care services in preceding 15 days</td>
+									<td align="center">10.292</td>
+									<td align="center">9.228</td>
+									<td align="center">0.011</td>
+									<td align="center">0.009</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Was prescribed medication at that appointment</td>
+									<td align="center">10.330</td>
+									<td align="center">9.223</td>
+									<td align="center">0.011</td>
+									<td align="center">0.009</td>
+								</tr>
+								<tr>
+									<td> </td>
+									<td>Visited the dentist within the last year</td>
+									<td align="center">6.105</td>
+									<td align="center">5.923</td>
+									<td align="center">0.004</td>
+									<td align="center">0.004</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p>With regards to the cost, considering the number of individuals included in the sample for both designs, 480, and the number of households: 480 in the design with intra-household selection and 240 (for adults) and 226 or 227 (for adult and the elderly) in the design without intra-household selection, the costs were higher in the latter. For adults, 240 more households were visited; for adults and the elderly together, 254 more were visited.</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>DISCUSSION</title>
+				<p>The results of this study indicate that, in the conditions in which the samples were selected, the design which did not include inter-household selection is superior in terms of the accuracy as regards selecting one person per household. Although the differences are not large, the lower cost of the first design means it has an advantage over the other, confirming its superiority. In general, an optimum design is developed determined by the effect of the cost on the variance of alternative sampling procedures and choosing that which minimizes the variance for a fixed cost.<xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref>
+				</p>
+				<p>The mean number of adults within the households and of adults and the elderly, together, were low: 2 and 2.12 respectively. In this situation, the concentration of interviews within the households is not large, which favors the option of not carrying out further selection.<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref> This occurs in diverse surveys, both in those which are directed at specific population groups,<xref ref-type="bibr" rid="B3">
+						<sup>3</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B17">
+						<sup>17</sup>
+					</xref> and in those which define domains of age and sex.<xref ref-type="bibr" rid="B1">
+						<sup>1</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B15">
+						<sup>15</sup>
+					</xref> In these, intra-household homogeneity is not relevant as the analyses are conducted for specific population groups of which there are, generally, low levels of clustering at a household level.<xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref> Krenzke et al<xref ref-type="bibr" rid="B11">
+						<sup>11</sup>
+					</xref> confirm that, when there are multiple domains of study, it is often better to interview more than one person within the household.</p>
+				<p>The cluster effect is one of the factors which increase variance in the estimates obtained in the surveys. However, for multi-stage samples, the impact of homogeneity within the households on variance is affected by the homogeneity which exists in the anterior sampling units. Thus, the incremental impact of clusters within households may be amortized by the domination of the components of variance in the first stage of selection.<xref ref-type="bibr" rid="B11">
+						<sup>11</sup>
+					</xref>
+				</p>
+				<p>In this study, only two indicators for which equal values were expected for residents in the same household (having health insurance and number of consumer goods in the residence) showed sampling errors greater in the design without intra-household selection. Although the study of these indicators is not an object of health research, it is possible to suppose that there are “health” indicators for which intra-household correlation would be extremely high, as occurred when estimates are exactly the same for all household members. In these situations, the superiority of the design without intra-household selection would cease to exist.</p>
+				<p>Krenzke et al<xref ref-type="bibr" rid="B11">
+						<sup>11</sup>
+					</xref> evaluated diverse rules for selection referring to the number of adults selected within the households in four-stage sample designs: selecting one adult irrespective of the number existing; selecting one adult if there are two or fewer and selecting two for more adults; selecting one adult if there are three or fewer, and two if there are more; selecting one adult if there are four or fewer, and two if there are more; and selecting one or two adults, when the sample size is a fraction. The authors proposed a form of computing the design effect due to household homogeneity. Thus, they measured the percentage reduction in the variance/cost function for the strategic variables proposed in relation to the “one selected adult” and verified that household homogeneity had a small impact on the reduction in this function. The cost/variance function takes into account the cost function proposed by Kish,<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref> which includes the cost of including one person, and including one household, and the design effects due to cluster and weighting. They also show that the reduction was strongly influenced by the domination level of the components of variance of the two first stages of selection.</p>
+				<p>The cluster effect is not the only factor which increases variance. This increase can also be caused by using weigh when calculating the estimates, due to selecting individuals with unequal probabilities within the households. Using weights, each observation for the selected individual is repeated as many times as there were residents in the household, inflating the design effect. Thus, the probability of selection comes to depend on the number of household members and the increase in variance will be directly related to the coefficient of variation of these sizes.<xref ref-type="bibr" rid="B11">
+						<sup>11</sup>
+					</xref> The total design effect is, under some conditions, the product of the design effect due to the selection of clusters and to the design effect due to weighting the data.</p>
+				<p>Among the factors which were indicated as favoring intra-household selection are the possibility that response rates would be affected by the residents feeling overloaded by having several interviews in the same dwelling.<xref ref-type="bibr" rid="B4">
+						<sup>4</sup>
+					</xref> However, recent studies have shown results which contradict this evaluation. Mohadjer et al<xref ref-type="bibr" rid="B12">
+						<sup>12</sup>
+					</xref> consider that selecting larger samples within households is an approach which has a favorable impact on response rates to the National Health and Nutrition Examination Survey. This survey involved serological tests and it was convenient for household members to go to the center together. Response rates for the design without intra-household selection were higher than those obtained by the one with this selection (increase from 3.8 to 6.9 percentage points, depending on the type of dwelling). Likewise, Krenzke et al<xref ref-type="bibr" rid="B11">
+						<sup>11</sup>
+					</xref> did not observe any statistically significant differences in the response rates obtained from designs selecting either one or two individuals per household in the National Assessment of Adult Literacy.</p>
+				<p>There are other factors that could be considered when deciding whether or not to use intra-household selection. An argument against selection, is when the interest of the study is the dependence between values for different individuals within the same household.</p>
+				<p>In favor of selection; when there are sensitive issues contained in the questionnaires, the quality of responses to which may be compromised if they are responded to by more than one individual within the dwelling.<xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref> Foreman<xref ref-type="bibr" rid="B7">
+						<sup>7</sup>
+					</xref> also raises the possibility that one resident’s response to the interview could contaminate that of the others, especially when the interviews are very long or uncomfortable. Along the same lines, Kish<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref> affirms that one of the motives for not conducting more than one interview in the same household is to avoid the respondent having the opportunity to previously discuss the issues.</p>
+				<p>In this study, the cost was represented by the number of households, as the number of individuals interviewed was the same for both designs. The cost of including one household in the sample is always considered higher than that of including one individual, as it involves listing all residents and moving between addresses, when the interviews are face-to-face. This travelling occurs at various points in the data collection process: identifying the residents in the households, conducting the interview, returning in the case of not obtaining a response and in supervision and quality control.</p>
+				<p>In this study, the sample of households in the design with no intra-household selection was half that of the sample obtained in the design including this selection, making it, therefore, more economic. This is a relevant aspect to be considered in household surveys with face-to-face interviews conducted in the area of public health, as it decreases the costs, always a desirable alternative.</p>
+				<p>It should also be considered that selecting individuals within the households increases the complexity of the sample. It is necessary to train the interviewer to use appropriate selection procedures in the field, to avoid introducing bias. It is also necessary to use weights to compensate for the differences in the probabilities of selecting individuals for the sample, produced by selecting a fixed number of residents (usually one) when there are different numbers of residents present. Not using these weights, as is not uncommon when analyzing data from surveys using intra-household selection, produces biased estimates.</p>
+				<p>The results of this study show that the design with no intra-household selection is more efficient, and should be the researcher’s preferred option. Selecting residents should be adopted when there are reasons pertaining to the objective of the study which might lead to response bias if various residents respond to the proposed questionnaire.</p>
+			</sec>
+		</body>
+		<back>
+			<fn-group>
+				<fn fn-type="presented-at">
+					<p>This study was supported by the Ministry of Health Family Health Care Program Expansion and Consolidation Program – PROESF, 2006 and presented at the VIII Congress on Epidemiology, Sao Paulo, SP, and the III School of Sampling and Research Methodology, Juiz de Fora, MG, in 2011.</p>
+				</fn>
+				<fn id="fn1_en">
+					<label>a </label>
+					<p>Instituto Brasileiro de Geografia e Estatística (BR). Pesquisa Nacional por Amostra de Domicílios. Brasília (DF); [s.d.].</p>
+				</fn>
+				<fn id="fn2_en">
+					<label>b </label>
+					<p>Centers for Disease Control and Prevention (US). National Health Interview Survey. Washington (DC); [s.d.].</p>
+				</fn>
+				<fn id="fn3_en">
+					<label>c </label>
+					<p>National Centre for Social Research (UK). Health Survey for England. Londres; [s.d.].</p>
+				</fn>
+				<fn id="fn4_en">
+					<label>d </label>
+					<p>Fundação Oswaldo Cruz (BR). Pesquisa Mundial de Saúde no Brasil. Rio de Janeiro; [s.d.].</p>
+				</fn>
+				<fn id="fn5_en">
+					<label>e </label>
+					<p>Centers for Disease Control and Prevention (US). National Health and Nutrition Examination. Washington (DC); [s.d.].</p>
+				</fn>
+				<fn id="fn6_en">
+					<label>f </label>
+					<p>Institut de Veille Sanitaire (FR). Etude Nationale Nutrition Santé. Paris ; [s.d.].</p>
+				</fn>
+				<fn id="fn8_en">
+					<label>g </label>
+					<p>Statistics Canadá (CA). Canadian Community Health Survey. Ottawa; [s.d.].</p>
+				</fn>
+				<fn id="fn9_en">
+					<label>h </label>
+					<p>Alves MCGP, Escuder MML. Plano de amostragem. In. Escuder MML, Monteiro PHN, Pupo LR. Acesso aos serviços de saúde em municípios da baixada santista. São Paulo: Instituto de saúde; 2009. (Temas em saúde coletiva, 8).</p>
+				</fn>
+				<fn id="fn10_en">
+					<label>i </label>
+					<p>Escuder MML, Monteiro PHN, Pupo LR. Acesso aos serviços de saúde em municípios da baixada santista. São Paulo: Instituto de saúde; 2009. (Temas em saúde coletiva, 8).</p>
+				</fn>
+			</fn-group>
+		</back>
+	</sub-article>
+</article>

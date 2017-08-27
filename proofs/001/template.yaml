@@ -241,9 +241,7 @@ fig : |
   \end{figure}
   
 graphic: |
-  @@lua(
-  return attr "xlink:href"
-  )@@
+  @@lua(return attr "xlink:href")@@
 
 b: |
   \textbf{@@children}

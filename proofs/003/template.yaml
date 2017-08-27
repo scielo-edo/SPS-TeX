@@ -54,6 +54,7 @@ article-title:
 
     \title{@@children}
 
+
 issn:
   head: |
 
@@ -182,16 +183,8 @@ aff:
       return find('//institution')
     )@@}
 
-xref: |
-  (@@lua(
-  reftype = attr('fn')
-  if reftype ~= 'fn' then
-  return find('//sup')
-  end
-  return find('//sup')
-  )@@)
-
 break: "\n"
+
 
 p: |
 
@@ -241,16 +234,14 @@ trans-abstract: |
   %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-graphic: |
-  @@lua(return attr('xlink:href'))@@
-
-
-fig: |
-
+fig : |
   \begin{figure}
+  \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
   \caption{@@lua(return find "//title")@@}
   \end{figure}
-
+  
+graphic: |
+  @@lua(return attr "xlink:href")@@
 
 b: |
   \textbf{@@children}
@@ -270,7 +261,6 @@ table: |
   \end{table}
 
 thead/tr:
-
   head: |
     @@lua(
       local ret = {}

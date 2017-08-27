@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.0" article-type="research-article" xml:lang="pt">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Rev Saude Publica</journal-id>
+			<journal-title-group>
+				<journal-title>Revista de Saúde Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev. Saúde Pública</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0034-8910</issn>
+			<issn pub-type="epub">1518-8787</issn>
+			<publisher>
+				<publisher-name>Faculdade de Saúde Pública da Universidade de São Paulo</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>			
+			<article-id pub-id-type="doi">10.1590/S0034-8910.2014048004822</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artigos Originais</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="pt">Homicídios e disputas territoriais nas favelas do Rio de Janeiro</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Homicidios e disputas territoriales en las barriadas de Rio de Janeiro</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Barcellos</surname>
+						<given-names>Christovam</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>I</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Zaluar</surname>
+						<given-names>Alba</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2">
+						<sup>II</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>I</label>
+				<institution content-type="orgdiv1">Instituto de Comunicação e Informação Científica e Tecnológica em Saúde</institution>
+				<institution content-type="orgname">Fundação Oswaldo Cruz</institution>
+				<addr-line>
+					<named-content content-type="city">Rio de Janeiro</named-content>
+					<named-content content-type="state">RJ</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Instituto de Comunicação e Informação Científica e Tecnológica em Saúde. Fundação Oswaldo Cruz. Rio de Janeiro, RJ, Brasil</institution>
+			</aff>
+			<aff id="aff2">
+				<label>II</label>
+				<institution content-type="orgdiv1">Instituto de Estudos Sociais e Políticos</institution>
+				<institution content-type="orgname">Universidade do Estado do Rio de Janeiro</institution>
+				<addr-line>
+					<named-content content-type="city">Rio de Janeiro</named-content>
+					<named-content content-type="state">RJ</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Instituto de Estudos Sociais e Políticos. Universidade do Estado do Rio de Janeiro. Rio de Janeiro, RJ, Brasil</institution>
+			</aff>
+			<author-notes>
+				<corresp>
+					<label>Correspondência | Correspondence</label>: Christovam Barcellos. ICICT/Fiocruz. Av. Brasil, 4365 Manguinhos. 21045-900 Rio de Janeiro, RJ, Brasil. E-mail: xris@fiocruz.br </corresp>
+				<fn fn-type="conflict">
+					<p>Os autores declaram não haver conflito de interesses.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">				
+				<month>02</month>
+				<year>2014</year>
+			</pub-date>
+			<volume>48</volume>
+			<issue>1</issue>
+			<fpage>94</fpage>
+			<lpage>102</lpage>
+			<history>
+				<date date-type="received">
+					<day>7</day>
+					<month>3</month>
+					<year>2013</year>
+				</date>
+				<date date-type="accepted">
+					<day>17</day>
+					<month>10</month>
+					<year>2013</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract xml:lang="pt">
+				<sec>
+					<title>OBJETIVO</title>
+					<p> : Avaliar o risco de homicídios em favelas do Rio de Janeiro, considerando as disputas territoriais em curso na cidade.</p>
+				</sec>
+				<sec>
+					<title>MÉTODOS</title>
+					<p> : O estudo baseou-se em dados de mortalidade por homicídios na cidade do Rio de Janeiro, de 2006 a 2009. Foram avaliados os riscos em favelas e seus entornos, em função da sua localização e do domínio por grupos armados e tráfico de drogas. Foram empregados métodos e conceitos da geografia e etnografia, com as abordagens de observação participante, entrevistas e análise de dados secundários de saúde.</p>
+				</sec>
+				<sec>
+					<title>RESULTADOS</title>
+					<p> : As taxas de mortalidade por homicídios no interior das favelas foram equivalentes ou mesmo menores que o restante da cidade, mas consideravelmente maiores nos arredores das favelas, sobretudo em zonas de conflito entre domínios armados rivais.</p>
+				</sec>
+				<sec>
+					<title>CONCLUSÕES</title>
+					<p> : A presença do tráfico armado em zonas estratégicas da cidade aumenta as taxas de mortalidade por violência e promove a “ecologia do perigo” no entorno de favelas.</p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<sec>
+					<title>OBJETIVO</title>
+					<p> : Evaluar el riesgo de homicidios en barriadas de Rio de Janeiro, considerando las disputas territoriales en curso en la ciudad.</p>
+				</sec>
+				<sec>
+					<title>MÉTODOS</title>
+					<p> : El estudio se basó en datos de mortalidad por homicidios en la ciudad de Rio de Janeiro, de 2006 a 2009. Se evaluaron los riesgos en barriadas y sus entornos, en función de su localización y del dominio por grupos armados y tráfico de drogas. Se emplearon métodos y conceptos de la geografía y etnografía, con los abordajes de observación participante, entrevistas y análisis de datos secundarios de salud.</p>
+				</sec>
+				<sec>
+					<title>RESULTADOS</title>
+					<p> : Las tasas de mortalidad por homicidios en el interior de las barriadas fueron equivalente o inclusive menores que en el resto de la ciudad, pero considerablemente mayores en los alrededores de las barriadas, sobretodo en zonas de conflicto entre dominios armados rivales.</p>
+				</sec>
+				<sec>
+					<title>CONCLUSIONES</title>
+					<p> : La presencia del tráfico armado en zonas estratégicas de la ciudad aumenta las tasas de mortalidad por violencia y promueve la “ecología del peligro” en el entorno de las barriadas.</p>
+				</sec>
+			</trans-abstract>
+			<kwd-group xml:lang="pt">
+				<kwd>Mortalidade</kwd>
+				<kwd>Registros de Mortalidade</kwd>
+				<kwd>Coeficiente de Mortalidade</kwd>
+				<kwd>Homicídio, estatística &amp;amp; dados numéricos</kwd>
+				<kwd>Violência</kwd>
+				<kwd>Áreas de Pobreza</kwd>
+				<kwd>Territorialidade</kwd>
+				<kwd>Análise Espacial</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<kwd>Mortalidad</kwd>
+				<kwd>Registros de Mortalidad</kwd>
+				<kwd>Tasa de Mortalidad</kwd>
+				<kwd>Homicídio</kwd>
+				<kwd>estadística &amp;amp; datos numéricos</kwd>
+				<kwd>Violência</kwd>
+				<kwd>Áreas de Pobreza</kwd>
+				<kwd>Territorialidad</kwd>
+				<kwd>Análisis Espacial</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="6"/>
+				<table-count count="2"/>
+				<ref-count count="26"/>
+				<page-count count="9"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>INTRODUÇÃO</title>
+			<p>O aumento dos homicídios nas últimas décadas evidenciou mudanças nas relações sociais, nos valores, na visão de mundo da sociedade, exigindo nova abordagem que permita entender esse complexo fenômeno.<xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B24">
+					<sup>24</sup>
+				</xref>
+			</p>
+			<p>As violências são diferenciadas e têm múltiplas determinações, que devem ser abordadas em diversas escalas de análise, desde o nível internacional até o local, i.e., o da vida cotidiana.<xref ref-type="bibr" rid="B16">
+					<sup>16</sup>
+				</xref> Cada uma das escalas apresenta preditivos macrossociais e coletivos, bem como componentes microssociais e subjetivos. Os primeiros são fundamentais para identificar grupos e áreas de risco; os segundos, para a compreensão dos processos sociais geradores da violência na sociedade pós-industrial. A caracterização da violência apenas em termos macrossociais ou exclusivamente subjetiva impede a compreensão do fenômeno multifacetado.</p>
+			<p>Estudos quantitativos sobre os determinantes das mortes por agressão têm se baseado em variáveis individuais agregadas ou em variáveis ecológicas. As variáveis agregadas recuperam o perfil socioeconômico das vítimas, como desigualdade econômica, renda, escolaridade, estrutura familiar e gravidez na adolescência,<xref ref-type="bibr" rid="B19">
+					<sup>19</sup>
+				</xref> enquanto as variáveis ecológicas correlacionam características das vizinhanças onde viviam as vítimas, como estrutura populacional, densidade demográfica, mobilidade habitacional, homogeneidade étnica, proporção de pobres e taxa de desemprego.<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref> A hipótese subjacente a estes estudos é que as vítimas morariam em bairros superpovoados, etnicamente heterogêneos, com altas taxas de desemprego, com famílias chefiadas por mulheres, gravidez na adolescência e pessoas de renda e escolaridade baixas. Portanto, além de variáveis socioeconômicas agregadas, fatores relacionados ao espaço urbano tornaram-se parte da investigação criminológica.</p>
+			<p>Entre os fatores ecológicos preditivos da violência encontram-se as disputas territoriais nas favelas, com início na década de 1980 no Rio de Janeiro, quando apareceram divisões entre grupos armados lutando por posições na venda de drogas ilícitas. Tais conflitos reforçaram o <italic>ethos</italic> de masculinidade violenta que cria disposições subjetivas para a resolução litigiosa de conflitos.<xref ref-type="bibr" rid="B23">
+					<sup>23</sup>
+				</xref> As favelas passaram a ser refúgio de grupos criminosos e bolsões onde práticas de segurança interna e de justiça informal foram moldadas de acordo com o domínio local.</p>
+			<p>Recentemente, o desenvolvimento de tecnologias de mapeamento digital, e particularmente dos ambientes genericamente denominados Sistemas de Informações Geográficas (SIG), abriu novos caminhos para investigações epidemiológicas que têm utilizado tais técnicas para mapear e analisar a distribuição de agravos à saúde relacionados à violência.<xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref> A maior parte desses métodos tem sido utilizada para avaliar a distribuição espacial da ocorrência de agravos, identificando preditivos a partir dos padrões espaciais. Neste estudo, ao contrário, parte-se de hipóteses prévias sobre a distribuição dos agravos baseada na estrutura espacial, favelas e principais vias de circulação da cidade, para avaliar o efeito desses ambientes na distribuição da violência. Segundo Milton Santos,<xref ref-type="bibr" rid="B17">
+					<sup>17</sup>
+				</xref> o espaço é constituído por um conjunto indissociável de objetos e ações. Os objetos são fixos no espaço e determinam as ações que acontecem nele. A presença de favelas, portanto, condicionaria as práticas sociais no seu entorno.</p>
+			<p>Poucos estudos sobre violência no Brasil foram realizados na escala local por meio de dados desagregados, pois têm caráter macrossocial, buscando a associação entre indicadores socioeconômicos construídos para grandes áreas como regiões administrativas e áreas de planejamento. Vários mostraram maior risco de morte por violência em áreas pobres das cidades, tanto em periferias<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref> como em regiões de concentração de favelas.<xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B6">
+					<sup>6</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B20">
+					<sup>20</sup>
+				</xref> Neste artigo procurou-se distinguir as favelas não por indicadores de pobreza, mas segundo variáveis indicadoras da atuação de grupos armados em sangrentas disputas.</p>
+			<p>Como vários preditivos da violência são dificilmente mensuráveis, a pesquisa etnográfica é imprescindível. O método dos casos desdobrados permite conectar o local às demais esferas da vida social, além de impor uma abordagem histórica<xref ref-type="bibr" rid="B3">
+					<sup>3</sup>
+				</xref> que permite relacionar a mortalidade por homicídios às práticas violentas de traficantes, policiais e milicianos em algumas favelas.</p>
+			<p>O objetivo desse estudo foi avaliar o risco de homicídios nas favelas do Rio de Janeiro, considerando as disputas territoriais em curso na cidade.</p>
+		</sec>
+		<sec sec-type="methods">
+			<title>MÉTODOS</title>
+			<p>As favelas foram classificadas segundo o domínio de grupos armados – milícias ou traficantes de drogas – procurando responder às perguntas: “Existe risco maior em viver em favelas e seus entornos?”, “Este risco depende da localização e do domínio das favelas?”, “As disputas entre grupos armados podem aumentar este risco?”</p>
+			<p>Os dados sobre mortalidade por homicídios de 2006 a 2009 foram obtidos por duas fontes de informação: Sistema de Informações de Mortalidade (SIM), da Secretaria Municipal de Saúde do Rio de Janeiro, pela seleção dos óbitos resultantes de intervenções legais e operações de guerra; óbitos por homicídios (CID10: X85 a Y09); bem como as lesões por arma de fogo e perfuro-cortante com intencionalidade ignorada (CID10: Y22 a Y24 e Y28). Este último grupo foi incluído com o objetivo de superar as deficiências da classificação de causa do óbito.<xref ref-type="bibr" rid="B5">
+					<sup>5</sup>
+				</xref> Os registros de óbitos do SIM foram georreferenciados segundo o endereço de residência da vítima. Os endereços foram comparados com a malha digital de logradouros e outras bases de dados. Os endereços restantes foram georreferenciados manualmente, contando com a experiência da equipe de campo sobre endereços informais de favelas. Este processo permitiu a localização de 96,0% dos registros.</p>
+			<p>A segunda fonte de informação foi o Instituto de Segurança Pública (ISP) da Secretaria Estadual de Segurança Pública. Foram selecionados os registros de agressões ocorridos envolvendo moradores do município do Rio de Janeiro, entre 2006 e 2009 e que resultaram em morte da vítima. Neste caso, os óbitos foram georreferenciados, usando como endereço o local de ocorrência, seja a morte, seja o encontro do corpo.</p>
+			<p>A primeira estratégia de georreferenciamento, empregada para dados do SIM, permitiu o cálculo de taxas de homicídio, pela razão entre o número de homicídios por local de residência e a população total residente em cada área. Já a segunda estratégia, usada para dados do ISP, permitiu identificar áreas com maior concentração de eventos violentos e fatais que,segundo as hipóteses deste trabalho, estariam relacionadas aos conflitos armados na cidade.</p>
+			<p>Para a estimativa da população residente foram utilizados os dados do censo demográfico de 2010, tendo como unidade mínima de agregação o setor censitário. As favelas são assim classificadas segundo dois órgãos que utilizam critérios diferentes: pelo Instituto Pereira Passos (IPP) da Prefeitura do Rio de Janeiro, que mantém um cadastro sobre áreas de carência social, e o Instituto Brasileiro de Geografia e Estatística (IBGE) que as classifica como setores censitários do tipo subnormal.<xref ref-type="fn" rid="fn1">
+					<sup>a</sup>
+				</xref> Partiu-se da lista de 965 favelas fornecida pelo IPP, compatibilizada com os mapas de favelas gerados pela seleção de setores censitários do tipo subnormal segundo o censo demográfico de 2010. Esta lista, com localização e nome de favelas, foi verificada em campo, por equipe do projeto. Esta equipe também levantou as facções de traficantes<xref ref-type="fn" rid="fn2">
+					<sup>b</sup>
+				</xref> ou milícias que dominavam as favelas entre janeiro de 2005 e dezembro de 2010 por meio de visitas locais e pesquisa na internet.<xref ref-type="bibr" rid="B25">
+					<sup>25</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B26">
+					<sup>26</sup>
+				</xref>
+			</p>
+			<p>O SIG foi constituído com este conjunto de dados, permitindo a organização e o tratamento de informações espaciais por meio de procedimentos computacionais. Neste artigo, as unidades espaciais não constituem um dado <italic>a priori</italic>, mas foram desenhadas em função das hipóteses do estudo, não coincidente com áreas político-administrativas, mas considerando que a área de influência de um domínio se estende a certa distância em torno das favelas dominadas pela facção criminosa. A partir do desenho destas novas áreas, calculou-se o número de eventos (óbitos por homicídio) dentro delas e a população total de residentes nelas. Foi calculada a taxa de mortalidade por homicídios no entorno de favelas, estabelecendo-se áreas de influência (<italic>buffers</italic>) com distâncias radiais a partir dos limites das favelas, de zero metro (interior das favelas), de zero a 100 m, de 100 m a 250 m, de 250 m a 500 m e de 500 m a 1.000 m (entorno das favelas).</p>
+			<p>Foram incorporados dados etnográficos de pesquisas realizadas em favelas<xref ref-type="bibr" rid="B21">
+					<sup>21</sup>
+				</xref> que visaram fornecer indícios que permitem inferências, pela sinergia entre fatos sociais interconectados. Procurou-se identificar os múltiplos significados que atores sociais emprestam às suas ações, aos riscos que correm e às relações que estabelecem entre si nas diferentes situações de violência. Na perspectiva de uma <italic>démarche</italic> reflexiva ou de um diálogo entre o cientista social e as pessoas que ele estuda, procurou-se entender a dinâmica das situações sociais com o maior número possível de atores.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>RESULTADOS</title>
+			<p>A <xref ref-type="fig" rid="f01">Figura 1</xref> mostra a população total das favelas segundo o domínio de grupos criminosos, milícias, neutras ou sob a atuação de Unidades de Polícia Pacificadora (UPP) ao longo dos últimos anos, de modo a compor o quadro do resultado de vários conflitos armados registrados na cidade em torno do domínio territorial de favelas.</p>
+			<p>
+				<fig id="f01">
+					<label>Figura 1</label>
+					<caption>
+						<title>. População total residente em favelas segundo domínio de comandos do tráfico e de milícia.</title>
+					</caption>
+					<graphic xlink:href="0034-8910-rsp-48-01-0094-gf01"/>
+				</fig>
+			</p>
+			<p>No ano de 2005 havia um claro predomínio da facção Comando Vermelho (CV) sobre as favelas da cidade do Rio de Janeiro, abrangendo cerca de 730.000 habitantes, quase a metade dos moradores de favelas da cidade (cerca de 1.300.000). A partir desse ano, observa-se um decréscimo gradativo deste domínio com o avanço das milícias e, mais recentemente, com a instalação de UPP. Ambas as iniciativas reduziram consideravelmente o domínio do CV, mas levaram a pequena alteração na territorialidade de outros grupos criminosos como a facção Amigos dos Amigos (ADA) e Terceiro Comando Puro (TCP). A partir de 2005, houve também diminuição do número de pessoas residentes em áreas neutras, grande parte agora sob o domínio de milícias, o tipo de organização que mais ganhou territórios na cidade.</p>
+			<p>Segundo dados de 2010, as milícias atuavam em favelas com 422.000 habitantes, o CV dominava áreas com 377.000 habitantes, ADA e TCP atuavam em áreas com 180.000 habitantes. As UPP, instaladas nas maiores favelas a partir de 2008 e com expansão contínua nos anos mais recentes, cobriam áreas com 142.000 habitantes, embora estivessem presentes apenas em 7,0% das favelas. Hoje quase inexistem áreas neutras, livres de domínios criminosos.</p>
+			<p>A expansão das milícias se detém em algumas áreas mais próximas à Avenida Brasil, ao aeroporto internacional e ao Porto do Rio de Janeiro, por onde chegam armas e drogas. Estas áreas permaneceram sob o controle militar de traficantes até recentemente, com poucas exceções, por exemplo, na Ilha do Governador, onde está o aeroporto internacional, e áreas industriais de depósito de cargas para empresas comerciais, junto à Avenida Brasil, que são disputadas por grupos armados, inclusive milícias. Por causa dessas importantes atividades econômicas, a repressão sobre os criminosos foi maior nessas áreas. Recentemente, a ocupação de favelas nestas áreas por UPP começou a mudar o cenário, por oferecer segurança alternativa às das milícias.</p>
+			<p>No ano de 2009, segundo dados do SIM, 456 pessoas residentes em favelas foram assassinadas. Considerando que a soma de toda a população residente em favelas no Rio de Janeiro era de cerca de 1.300.000, a taxa média de homicídios nas favelas seria próxima de 34 por 100.000 habitantes. Este valor é menor que o verificado para o município como um todo, com 6.320.000 habitantes e 3.260 óbitos por homicídio para o ano de 2009, o que produz um valor aproximado de 52 homicídios por 100.000. Portanto, haveria risco maior de morrer por homicídio fora do que dentro das favelas, o que confirmaria a hipótese de que a presença de traficantes dá segurança aos moradores delas.</p>
+			<p>Para examinar esta hipótese, taxas de mortalidade por homicídios, segundo dados do SIM, foram calculadas para áreas de influência em torno de favelas, classificadas segundo o domínio. A <xref ref-type="fig" rid="f02">Figura 2</xref> mostra as taxas de homicídios por domínio, segundo tais distâncias, no ano de 2009.</p>
+			<p>
+				<fig id="f02">
+					<label>Figura 2</label>
+					<caption>
+						<title>. Variação das taxas de homicídios em torno de favelas por domínio e distância à favela. Dados de homicídios segundo local de residência da vítima (Secretaria Municipal de Saúde do Rio de Janeiro, 2006 a 2009) e população segundo o censo de 2010. Levantamento de domínios realizado no âmbito desta pesquisa.</title>
+					</caption>
+					<graphic xlink:href="0034-8910-rsp-48-01-0094-gf02"/>
+				</fig>
+			</p>
+			<p>Dentro das favelas, observa-se variação de 22 a 44 homicídios por 100.000 habitantes. Ao redor das favelas, até 100 m de distância, as taxas sobem consideravelmente, variando de 48 a 129/100.000. Para distâncias entre 100 m e 250 m, estes valores tendem a diminuir, com exceção das favelas dominadas pela facção CV que atinge seu ápice aos 250 m e o TCP, que chega ao valor máximo de 119/100.000 na distância de 250 m a 500 m. As taxas de homicídio em torno de favelas dominadas por milícias apresentam pequena variação da taxa de homicídio em relação à distância, com valores de 22 a 48/100.000 habitantes.</p>
+			<p>Segundo estas estimativas, seria mais perigoso morar em torno de áreas ocupadas pelos grupos ADA, TCP e CV, do que nas demais áreas afastadas de favelas dominadas por facções de traficantes ou no interior destas. Como as taxas são sempre mais altas nos arredores de favelas que no resto da cidade, elas se tornariam parte da “ecologia do perigo”.<xref ref-type="bibr" rid="B9">
+					<sup>9</sup>
+				</xref> Os estudos etnográficos mostram que nas áreas sob tais domínios, os jovens vulneráveis são socializados pelo manejo das armas de fogo, elementos-chave da nova “cultura de rua”, criando as áreas quentes da morte prematura.<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref> Traficantes armados, com seus impressionantes estoques de armas e munições, apontam para o paradoxo do monopólio legítimo da violência no Brasil e a logística inquebrantável que aporta armas e munições continuamente às quadrilhas atuantes no varejo das favelas. Além de treiná-los para o combate, policiais e militares corruptos, auxiliados por contrabandistas, levam armas exclusivas das Forças Armadas brasileiras às quadrilhas de traficantes, alimentando o estado de guerra pelo controle de pontos de venda e de territórios. Estas mesmas armas vão matar policiais que fazem a repressão às atividades ilegais das quadrilhas.<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B24">
+					<sup>24</sup>
+				</xref>
+			</p>
+			<p>A proximidade dos domínios das milícias, ao contrário, não representaria um sobre-risco de homicídios para os moradores. Existem diversas explicações para a aparente proteção dos moradores de áreas dominadas pelas milícias. A ocupação das favelas por milícias tem sido antecedida por ações de expulsão ou eliminação de membros de facções criminosas, ou seja, a fase de maior mortalidade é anterior ao seu domínio territorial. As milícias forçam o desarmamento, gerando a redução de casos de violência armada, mesmo por motivações pessoais como briga entre vizinhos e casais.<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B25">
+					<sup>25</sup>
+				</xref> Além disso, as favelas dominadas por milícias na Zona Oeste, não têm limites tão abruptos quanto na Zona Sul, resultante do processo de segregação espacial. As atividades das milícias se estenderiam além das favelas, ocupando pontos comerciais legais ou ilegais, como o controle de venda de gás em botijão, transportes alternativos e jogos eletrônicos.<xref ref-type="bibr" rid="B25">
+					<sup>25</sup>
+				</xref>
+			</p>
+			<p>Nas áreas dominadas pelo tráfico, é mais frequente ouvir tiros, agressão entre pessoas, indivíduos sendo mortos ou levados à força, pessoas traficando ou usando drogas. Nessas favelas, o número de entrevistados que afirmou ter visto venda de drogas em sua vizinhança foi mais que o triplo (45,0%) dos entrevistados de favelas dominadas por milícias (14,9%). Este resultado mostra que a tolerância dos moradores, forçada ou não, e a convivência com o uso e tráfico de drogas são várias vezes maiores nessas favelas. Isso indica que um dos objetivos claros das milícias é coibir o uso e tráfico de drogas, mas sem eliminá-lo, e proibir as armas.</p>
+			<p>As favelas foram classificadas segundo o tipo de ocupação, verificando o domínio de grupos armados,<xref ref-type="fn" rid="fn3">
+					<sup>c</sup>
+				</xref> inclusive as facções do tráfico. Os resultados são apresentados na Tabela.</p>
+			<p>No raio até 250 m de favelas com presença de grupos armados, os valores estimados para as taxas de homicídio, segundo dados do SIM, são ligeiramente maiores que em áreas desarmadas (45/100.000 habitantes). As maiores diferenças surgem da comparação entre áreas com tráfico, que apresentam taxas até três vezes superiores a favelas sem tráfico. Também as áreas onde o CV foi recentemente desarticulado, principalmente no Complexo do Alemão, a taxa de 26,8/100.000 habitantes é consideravelmente inferior à média do município (52/100.000 habitantes).</p>
+			<p>O SIG foi usado para calcular distâncias entre favelas próximas ao local de ocorrência da agressão que gerou o homicídio, segundo dados do ISP. De um total de 3.260 homicídios entre residentes no município, 1.093 ocorreram nas áreas próximas a pelo menos duas favelas. As áreas situadas entre favelas de domínio comum, i.e., ambas do CV, apresentaram a maior frequência de ocorrência de homicídios: 386. Já as áreas de conflito potencial entre domínios, i.e., cercadas por duas favelas com domínios diferentes, apresentaram 355 homicídios, o que não é pouco, pois estas áreas de interface são raras e pequenas. Esses homicídios são mais frequentes em áreas onde se aproximam os domínios do CV e milícia. Onde só há milícias, registrou-se 219 homicídios.</p>
+			<p>Um dos exemplos desses conflitos verifica-se na Zona Oeste, no bairro de Fazenda Botafogo. A <xref ref-type="fig" rid="f03">Figura 3</xref> mostra a ocorrência de homicídios nesta área, onde grupos como o CV, ADA e milícias dominam favelas muito próximas entre si. Nesta região também se encontram grandes depósitos de empresas de eletrodomésticos, sempre alvos de assaltos aos seus caminhões.<xref ref-type="bibr" rid="B23">
+					<sup>23</sup>
+				</xref> Por isso, também ali se instalaram milícias, o que tornou a área ainda mais conflituosa.<xref ref-type="bibr" rid="B25">
+					<sup>25</sup>
+				</xref>
+			</p>
+			<p>
+				<fig id="f03">
+					<label>Figura 3</label>
+					<caption>
+						<title>. Locais de ocorrência de homicídios (ISP, 2006 a 2009) e domínios de favelas em torno da Fazenda Botafogo.</title>
+					</caption>
+					<graphic xlink:href="0034-8910-rsp-48-01-0094-gf03"/>
+				</fig>
+			</p>
+			<p>No interior das favelas observa-se ocorrência de violências resultantes em homicídios, segundo dados do ISP. No entanto, estes se concentram principalmente em torno de corredores de circulação do bairro. Estes corredores constituem zonas de contato entre os diferentes grupos, onde são frequentes os conflitos armados, bem como a “desova” de corpos de pessoas executadas por eles.</p>
+			<p>Tais dados indicam a importância da luta por territórios dos diferentes grupos na promoção da violência. Por outro lado, grandes áreas dominadas pelos mesmos grupos armados, não garantem a ausência ou redução de homicídios. Estes corredores, mesmo entre favelas sob o mesmo domínio são áreas de possíveis lutas entre subgrupos e de violências contra comerciantes e moradores como estratégia de manutenção de poder sobre o território.</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>DISCUSSÃO</title>
+			<p>Estas análises demonstram que morar em favelas não representa, por si, um sobre-risco de morte por homicídio. Este risco é determinado pela dinâmica de ocupação destes territórios e a presença de armas e grupos criminosos, especialmente os vinculados ao tráfico ilegal de drogas. As disputas territoriais estão alterando a configuração espacial do tráfico de drogas no Rio de Janeiro, que têm consequências importantes sobre o homicídio. As zonas de conflito, onde favelas estão próximas a centros de abastecimento, portos e aeroportos, ou onde há uma proximidade entre facções criminosas rivais, apresentam maiores taxas de homicídio.</p>
+			<p>As principais mudanças de domínios ocorreram nas zonas sul e norte da cidade, pela ocupação das UPP nestas áreas, e na zona oeste, devido à tomada de favelas pelas milícias.<xref ref-type="bibr" rid="B22">
+					<sup>22</sup>
+				</xref> Até 2005, as milícias estavam restritas à zona oeste, áreas de povoamento mais recente, de menor densidade populacional e com percentual alto de migrantes nordestinos entre os moradores. Em 2010, as milícias haviam se expandido para outras áreas dos chamados subúrbios, mas não nas favelas próximas a uma das principais avenidas da cidade. As únicas favelas que permaneceram sob o domínio do CV na zona oeste, em 2009, estavam localizadas em Cidade de Deus. Na zona sul da cidade, mais próspera com famílias de renda alta, nenhuma favela foi dominada pela milícia. A restrição das áreas de atuação das milícias pode ser consequência da morfologia da cidade, devido às dificuldades de circulação por conta das montanhas e do mar, ao contrário da zona oeste, mais plana, que facilitaria a movimentação dos paramilitares. Uma segunda hipótese, baseada em pesquisas anteriores,<xref ref-type="bibr" rid="B25">
+					<sup>25</sup>
+				</xref> é a de que muitas das empresas de segurança, uniformizadas ou não, nas áreas mais prósperas da cidade pertencem a policiais, que também atuam como “milícias” nas áreas pobres. A grande diferença estaria na relação do pessoal da segurança com os moradores. Nas áreas pobres, pela falta de acesso à justiça, mais facilmente os agentes da segurança privada tornam-se tiranos ou negociantes que impõem decisões extralegais ou ilegais aos moradores pelo poder advindo das armas, afastando assaltantes e traficantes do local.</p>
+			<p>A presença do tráfico, principalmente o tráfico armado, aumenta as taxas de homicídios no entorno de favelas. Grande parte deles decorre de conflitos armados entre traficantes de diferentes comandos, entre estes e as polícias, ou entre traficantes e milicianos pela conquista ou defesa de territórios ou pela cobrança de dívidas e de propinas. O porte de armas de fogo, por sua vez, se explica pelo contexto sociocultural dos pequenos grupos aos quais pertencem os jovens que seguem os valores e práticas desta cultura de rua. Alguns estudos, sobretudo nos Estados Unidos, apontam o grupo de pares como o maior preditivo de delinquência entre homens jovens, especialmente os crimes violentos mais graves e o hábito de portar armas.<xref ref-type="bibr" rid="B14">
+					<sup>14</sup>
+				</xref> Outros estudos afirmam que carregar arma e repetência na escola são os preditores de violência mais importantes para jovens.<xref ref-type="bibr" rid="B8">
+					<sup>8</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref> O aumento da taxa de homicídios é melhor explicado pela alta concentração de armas onde homens jovens e pobres vivem, do que pela inclinação natural à violência.</p>
+			<p>Os altos valores de taxas de homicídio encontrados nas imediações de favelas podem ter duas explicações não excludentes. Há grande dificuldade de se localizar endereços de residência no interior de favelas.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref> O padrão de arruamento e a informalidade dos logradouros muitas vezes impede que se localizem endereços em becos e vielas nas favelas. Uma estratégia adotada pelos moradores é fornecer endereços nas vizinhanças, como sedes de associação de moradores, lojas e outros locais de referência em áreas formais. Isso faz com que os endereços declarados nos sistemas de informação, tanto da segurança pública quanto da saúde, sejam localizados nos arredores das favelas, aumentado artificialmente os riscos estimados para essas áreas.</p>
+			<p>Uma segunda explicação é a ampliação dos conflitos nas fronteiras das favelas. O aumento das taxas em áreas vizinhas pode ocorrer pela existência de conflitos territoriais entre grupos criminosos e a proibição, pelos traficantes, da prática de assaltos dentro da favela, embora aceitem armas e dinheiro dos ladrões. Essas práticas são muito comuns em cidades brasileiras onde o tráfico de drogas armado ocupa e defende seus territórios.<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B7">
+					<sup>7</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B24">
+					<sup>24</sup>
+				</xref>
+			</p>
+			<p>O domínio de favelas por UPP ou milícias aparentemente reduz os riscos de mortalidade por violência. Em anos mais recentes houve um considerável crescimento deste tipo de ocupação de favelas na cidade. As estimativas preliminares permitem verificar uma tendência de proteção dos seus moradores quando a favela está submetida a uma UPP.</p>
+			<p>As áreas dominadas por milícias apresentam menores taxas de mortalidade por violência que áreas sob domínio de grupos armados de tráfico. A estratégia de ocupação destas áreas poderia explicar esta diferença. As milícias não ocupam somente as favelas, mas todo seu entorno, que se torna fonte lucrativa de renda obtida por comércio legal ou ilegal de bens e serviços como transporte, energia, água, lazer, entre outros. Além disso, as milícias empregam outras formas de coerção aos moradores, como banir pessoas ligadas ao tráfico, recolher armas, torturar pessoas que cometeram crimes considerados inaceitáveis, entre outras práticas.</p>
+			<p>As técnicas de análise espacial permitiram avaliar as condições de risco de populações vulneráveis, não considerando as favelas como fenômeno sócio-espacial homogêneo, mas segundo diferentes formas de ocupação e atuação de grupos armados. A análise permitiu confirmar a hipótese de que os domínios de tráfico e a presença de grupos armados aumentam os riscos de mortes por agressão.</p>
+			<p>Esta hipótese foi corroborada por depoimentos colhidos com os moradores de favelas que relataram práticas de violência existentes em favelas dominadas por tais grupos, práticas que não afetam somente criminosos, mas moradores, na favela e arredores, que podem ser vítimas de homicídios devido à prevalência do <italic>ethos</italic> da masculinidade violenta, a disponibilidade de armas, e a coerção e o domínio sobre estes territórios, caracterizando a “ecologia do perigo” no entorno de favelas dominadas pelo tráfico e localizadas em zonas estratégicas da cidade.</p>
+			<p>
+				<table-wrap id="t01">
+					<label>Tabela</label>
+					<caption>
+						<title>População estimada, número de homicídios segundo local de residência da vítima e taxa de homicídio segundo o tipo de atividade no entorno próximo de favelas do Rio de Janeiro, RJ, 2009.</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<colgroup width="25%">
+							<col/>
+							<col/>
+							<col/>
+							<col/>
+						</colgroup>
+						<thead>
+							<tr>
+								<th align="left">Tipo de ocupação</th>
+								<th>População estimada<sup>a</sup>
+								</th>
+								<th>Número de homicídios<sup>b</sup>
+								</th>
+								<th>Taxa homicídios (por 100.000 hab.)<sup>c</sup>
+								</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>Com domínio armada</td>
+								<td align="center">3.130.117</td>
+								<td align="center">1.585</td>
+								<td align="center">50,6</td>
+							</tr>
+							<tr>
+								<td>Com domínio desarmada</td>
+								<td align="center">287.315</td>
+								<td align="center">131</td>
+								<td align="center">45,6</td>
+							</tr>
+							<tr>
+								<td>Com domínio com tráfico</td>
+								<td align="center">167.764</td>
+								<td align="center">120</td>
+								<td align="center">71,5</td>
+							</tr>
+							<tr>
+								<td>Sem domínio sem tráfico</td>
+								<td align="center">17.862</td>
+								<td align="center">4</td>
+								<td align="center">22,4</td>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<p>
+							<sup>a</sup> IBGE. Censo demográfico, 2010.</p>
+						<p>
+							<sup>b</sup> Secretaria Municipal de Saúde do Rio de Janeiro, 2006 a 2009.</p>
+						<p>
+							<sup>c</sup> Distância de até 250 m.</p>
+					</table-wrap-foot>
+				</table-wrap>
+			</p>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>REFERÊNCIAS</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>Barcellos C, Ramalho WM, Gracie R, Magalhães MAFM, Fontes MP, Skaba D. Georreferenciamento de dados de saúde na escala submunicipal: algumas experiências no Brasil. <italic>Epidemiol Serv Saude</italic>. 2008;17(1):59-70.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Barcellos</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Ramalho</surname>
+							<given-names>WM</given-names>
+						</name>
+						<name>
+							<surname>Gracie</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Magalhães</surname>
+							<given-names>MAFM</given-names>
+						</name>
+						<name>
+							<surname>Fontes</surname>
+							<given-names>MP</given-names>
+						</name>
+						<name>
+							<surname>Skaba</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Georreferenciamento de dados de saúde na escala submunicipal: algumas experiências no Brasil</article-title>
+					<source>Epidemiol Serv Saude</source>
+					<year>2008</year>
+					<volume>17</volume>
+					<issue>1</issue>
+					<fpage>59</fpage>
+					<lpage>70</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>Beato Filho CC, Assunção RM, Silva BFA, Marinho FC, Reis IA, Almeida MC. Conglomerados de homicídios e o tráfico de drogas em Belo Horizonte, Minas Gerais, Brasil, de 1995 a 1999. <italic>Cad Saude Publica</italic>. 2001;17(5):1163-71. DOI:10.1590/S0102-311X2001000500017</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Beato</surname>
+							<given-names>CC</given-names>
+							<suffix>Filho</suffix>
+						</name>
+						<name>
+							<surname>Assunção</surname>
+							<given-names>RM</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>BFA</given-names>
+						</name>
+						<name>
+							<surname>Marinho</surname>
+							<given-names>FC</given-names>
+						</name>
+						<name>
+							<surname>Reis</surname>
+							<given-names>IA</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>MC</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Conglomerados de homicídios e o tráfico de drogas em Belo Horizonte, Minas Gerais, Brasil, de 1995 a 1999</article-title>
+					<source>Cad Saude Publica</source>
+					<year>2001</year>
+					<volume>17</volume>
+					<issue>5</issue>
+					<fpage>1163</fpage>
+					<lpage>1171</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0102-311X2001000500017</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>Burawoy M. The extended case method. <italic>Sociol Theory</italic>. 1998;16(1):4-33. DOI:10.1111/0735-2751.00040</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Burawoy</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The extended case method</article-title>
+					<source>Sociol Theory</source>
+					<year>1998</year>
+					<volume>16</volume>
+					<issue>1</issue>
+					<fpage>4</fpage>
+					<lpage>33</lpage>
+					<pub-id pub-id-type="doi">10.1111/0735-2751.00040</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>Cano I, Santos N. Violência letal, renda e desigualdade social no Brasil. Rio de Janeiro: 7 Letras; 2001.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group>
+						<name>
+							<surname>Cano</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Violência letal, renda e desigualdade social no Brasil</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>7 Letras</publisher-name>
+					<year>2001</year>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>Castro MSM, Assunção RM, Durante MO. Comparação de dados sobre homicídios entre dois sistemas de informação, Minas Gerais. <italic>Rev Saude Publica</italic>. 2003;37(2):168-76. DOI:10.1590/S0034-89102003000200002</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Castro</surname>
+							<given-names>MSM</given-names>
+						</name>
+						<name>
+							<surname>Assunção</surname>
+							<given-names>RM</given-names>
+						</name>
+						<name>
+							<surname>Durante</surname>
+							<given-names>MO</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Comparação de dados sobre homicídios entre dois sistemas de informação, Minas Gerais</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2003</year>
+					<volume>37</volume>
+					<issue>2</issue>
+					<fpage>168</fpage>
+					<lpage>176</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0034-89102003000200002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>Chainey S, Ratcliffe J. GIS and crime mapping. London: John Wiley &amp; Sons; 2005.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Chainey</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Ratcliffe</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">GIS and crime mapping</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>John Wiley &amp; Sons</publisher-name>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>Dowdney L. Crianças no tráfico: um estudo de caso de crianças em violência armada organizada no Rio de Janeiro. Rio de Janeiro: 7 Letras; 2003.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Dowdney</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Crianças no tráfico: um estudo de caso de crianças em violência armada organizada no Rio de Janeiro</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>7 Letras</publisher-name>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>Ellikson P, Saner H, McGuigan KA. Profiles of violent youth: substance use and other concurrent problems. <italic>Am J Public Health</italic>. 1997;87(6):985-91.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Ellikson</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Saner</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>McGuigan</surname>
+							<given-names>KA</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Profiles of violent youth: substance use and other concurrent problems</article-title>
+					<source>Am J Public Health</source>
+					<year>1997</year>
+					<volume>87</volume>
+					<issue>6</issue>
+					<fpage>985</fpage>
+					<lpage>991</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>Fagan J. Policing guns and youth violence. <italic>Future Child</italic>. 2005;12(2):133-51.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Fagan</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Policing guns and youth violence</article-title>
+					<source>Future Child</source>
+					<year>2005</year>
+					<volume>12</volume>
+					<issue>2</issue>
+					<fpage>133</fpage>
+					<lpage>151</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>Gawryszewski VP, Costa LS. Social inequality and homicide rates in Sao Paulo City, Brazil. <italic>Rev Saude Publica</italic>. 2005;39(2):191-7. DOI:10.1590/S0034-89102005000200008</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Gawryszewski</surname>
+							<given-names>VP</given-names>
+						</name>
+						<name>
+							<surname>Costa</surname>
+							<given-names>LS</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Social inequality and homicide rates in Sao Paulo City, Brazil</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2005</year>
+					<volume>39</volume>
+					<issue>2</issue>
+					<fpage>191</fpage>
+					<lpage>197</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>Iyer S, Monteiro MFG. The risk of child and adolescent mortality among vulnerable populations. <italic>J Biosoc Sci</italic>. 2004;36(5):523-46.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Iyer</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Monteiro</surname>
+							<given-names>MFG</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The risk of child and adolescent mortality among vulnerable populations</article-title>
+					<source>J Biosoc Sci</source>
+					<year>2004</year>
+					<volume>36</volume>
+					<issue>5</issue>
+					<fpage>523</fpage>
+					<lpage>546</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation>Melgaço LM. Uso do território pela violência. In: Souza MA, organizadora. Território brasileiro: usos e abusos. Campinas: Edições Territorial; 2003. v.1, p.524-33.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Melgaço</surname>
+							<given-names>LM</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="pt">Uso do território pela violência</chapter-title>
+					<person-group>
+						<name>
+							<surname>Souza</surname>
+							<given-names>MA</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Território brasileiro: usos e abusos</source>
+					<publisher-loc>Campinas</publisher-loc>
+					<publisher-name>Edições Territorial</publisher-name>
+					<year>2003</year>
+					<volume>1</volume>
+					<fpage>524</fpage>
+					<lpage>533</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation>Misse M. La acumulación social de la violencia en Rio de Janeiro y en Brasil: algunas reflexiones. <italic>Co- Herencia</italic>. 2010;7(13):19-40.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Misse</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="es">La acumulación social de la violencia en Rio de Janeiro y en Brasil: algunas reflexiones</article-title>
+					<source>Co- Herencia</source>
+					<year>2010</year>
+					<volume>7</volume>
+					<issue>13</issue>
+					<fpage>19</fpage>
+					<lpage>40</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation>Myers GP, McGrady GA, Marrow C, Mueller CW. Weapon carrying among black adolescents: a social network perspective. <italic>Am J Public Health</italic>. 1997;87(6):1038-40.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Myers</surname>
+							<given-names>GP</given-names>
+						</name>
+						<name>
+							<surname>McGrady</surname>
+							<given-names>GA</given-names>
+						</name>
+						<name>
+							<surname>Marrow</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Mueller</surname>
+							<given-names>CW</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Weapon carrying among black adolescents: a social network perspective</article-title>
+					<source>Am J Public Health</source>
+					<year>1997</year>
+					<volume>87</volume>
+					<issue>6</issue>
+					<fpage>1038</fpage>
+					<lpage>1040</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation>Resnick MD, Ireland M, Borowsky I. Youth violence perpetration: what protects? What predicts? Findings from the National Longitudinal Study of Adolescent Health. <italic>J Adolesc Health</italic>. 2004;35(5):424.e1-424.e10. DOI:10.1016/j.jadohealth.2004.01.011</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Resnick</surname>
+							<given-names>MD</given-names>
+						</name>
+						<name>
+							<surname>Ireland</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Borowsky</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Youth violence perpetration: what protects? What predicts? Findings from the National Longitudinal Study of Adolescent Health</article-title>
+					<source>J Adolesc Health</source>
+					<year>2004</year>
+					<volume>35</volume>
+					<issue>5</issue>
+					<elocation-id>424.e1-424.e10</elocation-id>
+					<pub-id pub-id-type="doi">10.1016/j.jadohealth.2004.01.011</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation>Rojas LI; Santos SM; Barcellos C. Diferenciación espacial de la violencia en America Latina. In: Minayo MCS, Coimbra Jr CEA, organizadores. Críticas e atuantes: ciências sociais e humanas em saúde na América Latina. Rio de Janeiro: Editora. Fiocruz; 2005. p.665-86.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group>
+						<name>
+							<surname>Rojas</surname>
+							<given-names>LI</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>SM</given-names>
+						</name>
+						<name>
+							<surname>Barcellos</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="es">Diferenciación espacial de la violencia en America Latina</article-title>
+					<person-group>
+						<name>
+							<surname>Minayo</surname>
+							<given-names>MCS</given-names>
+						</name>
+						<name>
+							<surname>Coimbra</surname>
+							<given-names>CEA</given-names>
+							<suffix>Jr</suffix>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Críticas e atuantes: ciências sociais e humanas em saúde na América Latina</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Editora. Fiocruz</publisher-name>
+					<year>2005</year>
+					<fpage>665</fpage>
+					<lpage>686</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation>Santos M. A natureza do espaço: técnica e tempo, razão e emoção. São Paulo: Hucitec; 1996.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group>
+						<name>
+							<surname>Santos</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">A natureza do espaço: técnica e tempo, razão e emoção</source>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Hucitec</publisher-name>
+					<year>1996</year>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation>Santos SM, Barcellos C, Sá Carvalho M. Ecological analysis of the distribution and socio-spatial context of homicides in Porto Alegre, Brazil. <italic>Health Place</italic>. 2006;12(1):38-47. DOI:10.1016/j.healthplace.2004.08.009</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Santos</surname>
+							<given-names>SM</given-names>
+						</name>
+						<name>
+							<surname>Barcellos</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Sá Carvalho</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Ecological analysis of the distribution and socio-spatial context of homicides in Porto Alegre, Brazil</article-title>
+					<source>Health Place</source>
+					<year>2006</year>
+					<volume>12</volume>
+					<issue>1</issue>
+					<fpage>38</fpage>
+					<lpage>47</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.healthplace.2004.08.009</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation>Soares Filho AM. Homicide victimization according to racial characteristics in Brazil. <italic>Rev Saude Publica</italic>. 2011;45(4):745-55. DOI:10.1590/S0034-89102011005000045</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Soares</surname>
+							<given-names>AM</given-names>
+							<suffix>Filho</suffix>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Homicide victimization according to racial characteristics in Brazil</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2011</year>
+					<volume>45</volume>
+					<issue>4</issue>
+					<fpage>745</fpage>
+					<lpage>755</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0034-89102011005000045</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation>Szwarcwald CL, Bastos FI, Esteves MA, Andrade CLT, Paez MS, Medici EV, et al. Desigualdades de renda e situação de saúde: o caso do Rio de Janeiro. <italic>Cad Saude Publica</italic>. 1999;15(1):15-28.DOI:10.1590/S0102-311X1999000100003</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Szwarcwald</surname>
+							<given-names>CL</given-names>
+						</name>
+						<name>
+							<surname>Bastos</surname>
+							<given-names>FI</given-names>
+						</name>
+						<name>
+							<surname>Esteves</surname>
+							<given-names>MA</given-names>
+						</name>
+						<name>
+							<surname>Andrade</surname>
+							<given-names>CLT</given-names>
+						</name>
+						<name>
+							<surname>Paez</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Medici</surname>
+							<given-names>EV</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="pt">Desigualdades de renda e situação de saúde: o caso do Rio de Janeiro</article-title>
+					<source>Cad Saude Publica</source>
+					<year>1999</year>
+					<volume>15</volume>
+					<issue>1</issue>
+					<fpage>15</fpage>
+					<lpage>28</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0102-311X1999000100003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation>Taquette S, Caldas CP, organizadoras. Ética e pesquisa com populações vulneráveis. Rio de Janeiro: Editora da Universidade do Estado do Rio de Janeiro; 2012. pág. 46</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Taquette</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Caldas</surname>
+							<given-names>CP</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Ética e pesquisa com populações vulneráveis</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Editora da Universidade do Estado do Rio de Janeiro</publisher-name>
+					<year>2012</year>
+					<size units="pages">46</size>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation>Zaluar A, Barcellos C. Mortes prematuras e conflito armado pelo domínio das favelas no Rio de Janeiro. <italic>Rev Bras Cienc Soc</italic>. 2013;28(81):17-31. DOI:10.1590/S0102-69092013000100002</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Zaluar</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Barcellos</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Mortes prematuras e conflito armado pelo domínio das favelas no Rio de Janeiro</article-title>
+					<source>Rev Bras Cienc Soc</source>
+					<year>2013</year>
+					<volume>28</volume>
+					<issue>81</issue>
+					<fpage>17</fpage>
+					<lpage>31</lpage>
+					<pub-id pub-id-type="doi">10.1590/S0102-69092013000100002</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation>Zaluar A. Turf war in Rio de Janeiro: youth, drug traffic, guns and hyper-masculinity. In:Ceccato V, editor. The urban fabric of crime and fear. New York: Springer; 2012. v.1, p.217-38.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Zaluar</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="en">Turf war in Rio de Janeiro: youth, drug traffic, guns and hyper-masculinity</chapter-title>
+					<person-group>
+						<name>
+							<surname>Ceccato</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">The urban fabric of crime and fear</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+					<year>2012</year>
+					<volume>1</volume>
+					<fpage>217</fpage>
+					<lpage>238</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation>Zaluar A. Violence in Rio de Janeiro: styles of leisure, drug use, and trafficking. <italic>Int Soc Sci J</italic>. 2001;53(3):369-78.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Zaluar</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Violence in Rio de Janeiro: styles of leisure, drug use, and trafficking</article-title>
+					<source>Int Soc Sci J</source>
+					<year>2001</year>
+					<volume>53</volume>
+					<issue>3</issue>
+					<fpage>369</fpage>
+					<lpage>378</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<label>25</label>
+				<mixed-citation>Zaluar AM, Conceição IS. Favelas sob o controle das milícias no Rio de Janeiro: que paz? <italic>Sao Paulo Perspect</italic>. 2007;21(2):89-101.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group>
+						<name>
+							<surname>Zaluar</surname>
+							<given-names>AM</given-names>
+						</name>
+						<name>
+							<surname>Conceição</surname>
+							<given-names>IS</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Favelas sob o controle das milícias no Rio de Janeiro: que paz?</article-title>
+					<source>Sao Paulo Perspect</source>
+					<year>2007</year>
+					<volume>21</volume>
+					<issue>2</issue>
+					<fpage>89</fpage>
+					<lpage>101</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<label>26</label>
+				<mixed-citation>Zaluar AM. Pesquisando no perigo: etnografias voluntárias e não acidentais. <italic>Mana</italic>. 2009;15(2):557-84. DOI:10.1590/S0104-93132009000200009</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Zaluar</surname>
+							<given-names>AM</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Pesquisando no perigo: etnografias voluntárias e não acidentais</article-title>
+					<source>Mana</source>
+					<year>2009</year>
+					<volume>15</volume>
+					<issue>2</issue>
+					<fpage>557</fpage>
+					<lpage>584</lpage>
+					<pub-id pub-id-type="doi" specific-use="q">10.1590/S0104-93132009000200009</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn id="fn1">
+				<label>a </label>
+				<p> O IBGE classifica os setores censitários como aglomerado subnormal o conjunto de unidades habitacionais carentes de serviços públicos essenciais, ocupando ou tendo ocupado, até período recente, terreno de propriedade alheia (pública ou particular) e estando dispostas, em geral, de forma desordenada e densa. Esses critérios correspondem, na cidade do Rio de Janeiro, às favelas.</p>
+			</fn>
+			<fn id="fn2">
+				<label>b </label>
+				<p> As principais facções de tráfico na cidade do Rio de Janeiro são os Amigos dos Amigos (ADA), Comando Vermelho (CV) e Terceiro Comando Puro (TCP). Milícias são organizações criminosas paramilitares que são formadas predominantemente por policiais militares, bombeiros e agentes penitenciários que prestam serviços de segurança privada a comerciantes locais e moradores, cobram taxas para utilização de serviços (pedágios) ou controlam atividades econômicas ilegais, como o jogo eletrônico e o sinal pirata da TV a cabo. Alguns territórios de favelas permanecem fora do domínio de facções e milícias, sendo considerados ‘neutros’ aqui.</p>
+			</fn>
+			<fn id="fn3">
+				<label>c </label>
+				<p> Os domínios cobrem todas as favelas onde facções do tráfico ou milícias exercem seu poder. Esses domínios podem ser exercidos com a exibição de armas ou não. Com ou sem tráfico serve para diferenciar as favelas neutras ou dominadas por milícias daquelas dominadas por facções do tráfico.</p>
+			</fn>
+			<fn id="fn4" fn-type="financial-disclosure">
+				<p>Projetos financiados pela Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro (FAPERJ – Processo E-26/110.302/2010) e Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq – Processo 482431/ 2010-5).</p>
+			</fn>
+		</fn-group>
+	</back>
+	<sub-article article-type="translation" id="TRen" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Original Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Homicides and territorial struggles in Rio de Janeiro favelas</article-title>
+			</title-group>
+			<author-notes>
+				<corresp>
+					<label>Correspondence</label>: Christovam Barcellos. ICICT/Fiocruz. Av. Brasil, 4365 Manguinhos. 21045-900 Rio de Janeiro, RJ, Brasil. E-mail: xris@fiocruz.br </corresp>
+				<fn fn-type="conflict">
+					<p>The authors declare that there are no conflicts of interest.</p>
+				</fn>
+			</author-notes>
+			<abstract xml:lang="en">
+				<sec>
+					<title>OBJECTIVE</title>
+					<p> : To evaluate the risk of homicide in Rio de Janeiro’s favelas, taking into account the territorial disputes taking place in the city.</p>
+				</sec>
+				<sec>
+					<title>METHODS</title>
+					<p> : The study is based on data on mortality from homicide in the city of Rio de Janeiro between 2006 and 2009. Risks in favelas and in surrounding areas were evaluated, as was the domination of armed groups and drug dealing. Geographic and ethnographic concepts and methods were employed, using participant observation, interviews and analysis of secondary data on health.</p>
+				</sec>
+				<sec>
+					<title>RESULTS</title>
+					<p> : Within the favelas, mortality rates from homicide were equivalent to, or lower than, the rest of the city, although they were considerably higher in areas surrounding the favelas, especially in areas where there was conflict between armed rival gangs.</p>
+				</sec>
+				<sec>
+					<title>CONCLUSIONS</title>
+					<p> : The presence of trafficking crews and turf war in strategic areas of the city increases homicide rates and promotes the “ecology of danger” in these areas.</p>
+				</sec>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<kwd>Mortality</kwd>
+				<kwd>Mortality Registries</kwd>
+				<kwd>Mortality Rate</kwd>
+				<kwd>Homicide, statistics &amp; numerical data</kwd>
+				<kwd>Violence</kwd>
+				<kwd>Poverty Areas</kwd>
+				<kwd>Territoriality</kwd>
+				<kwd>Spatial Analysis</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>INTRODUCTION</title>
+				<p>The rise in homicides over the last few decades has revealed changes in the social relations, values and worldview of society, demanding new approaches to understanding this complex phenomenon.</p>
+				<p>Acts of violence differ and have multiple causes, which need to be studied at diverse levels of analysis, ranging from the international to the local and everyday life.<xref ref-type="bibr" rid="B16">
+						<sup>16</sup>
+					</xref> Each of these scales presents macrosocial and collective predictive factors, as well as microsocial and subjective components. The former are essential to identifying at-risk groups and areas, the latter to understanding the social processes responsible for generating violence in post-industrial society. The characterization of violence solely in macrosocial or exclusively subjective terms impedes our comprehension of the multifaceted nature of the phenomenon.</p>
+				<p>Quantitative studies of the determinant factors in violent deaths have been based on aggregate individual variables or ecological variables. Aggregate variables reconstruct the socioeconomic profile of victims, including factors such as economic inequality, income, schooling, family structure and teenage pregnancy rates,<xref ref-type="bibr" rid="B19">
+						<sup>19</sup>
+					</xref> while the ecological variables correlate characteristics of the neighbourhoods where the victims lived, such as population structure, demographic density, housing mobility, ethnic homogeneity, poverty levels and unemployment rates.<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref> The hypothesis underlying these studies is that the victims tend to live in overpopulated, ethnically diverse neighbourhoods with high unemployment, female-headed households, teenage pregnancies and low levels of income and education. As well as aggregate socioeconomic variables, therefore, factors related to urban space have become part of criminological inquiry.</p>
+				<p>The predictive ecological factors of violence include the territorial disputes in favelas, which began in Rio de Janeiro in the 1980s when divisions appeared among armed groups fighting for positions within the illegal drug trade. These conflicts reinforced the ethos of violent masculinity that creates subjective dispositions towards acrimonious forms of conflict resolution.<xref ref-type="bibr" rid="B23">
+						<sup>23</sup>
+					</xref> The favelas became the refuge for criminal groups and pockets where practices of internal security and informal justice were shaped by local forms of power.</p>
+				<p>Recently, the development of digital mapping technologies, in particular Geographic Information Systems (GIS), has opened up new avenues for epidemiological investigations making use of these techniques to map and analyze the distribution of violence-related health issues. Most of these methods have been utilized to evaluate the spatial distribution of the incidence of violence, identifying predictive factors on the basis of spatial patterns. The present study, by contrast, sets out from earlier hypotheses concerning the distribution of homicides based on the spatial structure, favelas and main traffic routes of the city, in order to assess the effect of these ambients on the distribution of violence. Milton Santos<xref ref-type="bibr" rid="B17">
+						<sup>17</sup>
+					</xref> argues that space is constituted by an indissociable set of objects and actions. Objects are fixed in space and determine the actions happening within and around them. Hence the presence of favelas conditions social practices in their surrounding area.</p>
+				<p>Few studies of violence in Brazil have been conducted at local level using disaggregated data since they have primarily been macrosocial in approach, looking to identify links between socioeconomic indicators constructed for large areas, like administrative regions, and planning areas. Various studies have shown a greater risk of death by violence in poor areas of cities, both in peripheral zones and in regions where favelas are concentrated. This article looks to distinguish the favelas not through poverty indicators but according to variables indicating the activities of armed groups in bloody disputes.</p>
+				<p>Since predictive factors for violence are often difficult to measure, ethnographic research is indispensable. The extended case method allows the local to be connected to other spheres of social life, as well as imposing a historical approach that enables mortality by homicide to be related to the violent practices of drug traffickers, police forces and militias in some favelas. The present study aimed to evaluate the risk of homicide in Rio de Janeiro’s favelas, taking into account the territorial disputes taking place in the city.</p>
+			</sec>
+			<sec sec-type="methods">
+				<title>METHODS</title>
+				<p>The favelas were classified in accordance with the control exerted by armed groups – militias or drug traffickers – looking to answer the following questions: Does living in favelas and their surrounding area imply a higher risk? Does this risk depend on the localization and control of the favelas? Can the disputes between armed groups increase this risk?</p>
+				<p>The data on mortality by homicide from 2006 to 2009 were obtained from two sources: the Mortality Information System (SIM) of the Municipal Health Department of Rio de Janeiro, selecting deaths resulting from legally-sanctioned police interventions and war operations; deaths from homicide (ICD10: X85 to Y09); and injuries caused by firearms and sharp objects irrespective of intention to harm (ICD10: Y22 to Y24 and Y28). The latter group was included in order to remedy flaws in the classification of cause of death.<xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref> Records of deaths from the SIM were geocoded to the victim’s residence address. These addresses were compared with the digital street map and other databases. The remaining addresses were manually geocoded, relying on the field research team’s experience concerning informal favela addresses. This process allowed the localization of 96.0% of the records.</p>
+				<p>The second source of information was the Public Security Institute (ISP) of the State Public Security Department. We selected the records of aggressions involving residents of Rio de Janeiro municipality between 2006 and 2009 that resulted in the victim’s death. In this case the deaths were geocoded, using the place of the recorded occurrence as the address, whether this was where the death happened or where the body was found.</p>
+				<p>The first geocoding strategy, employed for the SIM data, allowed the calculation of homicide rates through the ratio between the number of homicides per residence locality, and the total population living in each area. The second strategy, used for the ISP data, enabled the identification of areas with a higher concentration of violent and fatal events that, according to the hypotheses explored in this study, are related to armed conflicts in the city.</p>
+				<p>To estimate the resident population the study used data from the 2010 population census, taking the census tract as the minimum unit of aggregation. The favelas are classified, therefore, according to two public bodies using distinct criteria: the Pereira Passos Institute (IPP) of the Rio de Janeiro City Council, which maintains a record of areas of social need, and the Brazilian Institute of Geography and Statistics (IBGE), which classifies these areas as subnormal census tracts.<xref ref-type="fn" rid="fn2_en">
+						<sup>a</sup>
+					</xref> Using the list of 965 favelas provided by the IPP, the data was matched with the maps of favelas generated through the classification of subnormal census tracts in the 2010 population census. This list, containing the localization and name of favelas, was cross-checked in the field by the project team. The team also identified the drug gang factions<xref ref-type="fn" rid="fn3_en">
+						<sup>b</sup>
+					</xref> and militias controlling the favelas between January 2005 and December 2010 through local visits and internet research.</p>
+				<p>The GIS was compiled from this set of data, permitting the organization and processing of spatial information through computational procedures. In this article the spatial units are not an <italic>a priori </italic>fact: rather, they were designed in response to the study’s hypotheses, not coinciding with political-administrative areas, but recognizing instead that the area of influence of a controlling faction extends for a certain distance beyond the favela. Based on the design of these new areas, the number of events (death by homicide) within them was calculated along with the total population. The mortality by homicide rate was calculated for the favela surroundings, establishing areas of influence (buffer zones) with radial distances based on the borders of the favelas: ranging from zero metres (inside the favelas), from zero to 100 m, from 100 m to 250 m, from 250 m to 500 m and from 500 m to 1,000 m (around the favelas).</p>
+				<p>Ethnographic data were incorporated from research conducted in favelas<xref ref-type="bibr" rid="B21">
+						<sup>21</sup>
+					</xref> that aimed to produce indicators that enable inferences to be made concerning the synergy between interconnected social facts. The aim was to identify the multiple meanings with which social actors imbue their actions, the risks that they face and the relations established among themselves in different violent situations. Adopting a reflexive approach involving the dialogue between social scientists and the people that they study, we sought to understand the dynamic of social situations with the largest possible number of actors.</p>
+			</sec>
+			<sec sec-type="results">
+				<title>RESULTS</title>
+				<p>
+					<xref ref-type="fig" rid="f01_en">Figure 1</xref> shows the total population of the favelas according to the control of criminal groups, militias, neutrality or, in recent years, placed under the supervision of Police Pacification Units (UPP), in order to put in context the results of several armed conflicts registered in the city relating to territorial control of favelas.</p>
+				<p>
+					<fig id="f01_en">
+						<label>Figure 1</label>
+						<caption>
+							<title>Total population resident in favelas according to the domination by traffickers and militia.</title>
+						</caption>
+						<graphic xlink:href="0034-8910-rsp-48-01-0094-gf01-en"/>
+					</fig>
+				</p>
+				<p>In 2005 there was a clear dominance of the <italic>Comando Vermelho</italic> (CV) faction over the favelas of Rio de Janeiro city, covering around 730,000 inhabitants or almost half of the city’s favela residents (approximately 1,300,000 people). From 2005 onwards a gradual decease in this control has been observable with the advance of the militias and, more recently, the installation of UPP. Both these initiatives reduced the control of the CV considerably but led to only a small change in the territorial control of other criminal groups such as the <italic>Amigos dos Amigos</italic> and <italic>Terceiro Comando Puro </italic>factions. From 2005 onwards there was also a fall in the number of people living in neutral areas with most now under the control of militias, the kind of organization that most expanded its territories in the city.</p>
+				<p>According to data from 2010, the militias were active in favelas totalling 422,000 inhabitants, the CV controlled areas totalled 377,000 inhabitants, while the ADA and TCP were active in areas containing a total 180,000 inhabitants. The UPP, installed in the largest favelas from 2008 and expanded continuously over the last few years, covered areas with 142,000 inhabitants, though they are present in just 7.0% of the favelas. Today neutral areas, free of criminal control, are almost non-existent.</p>
+				<p>The expansion of the militias is limited in some areas closer to Avenida Brasil, the international airport and the Port of Rio de Janeiro, where firearms and drugs arrive. Until recently these areas remained under the military control of drug traffickers, with a few exceptions, for example on the Ilha do Governador, where the international airport is located, and industrial areas with commercial cargo depots next to Avenida Brasil, which are disputed by armed groups, including militias. Because of the importance of these economic activities, repression of criminal factions in these areas has been greater. Recently the occupation of favelas in these areas by UPP has begun to alter the scenario by offering an alternative form of security to the kind provided by the militias.</p>
+				<p>In 2009, according to data from the SIM, 456 people living in favelas were murdered. Given that the total population living in Rio de Janeiro’s favelas was around 1,300,000, the average homicide rate in the favelas would be around 34 per 100,000 inhabitants. This figure is lower than the rate found for the municipality as a whole, which in 2009 had 6,320,000 inhabitants and 3,260 deaths by homicide, or approximately 52 murders per 100,000. Hence there is a greater risk of death by homicide outside the favelas, which would appear to confirm the hypothesis that the presence of drug traffickers provides security to favela residents.</p>
+				<p>To examine this hypothesis, mortality by homicide rates, based on data from the SIM, were calculated for buffer zones around favelas, classified by territorial control. <xref ref-type="fig" rid="f02_en">Figure 2</xref> shows the homicide rates for the year 2009 by controlling faction and according to these radial distances.</p>
+				<p>
+					<fig id="f02_en">
+						<label>Figure 2</label>
+						<caption>
+							<title>Variation in homicide rates around favelas by domination and distance to the favela. Homicide data by place of residence of the victim (<italic>Municipal Health Department of Rio de Janeiro,</italic> 2006 to 2009) and population according to 2010 census. Areas surveyed within the scope of this research.</title>
+						</caption>
+						<graphic xlink:href="0034-8910-rsp-48-01-0094-gf02-en"/>
+					</fig>
+				</p>
+				<p>Inside the favelas, a variation from 22 to 44 homicides per 100,000 inhabitants is observed. Around the favelas, up to 100 m away, the rates rise considerably, varying from 48 to 129/100,000. For distances between 100 m and 250 m, these figures tend to decrease, with the exception of favelas controlled by the CV faction, which reach their peak at 250 m distance and by the TCP, which reaches the maximum rate of 119/100,000 at a distance of 250 m to 500 m. The homicide rates around militia-controlled favelas demonstrate a small variation according to distance with figures ranging from 22 to 48/100,000 inhabitants.</p>
+				<p>According to these estimates, it would be more dangerous to live on the edge of areas occupied by the ADA, TCP and CV groups than in other areas distant from favelas controlled by drug gangs or within them. As the rates are always higher on the outskirts of favelas than in the rest of the city, they become part of the ‘ecology of danger.’<xref ref-type="bibr" rid="B9">
+						<sup>9</sup>
+					</xref> Ethnographic studies show that in the areas under these forms of control, vulnerable young people are socialized by the handling of firearms, key elements in the new ‘street culture,’ creating hot spots of premature death.<xref ref-type="bibr" rid="B11">
+						<sup>11</sup>
+					</xref> Armed dealers with their formidable stocks of guns and ammunition, highlight the paradox of the legitimate monopoly of violence in Brazil and the unbreakable logistics that continually brings firearms and ammunition to the gangs active in the favelas. As well as training them for combat, corrupt police officers and military personnel, assisted by smugglers, provide weapons produced exclusively for the Brazilian Armed Forces to the drug gangs, continually feeding the state of war over the control of sales points and territories. These same firearms will also be used to kill police officers attempting to suppress the illegal activities of these gangs.</p>
+				<p>Living close to the areas controlled by militias, on the other hand, does not represent a larger risk of homicide. A range of explanations exist for the apparent protection of residents from areas controlled by the militias. The occupation of the favelas by militias has been preceded by actions involving the expulsion or elimination of members of criminal factions: in other words, the phase of higher mortality precedes their territorial control. The militias enforce disarmament, leading to a reduction in cases of armed violence, even those due to personal motives such as fights between neighbours and couples. Additionally the favelas controlled by militias in the western zone of the city have less abrupt borders than those in the southern zone, a consequence of the process of spatial segregation. The activities of the militias extend beyond the favelas, occupying legal or illegal commercial points, such as the control of bottled gas sales, alternative transport and electronic games.</p>
+				<p>In the areas controlled by drug gangs, it is more common to hear gunshots and witness fights between people, individuals being killed or abducted, trafficking and drug use. In these favelas the number of interviewees who claimed to have seen drugs being sold in their neighbourhood was more than three times (45.0%) the number from favelas controlled by militias (14.9%). This result shows that the tolerance of the residents, forced or otherwise, and coexistence with drug use and trafficking are much higher in the latter favelas. This indicates that one of the clear objectives of the militias is to curb the use and sale of drugs, though without eliminating them, and to prohibit firearms.</p>
+				<p>The favelas were classified by type of occupation, verifying the control exerted by armed groups,<xref ref-type="fn" rid="fn4_en">
+						<sup>c</sup>
+					</xref> including the drug gang factions. The results are presented in the Table.</p>
+				<p>In the radius up to 250 m from favelas with a presence of armed groups, the estimated murder rates, based on data from the SIM, are slightly higher than in disarmed areas (45/100,000 inhabitants). The biggest differences are found when comparing areas with drug trafficking, which present rates up to three times higher than the favelas without trafficking. Likewise in the areas where the CV was recently expelled, principally in the <italic>Complexo do Alemão</italic>, the rate of 26.8/100,000 inhabitants is considerably lower than the municipality’s average (52/100,000 inhabitants).</p>
+				<p>The GIS was used to calculate distances between favelas close to the place of occurrence of the aggression that led to the homicide, based on data from the ISP. From a total of 3,260 homicides among residents in the municipality, 1,093 took place in the areas close to at least two favelas. The areas situated between favelas under the same control, i.e. both controlled by CV, showed a higher number of homicides: 386. At the same time, the areas of potential conflict between territories, i.e., bordering two favelas controlled by different groups, showed 355 homicides, which is not a small number given that these areas of interface are rarer and smaller. These homicides are more frequent in areas close to the areas controlled by the CV and militias. Where militias only are found, 219 homicides were registered.</p>
+				<p>One example of this kind of conflict is found in Rio’s western zone, in the district of Fazenda Botafogo. <xref ref-type="fig" rid="f03_en">Figure 3</xref> shows the occurrence of homicides in this area where groups like the CV, ADA and militias control favelas situated very close to each other. This region also contains large warehouses belonging to household appliance companies, whose trucks are a constant target for robberies.<xref ref-type="bibr" rid="B23">
+						<sup>23</sup>
+					</xref> As a result militias have also been installed there, making the area even more conflict-ridden.<xref ref-type="bibr" rid="B25">
+						<sup>25</sup>
+					</xref>
+				</p>
+				<p>
+					<fig id="f03_en">
+						<label>Figure 3</label>
+						<caption>
+							<title>Total population resident in favelas according to the domination by traffickers and militia.</title>
+						</caption>
+						<graphic xlink:href="0034-8910-rsp-48-01-0094-gf03-en"/>
+					</fig>
+				</p>
+				<p>Violent acts resulting in homicides also occur within the favelas, according to data from the ISP. However these are mainly concentrated around the local corridors where people circulate. These corridors form contact zones between the different groups where armed conflicts are frequent, as well as place where the bodies of executed people are ‘unloaded.’</p>
+				<p>These data indicate the importance of the fight for territories among the different groups in the promotion of violence. On the other hand, large areas controlled by the same armed groups do not ensure the absence or reduction of homicides. These corridors, even among favelas under the same control, are areas of potential fights between subgroups and violence perpetrated against traders and residents as a strategy for maintaining power over the territory.</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>DISCUSSION</title>
+				<p>These analyses demonstrate that living in favelas does not represent, by itself, an excess risk of homicide. This risk is determined by the occupational dynamic of these territories and the presence of firearms and criminal groups, especially those linked to illegal drug trafficking. Territorial disputes are altering the spatial configuration of drug trafficking in Rio de Janeiro, with important consequences on homicide rates. The conflict zones, where favelas are located next to supply centres, ports and airports, or where rival criminal factions live in close proximity, demonstrate higher rates.</p>
+				<p>The main changes in territorial control have occurred in the city’s southern and northern zones due to the occupation of these areas by the UPP, and in the western zone following the takeover of favelas by the militias.<xref ref-type="bibr" rid="B22">
+						<sup>22</sup>
+					</xref> Until 2005 the militias were confined to the eastern zone, more recent areas of urban settlement with lower demographic density and a high percentage of northeastern migrants among their residents. By 2010 the militias had expanded to other areas of the so-called suburbs, but not to the favelas close to city’s main avenues. The only favelas to have remained under the control of the CV in the western zone in 2009 were located in Cidade de Deus. In the southern zone of the city, more prosperous with high-income families, none of the favelas was controlled by the militias. The restriction on the areas in which the militias are active may be a consequence of the city’s morphology, reflecting the obstacles to circulation imposed by the mountains and sea, in contrast to the flat-lying western zone, which perhaps facilitates the movement of the paramilitaries. Another hypothesis, based on previous research studies, is that many of the security companies in the wealthier parts of the city, both uniformed and plain clothed, belong to police officers and also act as ‘militias’ in poor areas. The big difference resides in the relation between the security personnel and local residents. In poor areas, the lack of access to justice means it is easier for the private security agents to become tyrants or negotiators who impose extralegal or illegal decisions on residents due to the power derived from their use of firearms, forcing robbers and drug dealers to leave the area.</p>
+				<p>The presence of drug trafficking, especially armed drug trafficking, increases the homicide rates around the favelas. Many of these killings arise from armed conflicts between dealers from different gangs, between the latter and the police, or between drug traffickers and militia forces over the conquest or defence of territories or the payment of debts and bribes. Carrying firearms, for its part, is explained by the sociocultural context of the small groups to which the young people belong, who adhere to the values and practices of this street culture. Some studies, particularly in the United States, identify the peer group as the biggest predictive factor for delinquency among young males, especially more serious violent crimes and the habit of bearing firearms.<xref ref-type="bibr" rid="B14">
+						<sup>14</sup>
+					</xref> Other studies conclude that carrying guns and repeating years at school are the most important predictors of violence for youths. The rise in the homicide rate is better explained by the high concentration of guns where impoverished young men live than by any natural inclination towards violence.</p>
+				<p>The high homicide rates found in the areas immediately adjacent to favelas may have two non-exclusive explanations. Locating residence addresses inside favelas is very difficult. The informal street and building layout very often prevents the localization of addresses in small roads and alleys within the favelas. One strategy adopted by residents is to provide addresses from the neighbouring area, such as the offices of resident association, stores and other local points of reference in these formal urban areas. This means that the addresses declared in the information systems maintained by the public security and health services actually refer to locations in the areas around the favelas, artificially increasing the risks estimated for these areas.</p>
+				<p>A second explanation is the amplification of the conflicts on the favela borders. The increase in homicide rates in nearby areas may stem from the territorial conflicts between criminal groups and the drug traffickers’ prohibition of armed robbery inside the favela, although they accept guns and money from thieves. These practices are very common in Brazilian cities where armed drug traffickers occupy and defend their territories.</p>
+				<p>The control of favelas by UPP or militias apparently reduces the risks of mortality by violence. In recent years there has been a considerable growth in this type of occupation of Rio’s favelas. Preliminary estimates allow us to identify a tendency for residents to be protected when the favela is under the supervision of an UPP.</p>
+				<p>The militia-controlled areas show lower rates of mortality by violence than areas controlled by armed drug gangs. The strategy for occupying these areas could explain this difference. The militias do not occupy the favelas only, but their entire surrounding area, which becomes a lucrative source of income through the legal or illegal trade in goods and services like transportation, electricity, water and leisure activities. Furthermore, the militias also employ other forms of coercing residents, like expelling people linked to drug trafficking, collecting firearms, torturing people who commit crimes deemed unacceptable, and so on.</p>
+				<p>Spatial analysis techniques allow us to evaluate the risk conditions of vulnerable populations, comprehending the favelas not as a homogenous sociospatial phenomenon, but in terms of their different forms of occupation and actions by armed groups. The analysis has allowed the hypothesis that territorial control by drug gangs and the presence of armed groups increase the risks of death by violence to be confirmed.</p>
+				<p>This hypothesis is corroborated by testimonies obtained from favela residents who recounted the violent practices found in favelas controlled by these groups – practices that affect not only criminals but also residents in the favela and the surrounding area, who may be turned into victims of homicide due to the prevailing ethos of violent masculinity, the ready availability of firearms, and the coercion and control of these territories, typifying the ‘ecology of danger’ in the area around favelas controlled by drug traffickers located in strategic zones of the city.</p>
+				<p>
+					<table-wrap id="t01_en">
+						<label>Table</label>
+						<caption>
+							<title>Estimated population, number of homicides according to place of residence of the victim and homicide rates by type of activity in the near surroundings of favelas in Rio de Janeiro, RJ, 2009.</title>
+						</caption>
+						<table frame="hsides" rules="groups">
+							<colgroup width="25%">
+								<col/>
+								<col/>
+								<col/>
+								<col/>
+							</colgroup>
+							<thead>
+								<tr>
+									<th align="left">Type of occupation</th>
+									<th>Estimated Population<sup>a</sup>
+									</th>
+									<th>Number of homicides<sup>b</sup>
+									</th>
+									<th>Homicide rate (per 100,000 inhabitants)<sup>c</sup>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Armed domination</td>
+									<td align="center">3,130,117</td>
+									<td align="center">1,585</td>
+									<td align="center">50.6</td>
+								</tr>
+								<tr>
+									<td>Unarmed domination</td>
+									<td align="center">287,315</td>
+									<td align="center">131</td>
+									<td align="center">45,6</td>
+								</tr>
+								<tr>
+									<td>Domination with trafficking</td>
+									<td align="center">167,764</td>
+									<td align="center">120</td>
+									<td align="center">71.5</td>
+								</tr>
+								<tr>
+									<td>Domination without trafficking</td>
+									<td align="center">17,862</td>
+									<td align="center">4</td>
+									<td align="center">22.4</td>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<p>
+								<sup>a</sup> IBGE. Census, 2010.</p>
+							<p>
+								<sup>b</sup> Municipal Health Department of Rio de Janeiro, 2006-2009.</p>
+							<p>
+								<sup>c</sup> Distance up to 250 m.</p>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+		</body>
+		<back>
+			<fn-group>
+				<fn id="fn1_en">
+					<p>The projects were supported by the <italic>Fundação de Amparo à Pesquisa do Estado do Rio de Janeiro</italic> (FAPERJ – Process E-26/110.302/2010) and <italic>Conselho Nacional de Desenvolvimento Científico e Tecnológico</italic> (CNPq – Process 482431/2010-5).</p>
+				</fn>
+				<fn id="fn2_en">
+					<label>a</label>
+					<p> The IBGE classifies census sectors as subnormal when they comprise clusters of housing units without basic public services, occupying, or having occupied until recently, land owned by third parties (public or private) and generally constructed in a disordered and dense form. In the city of Rio de Janeiro, these criteria match the favelas.</p>
+				</fn>
+				<fn id="fn3_en">
+					<label>b</label>
+					<p> The main drug trafficking factions in Rio de Janeiro city are <italic>Amigos dos Amigos</italic> (ADA), <italic>Comando Vermelho</italic> (CV) and<italic> Terceiro Comando Puro</italic> (TCP). Militias are criminal paramilitary organizations formed mostly by military police, firefighters and penitentiary agents who provide private security services to local traders and residents, charge fees for the use of services (tolls) or control illegal economic activities, such as electronic games and pirate cable TV. Some favela territories remain outside the control of factions and militias and are considered ‘neutral’ in the present work.</p>
+				</fn>
+				<fn id="fn4_en">
+					<label>c</label>
+					<p> Controlled territories include all the favelas where drug gang factions or militias exert their power. This control may or may not be exercised through the display of guns. With or without drug trafficking serves to differentiate neutral favelas or those controlled by militias from those controlled by drug gang factions.</p>
+				</fn>
+			</fn-group>
+		</back>
+	</sub-article>
+</article>
