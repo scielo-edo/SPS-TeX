@@ -256,9 +256,8 @@ fig : |
   \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
   \caption{@@lua(return find "//title")@@}
   \end{figure}
-  
-graphic: |
-  @@lua(return attr "xlink:href")@@
+
+graphic: "@@lua(return attr 'xlink:href')@@"
 
 b: |
   \textbf{@@children}
