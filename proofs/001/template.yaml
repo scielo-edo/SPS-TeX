@@ -162,13 +162,16 @@ codebold:
 element-citation: ""
 
 xref: |
-    @@lua(
-    if attr('ref-type') ~= 'bibr' then
-    return ""
-    end
+  @@lua(
+  if attr('ref-type') == 'bibr' then
     return "(" .. children() .. ")"
-    )@@
-    
+  end
+  if attr('ref-type') == 'fn' then
+    return "\\footnote{\\" .. attr 'rid' .."}"  
+  end
+  return ""
+  )@@    
+
 ref-list: |
 
   \section{@@lua(return find('//title'))@@}
@@ -180,7 +183,10 @@ ref: |
 
     \item[@@lua(return find '//label')@@] @@lua(return find '//mixed-citation')@@  
 
-
+fn: |
+   
+     %%% Nota @@lua(return attr 'id')@@ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     \def{\@@lua(return attr 'id')@@}{@@lua(return find ('//p'))@@}
 
 name: |
   @@lua(

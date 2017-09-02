@@ -2,6 +2,7 @@ TAG=0034-8910-rsp-47-04-0791
 
 all:
 	jats2tex $(TAG).xml -t template.yaml
+	-sed -i 's/\\fn\(.\)/\\fn\#\1/g' *.tex
 	cat $(TAG).tex
 
 2:
