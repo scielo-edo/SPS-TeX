@@ -122,27 +122,11 @@ permissions:
     \def\permissions{@@children}
 
 
-pub-date:
+
+pub-date: 
   head: |
 
-    \date{
-      \selectlanguage{portuges}
-      @@lua(
-        day = find "//day"
-        month = find "//month"
-        year = find "//year"
-
-        if day ~= "" then
-          return "\\formatdate{" .. month .. "}{" .. year .. "}"
-        end
-
-        if month ~= "" then
-          return "\\formatdate{" .. year .. "}"
-        end
-
-        return "\\formatdate{" .. day .. "}{" .. month .. "}{" .. year .. "}"
-      )@@
-    }
+    \date{\selectlanguage{portuges}\formatdate{@@lua(return find "//day")@@}{@@lua(return find "//month")@@}{@@lua(return find "//year")@@}}
 
 
 subject:
@@ -258,6 +242,8 @@ fig : |
   \end{figure}
 
 graphic: "@@lua(return attr 'xlink:href')@@"
+ 
+inline-graphic: "\\begin{figure}[h] \\includegraphics[width=\\textwidth]{@@lua(return attr 'xlink:href')@@}\\end{figure}"
 
 b: |
   \textbf{@@children}

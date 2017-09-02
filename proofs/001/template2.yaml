@@ -49,6 +49,15 @@ article:
 
 front: ""
 
+article: |
+    @@lua(
+    sub = find "//sub-article"
+    if sub then
+      return sub
+    end
+    return children()
+    )@@
+
 article-title:
   head: |
 
