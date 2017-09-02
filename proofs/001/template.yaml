@@ -14,7 +14,14 @@ article:
     \usepackage{xtab}
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
+
     \selectlanguage{portuges}
+    \makeatletter
+    \newcommand{\fn}{\afterassignment\fn@aux\count0=}
+    \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+    \makeatother
+
+
 
     @@heads
     
@@ -183,12 +190,14 @@ ref: |
 
     \item[@@lua(return find '//label')@@] @@lua(return find '//mixed-citation')@@  
 
-fn: |
-   
+fn-group//fn: 
+   head: |
+     
      %%% Nota @@lua(return attr 'id')@@ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-     \def{\@@lua(return attr 'id')@@}{@@lua(return find ('//p'))@@}
+     \expandafter\newcommand\csname @@lua(return attr 'id')@@\endcsname{@@lua(return find ('//p'))@@}
 
 name: |
+
   @@lua(
   s = find "//surname"
   g = find "//given-names"

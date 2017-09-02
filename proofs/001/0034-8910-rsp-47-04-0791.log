@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  2 SEP 2017 17:06
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  2 SEP 2017 20:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -618,22 +618,22 @@ LaTeX Info: Redefining \% on input line 26.
 )
 \openout1 = `0034-8910-rsp-47-04-0791.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
+LaTeX Font Info:    ... okay on input line 143.
 \g__fontspec_family_latinmodern-math.otf_int=\count175
 .................................................
 . fontspec info: "defining-font"
@@ -656,15 +656,16 @@ T:script=math;language=DFLT;+ssty=1;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 72.
+(Font)              `operators' in the math version `normal' on input line 143.
+
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(0)/m/n on input
- line 72.
+ line 143.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 72.
+(Font)              `operators' in the math version `bold' on input line 143.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on inp
-ut line 72.
+ut line 143.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -715,15 +716,15 @@ Adjustment={\fontdimen
 . =2.5pt\relax \relax 
 .................................................
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 72.
+(Font)              `symbols' in the math version `normal' on input line 143.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
-t line 72.
+t line 143.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 72.
+(Font)              `symbols' in the math version `bold' on input line 143.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 72.
+ut line 143.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -757,27 +758,27 @@ Adjustment={\fontdimen
 . \relax \fontdimen 12\font =6.0pt\relax \relax \fontdimen 13\font =0pt\relax 
 .................................................
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 7
-2.
+(Font)              `largesymbols' in the math version `normal' on input line 1
+43.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 72.
+t line 143.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 72.
-
+(Font)              `largesymbols' in the math version `bold' on input line 143
+.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 72.
+ut line 143.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
-Overfull \hbox (2.90503pt too wide) in paragraph at lines 86--87
+Overfull \hbox (2.90503pt too wide) in paragraph at lines 157--158
 []\TU/lmr/m/n/10 Correspondência | Correspondence : Helaine Carneiro Capucho. E
 splanada
  []
 
 
-Overfull \hbox (4.404pt too wide) in paragraph at lines 92--93
+Overfull \hbox (4.404pt too wide) in paragraph at lines 163--164
 \TU/lmr/m/n/10 stricted non-commercial use, distribution, and reproduction in a
 ny medium,
  []
@@ -786,86 +787,94 @@ ny medium,
 
 ]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 96.
+(Font)              scaled to size 12.00018pt on input line 167.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 96.
+(Font)              scaled to size 8.00012pt on input line 167.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 96.
+(Font)              scaled to size 6.00009pt on input line 167.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 96.
+(Font)              scaled to size 11.99982pt on input line 167.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 96.
+(Font)              scaled to size 7.99988pt on input line 167.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 96.
-LaTeX Info: Redefining \. on input line 121.
-LaTeX Info: Redefining \% on input line 121.
+(Font)              scaled to size 5.99991pt on input line 167.
+LaTeX Info: Redefining \. on input line 192.
+LaTeX Info: Redefining \% on input line 192.
  [2]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 189.
+(Font)              scaled to size 10.00015pt on input line 256.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 189.
+(Font)              scaled to size 7.01247pt on input line 256.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 189.
+(Font)              scaled to size 4.9808pt on input line 256.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 189.
+(Font)              scaled to size 9.99985pt on input line 256.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 189.
+(Font)              scaled to size 7.01224pt on input line 256.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 189.
+(Font)              scaled to size 4.98067pt on input line 256.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 256.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 256.
  [3] [4] [5]
-Overfull \hbox (5.19348pt too wide) in paragraph at lines 397--397
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
+[][] \TU/lmr/m/n/8 World Health Organization. WHO launches ‘Nine patient sa-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
+\TU/lmr/m/n/8 fety solutions. Geneva; 2007 [citado 2012 jun 2]. Disponível em:
+ []
+
+
+Overfull \hbox (5.19348pt too wide) in paragraph at lines 468--468
 []\TU/lmr/bx/n/14.4 Sistema de notificações de incidentesFluxo sim-
  []
 
 [6]
 File: 0034-8910-rsp-47-04-0791-gf01.jpg Graphic file (type QTm)
- <use  "0034-8910-rsp-47-04-0791-gf01.jpg" > [7] [8]
-Overfull \hbox (24.14992pt too wide) in paragraph at lines 645--650
+ <use  "0034-8910-rsp-47-04-0791-gf01.jpg" > [7] [8] [9]
+Overfull \hbox (24.14992pt too wide) in paragraph at lines 716--721
 \TU/lmr/m/it/10 Latino-Am Enferm \TU/lmr/m/n/10 . 2011;19(5):1272-3. DOI:10.159
 0/S0104-11692011000500027 
  []
 
 
-Overfull \hbox (25.37325pt too wide) in paragraph at lines 651--658
+Overfull \hbox (25.37325pt too wide) in paragraph at lines 722--729
 \TU/lmr/m/n/10 cidentes em saúde. \TU/lmr/m/it/10 Rev Gaucha Enferm \TU/lmr/m/n
 /10 . 2013;34(1):164-72. DOI:10.1590/S1983-
  []
 
-[9]
-Overfull \hbox (19.27655pt too wide) in paragraph at lines 724--731
+[10]
+Overfull \hbox (19.27655pt too wide) in paragraph at lines 795--802
 \TU/lmr/m/n/10 gery study an overview. \TU/lmr/m/it/10 Med Care \TU/lmr/m/n/10 
 . 1995;33(10):OS1-4. DOI:10.1097/00005650-
  []
 
 
-Overfull \hbox (24.45987pt too wide) in paragraph at lines 732--738
+Overfull \hbox (24.45987pt too wide) in paragraph at lines 803--809
 \TU/lmr/m/n/10 Agency. \TU/lmr/m/it/10 Anaesthesia \TU/lmr/m/n/10 . 2008;63(7):
 726-33. DOI:10.1111/j.1365-2044.2008.05485.x 
  []
 
-[10]
-Overfull \hbox (94.84215pt too wide) in paragraph at lines 755--759
+[11]
+Overfull \hbox (94.84215pt too wide) in paragraph at lines 826--830
 \TU/lmr/m/n/10 minary retrospective record review. \TU/lmr/m/it/10 BMJ \TU/lmr/
 m/n/10 . 2001;322(7285):517-9. DOI:10.1136/bmj.322.7285.517 
  []
 
-
-Overfull \hbox (32.5822pt too wide) in paragraph at lines 770--818
-\TU/lmr/m/n/10 Geneva; 2012 [citado 2012 jun 2]. Disponível em: http://www.who.
-int/patientsafety/en/
- []
-
-[11] (./0034-8910-rsp-47-04-0791.aux
+[12] (./0034-8910-rsp-47-04-0791.aux
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
 ) ) 
 Here is how much of TeX's memory you used:
- 17210 strings out of 493068
- 330357 string characters out of 6141028
- 511886 words of memory out of 5000000
- 20953 multiletter control sequences out of 15000+600000
- 9736 words of font info for 50 fonts, out of 8000000 for 9000
+ 17235 strings out of 493068
+ 330922 string characters out of 6141028
+ 513646 words of memory out of 5000000
+ 20969 multiletter control sequences out of 15000+600000
+ 9955 words of font info for 56 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 43i,5n,77p,10396b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,77p,10396b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0034-8910-rsp-47-04-0791.pdf (11 pages).
+Output written on 0034-8910-rsp-47-04-0791.pdf (12 pages).

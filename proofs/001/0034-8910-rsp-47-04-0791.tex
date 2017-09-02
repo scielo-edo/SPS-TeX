@@ -13,7 +13,12 @@
 \usepackage{xtab}
 \usepackage[footnotesize,bf,hang]{caption}
 \usepackage[nodayofweek,level]{datetime}
+
 \selectlanguage{portuges}
+\makeatletter
+\newcommand{\fn}{\afterassignment\fn@aux\count0=}
+\newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+\makeatother
 
 \newcommand{\journalid}{Rev Saude Publica}
 \newcommand{\journaltitle}{Revista de Saúde Pública}
@@ -31,11 +36,13 @@ paciente no Brasil}
 del paciente en
 Brasil}
 \author[
-]{Capucho, Helaine Carneiro
+]{
+Capucho, Helaine Carneiro
 
 }
 \author[
-]{Cassiani, Silvia Helena De Bortoli
+]{
+Cassiani, Silvia Helena De Bortoli
 
 }\affil[I]{Departamento de Gestão e Incorporação de Tecnologias em
 SaúdeSecretaria de Ciência, Tecnologia e Insumos
@@ -46,10 +53,7 @@ Esplanada dos
 Ministérios. Bloco G Edifício Sede 9º andar Sala 949. 70058-900 Brasília, DF,
 Brasil.
 E-mail: helaine.capucho@saude.gov.br
-%%% Nota %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\}{
 Os autores declaram não haver conflito de interesses.
-}
 }
 \date{\selectlanguage{portuges}\formatdate{21}{08}{2013}}
 \def\volume{47}
@@ -71,6 +75,70 @@ Cuidados de Saúde}}
 \newcommand{\kwdgroupen}{\medskip\noindent{Segurança do Paciente, Avaliação de
 Programas e Projetos de Saúde, Sistema Único de Saúde, Garantia da Qualidade dos
 Cuidados de Saúde}}
+%%% Nota fn1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn1\endcsname{
+World Health Organization. APPS web-based registration mechanism open. Geneva;
+2012
+[citado 2012 jun 2]. Disponível em: http://www.who.int/patientsafety/en/
+}
+%%% Nota fn2 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn2\endcsname{
+Capucho HC. Sistemas manuscrito e informatizado de notificação voluntária de
+incidentes
+em saúde como base para a cultura de segurança do paciente [tese de doutorado].
+São Paulo:
+Escola de Enfermagem de Ribeirão Preto da USP; 2012.
+}
+%%% Nota fn3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn3\endcsname{
+Ministério da Saúde. Portaria GM/MS nº 529, de 1 de abril de 2013. Institui o
+Programa
+Nacional de Segurança do Paciente (PNSP). \textit{Diario Oficial Uniao}
+. 2 abr
+2013;Seção1:43-4.
+}
+%%% Nota fn4 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn4\endcsname{
+Petramale CA. O projeto dos hospitais sentinela e a gerência de risco sanitário
+hospitalar. In: Capucho HC, Carvalho FD, Cassiani SHB. Farmacovigilância -
+Gerenciamento
+de Riscos da Terapia Medicamentosa para a Segurança do Paciente. São Caetano do
+Sul:
+Editora Yendis. 2001. p. 191-224.
+}
+%%% Nota fn5 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn5\endcsname{
+Ministério da Saúde. Portaria nº 396, de 4 de março de 2011 Institui o projeto
+de
+formação e melhoria da qualidade de rede de saúde (Quali-SUS-Rede) e suas
+diretrizes
+operacionais gerais. \textit{Diario Oficial Uniao}
+. 9 mar 2011.
+}
+%%% Nota fn6 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn6\endcsname{
+Ministério da Saúde. Índice de Desempenho do SUS – IDSUS. Brasília (DF); 2011
+[citado
+2012 jun 2]. Disponível em:
+http://portal.saude.gov.br/portal/saude/area.cfm?id\_{}area=1080
+}
+%%% Nota fn7 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn7\endcsname{
+Brasil. Lei nº 12.401, de 28 de abril de 2011. Altera a Lei nº 8.080, de 19 de
+setembro
+de 1990, para dispor sobre a assistência terapêutica e a incorporação de
+tecnologia em
+saúde no âmbito do Sistema Único de Saúde - SUS. \textit{Diario Oficial Uniao}
+.
+29 abr 2011:1.
+}
+%%% Nota fn8 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\expandafter\newcommand\csname fn8\endcsname{
+World Health Organization. WHO launches ‘Nine patient safety solutions. Geneva;
+2007
+[citado 2012 jun 2]. Disponível em:
+http://www.who.int/mediacentre/news/releases/2007/pr22/en/index.html
+}
 
 \begin{document}
 
@@ -185,7 +253,7 @@ adversos ou as lesões originadas no processo de atendimento médico-hospitalar.
 Diante da mobilização mundial após a publicação desse impactante relatório, a
 Organização
 Mundial da Saúde (OMS) lançou a Aliança Mundial para a Segurança do Paciente em
-2004. \footnote{\fn#1}
+2004. \footnote{\fn1}
 Isso despertou os países membros para o compromisso de desenvolver políticas
 públicas e práticas voltadas para a segurança do paciente, incluindo o Brasil.
 
@@ -216,9 +284,9 @@ adversos
 relacionados a medicamentos e infecções hospitalares é motivo de preocupação.
 (13)
 ,(20)
-Esses eventos são atribuídos à falta de políticas governamentais \footnote{\fn#2}
-,\footnote{\fn#3}
-,\footnote{\fn#4}
+Esses eventos são atribuídos à falta de políticas governamentais \footnote{\fn2}
+,\footnote{\fn3}
+,\footnote{\fn4}
 que incentivem as instituições de saúde a participar de programas de qualidade e
 acreditação. (15)
 ,(16)
@@ -226,7 +294,7 @@ Atualmente, há hospitais brasileiros que ainda são prestadores de serviços qu
 atuam
 sem avaliar seus processos de trabalho ou usar seus resultados para a melhoria
 contínua da
-qualidade. \footnote{\fn#4}
+qualidade. \footnote{\fn4}
 
 Faz-se necessário, portanto, conhecer a realidade brasileira quanto à ocorrência
 de
@@ -250,7 +318,7 @@ paciente.
 
 Em 2011, o Ministério da Saúde lançou um Projeto de Formação e Melhoria da
 Qualidade de
-Rede de Atenção à Saúde, o QualiSUS Rede. \footnote{\fn#5}
+Rede de Atenção à Saúde, o QualiSUS Rede. \footnote{\fn5}
 Apesar de ser um importante avanço para o desenvolvimento da qualidade do
 Sistema
 Único de Saúde (SUS), o projeto não contempla incentivo à adoção de um programa
@@ -267,7 +335,7 @@ Desempenho do SUS
 acesso –
 potencial ou obtido – e à efetividade da atenção básica, das atenções
 ambulatorial e
-hospitalar, e de urgências e emergência na esfera nacional. \footnote{\fn#6}
+hospitalar, e de urgências e emergência na esfera nacional. \footnote{\fn6}
 Essa aferição é feita por meio de indicadores de qualidade.
 
 Dentre os indicadores estabelecidos no IDSUS, não há nenhum relacionado
@@ -280,7 +348,7 @@ nas internações por infarto agudo do miocárdio, que calcula o risco de morrer
 por essa
 condição após a internação por tal causa, e estima, indiretamente, o atraso do
 atendimento
-pré-hospitalar e no diagnóstico. \footnote{\fn#4}
+pré-hospitalar e no diagnóstico. \footnote{\fn4}
 Ainda que sejam poucos, pode-se considerar um avanço que esse tipo de indicador
 esteja sendo utilizado em um programa oficial do governo brasileiro.
 
@@ -374,7 +442,7 @@ de novas tecnologias disponíveis no mercado de saúde na última década,
 especialmente após a
 criação da ANVISA, tem marco legal muito recente sobre incorporação de
 tecnologias baseada
-em evidências \footnote{\fn#7}
+em evidências \footnote{\fn7}
 e está investindo em um modelo humanizado e orientado para a saúde. (1)
 
 O programa de segurança do paciente deve ser difundido nas diferentes
@@ -393,7 +461,7 @@ saúde, tais como a identificação correta de pacientes, redução de infecçõ
 hospitalares,
 erros em procedimentos como cirurgias e medicação, que estão entre as chamadas
 nove soluções
-para a segurança do paciente, segundo a OMS. \footnote{\fn#8}
+para a segurança do paciente, segundo a OMS. \footnote{\fn8}
 
 \section{Sistema de notificações de incidentesFluxo simplificado para o Sistema
 Nacional de Notificações de Incidentes em
@@ -433,14 +501,14 @@ que os hospitais da Rede participassem de programas de qualidade, acreditação 
 similar
 influenciou para que 30\% desses hospitais estivessem participando de algum
 programa desse
-tipo em 2008. \footnote{\fn#3}
+tipo em 2008. \footnote{\fn3}
 
 Embora a iniciativa da ANVISA tenha sido importante para o estímulo da qualidade
 nos
 hospitais, ela é uma pequena parcela entre as mais de 8.000 instituições
 hospitalares
 brasileiras, correspondendo apenas a cerca de 13\% dos leitos hospitalares no
-País. \footnote{\fn#3}
+País. \footnote{\fn3}
 
 Por esse motivo, o papel dos órgãos governamentais que recebem as informações
 sobre os
@@ -770,88 +838,5 @@ terms. Geneva;
 http://www.who.int/patientsafety/taxonomy/icps\_{}chapter3.pdf
 
 \end{itemize}
-
-%%% Nota fn1 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#1}{
-World Health Organization. APPS web-based registration mechanism open. Geneva;
-2012
-[citado 2012 jun 2]. Disponível em: http://www.who.int/patientsafety/en/
-}
-
-%%% Nota fn2 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#2}{
-Capucho HC. Sistemas manuscrito e informatizado de notificação voluntária de
-incidentes
-em saúde como base para a cultura de segurança do paciente [tese de doutorado].
-São Paulo:
-Escola de Enfermagem de Ribeirão Preto da USP; 2012.
-}
-
-%%% Nota fn3 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#3}{
-Ministério da Saúde. Portaria GM/MS nº 529, de 1 de abril de 2013. Institui o
-Programa
-Nacional de Segurança do Paciente (PNSP). \textit{Diario Oficial Uniao}
-. 2 abr
-2013;Seção1:43-4.
-}
-
-%%% Nota fn4 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#4}{
-Petramale CA. O projeto dos hospitais sentinela e a gerência de risco sanitário
-hospitalar. In: Capucho HC, Carvalho FD, Cassiani SHB. Farmacovigilância -
-Gerenciamento
-de Riscos da Terapia Medicamentosa para a Segurança do Paciente. São Caetano do
-Sul:
-Editora Yendis. 2001. p. 191-224.
-}
-
-%%% Nota fn5 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#5}{
-Ministério da Saúde. Portaria nº 396, de 4 de março de 2011 Institui o projeto
-de
-formação e melhoria da qualidade de rede de saúde (Quali-SUS-Rede) e suas
-diretrizes
-operacionais gerais. \textit{Diario Oficial Uniao}
-. 9 mar 2011.
-}
-
-%%% Nota fn6 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#6}{
-Ministério da Saúde. Índice de Desempenho do SUS – IDSUS. Brasília (DF); 2011
-[citado
-2012 jun 2]. Disponível em:
-http://portal.saude.gov.br/portal/saude/area.cfm?id\_{}area=1080
-}
-
-%%% Nota fn7 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#7}{
-Brasil. Lei nº 12.401, de 28 de abril de 2011. Altera a Lei nº 8.080, de 19 de
-setembro
-de 1990, para dispor sobre a assistência terapêutica e a incorporação de
-tecnologia em
-saúde no âmbito do Sistema Único de Saúde - SUS. \textit{Diario Oficial Uniao}
-.
-29 abr 2011:1.
-}
-
-%%% Nota fn8 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\fn#8}{
-World Health Organization. WHO launches ‘Nine patient safety solutions. Geneva;
-2007
-[citado 2012 jun 2]. Disponível em:
-http://www.who.int/mediacentre/news/releases/2007/pr22/en/index.html
-}
-
-%%% Nota %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def{\}{
-Trabalho baseado na tese de doutorado, de Capucho H. C., intitulada: “Sistemas
-manuscrito
-e informatizado de notificação voluntária de incidentes em saúde como base para
-a cultura
-de segurança do paciente”, apresentada à Escola de Enfermagem de Ribeirão Preto
-da
-Universidade de São Paulo, em 2012.
-}
 
 \end{document}
