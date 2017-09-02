@@ -159,8 +159,28 @@ codebold:
     \code{@@children}
 
 
+element-citation: ""
 
-back: ""
+xref: |
+    @@lua(
+    if attr('ref-type') ~= 'bibr' then
+    return ""
+    end
+    return "(" .. children() .. ")"
+    )@@
+    
+ref-list: |
+
+  \section{@@lua(return find('//title'))@@}
+  \begin{itemize}
+  @@lua(return find('//ref'))@@ 
+  \end{itemize}
+
+ref: |
+
+    \item[@@lua(return find '//label')@@] @@lua(return find '//mixed-citation')@@  
+
+
 
 name: |
   @@lua(
@@ -183,6 +203,7 @@ aff:
     )@@]{@@lua(
       return find('//institution')
     )@@}
+
 
 break: "\n"
 
