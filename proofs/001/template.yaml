@@ -15,6 +15,7 @@ article:
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
 
+    \renewcommand*{\thefootnote}{\alph{footnote}}
     \selectlanguage{portuges}
     \makeatletter
     \newcommand{\fn}{\afterassignment\fn@aux\count0=}
@@ -133,7 +134,7 @@ permissions:
 pub-date: 
   head: |
 
-    \date{\selectlanguage{portuges}\formatdate{@@lua(return find "//day")@@}{@@lua(return find "//month")@@}{@@lua(return find "//year")@@}}
+    \date{@@lua(return find "//day")@@ @@lua(return find "//month")@@ @@lua(return find "//year")@@}
 
 
 subject:
@@ -168,17 +169,6 @@ codebold:
 
 element-citation: ""
 
-xref: |
-  @@lua(
-  if attr('ref-type') == 'bibr' then
-    return "(" .. children() .. ")"
-  end
-  if attr('ref-type') == 'fn' then
-    return "\\footnote{\\" .. attr 'rid' .."}"  
-  end
-  return ""
-  )@@    
-
 ref-list: |
 
   \section*{@@lua(return find('//title'))@@}
@@ -189,6 +179,15 @@ ref-list: |
 ref: |
 
     \item[@@lua(return find '//label')@@] @@lua(return find '//mixed-citation')@@  
+
+
+xref[@ref-type="fn"]:  | 
+    @@lua(return "\\footnote{\\" .. attr 'rid' .."}")@@  
+
+
+xref[@ref-type="bibr"]:  | 
+    \textsuperscript{[@@children]}  
+
 
 fn-group//fn: 
    head: |
@@ -273,7 +272,7 @@ trans-abstract: |
 fig : |
   \begin{figure}
   \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
-  \caption{@@lua(return find "//title")@@}
+  \caption{@@lua(return find "/fig/title")@@}
   \end{figure}
 
 graphic: "@@lua(return attr 'xlink:href')@@"
@@ -286,7 +285,7 @@ b: |
 
 sec: |
 
-  \section{@@lua(return find('//title'))@@}
+  \section{@@lua(return find('sec/title'))@@}
   @@lua(return find('//p'))@@
 
 table: |

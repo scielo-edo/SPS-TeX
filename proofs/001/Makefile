@@ -2,7 +2,9 @@ TAG=0034-8910-rsp-47-04-0791
 
 all:
 	jats2tex $(TAG).xml -t template.yaml
-	#-sed -i 's/\\fn\(.\)/\\fn\#\1/g' *.tex
+	-sed -i 's/\ \\footnote/\\footnote/g' *.tex
+	-sed -i 's/\ \\textsuperscript/\\textsuperscript/g' *.tex
+	-sed -i 's/\ ,/,/g' *.tex
 	cat $(TAG).tex
 
 2:
@@ -32,6 +34,7 @@ clean:
 update:
 	-cp template.yaml ..
 	-cp template.yaml ~/Dropbox/SCIELO/jats2tex/default.yaml
+	-cp template.yaml /home/editorial/Dropbox_OUT/SCIELO/SPS+TeX/SCIELO_RENATA/scielo-sp-amostra/artigos/
 upgrade:
 	-cp ../template.yaml .
 
