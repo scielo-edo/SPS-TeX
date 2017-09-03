@@ -205,7 +205,7 @@ contrib:
   head: |
 
     \author[@@lua(
-      return find('//xref')
+      return find('//xref[@ref-type="aff"]')
     )@@]{@@lua(
       return find('//name')
     )@@}
@@ -220,6 +220,7 @@ aff:
     )@@}
 
 break: "\n"
+
 
 p: |
 
