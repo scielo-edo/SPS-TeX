@@ -181,7 +181,7 @@ xref: |
 
 ref-list: |
 
-  \section{@@lua(return find('//title'))@@}
+  \section*{@@lua(return find('//title'))@@}
   \begin{itemize}
   @@lua(return find('//ref'))@@ 
   \end{itemize}
@@ -196,32 +196,30 @@ fn-group//fn:
      %%% Nota @@lua(return attr 'id')@@ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
      \expandafter\newcommand\csname @@lua(return attr 'id')@@\endcsname{@@lua(return find ('//p'))@@}
 
-name: |
-
-  @@lua(
-  s = find "//surname"
-  g = find "//given-names"
-  return s .. ", " .. g
-  )@@
+name:  "@@lua(
+  s = find '//surname'
+  g = find '//given-names'
+  return s .. ', ' .. g)@@"
 
 contrib:
   head: |
 
     \author[@@lua(
       return find('//xref')
-    )@@]{@@children}
+    )@@]{@@lua(
+      return find('//name')
+    )@@}
 
 aff:
   head: |
+  
     \affil[@@lua(
       return find('//label')
     )@@]{@@lua(
-      return find('//institution')
+      return find('//institution[@content-type="orgname"]')
     )@@}
 
-
 break: "\n"
-
 
 p: |
 
@@ -286,6 +284,7 @@ b: |
 
 
 sec: |
+
   \section{@@lua(return find('//title'))@@}
   @@lua(return find('//p'))@@
 

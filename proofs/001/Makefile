@@ -19,6 +19,7 @@ pdf:
 	xelatex $(TAG).tex
 	evince $(TAG).pdf
 
+
 pdf-modelo:
 	evince MODELO.pdf
 
@@ -29,9 +30,8 @@ git:
 clean:
 	-rm *.aux *.log
 update:
-	-cp Makefile ..
 	-cp template.yaml ..
+	-cp template.yaml ~/Dropbox/SCIELO/jats2tex/default.yaml
 upgrade:
-	-cp ../Makefile .
 	-cp ../template.yaml .
 
