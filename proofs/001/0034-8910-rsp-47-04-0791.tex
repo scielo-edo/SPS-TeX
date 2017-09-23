@@ -17,7 +17,6 @@
 \usepackage[footnotesize,bf,hang]{caption}
 \usepackage[nodayofweek,level]{datetime}
 
-\selectlanguage{portuges}
 \setmainfont{Linux Libertine O}
 
 \renewcommand*{\thefootnote}{\alph{footnote}}
@@ -138,6 +137,7 @@ http://www.who.int/mediacentre/news/releases/2007/pr22/en/index.html
 }
 
 \begin{document}
+\selectlanguage{portuges}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section*{Metadados não aplicados}
@@ -164,10 +164,9 @@ http://www.who.int/mediacentre/news/releases/2007/pr22/en/index.html
 
 \maketitle
 
-\ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
-
+\begingroup
+\renewcommand{\abstractname}{Teste}
 \begin{abstract}
-\newcommand{\abstracttitle}{}
 
 O objetivo do estudo foi suscitar reflexão acerca da necessidade de se criar um
 sistema
@@ -184,13 +183,13 @@ implementar programa brasileiro de segurança do paciente, a fim de promover a
 cultura pela
 segurança do paciente e da qualidade em saúde no Sistema Único de Saúde.
 
-\ifdef{\kwdgroup}{\kwdgroup}{}
 \end{abstract}
+\endgroup
 
-\ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
+\begingroup
+\begin{otherlanguage}{spanish}
 
 \begin{abstract}
-\newcommand{\abstracttitle}{}
 
 El objetivo del estudio fue suscitar reflexión sobre la necesidad de crear un
 sistema
@@ -209,8 +208,9 @@ paciente, con el fin de promover la cultura por la seguridad del paciente y la
 calidad de
 la salud en el Sistema Único de Salud.
 
-\ifdef{\kwdgrouptrans}{\kwdgroup}{}
 \end{abstract}
+\end{otherlanguage}
+\endgroup
 
 \section{INTRODUÇÃO}
 

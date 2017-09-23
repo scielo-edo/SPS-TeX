@@ -18,7 +18,6 @@ article:
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
 
-    \selectlanguage{portuges}
     \setmainfont{Linux Libertine O}
 
     \renewcommand*{\thefootnote}{\alph{footnote}}
@@ -32,6 +31,7 @@ article:
     @@heads
     
     \begin{document}
+    \selectlanguage{portuges}
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \section*{Metadados não aplicados}
@@ -325,26 +325,53 @@ p: |
   )@@
 
 
-abstract: |
+/abstract: |
   
-    \ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
-  
+    \begingroup
+    @@lua(
+        abstit = find('abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
     \begin{abstract}
-    @@lua(return "\\newcommand{\\abstracttitle}{" .. find('/title') .. "}")@@
+    @@lua(return find "//sec")@@
     @@lua(return find "//p")@@
-    \ifdef{\kwdgroup}{\kwdgroup}{}
     \end{abstract}
+    \endgroup
+
+sec: |
+    @@lua(
+    secs = findAll "//sec/title"
+    ret = ""
+    return "\\newcommand{\\sec}{" .. table.concat(secs, "}\n\\newcommand{\\sec}{") .. "}"
+    )@@
+    @@lua(return find "//p")@@  
+
 
 trans-abstract: |
 
-    \ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
-  
+    \begingroup
+    @@lua(lanG = attr('xml:lang="es"')
+        if lanG ~= 'es' then
+        return '\\begin{otherlanguage}{spanish}'
+        end
+        return '\\begin{otherlanguage}{spanish}'
+    )@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
     \begin{abstract}
-    @@lua(return "\\newcommand{\\abstracttitle}{" .. find('/title') .. "}")@@
+    @@lua(return find "//sec")@@
     @@lua(return find "//p")@@
-    \ifdef{\kwdgrouptrans}{\kwdgroup}{}
     \end{abstract}
-
+    \end{otherlanguage}
+    \endgroup
 
 fig : |
   \begin{figure}

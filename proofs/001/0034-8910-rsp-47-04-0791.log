@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  23 SEP 2017 12:36
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  23 SEP 2017 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -812,39 +812,39 @@ LaTeX Info: Redefining \datespanish on input line 85.
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Linux Libertine
 . O/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
 .................................................
-LaTeX Info: Redefining \rmfamily on input line 21.
+LaTeX Info: Redefining \rmfamily on input line 20.
 
 (./0034-8910-rsp-47-04-0791.aux)
 \openout1 = `0034-8910-rsp-47-04-0791.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 140.
-LaTeX Font Info:    Try loading font information for EU1+lmr on input line 140.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 139.
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 139.
 
 
 (/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 139.
+LaTeX Font Info:    ... okay on input line 139.
 \g__fontspec_family_latinmodern-math.otf_int=\count191
 .................................................
 . fontspec info: "defining-font"
@@ -867,16 +867,16 @@ T:script=math;language=DFLT;+ssty=1;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 140.
+(Font)              `operators' in the math version `normal' on input line 139.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(0)/m/n on input
- line 140.
+ line 139.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 140.
+(Font)              `operators' in the math version `bold' on input line 139.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on inp
-ut line 140.
+ut line 139.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -927,15 +927,15 @@ Adjustment={\fontdimen
 . =2.5pt\relax \relax 
 .................................................
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 140.
+(Font)              `symbols' in the math version `normal' on input line 139.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
-t line 140.
+t line 139.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 140.
+(Font)              `symbols' in the math version `bold' on input line 139.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 140.
+ut line 139.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -970,18 +970,18 @@ Adjustment={\fontdimen
 .................................................
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-40.
+39.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 140.
+t line 139.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 140
+(Font)              `largesymbols' in the math version `bold' on input line 139
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 140.
+ut line 139.
 \AtBeginShipoutBox=\box44
-Package hyperref Info: Link coloring OFF on input line 140.
+Package hyperref Info: Link coloring OFF on input line 139.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -991,9 +991,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count192
 )
-LaTeX Info: Redefining \ref on input line 140.
-LaTeX Info: Redefining \pageref on input line 140.
-LaTeX Info: Redefining \nameref on input line 140.
+LaTeX Info: Redefining \ref on input line 139.
+LaTeX Info: Redefining \pageref on input line 139.
+LaTeX Info: Redefining \nameref on input line 139.
 
 (./0034-8910-rsp-47-04-0791.out) (./0034-8910-rsp-47-04-0791.out)
 \@outlinefile=\write3
@@ -1001,13 +1001,9 @@ LaTeX Info: Redefining \nameref on input line 140.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-Package babel Info: Redefining russian shorthand "|
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 166.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 166.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 166.
-Package babel Info: Redefining russian shorthand "~
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 166.
  [1
 
@@ -1024,9 +1020,9 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 7.99988pt on input line 166.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 166.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 215.
-Package babel Info: Redefining russian shorthand "~
+LaTeX Info: Redefining \. on input line 190.
+LaTeX Info: Redefining \% on input line 190.
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 10.00015pt on input line 224.
@@ -1040,255 +1036,108 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 7.01224pt on input line 224.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.98067pt on input line 224.
-
-Underfull \hbox (badness 1087) in paragraph at lines 217--225
-\TU/LinuxLibertineO(0)/m/n/10 mediante os resultados obtidos e, na Idade Média,
- os médicos que obtivessem
- []
-
-
-Underfull \hbox (badness 1776) in paragraph at lines 217--225
-\TU/LinuxLibertineO(0)/m/n/10 resultados negativos na prestação de assistência 
-tinham parte de seus corpos
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 226.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 226.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 226.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 226.
-[2]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 237.
+ [2]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
 (Font)              scaled to size 5.00008pt on input line 256.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 4.99992pt on input line 256.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 298.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 298.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 298.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 298.
- [3]
-Package babel Info: Redefining russian shorthand "|
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 299.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 299.
+
+[3]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 317.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 317.
-
-Underfull \hbox (badness 2990) in paragraph at lines 332--340
-[]\TU/LinuxLibertineO(0)/m/n/10 Outra iniciativa do Ministério da Saúde é a mon
-itorização do Índice de
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 341--354
-[]\TU/LinuxLibertineO(0)/m/n/10 Dentre os indicadores estabelecidos no IDSUS, n
-ão há nenhum relacionado
- []
-
-
-Underfull \hbox (badness 1253) in paragraph at lines 341--354
-\TU/LinuxLibertineO(0)/m/n/10 diretamente à segurança do paciente, como a taxa 
-de incidentes ocorridos no
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 355.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 355.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 355.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 355.
-[4]
-Underfull \hbox (badness 1484) in paragraph at lines 381--395
-[]\TU/LinuxLibertineO(0)/m/n/10 O P4P está em desenvolvimento em muitos países,
- incluindo o Brasil. Na
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 440.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 440.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 440.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 440.
-[5]
-Underfull \hbox (badness 2922) in paragraph at lines 451--468
-[]\TU/LinuxLibertineO(0)/m/n/10 O programa de segurança do paciente deve ser di
-fundido nas diferentes
- []
-
-Package babel Info: Redefining russian shorthand "|
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 368.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 368.
+ [4]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 451.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 451.
+ [5]
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 469.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 469.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 507.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 507.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 507.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 507.
-[6]
-Underfull \hbox (badness 1057) in paragraph at lines 507--513
-[]\TU/LinuxLibertineO(0)/m/n/10 Embora a iniciativa da ANVISA tenha sido import
-ante para o estímulo da
- []
-
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 529.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 529.
+ [6]
 File: 0034-8910-rsp-47-04-0791-gf01.jpg Graphic file (type QTm)
-<use  "0034-8910-rsp-47-04-0791-gf01.jpg" >
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 557.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 557.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 557.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 557.
+ <use  "0034-8910-rsp-47-04-0791-gf01.jpg" >
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 567.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 567.
  [7]
-Overfull \hbox (0.19757pt too wide) in paragraph at lines 602--608
-[]\TU/LinuxLibertineO(0)/m/n/10 pode-se eliminar a possibilidade de extravio e 
-perda de informações, especialmente
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 635.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 635.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 635.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 635.
-[8]
-Underfull \hbox (badness 1226) in paragraph at lines 636--649
-[]\TU/LinuxLibertineO(0)/m/n/10 O sistema nacional de notificações deveria, ain
-da, estar hospedado em um
- []
-
-
-Underfull \hbox (badness 1924) in paragraph at lines 636--649
-\TU/LinuxLibertineO(0)/m/n/10 site interativo que disponibilizasse gratuitament
-e notícias, dicas de segurança,
- []
-
-
-Underfull \hbox (badness 3009) in paragraph at lines 636--649
-\TU/LinuxLibertineO(0)/m/n/10 informações sobre eventos adversos, protocolos so
-bre como implementar um
- []
-
-
-Underfull \hbox (badness 1122) in paragraph at lines 636--649
-\TU/LinuxLibertineO(0)/m/n/10 americanos. Esse portal teria como dupla função m
-anter e estimular a adesão
- []
-
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 709.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 709.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 709.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 709.
-[9]
-Overfull \hbox (22.13496pt too wide) in paragraph at lines 721--728
-\TU/LinuxLibertineO(0)/m/n/10 saúde. \TU/LinuxLibertineO(0)/m/it/10 Rev Gaucha 
-Enferm \TU/LinuxLibertineO(0)/m/n/10 . 2013;34(1):164-72. DOI:10.1590/S1983-144
-72013000100021 
- []
-
-
-Overfull \hbox (33.40666pt too wide) in paragraph at lines 735--742
-\TU/LinuxLibertineO(0)/m/n/10 da ANS. \TU/LinuxLibertineO(0)/m/it/10 Cienc Saud
-e Coletiva \TU/LinuxLibertineO(0)/m/n/10 . 2007;12(4):903-14. DOI:10.1590/S1413
--81232007000400012 
- []
-
-
-Underfull \hbox (badness 2846) in paragraph at lines 755--759
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 665.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 665.
+ [8]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 735.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 735.
+ [9]
+Underfull \hbox (badness 1038) in paragraph at lines 755--759
 \TU/LinuxLibertineO(0)/m/n/10 hospitais de pacientes agudos: revisão sistemátic
 a. \TU/LinuxLibertineO(0)/m/it/10 Cad Saude Publica \TU/LinuxLibertineO(0)/m/n/
 10 .
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 764--769
-\TU/LinuxLibertineO(0)/m/n/10 and California: comparison of unintended conseque
-nces. \TU/LinuxLibertineO(0)/m/it/10 Ann Fam Med \TU/LinuxLibertineO(0)/m/n/10 
-.
+Underfull \hbox (badness 1622) in paragraph at lines 809--814
+[]\TU/LinuxLibertineO(0)/m/n/10 . Unruh LY, Zhang NJ. Nurse Staffing and patien
+t safety in hospitals:
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 770--775
-\TU/LinuxLibertineO(0)/m/n/10 events in hospitals in Brazil. \TU/LinuxLibertine
-O(0)/m/it/10 Int J Qual Health Care \TU/LinuxLibertineO(0)/m/n/10 . 2009;21(4):
-279-84.
+Underfull \hbox (badness 1629) in paragraph at lines 809--814
+\TU/LinuxLibertineO(0)/m/n/10 new variable and longitudinal approaches. \TU/Lin
+uxLibertineO(0)/m/it/10 Nurs Res \TU/LinuxLibertineO(0)/m/n/10 . 2012;61(1):3-1
+2.
  []
 
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 801.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 801.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 801.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 801.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 815.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 815.
 [10]
-Overfull \hbox (85.58832pt too wide) in paragraph at lines 809--814
-\TU/LinuxLibertineO(0)/m/n/10 variable and longitudinal approaches. \TU/LinuxLi
-bertineO(0)/m/it/10 Nurs Res \TU/LinuxLibertineO(0)/m/n/10 . 2012;61(1):3-12. D
-OI:10.1097/NNR.0b013e3182358968 
- []
-
-
-Overfull \hbox (0.99422pt too wide) in paragraph at lines 825--829
-[]\TU/LinuxLibertineO(0)/m/n/10 . Vincent C, Woloshynowych M. Adverse events in
- British hospitals: preliminary
- []
-
-
-Overfull \hbox (26.68916pt too wide) in paragraph at lines 825--829
-\TU/LinuxLibertineO(0)/m/n/10 retrospective record review. \TU/LinuxLibertineO(
-0)/m/it/10 BMJ \TU/LinuxLibertineO(0)/m/n/10 . 2001;322(7285):517-9. DOI:10.113
-6/bmj.322.7285.517 
- []
-
-
-Overfull \hbox (160.33421pt too wide) in paragraph at lines 830--838
-\TU/LinuxLibertineO(0)/m/n/10 terms. Geneva; 2009 [citado 2011 jul 04]. Disponí
-vel em: http://www.who.int/patientsafety/taxonomy/icps_chapter3.pdf 
+Overfull \hbox (50.13365pt too wide) in paragraph at lines 825--829
+\TU/LinuxLibertineO(0)/m/n/10 nary retrospective record review. \TU/LinuxLibert
+ineO(0)/m/it/10 BMJ \TU/LinuxLibertineO(0)/m/n/10 . 2001;322(7285):517-9. DOI:1
+0.1136/bmj.322.7285.517 
  []
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 841.
-Package babel Info: Redefining russian shorthand "|
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 841.
-Package babel Info: Redefining russian shorthand "~
-(babel)             in language  on input line 841.
-Package babel Info: Redefining russian shorthand "|
-(babel)             in language  on input line 841.
-Package babel Info: Redefining russian shorthand "~
+Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 841.
 [11]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 841.
- (./0034-8910-rsp-47-04-0791.aux)
+ (./0034-8910-rsp-47-04-0791.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 841.
 Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 841.
  ) 
 Here is how much of TeX's memory you used:
- 24604 strings out of 493068
- 439480 string characters out of 6141028
- 632102 words of memory out of 5000000
- 28241 multiletter control sequences out of 15000+600000
+ 24644 strings out of 493068
+ 439762 string characters out of 6141028
+ 633931 words of memory out of 5000000
+ 28281 multiletter control sequences out of 15000+600000
  10949 words of font info for 65 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 43i,8n,77p,10396b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,77p,10396b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 0034-8910-rsp-47-04-0791.pdf (11 pages).
