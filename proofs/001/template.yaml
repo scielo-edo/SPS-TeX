@@ -199,7 +199,7 @@ kwd-group:
       return '\\kwdgroup' .. lang
     end
     return '\\kwdgroup'
-    )@@}{\medskip\noindent{@@lua(
+    )@@}{\medskip\noindent\keywords{} {@@lua(
     title = find('//title')
     keyword_list = findAll('//kwd')
     return title .. table.concat(keyword_list, ', ') 
