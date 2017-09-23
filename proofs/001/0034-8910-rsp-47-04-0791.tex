@@ -3,7 +3,7 @@
 
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc} %% *
-\usepackage[portuges,spanish,english]{babel} %% *
+\usepackage[portuges,spanish,english,german,italian,russian]{babel} %% *
 \usepackage{amstext}
 \usepackage{authblk}
 \usepackage{unicode-math}
@@ -11,11 +11,16 @@
 \usepackage{graphicx}
 \usepackage{etoolbox}
 \usepackage{xtab}
+\usepackage{enumerate}
+\usepackage{hyperref}
+\usepackage{penalidades}
 \usepackage[footnotesize,bf,hang]{caption}
 \usepackage[nodayofweek,level]{datetime}
 
-\renewcommand*{\thefootnote}{\alph{footnote}}
 \selectlanguage{portuges}
+\setmainfont{Linux Libertine O}
+
+\renewcommand*{\thefootnote}{\alph{footnote}}
 \makeatletter
 \newcommand{\fn}{\afterassignment\fn@aux\count0=}
 \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
@@ -28,8 +33,8 @@
 \newcommand{\issnepub}{1518-8787}
 \newcommand{\publishername}{Faculdade de Saúde Pública da Universidade de São
 Paulo}
-\def\articleid{DOI S0034-8910.2013047004402}
-\def\articleid{DOI 10.1590/S0034-8910.2013047004402}
+\newcommand\publisherid{S0034-8910.2013047004402}
+\newcommand\articleid{DOI 10.1590/S0034-8910.2013047004402}
 \def\subject{Prática de Saúde Pública}
 \title{Necessidade de implantar programa nacional de segurança do
 paciente no Brasil}
@@ -144,6 +149,7 @@ http://www.who.int/mediacentre/news/releases/2007/pr22/en/index.html
 \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
 \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
 \ifdef{\publishername}{\item[\textbf{publishername}] \publishername}{}
+\ifdef{\publisherid}{\item[\textbf{publisherid}] \publisherid}{}
 \ifdef{\subject}{\item[\textbf{subject}] \subject}{}
 \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
 \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
@@ -158,9 +164,10 @@ http://www.who.int/mediacentre/news/releases/2007/pr22/en/index.html
 
 \maketitle
 
-\selectlanguage{portuges}
-% \renewcommand{\abstractname}{}
+\ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
+
 \begin{abstract}
+\newcommand{\abstracttitle}{}
 
 O objetivo do estudo foi suscitar reflexão acerca da necessidade de se criar um
 sistema
@@ -179,11 +186,11 @@ segurança do paciente e da qualidade em saúde no Sistema Único de Saúde.
 
 \ifdef{\kwdgroup}{\kwdgroup}{}
 \end{abstract}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\selectlanguage{spanish}
-% \renewcommand{\abstractname}{}
+\ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
+
 \begin{abstract}
+\newcommand{\abstracttitle}{}
 
 El objetivo del estudio fue suscitar reflexión sobre la necesidad de crear un
 sistema
@@ -202,10 +209,8 @@ paciente, con el fin de promover la cultura por la seguridad del paciente y la
 calidad de
 la salud en el Sistema Único de Salud.
 
-\ifdef{\kwdgroupes}{\kwdgroupes}{}
-\ifdef{\kwdgroupen}{\kwdgroupen}{}
+\ifdef{\kwdgrouptrans}{\kwdgroup}{}
 \end{abstract}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{INTRODUÇÃO}
 

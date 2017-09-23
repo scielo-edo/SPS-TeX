@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  3 SEP 2017 01:30
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  23 SEP 2017 12:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -69,7 +69,41 @@ Language: english 2017/01/24 v3.3q English support from the babel system
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
+)
+(/usr/share/texmf-dist/tex/generic/babel-german/german.ldf
+Language: german 2016/11/02 v2.9 German support for babel (traditional orthogra
+phy)
+
+(/usr/share/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2016/11/02 v2.9 German support for babel (traditional orthogr
+aphy)
 ))
+(/usr/share/texmf-dist/tex/generic/babel-italian/italian.ldf
+Language: italian 2015/03/26 v1.3n Italian support from the babel system
+\it@lettering=\count89
+\it@doublequoteactive=\count90
+\it@ISOcompliance=\count91
+)
+(/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russianb 2017/01/12 1.3i Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `EU1' encoding will be loaded  on input line 69.
+
+
+(/usr/share/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+
+Package babel Warning: inputenc should not be used with LuaTeX or XeTeX on inpu
+t line 110.
+
+)) (/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count92
+)
 (/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
@@ -82,9 +116,9 @@ File: amsgen.sty 1999/11/30 v2.0 generic functions
 Package: authblk 2001/02/27 1.3 (PWD)
 \affilsep=\skip43
 \@affilsep=\skip44
-\c@Maxaffil=\count89
-\c@authors=\count90
-\c@affil=\count91
+\c@Maxaffil=\count93
+\c@authors=\count94
+\c@affil=\count95
 )
 (/usr/share/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2017/01/27 v0.8d Unicode maths in XeLaTeX and LuaLaTeX
@@ -101,17 +135,17 @@ Package: expl3 2017/04/01 L3 programming layer (loader)
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2017/04/01 L3 programming layer (code)
-\c_max_int=\count92
-\l_tmpa_int=\count93
-\l_tmpb_int=\count94
-\g_tmpa_int=\count95
-\g_tmpb_int=\count96
-\g__prg_map_int=\count97
-\c_log_iow=\count98
-\l_iow_line_count_int=\count99
-\l__iow_line_target_int=\count100
-\l__iow_one_indent_int=\count101
-\l__iow_indent_int=\count102
+\c_max_int=\count96
+\l_tmpa_int=\count97
+\l_tmpb_int=\count98
+\g_tmpa_int=\count99
+\g_tmpb_int=\count100
+\g__prg_map_int=\count101
+\c_log_iow=\count102
+\l_iow_line_count_int=\count103
+\l__iow_line_target_int=\count104
+\l__iow_one_indent_int=\count105
+\l__iow_indent_int=\count106
 \c_zero_dim=\dimen105
 \c_max_dim=\dimen106
 \l_tmpa_dim=\dimen107
@@ -130,27 +164,27 @@ Package: expl3 2017/04/01 L3 programming layer (code)
 \l_tmpb_muskip=\muskip13
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
-\l_keys_choice_int=\count103
-\c__fp_leading_shift_int=\count104
-\c__fp_middle_shift_int=\count105
-\c__fp_trailing_shift_int=\count106
-\c__fp_big_leading_shift_int=\count107
-\c__fp_big_middle_shift_int=\count108
-\c__fp_big_trailing_shift_int=\count109
-\c__fp_Bigg_leading_shift_int=\count110
-\c__fp_Bigg_middle_shift_int=\count111
-\c__fp_Bigg_trailing_shift_int=\count112
-\l__sort_length_int=\count113
-\l__sort_min_int=\count114
-\l__sort_top_int=\count115
-\l__sort_max_int=\count116
-\l__sort_true_max_int=\count117
-\l__sort_block_int=\count118
-\l__sort_begin_int=\count119
-\l__sort_end_int=\count120
-\l__sort_A_int=\count121
-\l__sort_B_int=\count122
-\l__sort_C_int=\count123
+\l_keys_choice_int=\count107
+\c__fp_leading_shift_int=\count108
+\c__fp_middle_shift_int=\count109
+\c__fp_trailing_shift_int=\count110
+\c__fp_big_leading_shift_int=\count111
+\c__fp_big_middle_shift_int=\count112
+\c__fp_big_trailing_shift_int=\count113
+\c__fp_Bigg_leading_shift_int=\count114
+\c__fp_Bigg_middle_shift_int=\count115
+\c__fp_Bigg_trailing_shift_int=\count116
+\l__sort_length_int=\count117
+\l__sort_min_int=\count118
+\l__sort_top_int=\count119
+\l__sort_max_int=\count120
+\l__sort_true_max_int=\count121
+\l__sort_block_int=\count122
+\l__sort_begin_int=\count123
+\l__sort_end_int=\count124
+\l__sort_A_int=\count125
+\l__sort_B_int=\count126
+\l__sort_C_int=\count127
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
@@ -201,11 +235,11 @@ Package: ucharcat 2015/11/19 v0.03 ucharcat for luaLaTeX (DPC)
 )
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2017/04/01 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count124
-\g__xparse_grabber_int=\count125
-\l__xparse_m_args_int=\count126
-\l__xparse_mandatory_args_int=\count127
-\l__xparse_v_nesting_int=\count128
+\l__xparse_current_arg_int=\count128
+\g__xparse_grabber_int=\count129
+\l__xparse_m_args_int=\count130
+\l__xparse_mandatory_args_int=\count131
+\l__xparse_v_nesting_int=\count132
 )
 (/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2017/04/01 LaTeX2e option processing using LaTeX3 keys
@@ -216,14 +250,14 @@ Package: fontspec 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2017/03/31 v2.6a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count129
-\l__fontspec_language_int=\count130
-\l__fontspec_strnum_int=\count131
-\l__fontspec_tmp_int=\count132
-\l__fontspec_em_int=\count133
-\l__fontspec_emdef_int=\count134
-\l__fontspec_strong_int=\count135
-\l__fontspec_strongdef_int=\count136
+\l__fontspec_script_int=\count133
+\l__fontspec_language_int=\count134
+\l__fontspec_strnum_int=\count135
+\l__fontspec_tmp_int=\count136
+\l__fontspec_em_int=\count137
+\l__fontspec_emdef_int=\count138
+\l__fontspec_strong_int=\count139
+\l__fontspec_strongdef_int=\count140
 \l__fontspec_tmpa_dim=\dimen136
 \l__fontspec_tmpb_dim=\dimen137
 \l__fontspec_tmpc_dim=\dimen138
@@ -420,9 +454,9 @@ File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 (/usr/share/texmf-dist/tex/latex/filehook/filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )
-\g__um_fam_int=\count137
+\g__um_fam_int=\count141
 \g__um_primekern_muskip=\muskip16
-\l__um_primecount_int=\count138
+\l__um_primecount_int=\count142
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -460,7 +494,7 @@ Package: filehook 2011/10/12 v0.5d Hooks for input files
 (/usr/share/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
 \multirow@colwidth=\skip51
-\multirow@cntb=\count139
+\multirow@cntb=\count143
 \multirow@dima=\skip52
 \bigstrutjot=\dimen139
 )
@@ -489,24 +523,20 @@ JK)
 \Gin@req@height=\dimen140
 \Gin@req@width=\dimen141
 )
-(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count140
-)
 (/usr/share/texmf-dist/tex/latex/xtab/xtab.sty
 Package: xtab 2011/07/31 v2.3f Extended supertabular package
-\c@tracingst=\count141
+\c@tracingst=\count144
 \PWSTcapht=\dimen142
 \ST@wd=\dimen143
 \ST@rightskip=\skip53
 \ST@leftskip=\skip54
 \ST@parfillskip=\skip55
-\c@PWSTtable=\count142
-\PWSTlastpage=\count143
-\PWSTpenultimate=\count144
-\PWSTcurpage=\count145
-\PWSTtempc=\count146
-\PWSTlines=\count147
+\c@PWSTtable=\count145
+\PWSTlastpage=\count146
+\PWSTpenultimate=\count147
+\PWSTcurpage=\count148
+\PWSTtempc=\count149
+\PWSTlines=\count150
 \PWST@lastht=\dimen144
 \PWST@generalht=\dimen145
 \PWST@ht=\dimen146
@@ -522,21 +552,153 @@ Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \ST@dimen=\dimen156
 \ST@pbox=\box42
 )
+(/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks19
+)
+(/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen157
+\Hy@linkcounter=\count151
+\Hy@pagecounter=\count152
+
+(/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count153
+Package hyperref Info: Option `unicode' set `true' on input line 3453.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2017/03/14 v6.85a Hyperref: PDF Unicode definition (HO)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count154
+
+(/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen158
+\Fld@menulength=\count155
+\Field@Width=\dimen159
+\Fld@charsize=\dimen160
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count156
+\c@Item=\count157
+\c@Hfootnote=\count158
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2017/03/14 v6.85a Hyperref driver for XeTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2016/05/16 v1.11 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box43
+\c@Hy@AnnotLevel=\count159
+\HyField@AnnotCount=\count160
+\Fld@listcount=\count161
+\c@bookmark@seq@number=\count162
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+
+(rerunfilecheck)             Therefore file contents cannot be checked efficien
+tly
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip56
+)
+(/home/editorial/texmf/tex/penalidades.sty)
 (/usr/share/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 
 (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen157
-\captionmargin@=\dimen158
-\captionwidth=\dimen159
-\caption@tempdima=\dimen160
-\caption@indent=\dimen161
-\caption@parindent=\dimen162
-\caption@hangindent=\dimen163
+\captionmargin=\dimen161
+\captionmargin@=\dimen162
+\captionwidth=\dimen163
+\caption@tempdima=\dimen164
+\caption@indent=\dimen165
+\caption@parindent=\dimen166
+\caption@hangindent=\dimen167
 )
-\c@ContinuedFloat=\count148
+\c@ContinuedFloat=\count163
+Package caption Info: hyperref package is loaded.
 Package caption Info: xtab package is loaded.
 )
 (/usr/share/texmf-dist/tex/latex/datetime/datetime.sty
@@ -553,10 +715,10 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks19
-\XKV@tempa@toks=\toks20
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
 )
-\XKV@depth=\count149
+\XKV@depth=\count164
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texmf-dist/tex/latex/fmtcount/fcprefix.sty
@@ -564,17 +726,17 @@ Package: fcprefix 2012/09/28
 
 (/usr/share/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
 Package: fcnumparser 2012/09/28
-\fc@digit@counter=\count150
+\fc@digit@counter=\count165
 ))
-\c@padzeroesN=\count151
-\fc@tmpcatcode=\count152
-\@DT@modctr=\count153
-\@ordinalctr=\count154
-\@orgargctr=\count155
-\@strctr=\count156
-\@tmpstrctr=\count157
-\@DT@loopN=\count158
-\@DT@X=\count159
+\c@padzeroesN=\count166
+\fc@tmpcatcode=\count167
+\@DT@modctr=\count168
+\@ordinalctr=\count169
+\@orgargctr=\count170
+\@strctr=\count171
+\@tmpstrctr=\count172
+\@DT@loopN=\count173
+\@DT@X=\count174
 
 (/usr/share/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2013/08/17
@@ -582,59 +744,108 @@ File: fc-english.def 2013/08/17
 (/usr/share/texmf-dist/tex/latex/datetime/datetime-defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count160
-\@month=\count161
-\@year=\count162
-\c@HOUR=\count163
-\c@HOURXII=\count164
-\c@MINUTE=\count165
-\c@TOHOUR=\count166
-\c@TOMINUTE=\count167
-\c@SECOND=\count168
-\currenthour=\count169
-\currentminute=\count170
-\currentsecond=\count171
+\@day=\count175
+\@month=\count176
+\@year=\count177
+\c@HOUR=\count178
+\c@HOURXII=\count179
+\c@MINUTE=\count180
+\c@TOHOUR=\count181
+\c@TOMINUTE=\count182
+\c@SECOND=\count183
+\currenthour=\count184
+\currentminute=\count185
+\currentsecond=\count186
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count172
-\dayofyear=\count173
-\dayofweek=\count174
+\@dtctr=\count187
+\dayofyear=\count188
+\dayofweek=\count189
 LaTeX Info: Redefining \today on input line 736.
 
+(/usr/share/texmf-dist/tex/latex/datetime/dt-german.def
+File: dt-german.def 2010/09/10
+LaTeX Info: Redefining \dategerman on input line 86.
+)
+(/usr/share/texmf-dist/tex/latex/datetime/dt-italian.def
+File: dt-italian.def 2015/03/20
+LaTeX Info: Redefining \dateitalian on input line 103.
+)
 (/usr/share/texmf-dist/tex/latex/datetime/dt-portuges.def
 File: dt-portuges.def 2013/09/10
 LaTeX Info: Redefining \dateportuges on input line 75.
+)
+(/usr/share/texmf-dist/tex/latex/datetime/dt-russian.def
+File: dt-russian.def 2013/09/10
+LaTeX Info: Redefining \daterussian on input line 64.
 )
 (/usr/share/texmf-dist/tex/latex/datetime/dt-spanish.def
 File: dt-spanish.def 2013/09/10
 LaTeX Info: Redefining \datespanish on input line 85.
 )
-\dt@a=\toks21
-\dt@b=\toks22
+\dt@a=\toks22
+\dt@b=\toks23
 )
-(./0034-8910-rsp-47-04-0791.aux
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
-)
+\g__fontspec_family_LinuxLibertineO_int=\count190
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'LinuxLibertineO(0)' created for font 'Linux Libertine O' with
+. options [Ligatures=TeX].
+.  
+.  This font family consists of the following NFSS series/shapes:
+.  
+. - 'normal' (m/n) with NFSS spec.: <->"Linux Libertine
+. O/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: <->"Linux Libertine
+. O/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.: <->"Linux Libertine
+. O/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.: <->"Linux Libertine
+. O/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.: <->"Linux Libertine
+. O/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.: <->"Linux Libertine
+. O/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.: <->"Linux Libertine
+. O/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.: <->"Linux Libertine
+. O/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+.................................................
+LaTeX Info: Redefining \rmfamily on input line 21.
+
+(./0034-8910-rsp-47-04-0791.aux)
 \openout1 = `0034-8910-rsp-47-04-0791.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 136.
-LaTeX Font Info:    ... okay on input line 136.
-\g__fontspec_family_latinmodern-math.otf_int=\count175
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 140.
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 140.
+
+
+(/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+\g__fontspec_family_latinmodern-math.otf_int=\count191
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -656,16 +867,16 @@ T:script=math;language=DFLT;+ssty=1;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 136.
+(Font)              `operators' in the math version `normal' on input line 140.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(0)/m/n on input
- line 136.
+ line 140.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 136.
+(Font)              `operators' in the math version `bold' on input line 140.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on inp
-ut line 136.
+ut line 140.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -716,15 +927,15 @@ Adjustment={\fontdimen
 . =2.5pt\relax \relax 
 .................................................
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 136.
+(Font)              `symbols' in the math version `normal' on input line 140.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
-t line 136.
+t line 140.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 136.
+(Font)              `symbols' in the math version `bold' on input line 140.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 136.
+ut line 140.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -759,122 +970,325 @@ Adjustment={\fontdimen
 .................................................
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-36.
+40.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 136.
+t line 140.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 136
+(Font)              `largesymbols' in the math version `bold' on input line 140
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 136.
+ut line 140.
+\AtBeginShipoutBox=\box44
+Package hyperref Info: Link coloring OFF on input line 140.
+
+(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count192
+)
+LaTeX Info: Redefining \ref on input line 140.
+LaTeX Info: Redefining \pageref on input line 140.
+LaTeX Info: Redefining \nameref on input line 140.
+
+(./0034-8910-rsp-47-04-0791.out) (./0034-8910-rsp-47-04-0791.out)
+\@outlinefile=\write3
+\openout3 = `0034-8910-rsp-47-04-0791.out'.
+
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-
-Overfull \hbox (2.90503pt too wide) in paragraph at lines 150--151
-[]\TU/lmr/m/n/10 Correspondência | Correspondence : Helaine Carneiro Capucho. E
-splanada
- []
-
-
-Overfull \hbox (4.404pt too wide) in paragraph at lines 156--157
-\TU/lmr/m/n/10 stricted non-commercial use, distribution, and reproduction in a
-ny medium,
- []
-
-[1
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 166.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 166.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 166.
+ [1
 
 ]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 160.
+(Font)              scaled to size 12.00018pt on input line 166.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 160.
+(Font)              scaled to size 8.00012pt on input line 166.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 160.
+(Font)              scaled to size 6.00009pt on input line 166.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 160.
+(Font)              scaled to size 11.99982pt on input line 166.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 160.
+(Font)              scaled to size 7.99988pt on input line 166.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 160.
-LaTeX Info: Redefining \. on input line 185.
-LaTeX Info: Redefining \% on input line 185.
+(Font)              scaled to size 5.99991pt on input line 166.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 215.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 215.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 220.
+(Font)              scaled to size 10.00015pt on input line 224.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 220.
+(Font)              scaled to size 7.01247pt on input line 224.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 220.
+(Font)              scaled to size 4.9808pt on input line 224.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 220.
+(Font)              scaled to size 9.99985pt on input line 224.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 220.
+(Font)              scaled to size 7.01224pt on input line 224.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 220.
- [2]
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 252.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 252.
- [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
-[][] \TU/lmr/m/n/8 World Health Organization. WHO launches ‘Nine patient sa-
+(Font)              scaled to size 4.98067pt on input line 224.
+
+Underfull \hbox (badness 1087) in paragraph at lines 217--225
+\TU/LinuxLibertineO(0)/m/n/10 mediante os resultados obtidos e, na Idade Média,
+ os médicos que obtivessem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
-\TU/lmr/m/n/8 fety solutions. Geneva; 2007 [citado 2012 jun 2]. Disponível em:
+Underfull \hbox (badness 1776) in paragraph at lines 217--225
+\TU/LinuxLibertineO(0)/m/n/10 resultados negativos na prestação de assistência 
+tinham parte de seus corpos
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 226.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 226.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 226.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 226.
+[2]
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 256.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 256.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 298.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 298.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 298.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 298.
+ [3]
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 317.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 317.
+
+Underfull \hbox (badness 2990) in paragraph at lines 332--340
+[]\TU/LinuxLibertineO(0)/m/n/10 Outra iniciativa do Ministério da Saúde é a mon
+itorização do Índice de
  []
 
 
-Overfull \hbox (5.19348pt too wide) in paragraph at lines 467--467
-[]\TU/lmr/bx/n/14.4 Sistema de notificações de incidentesFluxo sim-
+Underfull \hbox (badness 1028) in paragraph at lines 341--354
+[]\TU/LinuxLibertineO(0)/m/n/10 Dentre os indicadores estabelecidos no IDSUS, n
+ão há nenhum relacionado
  []
 
+
+Underfull \hbox (badness 1253) in paragraph at lines 341--354
+\TU/LinuxLibertineO(0)/m/n/10 diretamente à segurança do paciente, como a taxa 
+de incidentes ocorridos no
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 355.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 355.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 355.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 355.
+[4]
+Underfull \hbox (badness 1484) in paragraph at lines 381--395
+[]\TU/LinuxLibertineO(0)/m/n/10 O P4P está em desenvolvimento em muitos países,
+ incluindo o Brasil. Na
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 440.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 440.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 440.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 440.
+[5]
+Underfull \hbox (badness 2922) in paragraph at lines 451--468
+[]\TU/LinuxLibertineO(0)/m/n/10 O programa de segurança do paciente deve ser di
+fundido nas diferentes
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 469.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 469.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 507.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 507.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 507.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 507.
 [6]
+Underfull \hbox (badness 1057) in paragraph at lines 507--513
+[]\TU/LinuxLibertineO(0)/m/n/10 Embora a iniciativa da ANVISA tenha sido import
+ante para o estímulo da
+ []
+
 File: 0034-8910-rsp-47-04-0791-gf01.jpg Graphic file (type QTm)
- <use  "0034-8910-rsp-47-04-0791-gf01.jpg" > [7] [8] [9]
-Overfull \hbox (24.14992pt too wide) in paragraph at lines 715--720
-\TU/lmr/m/it/10 Latino-Am Enferm \TU/lmr/m/n/10 . 2011;19(5):1272-3. DOI:10.159
-0/S0104-11692011000500027 
+<use  "0034-8910-rsp-47-04-0791-gf01.jpg" >
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 557.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 557.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 557.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 557.
+ [7]
+Overfull \hbox (0.19757pt too wide) in paragraph at lines 602--608
+[]\TU/LinuxLibertineO(0)/m/n/10 pode-se eliminar a possibilidade de extravio e 
+perda de informações, especialmente
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 635.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 635.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 635.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 635.
+[8]
+Underfull \hbox (badness 1226) in paragraph at lines 636--649
+[]\TU/LinuxLibertineO(0)/m/n/10 O sistema nacional de notificações deveria, ain
+da, estar hospedado em um
  []
 
 
-Overfull \hbox (25.37325pt too wide) in paragraph at lines 721--728
-\TU/lmr/m/n/10 cidentes em saúde. \TU/lmr/m/it/10 Rev Gaucha Enferm \TU/lmr/m/n
-/10 . 2013;34(1):164-72. DOI:10.1590/S1983-
+Underfull \hbox (badness 1924) in paragraph at lines 636--649
+\TU/LinuxLibertineO(0)/m/n/10 site interativo que disponibilizasse gratuitament
+e notícias, dicas de segurança,
  []
 
+
+Underfull \hbox (badness 3009) in paragraph at lines 636--649
+\TU/LinuxLibertineO(0)/m/n/10 informações sobre eventos adversos, protocolos so
+bre como implementar um
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 636--649
+\TU/LinuxLibertineO(0)/m/n/10 americanos. Esse portal teria como dupla função m
+anter e estimular a adesão
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 709.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 709.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 709.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 709.
+[9]
+Overfull \hbox (22.13496pt too wide) in paragraph at lines 721--728
+\TU/LinuxLibertineO(0)/m/n/10 saúde. \TU/LinuxLibertineO(0)/m/it/10 Rev Gaucha 
+Enferm \TU/LinuxLibertineO(0)/m/n/10 . 2013;34(1):164-72. DOI:10.1590/S1983-144
+72013000100021 
+ []
+
+
+Overfull \hbox (33.40666pt too wide) in paragraph at lines 735--742
+\TU/LinuxLibertineO(0)/m/n/10 da ANS. \TU/LinuxLibertineO(0)/m/it/10 Cienc Saud
+e Coletiva \TU/LinuxLibertineO(0)/m/n/10 . 2007;12(4):903-14. DOI:10.1590/S1413
+-81232007000400012 
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 755--759
+\TU/LinuxLibertineO(0)/m/n/10 hospitais de pacientes agudos: revisão sistemátic
+a. \TU/LinuxLibertineO(0)/m/it/10 Cad Saude Publica \TU/LinuxLibertineO(0)/m/n/
+10 .
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 764--769
+\TU/LinuxLibertineO(0)/m/n/10 and California: comparison of unintended conseque
+nces. \TU/LinuxLibertineO(0)/m/it/10 Ann Fam Med \TU/LinuxLibertineO(0)/m/n/10 
+.
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 770--775
+\TU/LinuxLibertineO(0)/m/n/10 events in hospitals in Brazil. \TU/LinuxLibertine
+O(0)/m/it/10 Int J Qual Health Care \TU/LinuxLibertineO(0)/m/n/10 . 2009;21(4):
+279-84.
+ []
+
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 801.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 801.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 801.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 801.
 [10]
-Overfull \hbox (19.27655pt too wide) in paragraph at lines 794--801
-\TU/lmr/m/n/10 gery study an overview. \TU/lmr/m/it/10 Med Care \TU/lmr/m/n/10 
-. 1995;33(10):OS1-4. DOI:10.1097/00005650-
+Overfull \hbox (85.58832pt too wide) in paragraph at lines 809--814
+\TU/LinuxLibertineO(0)/m/n/10 variable and longitudinal approaches. \TU/LinuxLi
+bertineO(0)/m/it/10 Nurs Res \TU/LinuxLibertineO(0)/m/n/10 . 2012;61(1):3-12. D
+OI:10.1097/NNR.0b013e3182358968 
  []
 
 
-Overfull \hbox (24.45987pt too wide) in paragraph at lines 802--808
-\TU/lmr/m/n/10 Agency. \TU/lmr/m/it/10 Anaesthesia \TU/lmr/m/n/10 . 2008;63(7):
-726-33. DOI:10.1111/j.1365-2044.2008.05485.x 
+Overfull \hbox (0.99422pt too wide) in paragraph at lines 825--829
+[]\TU/LinuxLibertineO(0)/m/n/10 . Vincent C, Woloshynowych M. Adverse events in
+ British hospitals: preliminary
  []
 
 
-Overfull \hbox (94.84215pt too wide) in paragraph at lines 825--829
-\TU/lmr/m/n/10 minary retrospective record review. \TU/lmr/m/it/10 BMJ \TU/lmr/
-m/n/10 . 2001;322(7285):517-9. DOI:10.1136/bmj.322.7285.517 
+Overfull \hbox (26.68916pt too wide) in paragraph at lines 825--829
+\TU/LinuxLibertineO(0)/m/n/10 retrospective record review. \TU/LinuxLibertineO(
+0)/m/it/10 BMJ \TU/LinuxLibertineO(0)/m/n/10 . 2001;322(7285):517-9. DOI:10.113
+6/bmj.322.7285.517 
  []
 
-[11] (./0034-8910-rsp-47-04-0791.aux
-LaTeX Info: Redefining \. on input line 26.
-LaTeX Info: Redefining \% on input line 26.
-) ) 
+
+Overfull \hbox (160.33421pt too wide) in paragraph at lines 830--838
+\TU/LinuxLibertineO(0)/m/n/10 terms. Geneva; 2009 [citado 2011 jul 04]. Disponí
+vel em: http://www.who.int/patientsafety/taxonomy/icps_chapter3.pdf 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 841.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 841.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 841.
+Package babel Info: Redefining russian shorthand "|
+(babel)             in language  on input line 841.
+Package babel Info: Redefining russian shorthand "~
+(babel)             in language  on input line 841.
+[11]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 841.
+ (./0034-8910-rsp-47-04-0791.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 841.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 841.
+ ) 
 Here is how much of TeX's memory you used:
- 17235 strings out of 493068
- 330922 string characters out of 6141028
- 512149 words of memory out of 5000000
- 20969 multiletter control sequences out of 15000+600000
- 9955 words of font info for 56 fonts, out of 8000000 for 9000
+ 24604 strings out of 493068
+ 439480 string characters out of 6141028
+ 632102 words of memory out of 5000000
+ 28241 multiletter control sequences out of 15000+600000
+ 10949 words of font info for 65 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 43i,8n,77p,10396b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,77p,10396b,415s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 0034-8910-rsp-47-04-0791.pdf (11 pages).
