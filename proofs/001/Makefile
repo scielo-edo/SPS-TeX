@@ -30,7 +30,7 @@ git:
 	-git commit -m "General edition"
 
 clean:
-	-rm *.aux *.log
+	-rm *.aux *.log *.xdv *.out 
 update:
 	-cp template.yaml ..
 	-cp template.yaml ~/Dropbox/SCIELO/jats2tex/default.yaml

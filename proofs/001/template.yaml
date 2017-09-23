@@ -199,11 +199,11 @@ kwd-group:
       return '\\kwdgroup' .. lang
     end
     return '\\kwdgroup'
-    )@@}{\medskip\noindent\keywords{} {@@lua(
+    )@@}{@@lua(
     title = find('//title')
     keyword_list = findAll('//kwd')
     return title .. table.concat(keyword_list, ', ') 
-    )@@}}
+    )@@}
 
 list-item: |
   \item @@children
@@ -358,6 +358,7 @@ sec: |
 trans-abstract[@xml:lang="es"]: |
 
     \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
     @@lua(return '\\begin{otherlanguage}{spanish}')@@
     @@lua(
         abstit = find('trans-abstract/title')
@@ -374,6 +375,7 @@ trans-abstract[@xml:lang="es"]: |
     end
     return find "//sec"
     )@@
+    \ifdef{\kwdgroupes}{\medskip\noindent\textbf{Palavras claves:} \kwdgroupes}{}
     \end{abstract}
     \end{otherlanguage}
     \endgroup
@@ -381,6 +383,7 @@ trans-abstract[@xml:lang="es"]: |
 trans-abstract[@xml:lang="en"]: |
 
     \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
     @@lua(return '\\begin{otherlanguage}{english}')@@
     @@lua(
         abstit = find('trans-abstract/title')
@@ -397,6 +400,7 @@ trans-abstract[@xml:lang="en"]: |
     end
     return find "//sec"
     )@@
+    \ifdef{\kwdgroupen}{\medskip\noindent\textbf{Keywords:} \kwdgroupen}{}
     \end{abstract}
     \end{otherlanguage}
     \endgroup
@@ -404,6 +408,7 @@ trans-abstract[@xml:lang="en"]: |
 trans-abstract[@xml:lang="ru"]: |
 
     \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}    
     @@lua(return '\\begin{otherlanguage}{russian}')@@
     @@lua(
         abstit = find('trans-abstract/title')
@@ -421,6 +426,7 @@ trans-abstract[@xml:lang="ru"]: |
     return find "//sec"
     )@@
     \end{abstract}
+    \ifdef{\kwdgroupru}{\medskip\noindent\textbf{ключевые слова:} \kwdgroupru}{}
     \end{otherlanguage}
     \endgroup
 
@@ -428,6 +434,7 @@ trans-abstract[@xml:lang="ru"]: |
 trans-abstract[@xml:lang="it"]: |
 
     \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
     @@lua(return '\\begin{otherlanguage}{italian}')@@
     @@lua(
         abstit = find('trans-abstract/title')
@@ -445,6 +452,7 @@ trans-abstract[@xml:lang="it"]: |
     return find "//sec"
     )@@
     \end{abstract}
+    \ifdef{\kwdgroupit}{\medskip\noindent\textbf{Parole:} \kwdgroupit}{}
     \end{otherlanguage}
     \endgroup
 
@@ -452,6 +460,7 @@ trans-abstract[@xml:lang="it"]: |
 trans-abstract[@xml:lang="de"]: |
 
     \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
     @@lua(return '\\begin{otherlanguage}{german}')@@
     @@lua(
         abstit = find('trans-abstract/title')
@@ -468,6 +477,7 @@ trans-abstract[@xml:lang="de"]: |
     end
     return find "//sec"
     )@@
+    \ifdef{\kwdgroupde}{\medskip\noindent\textbf{Schlüsselwörter:} \kwdgroupde}{}
     \end{abstract}
     \end{otherlanguage}
     \endgroup
@@ -476,6 +486,7 @@ trans-abstract[@xml:lang="de"]: |
 trans-abstract[@xml:lang="fr"]: |
 
     \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
     @@lua(return '\\begin{otherlanguage}{french}')@@
     @@lua(
         abstit = find('trans-abstract/title')
@@ -492,6 +503,7 @@ trans-abstract[@xml:lang="fr"]: |
     end
     return find "//sec"
     )@@
+    \ifdef{\kwdgroupfr}{\medskip\noindent\textbf{Mots clés:} \kwdgroupfr}{}
     \end{abstract}
     \end{otherlanguage}
     \endgroup
