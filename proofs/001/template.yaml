@@ -336,8 +336,13 @@ p: |
     return ''
     )@@
     \begin{abstract}
-    @@lua(return find "//sec")@@
-    @@lua(return find "//p")@@
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
     \end{abstract}
     \endgroup
 
@@ -350,15 +355,10 @@ sec: |
     @@lua(return find "//p")@@  
 
 
-trans-abstract: |
+trans-abstract[@xml:lang="es"]: |
 
     \begingroup
-    @@lua(lanG = attr('xml:lang="es"')
-        if lanG ~= 'es' then
-        return '\\begin{otherlanguage}{spanish}'
-        end
-        return '\\begin{otherlanguage}{spanish}'
-    )@@
+    @@lua(return '\\begin{otherlanguage}{spanish}')@@
     @@lua(
         abstit = find('trans-abstract/title')
          if abstit ~= '' then
@@ -367,8 +367,36 @@ trans-abstract: |
     return ''
     )@@
     \begin{abstract}
-    @@lua(return find "//sec")@@
-    @@lua(return find "//p")@@
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+trans-abstract[@xml:lang="en"]: |
+
+    \begingroup
+    @@lua(return '\\begin{otherlanguage}{english}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
     \end{abstract}
     \end{otherlanguage}
     \endgroup
