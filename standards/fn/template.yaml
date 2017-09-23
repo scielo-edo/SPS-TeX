@@ -1,0 +1,8 @@
+xref: |
+    @@lua(
+    if attr('ref-type') ~= 'fn' then
+    return ""
+    end
+    return "(" .. children() .. ")"
+    )@@
+    

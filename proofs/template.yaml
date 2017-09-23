@@ -4,7 +4,7 @@ article:
 
     \usepackage[T1]{fontenc}
     \usepackage[utf8]{inputenc} %% *
-    \usepackage[portuges,spanish,english]{babel} %% *
+    \usepackage[portuges,spanish,english,german,italian,russian]{babel} %% *
     \usepackage{amstext}
     \usepackage{authblk}
     \usepackage{unicode-math}
@@ -12,9 +12,22 @@ article:
     \usepackage{graphicx}
     \usepackage{etoolbox}
     \usepackage{xtab}
+    \usepackage{enumerate}
+    \usepackage{hyperref}
+    \usepackage{penalidades}
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
+
     \selectlanguage{portuges}
+    \setmainfont{Linux Libertine O}
+
+    \renewcommand*{\thefootnote}{\alph{footnote}}
+    \makeatletter
+    \newcommand{\fn}{\afterassignment\fn@aux\count0=}
+    \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+    \makeatother
+
+
 
     @@heads
     
@@ -29,6 +42,7 @@ article:
     \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
     \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
     \ifdef{\publishername}{\item[\textbf{publishername}] \publishername}{}
+    \ifdef{\publisherid}{\item[\textbf{publisherid}] \publisherid}{}
     \ifdef{\subject}{\item[\textbf{subject}] \subject}{} 
     \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
     \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
@@ -46,6 +60,29 @@ article:
     @@bodies
 
     \end{document}
+
+
+article[@xml:lang="pt"]: 
+  head:  |
+     \selectlanguage{portuges}
+article[@xml:lang="en"]: 
+  head:  |
+     \selectlanguage{english}
+article[@xml:lang="fr"]: 
+  head:  |
+     \selectlanguage{french}
+article[@xml:lang="es"]: 
+  head:  |
+     \selectlanguage{spanish}
+article[@xml:lang="it"]: 
+  head:  |
+     \selectlanguage{italian}
+article[@xml:lang="de"]: 
+  head:  |
+     \selectlanguage{german}
+article[@xml:lang="ru"]: 
+  head:  |
+     \selectlanguage{russian}
 
 sub-article: ""
 
@@ -66,10 +103,16 @@ issn:
     return '\\issn'
     )@@}{@@children}
     
-journal-id: 
+journal-id[@journal-id-type="nlm-ta"]: 
   head: |
 
     \newcommand{\journalid}{@@children}
+
+journal-id[@journal-id-type="publisher-id"]:
+  head: |
+
+    \newcommand{\publisherid}{@@children}
+    
 
 journal-title: 
   head: |
@@ -91,10 +134,18 @@ author-notes:
 
     \def\authornotes{@@children}
 
-article-id:
+
+article-id[@pub-id-type="other"]: ""
+article-id[@pub-id-type="doi"]:
   head: |
 
-    \def\articleid{DOI @@children}
+    \newcommand\articleid{DOI @@children}
+
+article-id[@pub-id-type="publisher-id"]: 
+  head: |
+
+    \newcommand\publisherid{@@children}
+
 
 volume:
   head: |
@@ -122,10 +173,11 @@ permissions:
     \def\permissions{@@children}
 
 
+
 pub-date: 
   head: |
 
-    \date{\selectlanguage{portuges}\formatdate{@@lua(return find "//day")@@}{@@lua(return find "//month")@@}{@@lua(return find "//year")@@}}
+    \date{@@lua(return find "//day")@@ @@lua(return find "//month")@@ @@lua(return find "//year")@@}
 
 
 subject:
@@ -153,34 +205,95 @@ kwd-group:
     return title .. table.concat(keyword_list, ', ') 
     )@@}}
 
+list-item: |
+  \item @@children
+
+list[@list-type="bullet"]: |
+   \begin{itemize}
+   @@children \end{itemize}
+   
+   
+list[@list-type="order"]: |
+   \begin{enumerate}
+   @@children \end{enumerate}
+   
+list[@list-type="alpha-lower"]: |
+   \begin{enumerate}[a)]
+   @@children \end{enumerate}
+
+list[@list-type="alpha-upper"]: |
+   \begin{enumerate}[(A)]
+   @@children \end{enumerate}
+      
+list[@list-type="roman-lower"]: |
+   \begin{enumerate}[i.]
+   @@children \end{enumerate}
+ 
+list[@list-type="roman-upper"]: |
+   \begin{enumerate}[(I)]
+   @@children \end{enumerate}
+
+ext-link: "\\href{@@children}"
+
+disp-quote:  |
+    \begin{quote}
+    @@children
+    \end{quote}
+
 codebold:
   head: |
     \code{@@children}
 
 
+element-citation: ""
 
-back: ""
+ref-list: |
 
-name: |
-  @@lua(
-  s = find "//surname"
-  g = find "//given-names"
-  return s .. ", " .. g
-  )@@
+  \section*{@@lua(return find('//title'))@@}
+  \begin{itemize}
+  @@lua(return find('//ref'))@@ 
+  \end{itemize}
+
+ref: |
+
+    \item[@@lua(return find '//label')@@] @@lua(return find '//mixed-citation')@@  
+
+
+xref[@ref-type="fn"]:  | 
+    @@lua(return "\\footnote{\\" .. attr 'rid' .."}")@@  
+
+
+xref[@ref-type="bibr"]:  | 
+    \textsuperscript{[@@children]}  
+
+
+fn-group//fn: 
+   head: |
+     
+     %%% Nota @@lua(return attr 'id')@@ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     \expandafter\newcommand\csname @@lua(return attr 'id')@@\endcsname{@@lua(return find ('//p'))@@}
+
+name:  "@@lua(
+  s = find '//surname'
+  g = find '//given-names'
+  return s .. ', ' .. g)@@"
 
 contrib:
   head: |
 
     \author[@@lua(
-      return find('//xref')
-    )@@]{@@children}
+      return find('//xref[@ref-type="aff"]')
+    )@@]{@@lua(
+      return find('//name')
+    )@@}
 
 aff:
   head: |
+  
     \affil[@@lua(
       return find('//label')
     )@@]{@@lua(
-      return find('//institution')
+      return find('//institution[@content-type="orgname"]')
     )@@}
 
 break: "\n"
@@ -213,42 +326,46 @@ p: |
 
 
 abstract: |
-
-  \selectlanguage{portuges}
-  % \renewcommand{\abstractname}{@@lua(return find "//title")@@}
-  \begin{abstract}
-  @@lua(return find "//p")@@
-  \ifdef{\kwdgroup}{\kwdgroup}{}
-  \end{abstract}
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  
+    \ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
+  
+    \begin{abstract}
+    @@lua(return "\\newcommand{\\abstracttitle}{" .. find('/title') .. "}")@@
+    @@lua(return find "//p")@@
+    \ifdef{\kwdgroup}{\kwdgroup}{}
+    \end{abstract}
 
 trans-abstract: |
 
-  \selectlanguage{spanish}
-  % \renewcommand{\abstractname}{@@lua(return find "//title")@@}
-  \begin{abstract}
-  @@lua(return find "//p")@@
-  \ifdef{\kwdgroupes}{\kwdgroupes}{}
-  \ifdef{\kwdgroupen}{\kwdgroupen}{}
-  \end{abstract}
-  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \ifdef{\abstracttitle}{\renewcommand{\abstractname}{\abstracttitle}}{}
+  
+    \begin{abstract}
+    @@lua(return "\\newcommand{\\abstracttitle}{" .. find('/title') .. "}")@@
+    @@lua(return find "//p")@@
+    \ifdef{\kwdgrouptrans}{\kwdgroup}{}
+    \end{abstract}
 
 
 fig : |
   \begin{figure}
   \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
-  \caption{@@lua(return find "//title")@@}
+  \caption{@@lua(return find "/fig/title")@@}
   \end{figure}
-  
-graphic: |
-  @@lua(return attr "xlink:href")@@
+
+graphic: "@@lua(return attr 'xlink:href')@@"
+
+
+inline-formula/inline-graphic: "\\includegraphics{@@lua(return attr 'xlink:href')@@}" 
+ 
+inline-graphic: "\\begin{figure}[h] \\includegraphics[width=\\textwidth]{@@lua(return attr 'xlink:href')@@}\\end{figure}"
 
 b: |
   \textbf{@@children}
 
 
 sec: |
-  \section{@@lua(return find('//title'))@@}
+
+  \section{@@lua(return find('sec/title'))@@}
   @@lua(return find('//p'))@@
 
 table: |

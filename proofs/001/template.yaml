@@ -401,6 +401,101 @@ trans-abstract[@xml:lang="en"]: |
     \end{otherlanguage}
     \endgroup
 
+trans-abstract[@xml:lang="ru"]: |
+
+    \begingroup
+    @@lua(return '\\begin{otherlanguage}{russian}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+
+trans-abstract[@xml:lang="it"]: |
+
+    \begingroup
+    @@lua(return '\\begin{otherlanguage}{italian}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+
+trans-abstract[@xml:lang="de"]: |
+
+    \begingroup
+    @@lua(return '\\begin{otherlanguage}{german}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+
+trans-abstract[@xml:lang="fr"]: |
+
+    \begingroup
+    @@lua(return '\\begin{otherlanguage}{french}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
 fig : |
   \begin{figure}
   \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}

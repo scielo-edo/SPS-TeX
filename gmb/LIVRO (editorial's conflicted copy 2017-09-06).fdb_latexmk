@@ -1,0 +1,23 @@
+# Fdb version 3
+["xdvipdfmx"] 0 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 0
+  "LIVRO.xdv" 0 -1 0 "xelatex"
+  (generated)
+  "LIVRO.pdf"
+["xelatex"] 1503933239 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1503933242
+  "/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1501615467 1458 43ab4710dc82f3edeabecd0d099626b2 ""
+  "/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty" 1501615467 7324 2310d1247db0114eb4726807c8837a0e ""
+  "/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty" 1501615467 1251 d170e11a3246c3392bc7f59595af42cb ""
+  "/usr/share/texmf-dist/tex/latex/ifetex/ifetex.sty" 1501615465 1571 45d3cd316bdf45071542b57b1784c273 ""
+  "/usr/share/texmf-dist/tex/latex/memoir/mem10.clo" 1501615465 4019 abd84f14d1351e143f913ccbf7858c92 ""
+  "/usr/share/texmf-dist/tex/latex/memoir/memoir.cls" 1501615465 403550 cf3b1268347cbf0206bbe925178c9579 ""
+  "/usr/share/texmf-dist/tex/latex/memoir/mempatch.sty" 1501615465 1325 61d651ec19190481219253f142256d58 ""
+  "/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex" 1501615464 1166 4b66ad073c6073cb1bde651c18b7dbb2 ""
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1501615481 32585 d82bbcf7626b7842c87671687479e852 ""
+  "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1503618839 4066392 dff2c4d1e77e91cf539beeb2b4d7e98b ""
+  "LIVRO.aux" 1503933239 8 a94a2480d3289e625eea47cd1b285758 ""
+  "LIVRO.tex" 1503933187 178 79cf89fb7929c7c3376c49ea487dac02 ""
+  "scielo.sty" 1503933187 12647 39b3f7629c70b36d2bb4a9e2cb3ff762 ""
+  "tipografia.sty" 0 -1 0 ""
+  (generated)
+  "LIVRO.xdv"
+  "LIVRO.log"

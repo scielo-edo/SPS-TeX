@@ -44,41 +44,22 @@
 \RequirePackage{pbox}
 \RequirePackage{longtable}
 \RequirePackage[pdfpagelabels,implicit=false,hidelinks,hyperfootnotes=false]{hyperref} % configurar pagina inicial do pdf
-
-% mathml to tex
 \RequirePackage{bm} % bold
 \RequirePackage{pmml-new} % math template
 \RequirePackage{unicode-math}
 
-
-%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% fontes chinesas
 \setCJKmainfont{SimSun}
 \setCJKsansfont{SimHei}
 \setCJKmonofont{FangSong}
-
-% math
 \setmathfont{XITS Math}
-
-% remove label automatico das tabelas
 \captionsetup{justification=raggedright, singlelinecheck=false}
 \captionsetup[table]{labelformat=empty}
-
-% remove padding entre colunas da tabela
 \setlength\tabcolsep{0.005\textwidth}
-
-% includegraphics maxwidth
 \def\maxwidth#1{\ifdim\Gin@nat@width>#1 #1\else\Gin@nat@width\fi}
 
-% table columns
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-
-% attrib verse
-%\newcommand{\attrib}[1]{%
-%\nopagebreak{\raggedleft\footnotesize #1\par}}
 \renewcommand{\poemtitlefont}{\normalfont\large\itshape\centering}
 
 % override footnotes (tipografia.sty)
@@ -91,8 +72,8 @@
 }
 
 % bibliografia
-\newcommand{\scieloReferencesItem}[1]{
-\begin{spacing}{1.005}
+\newcommand{\scieloReferencesItem}[1]{\
+begin{spacing}{1.005}
 \hangindent=2em
 \hangafter=1
 \fontsize{9}{10.8}\selectfont

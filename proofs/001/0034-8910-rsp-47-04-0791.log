@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  23 SEP 2017 18:16
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  23 SEP 2017 18:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -814,7 +814,12 @@ LaTeX Info: Redefining \datespanish on input line 85.
 .................................................
 LaTeX Info: Redefining \rmfamily on input line 20.
 
-(./0034-8910-rsp-47-04-0791.aux)
+(./0034-8910-rsp-47-04-0791.aux
+LaTeX Info: Redefining \. on input line 31.
+LaTeX Info: Redefining \% on input line 31.
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+)
 \openout1 = `0034-8910-rsp-47-04-0791.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
@@ -1020,124 +1025,121 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 7.99988pt on input line 166.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 5.99991pt on input line 166.
-LaTeX Info: Redefining \. on input line 190.
-LaTeX Info: Redefining \% on input line 190.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 215.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 224.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 224.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 224.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 224.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 224.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 224.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 237.
  [2]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 264.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 256.
+(Font)              scaled to size 10.00015pt on input line 273.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 7.01247pt on input line 273.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 4.9808pt on input line 273.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 256.
+(Font)              scaled to size 9.99985pt on input line 273.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 7.01224pt on input line 273.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.98067pt on input line 273.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 275.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 299.
+(babel)             in language  on input line 275.
 
 [3]
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 305.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 305.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 317.
+(babel)             in language  on input line 347.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 368.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 368.
+(babel)             in language  on input line 347.
  [4]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 451.
+(babel)             in language  on input line 366.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 451.
+(babel)             in language  on input line 403.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 403.
  [5]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 469.
+(babel)             in language  on input line 490.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 529.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 529.
+(babel)             in language  on input line 490.
  [6]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 518.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 562.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 562.
+ [7]
 File: 0034-8910-rsp-47-04-0791-gf01.jpg Graphic file (type QTm)
  <use  "0034-8910-rsp-47-04-0791-gf01.jpg" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 567.
+(babel)             in language  on input line 606.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 567.
- [7]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 665.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 606.
  [8]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 735.
+(babel)             in language  on input line 698.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 735.
+(babel)             in language  on input line 698.
  [9]
-Underfull \hbox (badness 1038) in paragraph at lines 755--759
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 770.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 770.
+
+[10]
+Underfull \hbox (badness 1038) in paragraph at lines 804--808
 \TU/LinuxLibertineO(0)/m/n/10 hospitais de pacientes agudos: revisão sistemátic
 a. \TU/LinuxLibertineO(0)/m/it/10 Cad Saude Publica \TU/LinuxLibertineO(0)/m/n/
 10 .
  []
 
-
-Underfull \hbox (badness 1622) in paragraph at lines 809--814
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 851.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 851.
+[11]
+Underfull \hbox (badness 1622) in paragraph at lines 858--863
 []\TU/LinuxLibertineO(0)/m/n/10 . Unruh LY, Zhang NJ. Nurse Staffing and patien
 t safety in hospitals:
  []
 
 
-Underfull \hbox (badness 1629) in paragraph at lines 809--814
+Underfull \hbox (badness 1629) in paragraph at lines 858--863
 \TU/LinuxLibertineO(0)/m/n/10 new variable and longitudinal approaches. \TU/Lin
 uxLibertineO(0)/m/it/10 Nurs Res \TU/LinuxLibertineO(0)/m/n/10 . 2012;61(1):3-1
 2.
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 815.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 815.
-[10]
-Overfull \hbox (50.13365pt too wide) in paragraph at lines 825--829
+
+Overfull \hbox (50.13365pt too wide) in paragraph at lines 874--878
 \TU/LinuxLibertineO(0)/m/n/10 nary retrospective record review. \TU/LinuxLibert
 ineO(0)/m/it/10 BMJ \TU/LinuxLibertineO(0)/m/n/10 . 2001;322(7285):517-9. DOI:1
 0.1136/bmj.322.7285.517 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 841.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 890.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 841.
+(babel)             in language  on input line 890.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 841.
-[11]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 841.
- (./0034-8910-rsp-47-04-0791.aux
-LaTeX Info: Redefining \. on input line 31.
-LaTeX Info: Redefining \% on input line 31.
-)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 841.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 841.
+(babel)             in language  on input line 890.
+[12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 890.
+ (./0034-8910-rsp-47-04-0791.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 890.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 890.
  ) 
 Here is how much of TeX's memory you used:
- 24644 strings out of 493068
- 439762 string characters out of 6141028
- 633931 words of memory out of 5000000
- 28281 multiletter control sequences out of 15000+600000
+ 24647 strings out of 493068
+ 439811 string characters out of 6141028
+ 633954 words of memory out of 5000000
+ 28284 multiletter control sequences out of 15000+600000
  10949 words of font info for 65 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 43i,8n,77p,10396b,411s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,8n,77p,10396b,595s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0034-8910-rsp-47-04-0791.pdf (11 pages).
+Output written on 0034-8910-rsp-47-04-0791.pdf (12 pages).
