@@ -41,6 +41,7 @@ article[@xml:lang="pt"]:
     \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
     \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
     \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\articledoi}{\item[\textbf{articledoi}] \articledoi}{}
     \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
     \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
     \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
@@ -83,8 +84,8 @@ article[@xml:lang="en"]:
     \begin{document}
     \selectlanguage{english}
     \section*{Metadados não aplicados}
-    \item[\textbf{língua do artigo}]{Inglês}
     \begin{itemize}
+    \item[\textbf{língua do artigo}]{Inglês}
     \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
     \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
     \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}] \abbrevjournaltitle}{}
@@ -96,6 +97,7 @@ article[@xml:lang="en"]:
     \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
     \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
     \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\articledoi}{\item[\textbf{articledoi}] \articledoi}{}
     \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
     \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
     \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
@@ -151,6 +153,7 @@ article[@xml:lang="fr"]:
     \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
     \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
     \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\articledoi}{\item[\textbf{articledoi}] \articledoi}{}
     \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
     \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
     \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
@@ -206,6 +209,7 @@ article[@xml:lang="es"]:
     \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
     \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
     \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\articledoi}{\item[\textbf{articledoi}] \articledoi}{}
     \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
     \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
     \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
@@ -247,7 +251,7 @@ journal-id[@journal-id-type="nlm-ta"]:
 journal-id[@journal-id-type="publisher-id"]:
   head: |
 
-    \newcommand{\publisherid}{@@children}
+    \newcommand{\journalid}{@@children}
     
 
 journal-title: 
@@ -275,12 +279,12 @@ article-id[@pub-id-type="other"]: ""
 article-id[@pub-id-type="doi"]:
   head: |
 
-    \newcommand\articleid{DOI @@children}
+    \newcommand\articledoi{DOI @@children}
 
 article-id[@pub-id-type="publisher-id"]: 
   head: |
 
-    \newcommand\publisherid{@@children}
+    \newcommand\articleid{@@children}
 
 
 volume:
@@ -368,6 +372,11 @@ list[@list-type="roman-lower"]: |
 list[@list-type="roman-upper"]: |
    \begin{enumerate}[(I)]
    @@children \end{enumerate}
+
+/sec: |
+   \section{@@lua(return find('sec/title'))@@}
+   @@lua(return find('//p'))@@
+   @@lua(return find('//list'))@@
 
 ext-link: "\\href{@@children}"
 
@@ -488,13 +497,6 @@ p: |
     \iflanguage{french}{\medskip\noindent\textbf{Mots clés:} \kwdgroupfr}{}
     \end{abstract}
     \endgroup
-
-
-sec: |
-   \section{@@lua(return find('sec/title'))@@}
-   @@lua(return find('//p'))@@
-   @@lua(return find('//list'))@@
-
 
 
 
@@ -670,11 +672,6 @@ inline-graphic: "\\begin{figure}[h] \\includegraphics[width=\\textwidth]{@@lua(r
 b: |
   \textbf{@@children}
 
-
-sec: |
-
-  \section{@@lua(return find('sec/title'))@@}
-  @@lua(return find('//p'))@@
 
 table: |
 
