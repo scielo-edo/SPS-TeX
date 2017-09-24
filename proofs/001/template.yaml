@@ -489,13 +489,13 @@ p: |
     \end{abstract}
     \endgroup
 
+
 sec: |
-    @@lua(
-    secs = findAll "//sec/title"
-    ret = ""
-    return "\\newcommand{\\sec}{" .. table.concat(secs, "}\n\\newcommand{\\sec}{") .. "}"
-    )@@
-    @@lua(return find "//p")@@  
+   \section{@@lua(return find('sec/title'))@@}
+   @@lua(return find('//p'))@@
+   @@lua(return find('//list'))@@
+
+
 
 
 trans-abstract[@xml:lang="es"]: |

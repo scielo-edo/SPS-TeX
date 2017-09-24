@@ -1738,6 +1738,12 @@
     </body>
     <back>
       <app-group>
+      <app id="app01">
+          <label>Apêndice</label>
+          <p>Vivamus fermentum elit et pellentesque iaculis. Curabitur egestas rhoncus purus quis iaculis. Sed laoreet id leo eu tristique. Etiam hendrerit nibh in tincidunt mattis. Sed et volutpat nulla, eget semper tellus. Nullam imperdiet fringilla diam, nec mollis elit sagittis a. Nam euismod sagittis posuere.</p>
+      </app>
+      </app-group>
+      <app-group>
         <p>HIGHLIGHTS</p>
         <p>The Ministry of Health recently launched the <italic>Programa Nacional de Segurança do
             Paciente</italic> (National Patient Safety Program) so that patient safety activities
