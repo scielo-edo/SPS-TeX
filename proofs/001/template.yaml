@@ -107,15 +107,18 @@ article[@xml:lang="en"]:
     \usepackage{penalidades}
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
-        \usepackage[top=0.85in,left=2.75in,footskip=0.75in]{geometry}
+    \usepackage[top=0.85in,left=2.75in,footskip=0.75in]{geometry}
     \newlength\savedwidth
-    \newcommand\thickcline[1]{%
-      \noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
-      \cline{#1}%
-      \noalign{\vskip\arrayrulewidth}%
-      \noalign{\global\arrayrulewidth\savedwidth}%
-      }
-    \newcommand\thickhline{\noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
+    \newcommand\thickcline[1]{\noalign{\global
+        \savedwidth
+        \arrayrulewidth
+        \global\arrayrulewidth 2pt}
+      \cline{#1}
+      \noalign{\vskip\arrayrulewidth}
+      \noalign{\global\arrayrulewidth\savedwidth}}
+    \newcommand\thickhline{\noalign{\global
+        \savedwidth\arrayrulewidth
+        \global\arrayrulewidth 2pt}
     \hline
     \noalign{\global\arrayrulewidth\savedwidth}}
     \usepackage{lastpage,fancyhdr}
@@ -125,19 +128,15 @@ article[@xml:lang="en"]:
     \fancyhf{}
     \setlength{\headheight}{27.023pt}
     \lhead{\includegraphics[width=10mm]{logo.png}}
-    \rhead{
-      \ifdef{\journaltitle}{\journaltitle}{} 
+    \rhead{\ifdef{\journaltitle}{\journaltitle}{} 
       \ifdef{\volume}{vol.\,\volume}{} 
       \ifdef{\issue}{(\issue)}{} 
-      \ifdef{\fpage}{\fpage--\lpage\,pp.}
-      }
+      \ifdef{\fpage}{\fpage--\lpage\,pp.}}
     \rfoot{\thepage/\pageref{LastPage}}
     \renewcommand{\footrule}{\hrule height 2pt \vspace{2mm}}
     \fancyheadoffset[L]{2.25in}
     \fancyfootoffset[L]{2.25in}
-    \lfoot{\sf 
-      \ifdef{\articledoi}{\articledoi}{} 
-      }
+    \lfoot{\sf \ifdef{\articledoi}{\articledoi}{}}
     \setmainfont{Linux Libertine O}
     \renewcommand*{\thefootnote}{\alph{footnote}}
     \makeatletter
@@ -194,15 +193,18 @@ article[@xml:lang="fr"]:
     \usepackage{penalidades}
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
-        \usepackage[top=0.85in,left=2.75in,footskip=0.75in]{geometry}
+    \usepackage[top=0.85in,left=2.75in,footskip=0.75in]{geometry}
     \newlength\savedwidth
-    \newcommand\thickcline[1]{%
-      \noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
-      \cline{#1}%
-      \noalign{\vskip\arrayrulewidth}%
-      \noalign{\global\arrayrulewidth\savedwidth}%
-      }
-    \newcommand\thickhline{\noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
+    \newcommand\thickcline[1]{\noalign{\global
+        \savedwidth
+        \arrayrulewidth
+        \global\arrayrulewidth 2pt}
+      \cline{#1}
+      \noalign{\vskip\arrayrulewidth}
+      \noalign{\global\arrayrulewidth\savedwidth}}
+    \newcommand\thickhline{\noalign{\global
+        \savedwidth\arrayrulewidth
+        \global\arrayrulewidth 2pt}
     \hline
     \noalign{\global\arrayrulewidth\savedwidth}}
     \usepackage{lastpage,fancyhdr}
@@ -212,19 +214,15 @@ article[@xml:lang="fr"]:
     \fancyhf{}
     \setlength{\headheight}{27.023pt}
     \lhead{\includegraphics[width=10mm]{logo.png}}
-    \rhead{
-      \ifdef{\journaltitle}{\journaltitle}{} 
+    \rhead{\ifdef{\journaltitle}{\journaltitle}{} 
       \ifdef{\volume}{vol.\,\volume}{} 
       \ifdef{\issue}{(\issue)}{} 
-      \ifdef{\fpage}{\fpage--\lpage\,pp.}
-      }
+      \ifdef{\fpage}{\fpage--\lpage\,pp.}}
     \rfoot{\thepage/\pageref{LastPage}}
     \renewcommand{\footrule}{\hrule height 2pt \vspace{2mm}}
     \fancyheadoffset[L]{2.25in}
     \fancyfootoffset[L]{2.25in}
-    \lfoot{\sf 
-      \ifdef{\articledoi}{\articledoi}{} 
-      }
+    \lfoot{\sf \ifdef{\articledoi}{\articledoi}{}}
     \setmainfont{Linux Libertine O}
     \renewcommand*{\thefootnote}{\alph{footnote}}
     \makeatletter
@@ -281,15 +279,18 @@ article[@xml:lang="es"]:
     \usepackage{penalidades}
     \usepackage[footnotesize,bf,hang]{caption}
     \usepackage[nodayofweek,level]{datetime}
-        \usepackage[top=0.85in,left=2.75in,footskip=0.75in]{geometry}
+    \usepackage[top=0.85in,left=2.75in,footskip=0.75in]{geometry}
     \newlength\savedwidth
-    \newcommand\thickcline[1]{%
-      \noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
-      \cline{#1}%
-      \noalign{\vskip\arrayrulewidth}%
-      \noalign{\global\arrayrulewidth\savedwidth}%
-      }
-    \newcommand\thickhline{\noalign{\global\savedwidth\arrayrulewidth\global\arrayrulewidth 2pt}%
+    \newcommand\thickcline[1]{\noalign{\global
+        \savedwidth
+        \arrayrulewidth
+        \global\arrayrulewidth 2pt}
+      \cline{#1}
+      \noalign{\vskip\arrayrulewidth}
+      \noalign{\global\arrayrulewidth\savedwidth}}
+    \newcommand\thickhline{\noalign{\global
+        \savedwidth\arrayrulewidth
+        \global\arrayrulewidth 2pt}
     \hline
     \noalign{\global\arrayrulewidth\savedwidth}}
     \usepackage{lastpage,fancyhdr}
@@ -299,19 +300,15 @@ article[@xml:lang="es"]:
     \fancyhf{}
     \setlength{\headheight}{27.023pt}
     \lhead{\includegraphics[width=10mm]{logo.png}}
-    \rhead{
-      \ifdef{\journaltitle}{\journaltitle}{} 
+    \rhead{\ifdef{\journaltitle}{\journaltitle}{} 
       \ifdef{\volume}{vol.\,\volume}{} 
       \ifdef{\issue}{(\issue)}{} 
-      \ifdef{\fpage}{\fpage--\lpage\,pp.}
-      }
+      \ifdef{\fpage}{\fpage--\lpage\,pp.}}
     \rfoot{\thepage/\pageref{LastPage}}
     \renewcommand{\footrule}{\hrule height 2pt \vspace{2mm}}
     \fancyheadoffset[L]{2.25in}
     \fancyfootoffset[L]{2.25in}
-    \lfoot{\sf 
-      \ifdef{\articledoi}{\articledoi}{} 
-      }
+    \lfoot{\sf \ifdef{\articledoi}{\articledoi}{}}
     \setmainfont{Linux Libertine O}
     \renewcommand*{\thefootnote}{\alph{footnote}}
     \makeatletter
@@ -872,9 +869,3 @@ td: |
 
 
 date: ""
-
-
-
-
-
-
