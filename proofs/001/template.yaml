@@ -400,7 +400,7 @@ xref[@ref-type="fn"]:  |
 
 
 xref[@ref-type="bibr"]:  | 
-    \textsuperscript{[@@children]}  
+    \textsuperscript{[}@@children\textsuperscript{]}  
 
 
 fn-group//fn: 
@@ -519,6 +519,9 @@ trans-abstract[@xml:lang="es"]: |
     \end{abstract}
     \end{otherlanguage}
     \endgroup
+
+sup: |
+    \textsuperscript{@@children}
 
 trans-abstract[@xml:lang="en"]: |
 
