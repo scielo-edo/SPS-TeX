@@ -395,6 +395,9 @@ ref: |
     \item[@@lua(return find '//label')@@] @@lua(return find '//mixed-citation')@@  
 
 
+xref[@ref-type="fig"]: |
+    @@children~\ref{fig:@@lua(return attr('rid'))@@}
+
 xref[@ref-type="fn"]:  | 
     @@lua(return "\\footnote{\\" .. attr 'rid' .."}")@@  
 
@@ -651,10 +654,10 @@ trans-abstract[@xml:lang="fr"]: |
     \end{otherlanguage}
     \endgroup
 
-fig : |
+fig: |
   \begin{figure}
   \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
-  \caption{@@lua(return find "/fig/title")@@}
+  \caption{@@lua(return find "/fig/title")@@}\label{fig:@@lua(return attr('id'))@@}
   \end{figure}
 
 graphic: "@@lua(return attr 'xlink:href')@@"

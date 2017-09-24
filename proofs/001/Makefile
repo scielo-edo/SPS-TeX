@@ -16,8 +16,11 @@ sublime:
 	subl3 -n . $(TAG).xml $(TAG).tex template.yaml Makefile
 
 pdf:
-	xelatex $(TAG).tex
+	latexmk -xelatex $(TAG).tex
 	evince $(TAG).pdf
+
+xelatex:
+	xelatex $(TAG).tex
 
 
 pdf-modelo:
