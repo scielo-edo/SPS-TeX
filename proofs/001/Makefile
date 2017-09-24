@@ -2,9 +2,7 @@ TAG=0034-8910-rsp-47-04-0791
 
 all:
 	jats2tex $(TAG).xml -t template.yaml
-	-sed -i 's/\ \\footnote/\\footnote/g' *.tex
-	-sed -i 's/\ \\textsuperscript/\\textsuperscript/g' *.tex
-	-sed -i 's/\ ,/,/g' *.tex
+	sh replace.sh
 	cat $(TAG).tex
 
 2:
