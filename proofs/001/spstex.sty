@@ -1,0 +1,24 @@
+
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc} %% *
+    \usepackage[portuges,spanish,english,german,italian,russian]{babel} %% *
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+    \usepackage{etoolbox}
+    \usepackage{xtab}
+    \usepackage{enumerate}
+    \usepackage{hyperref}
+    \usepackage{penalidades}
+    \usepackage[footnotesize,bf,hang]{caption}
+    \usepackage[nodayofweek,level]{datetime}
+
+    \setmainfont{Linux Libertine O}
+
+    \renewcommand*{\thefootnote}{\alph{footnote}}
+    \makeatletter
+    \newcommand{\fn}{\afterassignment\fn@aux\count0=}
+    \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+    \makeatother
