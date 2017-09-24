@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1506280574 "0034-8910-rsp-47-04-0791.xdv" "0034-8910-rsp-47-04-0791.pdf" "0034-8910-rsp-47-04-0791" 1506280574
-  "0034-8910-rsp-47-04-0791.xdv" 1506280573 322700 92c1981e1d34fc6ab8e6b390f19a3b58 "xelatex"
+["xdvipdfmx"] 1506296239 "0034-8910-rsp-47-04-0791.xdv" "0034-8910-rsp-47-04-0791.pdf" "0034-8910-rsp-47-04-0791" 1506296239
+  "0034-8910-rsp-47-04-0791.xdv" 1506296238 335672 41d6171384a12bf299dce01daaf89617 "xelatex"
   (generated)
   "0034-8910-rsp-47-04-0791.pdf"
-["xelatex"] 1506280566 "0034-8910-rsp-47-04-0791.tex" "0034-8910-rsp-47-04-0791.xdv" "0034-8910-rsp-47-04-0791" 1506280574
+["xelatex"] 1506296231 "0034-8910-rsp-47-04-0791.tex" "0034-8910-rsp-47-04-0791.xdv" "0034-8910-rsp-47-04-0791" 1506296239
   "/home/editorial/texmf/tex/penalidades.sty" 1492710435 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1492575644 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1492575648 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -58,6 +58,7 @@
   "/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty" 1492575761 42324 d951db30d0cb2b811f084fa3f92aec16 ""
   "/usr/share/texmf-dist/tex/latex/euenc/eu1enc.def" 1492575657 1115 6f8850603672e58af2cd599bee6ade7d ""
   "/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd" 1492575657 2284 11da099e92da4724f712149045c96354 ""
+  "/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1492575657 22494 ab2f238426db63334832f85a72ef1f3b ""
   "/usr/share/texmf-dist/tex/latex/filehook/filehook.sty" 1492575657 12104 88bda8c1ae09e2b6dc29ed32629eafa1 ""
   "/usr/share/texmf-dist/tex/latex/fmtcount/fc-english.def" 1492575761 14223 386b5e0dd77adf7e9000b2502c435475 ""
   "/usr/share/texmf-dist/tex/latex/fmtcount/fcnumparser.sty" 1492575761 12318 8cf8d202ffce635e3e7a66810cd81799 ""
@@ -66,6 +67,7 @@
   "/usr/share/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty" 1492575657 145304 c1d766aa2e99bfd7c88991e357108c76 ""
   "/usr/share/texmf-dist/tex/latex/fontspec/fontspec.cfg" 1492575657 549 e7553134efaf62922106a54300834ab9 ""
   "/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty" 1492575657 1704 f155bd31324526584df93d8880629e82 ""
+  "/usr/share/texmf-dist/tex/latex/geometry/geometry.sty" 1492575657 40502 e003406220954b0716679d7928aedd8a ""
   "/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg" 1492575657 1224 978390e9c2234eab29404bc21b268d1e ""
   "/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def" 1492575657 21966 ed359f6c6c81a1c024b31a1bd86d1b4a ""
   "/usr/share/texmf-dist/tex/latex/graphics/graphics.sty" 1492575657 14574 2878810b0466da67e0d0ab10fdd2f6ff ""
@@ -82,10 +84,14 @@
   "/usr/share/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def" 1492575656 9898 71792864410cfc835e8d556399bf2870 ""
   "/usr/share/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1492575656 4568 c24f502c4e8e432a556f33b6f0f63334 ""
   "/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1492575656 78171 673023d102350cf6f52a8723e9c7bdca ""
+  "/usr/share/texmf-dist/tex/latex/lastpage/lastpage.sty" 1492575761 9922 eb7d00b99f0f5207f71a5cdcbafceac1 ""
   "/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg" 1492575656 235 6031e5765137be07eed51a510b2b8fb7 ""
   "/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd" 1492575656 1865 afbfccbe7fda9c2dc5078ad7c486bbed ""
   "/usr/share/texmf-dist/tex/latex/multirow/multirow.sty" 1492575760 5015 cd8d25106b58dfc16af57528a07d0bc9 ""
   "/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty" 1492575656 3834 4363110eb0ef1eb2b71c8fcbcdb6c357 ""
+  "/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty" 1492575656 12095 5337833c991d80788a43d3ce26bd1c46 ""
+  "/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf.sty" 1492575656 4167 fc50b4e5b185008bb9308b1ea4ce64d4 ""
+  "/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty" 1492575656 7075 2fe3d848bba95f139de11ded085e74aa ""
   "/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1492575656 22417 1d9df1eb66848aa31b18a593099cf45c ""
   "/usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty" 1492575656 9581 023642318cef9f4677efe364de1e2a27 ""
   "/usr/share/texmf-dist/tex/latex/polyglossia/gloss-english.ldf" 1492575656 4314 0b0d418ee3bbf3f2bbaa946f8717dbbf ""
@@ -106,9 +112,10 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1492575665 31661 3832dc67fcae1bb0c47594ea86c25797 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1495496277 4105410 32648e27c4f98bc572fcbad77761440e ""
   "0034-8910-rsp-47-04-0791-gf01.jpg" 1503493321 333408 b6cf7a521ef003386b2b1d024cd10170 ""
-  "0034-8910-rsp-47-04-0791.aux" 1506280573 2225 942eba91e2b5e3cf384a7122d632c4bb ""
-  "0034-8910-rsp-47-04-0791.out" 1506280573 609 d2402cf000831ed9a482ea4decb86f3a ""
-  "0034-8910-rsp-47-04-0791.tex" 1506280528 39206 b64b15953bdcf773d782274661695fda ""
+  "0034-8910-rsp-47-04-0791.aux" 1506296238 2324 cc3bf017871efd5de3719eda7449b4fb ""
+  "0034-8910-rsp-47-04-0791.out" 1506296238 609 d2402cf000831ed9a482ea4decb86f3a ""
+  "0034-8910-rsp-47-04-0791.tex" 1506296204 40149 faef2d88c997b6945ebf16d180f60f97 ""
+  "logo.png" 1506295697 12988 1c9cbe730563243214f13e22d247df0c ""
   (generated)
   "0034-8910-rsp-47-04-0791.log"
   "0034-8910-rsp-47-04-0791.xdv"
