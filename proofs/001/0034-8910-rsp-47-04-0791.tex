@@ -31,9 +31,18 @@
 Paulo}
 \newcommand\articleid{S0034-8910.2013047004402}
 \newcommand\articledoi{\textsc{doi} 10.1590/S0034-8910.2013047004402}
-\def\subject{Prática de Saúde Pública}
+\def\subject{Prática de Saúde Pública}\newcommand{\subtitlestyle}[1]{--
+\emph{#1}\medskip}
+\newcommand{\transtitlestyle}[1]{\par\medskip\Large #1}
+\newcommand{\transsubtitlestyle}[1]{-- \Large\emph{ #1}}
+
+\newcommand{\titlegroup}{
+\ifdef{\subtitle}{\subtitlestyle{\subtitle}}{}
+\ifdef{\transtitle}{\transtitlestyle{\transtitle}}{}
+\ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}}
+
 \title{Necessidade de implantar programa nacional de segurança do
-paciente no Brasil}
+paciente no Brasil\titlegroup{}}
 \newcommand{\transtitle}{Necesidad de implantar programa nacional de seguridad
 del paciente en
 Brasil}
@@ -127,6 +136,11 @@ http://www.who.int/mediacentre/news/releases/2007/pr22/en/index.html}
 \item[\textbf{língua do artigo}]{Português}
 \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
 \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+
+\ifdef{\journalsubtitle}{\item[\textbf{journalsubtitle}] \journaltitle}{}
+\ifdef{\transjournaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+\ifdef{\transjournalsubtitle}{\item[\textbf{journalsubtitle}] \journaltitle}{}
+
 \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}]
 \abbrevjournaltitle}{}
 \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}

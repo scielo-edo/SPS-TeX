@@ -32,6 +32,11 @@ article[@xml:lang="pt"]:
     \item[\textbf{língua do artigo}]{Português}
     \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
     \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+
+    \ifdef{\journalsubtitle}{\item[\textbf{journalsubtitle}] \journaltitle}{}
+    \ifdef{\transjournaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+    \ifdef{\transjournalsubtitle}{\item[\textbf{journalsubtitle}] \journaltitle}{}
+
     \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}] \abbrevjournaltitle}{}
     \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
     \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
@@ -228,8 +233,33 @@ sub-article: ""
 
 article-title:
   head: |
+    \newcommand{\subtitlestyle}[1]{-- \emph{#1}\medskip}
+    \newcommand{\transtitlestyle}[1]{\par\medskip\Large #1}
+    \newcommand{\transsubtitlestyle}[1]{-- \Large\emph{ #1}}
 
-    \title{@@children}
+    \newcommand{\titlegroup}{
+        \ifdef{\subtitle}{\subtitlestyle{\subtitle}}{}
+        \ifdef{\transtitle}{\transtitlestyle{\transtitle}}{}
+        \ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}
+        }
+
+    \title{@@children\titlegroup{}} 
+
+subtitle[1]:
+  head: |
+
+      \newcommand{\subtitle}{@@children}
+
+trans-title[1]:
+  head: |
+
+      \newcommand{\transtitle}{@@children}
+
+
+trans-subtitle[1]:
+  head: |
+
+      \newcommand{\transsubtitle}{@@children}
 
 
 issn:
@@ -251,7 +281,7 @@ journal-id[@journal-id-type="nlm-ta"]:
 journal-id[@journal-id-type="publisher-id"]:
   head: |
 
-    \newcommand{\journalid}{@@children}
+    \newcommand{\publisherid}{@@children}
     
 
 journal-title: 
@@ -325,10 +355,6 @@ subject:
 
     \def\subject{@@children}
 
-trans-title:
-  head: |
-
-      \newcommand{\transtitle}{@@children}
 
 kwd-group:
   head: |
@@ -656,7 +682,7 @@ trans-abstract[@xml:lang="fr"]: |
     \end{otherlanguage}
     \endgroup
 
-fig: |
+/fig: |
   \begin{figure}
   \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
   \caption{@@lua(return find "/fig/title")@@}\label{fig:@@lua(return attr('id'))@@}
