@@ -8,4 +8,6 @@ sed -i 's/\ \\footnote/\\footnote/g' *.tex
 sed -i 's/\ \\textsuperscript/\\textsuperscript/g' *.tex
 sed -i 's/\ ,/,/g' *.tex
 sed -i ':a;N;$!ba;s/\n,/,/g' *.tex
+sed -i ':a;N;$!ba;s/\n\././g' *.tex
 sed -i 's/\([A-ZÁ-Ź][A-ZÁ-Ź]\+\)/\\textsc{\L\1}/g' *.tex
+sed -i 's/\(\\item\[\w\+\]\)\ \+\./\1/g' *.tex
