@@ -51,15 +51,16 @@
 
 \usepackage[absolute]{textpos}
 
+\definecolor{burgundy}{rgb}{0.5, 0.0, 0.13}
+
 \fancypagestyle{plain}{%
 \fancyhf{}
-\fancyhead[R]{\colorbox{red!80}{
+\fancyhead[R]{\colorbox{burgundy}{
 		\makebox[
 		  \dimexpr\headwidth-2\fboxsep][r]{\strut\color{white}
 		  \sffamily\bfseries
 		  	\MakeTextUppercase\subject}}%
-           \colorbox{red!20}{
-           			\makebox[\dimexpr0.2
+           \colorbox{white}{\makebox[\dimexpr0.2
            			 		 \headwidth-2
            			 		 \fboxsep][c]{\strut\ }
            					 }}
