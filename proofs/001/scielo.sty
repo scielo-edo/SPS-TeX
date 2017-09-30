@@ -1,0 +1,75 @@
+\RequirePackage[T1]{fontenc}
+\RequirePackage[utf8]{inputenc} %% *
+\RequirePackage[portuges,spanish,english,german,italian,russian]{babel} %% *
+\RequirePackage{amstext}
+\RequirePackage{authblk}
+\RequirePackage{unicode-math}
+\RequirePackage{multirow}
+\RequirePackage{graphicx}
+\RequirePackage{etoolbox}
+\RequirePackage{xtab}
+\RequirePackage{enumerate}
+\RequirePackage{hyperref}
+\RequirePackage{penalidades}
+\RequirePackage{textcase}
+\RequirePackage[footnotesize,bf,hang]{caption}
+\RequirePackage[nodayofweek,level]{datetime}
+\RequirePackage[top=0.85in,left=2.75in,footskip=0.75in]{geometry}
+
+\RequirePackage{lastpage,fancyhdr}
+\RequirePackage{epstopdf}
+\RequirePackage{xcolor}
+\RequirePackage{eso-pic}
+
+\newlength\savedwidth
+\newcommand\thickcline[1]{\noalign{\global
+\savedwidth
+\arrayrulewidth
+\global\arrayrulewidth 2pt}
+\cline{#1}
+\noalign{\vskip\arrayrulewidth}
+\noalign{\global\arrayrulewidth\savedwidth}}
+\newcommand\thickhline{\noalign{\global
+\savedwidth\arrayrulewidth
+\global\arrayrulewidth 2pt}
+\hline
+\noalign{\global\arrayrulewidth\savedwidth}}
+
+\pagestyle{myheadings}
+\pagestyle{fancy}
+\fancyhf{}
+\setlength{\headheight}{27.023pt}
+\lhead{\includegraphics[width=10mm]{logo.png}}
+\rhead{\ifdef{\journaltitle}{\journaltitle}{}
+\ifdef{\volume}{vol.\,\volume}{}
+\ifdef{\issue}{(\issue)}{}
+\ifdef{\fpage}{\fpage--\lpage\,pp.}}
+\rfoot{\thepage/\pageref{LastPage}}
+\renewcommand{\footrule}{\hrule height 2pt \vspace{2mm}}
+\fancyheadoffset[L]{2.25in}
+\fancyfootoffset[L]{2.25in}
+\lfoot{\sf \ifdef{\articledoi}{\articledoi}{}}
+
+\definecolor{burgundy}{rgb}{0.5, 0.0, 0.13}
+
+\fancypagestyle{plain}{%
+\fancyhf{}
+\fancyhead[R]{\colorbox{burgundy}{
+		\makebox[
+		  \dimexpr\headwidth-2\fboxsep][r]{\strut\color{white}
+		  \sffamily\bfseries
+		  	\MakeTextUppercase\subject}}%
+           \colorbox{white}{\makebox[\dimexpr0.2
+           			 		 \headwidth-2
+           			 		 \fboxsep][c]{\strut\ }
+           					 }}
+%\fancyhead[R]{\sffamily\bfseries\color{blue}\textsc{\subject}}
+\fancyhead[L]{}
+\renewcommand{\headrulewidth}{0pt}}
+
+\setmainfont{Linux Libertine O}
+\renewcommand*{\thefootnote}{\alph{footnote}}
+\makeatletter
+\newcommand{\fn}{\afterassignment\fn@aux\count0=}
+\newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+\makeatother

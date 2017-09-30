@@ -131,8 +131,6 @@ INPUT /usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /home/editorial/texmf/tex/penalidades.sty
 INPUT /home/editorial/texmf/tex/penalidades.sty
-INPUT /usr/share/texmf-dist/tex/latex/textcase/textcase.sty
-INPUT /usr/share/texmf-dist/tex/latex/textcase/textcase.sty
 INPUT /usr/share/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/share/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/share/texmf-dist/tex/latex/caption/caption3.sty
@@ -183,14 +181,6 @@ INPUT /usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
 INPUT /usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
-INPUT /usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/share/texmf-dist/tex/latex/textpos/textpos.sty
-INPUT /usr/share/texmf-dist/tex/latex/textpos/textpos.sty
-INPUT /usr/share/texmf-dist/tex/latex/ms/everyshi.sty
-INPUT /usr/share/texmf-dist/tex/latex/ms/everyshi.sty
 INPUT 0034-8910-rsp-47-04-0791.aux
 INPUT 0034-8910-rsp-47-04-0791.aux
 OUTPUT 0034-8910-rsp-47-04-0791.aux
