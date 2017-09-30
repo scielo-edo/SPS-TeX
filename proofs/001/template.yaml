@@ -84,6 +84,7 @@ article[@xml:lang="pt"]:
     \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
     \end{itemize}
     \maketitle
+    \tableofcontents
 
     @@bodies
 
@@ -170,6 +171,7 @@ article[@xml:lang="en"]:
     \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
     \end{itemize}
     \maketitle
+    \tableofcontents
 
     @@bodies
 
@@ -256,6 +258,7 @@ article[@xml:lang="fr"]:
     \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
     \end{itemize}
     \maketitle
+    \tableofcontents
 
     @@bodies
 
@@ -342,6 +345,7 @@ article[@xml:lang="es"]:
     \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
     \end{itemize}
     \maketitle
+    \tableofcontents
 
     @@bodies
 
@@ -622,6 +626,7 @@ p: |
 /abstract: |
   
     \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
     @@lua(
         abstit = find('abstract/title')
          if abstit ~= '' then
