@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  1 OCT 2017 15:30
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  1 OCT 2017 15:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -587,8 +587,8 @@ Package: xtab 2011/07/31 v2.3f Extended supertabular package
 \ST@dimen=\dimen158
 \ST@pbox=\box42
 )
-(/usr/share/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+(/usr/share/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
 
 (/usr/share/texmf-dist/tex/latex/tools/array.sty
 Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
@@ -598,13 +598,11 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip64
 \backup@length=\skip65
 )
-\TX@col@width=\dimen161
-\TX@old@table=\dimen162
-\TX@old@col=\dimen163
-\TX@target=\dimen164
-\TX@delta=\dimen165
-\TX@cols=\count158
-\TX@ftn=\toks21
+\TY@count=\count158
+\TY@linewidth=\dimen161
+\tymin=\dimen162
+\tymax=\dimen163
+\TY@tablewidth=\dimen164
 )
 (/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
@@ -614,8 +612,8 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
 (/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
-\XKV@toks=\toks22
-\XKV@tempa@toks=\toks23
+\XKV@toks=\toks21
+\XKV@tempa@toks=\toks22
 )
 \XKV@depth=\count159
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
@@ -631,19 +629,19 @@ Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box43
 )
-\tc@llx=\dimen166
-\tc@lly=\dimen167
-\tc@urx=\dimen168
-\tc@ury=\dimen169
+\tc@llx=\dimen165
+\tc@lly=\dimen166
+\tc@urx=\dimen167
+\tc@ury=\dimen168
 Package trimclip Info: Using driver 'tc-xetex.def'.
 
 (/usr/share/texmf-dist/tex/latex/adjustbox/tc-xetex.def
 File: tc-xetex.def 2012/05/13 v1.0 Clipping driver for xetex
 ))
-\adjbox@Width=\dimen170
-\adjbox@Height=\dimen171
-\adjbox@Depth=\dimen172
-\adjbox@Totalheight=\dimen173
+\adjbox@Width=\dimen169
+\adjbox@Height=\dimen170
+\adjbox@Depth=\dimen171
+\adjbox@Totalheight=\dimen172
 
 (/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
@@ -653,12 +651,12 @@ Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box44
 \sift@deathcycles=\count161
-\@vwid@loff=\dimen174
-\@vwid@roff=\dimen175
+\@vwid@loff=\dimen173
+\@vwid@roff=\dimen174
 ))
 (/usr/share/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
-\@enLab=\toks24
+\@enLab=\toks23
 )
 (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
@@ -712,7 +710,7 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 (/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen176
+\@linkdim=\dimen175
 \Hy@linkcounter=\count162
 \Hy@pagecounter=\count163
 
@@ -742,10 +740,10 @@ Package hyperref Info: Bookmarks ON on input line 4751.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5104.
-\XeTeXLinkMargin=\dimen177
+\XeTeXLinkMargin=\dimen176
 \Fld@menulength=\count166
-\Field@Width=\dimen178
-\Fld@charsize=\dimen179
+\Field@Width=\dimen177
+\Fld@charsize=\dimen178
 Package hyperref Info: Hyper figures OFF on input line 6358.
 Package hyperref Info: Link nesting OFF on input line 6363.
 Package hyperref Info: Hyper index ON on input line 6366.
@@ -796,13 +794,13 @@ Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
 (/usr/share/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
 Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen180
-\captionmargin@=\dimen181
-\captionwidth=\dimen182
-\caption@tempdima=\dimen183
-\caption@indent=\dimen184
-\caption@parindent=\dimen185
-\caption@hangindent=\dimen186
+\captionmargin=\dimen179
+\captionmargin@=\dimen180
+\captionwidth=\dimen181
+\caption@tempdima=\dimen182
+\caption@indent=\dimen183
+\caption@parindent=\dimen184
+\caption@hangindent=\dimen185
 )
 \c@ContinuedFloat=\count174
 Package caption Info: hyperref package is loaded.
@@ -883,23 +881,23 @@ LaTeX Info: Redefining \daterussian on input line 64.
 File: dt-spanish.def 2013/09/10
 LaTeX Info: Redefining \datespanish on input line 85.
 )
-\dt@a=\toks25
-\dt@b=\toks26
+\dt@a=\toks24
+\dt@b=\toks25
 )
 (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 \Gm@cnth=\count266
 \Gm@cntv=\count267
 \c@Gm@tempcnt=\count268
-\Gm@bindingoffset=\dimen187
-\Gm@wd@mp=\dimen188
-\Gm@odd@mp=\dimen189
-\Gm@even@mp=\dimen190
-\Gm@layoutwidth=\dimen191
-\Gm@layoutheight=\dimen192
-\Gm@layouthoffset=\dimen193
-\Gm@layoutvoffset=\dimen194
-\Gm@dimlist=\toks27
+\Gm@bindingoffset=\dimen186
+\Gm@wd@mp=\dimen187
+\Gm@odd@mp=\dimen188
+\Gm@even@mp=\dimen189
+\Gm@layoutwidth=\dimen190
+\Gm@layoutheight=\dimen191
+\Gm@layouthoffset=\dimen192
+\Gm@layoutvoffset=\dimen193
+\Gm@dimlist=\toks26
 )
 (/usr/share/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
@@ -939,7 +937,7 @@ Package xcolor Info: Driver file: xetex.def on input line 225.
 
 (/usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
 Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
-\everycr=\toks28
+\everycr=\toks27
 \minrowclearance=\skip76
 )
 \rownum=\count269
@@ -956,9 +954,9 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 (/usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks29
-\pgfutil@tempdima=\dimen195
-\pgfutil@tempdimb=\dimen196
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen194
+\pgfutil@tempdimb=\dimen195
 
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex))
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
@@ -978,29 +976,29 @@ Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks30
-\pgfkeys@temptoks=\toks31
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
 
 (/usr/share/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
-\pgfkeys@tmptoks=\toks32
+\pgfkeys@tmptoks=\toks31
 ))
-\pgf@x=\dimen197
-\pgf@y=\dimen198
-\pgf@xa=\dimen199
-\pgf@ya=\dimen256
-\pgf@xb=\dimen257
-\pgf@yb=\dimen258
-\pgf@xc=\dimen259
-\pgf@yc=\dimen260
+\pgf@x=\dimen196
+\pgf@y=\dimen197
+\pgf@xa=\dimen198
+\pgf@ya=\dimen199
+\pgf@xb=\dimen256
+\pgf@yb=\dimen257
+\pgf@xc=\dimen258
+\pgf@yc=\dimen259
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
 \c@pgf@counta=\count270
 \c@pgf@countb=\count271
 \c@pgf@countc=\count272
 \c@pgf@countd=\count273
-\t@pgf@toka=\toks33
-\t@pgf@tokb=\toks34
-\t@pgf@tokc=\toks35
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
 
 (/usr/share/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
@@ -1033,12 +1031,12 @@ Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen261
+\pgfmath@dimen=\dimen260
 \pgfmath@count=\count277
 \pgfmath@box=\box47
-\pgfmath@toks=\toks36
-\pgfmath@stack@operand=\toks37
-\pgfmath@stack@operation=\toks38
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
 )
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex)
@@ -1054,29 +1052,29 @@ x) (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex)
 \c@pgfmathroundto@lastzeros=\count278
 )) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen262
-\pgf@picmaxx=\dimen263
-\pgf@picminy=\dimen264
-\pgf@picmaxy=\dimen265
-\pgf@pathminx=\dimen266
-\pgf@pathmaxx=\dimen267
-\pgf@pathminy=\dimen268
-\pgf@pathmaxy=\dimen269
-\pgf@xx=\dimen270
-\pgf@xy=\dimen271
-\pgf@yx=\dimen272
-\pgf@yy=\dimen273
-\pgf@zx=\dimen274
-\pgf@zy=\dimen275
+\pgf@picminx=\dimen261
+\pgf@picmaxx=\dimen262
+\pgf@picminy=\dimen263
+\pgf@picmaxy=\dimen264
+\pgf@pathminx=\dimen265
+\pgf@pathmaxx=\dimen266
+\pgf@pathminy=\dimen267
+\pgf@pathmaxy=\dimen268
+\pgf@xx=\dimen269
+\pgf@xy=\dimen270
+\pgf@yx=\dimen271
+\pgf@yy=\dimen272
+\pgf@zx=\dimen273
+\pgf@zy=\dimen274
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen276
-\pgf@path@lasty=\dimen277
+\pgf@path@lastx=\dimen275
+\pgf@path@lasty=\dimen276
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen278
-\pgf@shorten@start@additional=\dimen279
+\pgf@shorten@end@additional=\dimen277
+\pgf@shorten@start@additional=\dimen278
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
@@ -1087,14 +1085,14 @@ File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen280
+\pgflinewidth=\dimen279
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
 ex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen281
-\pgf@pt@y=\dimen282
-\pgf@pt@temp=\dimen283
+\pgf@pt@x=\dimen280
+\pgf@pt@y=\dimen281
+\pgf@pt@temp=\dimen282
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
@@ -1106,11 +1104,11 @@ x
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
 ) (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen284
+\pgfarrowsep=\dimen283
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen285
+\pgf@max=\dimen284
 \pgf@sys@shading@range@num=\count280
 )
 (/usr/share/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
@@ -1137,8 +1135,8 @@ File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
 (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen286
-\pgf@nodesepend=\dimen287
+\pgf@nodesepstart=\dimen285
+\pgf@nodesepend=\dimen286
 )
 (/usr/share/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
@@ -1152,10 +1150,10 @@ Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
 (/usr/share/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen288
-\pgffor@skip=\dimen289
-\pgffor@stack=\toks39
-\pgffor@toks=\toks40
+\pgffor@iter=\dimen287
+\pgffor@skip=\dimen288
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
 ))
 (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
@@ -1164,14 +1162,14 @@ Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 x
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
 \pgf@plot@mark@count=\count281
-\pgfplotmarksize=\dimen290
+\pgfplotmarksize=\dimen289
 )
-\tikz@lastx=\dimen291
-\tikz@lasty=\dimen292
-\tikz@lastxsaved=\dimen293
-\tikz@lastysaved=\dimen294
-\tikzleveldistance=\dimen295
-\tikzsiblingdistance=\dimen296
+\tikz@lastx=\dimen290
+\tikz@lasty=\dimen291
+\tikz@lastxsaved=\dimen292
+\tikz@lastysaved=\dimen293
+\tikzleveldistance=\dimen294
+\tikzsiblingdistance=\dimen295
 \tikz@figbox=\box53
 \tikz@figbox@bg=\box54
 \tikz@tempbox=\box55
@@ -1738,47 +1736,62 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 577.
  [11]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 598.
+(Font)              scaled to size 9.00014pt on input line 628.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 598.
+(Font)              scaled to size 8.99986pt on input line 628.
 
-Overfull \hbox (32.35118pt too wide) in paragraph at lines 613--614
+Overfull \hbox (7.70813pt too wide) in paragraph at lines 628--628
+ []\TU/LinuxLibertineO(0)/m/n/9 1.585| 
+ []
+
+
+Overfull \hbox (1.54314pt too wide) in paragraph at lines 628--628
+ []\TU/LinuxLibertineO(0)/m/n/9 131| 
+ []
+
+
+Overfull \hbox (1.54314pt too wide) in paragraph at lines 628--628
+ []\TU/LinuxLibertineO(0)/m/n/9 120| 
+ []
+
+
+Overfull \hbox (32.3759pt too wide) in paragraph at lines 629--630
 [] 
  []
 
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 665.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 655.
+(babel)             in language  on input line 665.
  [12]
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 710.
+(babel)             in language  on input line 719.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 710.
+(babel)             in language  on input line 719.
  [13] (./metadata.tex)
 
 AED: lastpage setting LastPage
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 722.
+(babel)             in language  on input line 738.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 722.
+(babel)             in language  on input line 738.
  [14]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 722.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 722.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 722.
+(babel)             in language  on input line 738.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 738.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 738.
  (./0034-8910-rsp-48-01-0094.aux
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 722.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 722.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 738.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 738.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1786,12 +1799,12 @@ LaTeX Warning: There were multiply-defined labels.
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 36830 strings out of 493068
- 686147 string characters out of 6141028
- 869279 words of memory out of 5000000
- 40144 multiletter control sequences out of 15000+600000
+ 36839 strings out of 493068
+ 686164 string characters out of 6141028
+ 869765 words of memory out of 5000000
+ 40152 multiletter control sequences out of 15000+600000
  11710 words of font info for 78 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  73i,17n,98p,10401b,1100s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0034-8910-rsp-48-01-0094.xdv (14 pages, 382808 bytes).
+Output written on 0034-8910-rsp-48-01-0094.xdv (14 pages, 383048 bytes).

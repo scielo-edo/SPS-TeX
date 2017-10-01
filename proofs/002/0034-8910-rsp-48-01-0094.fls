@@ -107,8 +107,8 @@ INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/xtab/xtab.sty
 INPUT /usr/share/texmf-dist/tex/latex/xtab/xtab.sty
-INPUT /usr/share/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texmf-dist/tex/latex/tabulary/tabulary.sty
+INPUT /usr/share/texmf-dist/tex/latex/tabulary/tabulary.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty

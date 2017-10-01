@@ -7,12 +7,13 @@ article[@xml:lang="pt"]:
     
     \begin{document}
     \selectlanguage{portuges}
-    \input{metadata}
+    \newcommand{\lingua}{Português}
     \maketitle
     \tableofcontents
 
     @@bodies
 
+    \input{metadata}
     \end{document}
 
 article[@xml:lang="en"]: 
@@ -24,12 +25,13 @@ article[@xml:lang="en"]:
     
     \begin{document}
     \selectlanguage{english}
-    \input{metadata}
+    \newcommand{\lingua}{Inglês}
     \maketitle
     \tableofcontents
 
     @@bodies
 
+    \input{metadata}
     \end{document}
 
 article[@xml:lang="fr"]: 
@@ -41,12 +43,13 @@ article[@xml:lang="fr"]:
     
     \begin{document}
     \selectlanguage{french}
-    \input{metadata}
+    \newcommand{\lingua}{Francês}
     \maketitle
     \tableofcontents
 
     @@bodies
 
+    \input{metadata}
     \end{document}
 
 article[@xml:lang="es"]: 
@@ -58,27 +61,31 @@ article[@xml:lang="es"]:
     
     \begin{document}
     \selectlanguage{spanish}
-    \input{metadata}
+    \newcommand{\lingua}{Espanhol}
     \maketitle
     \tableofcontents
 
     @@bodies
 
+    \input{metadata}
     \end{document}
 
 sub-article: ""
 
+
+alt-title[@alt-title-type="title-running-head"]: 
+  head: |
+
+    \newcommand{\alttitle}{@@children}
+
+
+alt-title[@alt-title-type="author-running-head"]: 
+  head: |
+
+    \newcommand{\alttitleauthor}{@@children}
+
 article-title:
   head: |
-    \newcommand{\subtitlestyle}[1]{-- \emph{#1}\medskip}
-    \newcommand{\transtitlestyle}[1]{\par\medskip\Large #1}
-    \newcommand{\transsubtitlestyle}[1]{-- \Large\emph{ #1}}
-
-    \newcommand{\titlegroup}{
-        \ifdef{\subtitle}{\subtitlestyle{\subtitle}}{}
-        \ifdef{\transtitle}{\transtitlestyle{\transtitle}}{}
-        \ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}
-        }
 
     \title{@@children\titlegroup{}} 
 
@@ -87,17 +94,30 @@ subtitle[1]:
 
       \newcommand{\subtitle}{@@children}
 
-trans-title[1]:
+trans-title[@xml:lang="pt"]:
   head: |
 
-      \newcommand{\transtitle}{@@children}
+      \newcommand{\transtitlefr}{@@children}
 
 
-trans-subtitle[1]:
+trans-title[@xml:lang="fr"]:
   head: |
 
-      \newcommand{\transsubtitle}{@@children}
+      \newcommand{\transtitlefr}{@@children}
 
+
+trans-title[@xml:lang="en"]:
+  head: |
+
+      \newcommand{\transtitleen}{@@children}
+
+
+trans-title[@xml:lang="es"]:
+  head: |
+
+      \newcommand{\transtitlees}{@@children}
+
+trans-subtitle: ""
 
 issn:
   head: |
@@ -207,7 +227,12 @@ license[@xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"]:
 license[@xlink:href="http://creativecommons.org/licenses/by-pd/3.0/"]: 
     head: |
 
-        \newcommand{\cclicense}{\ccpd}   
+        \newcommand{\cclicense}{\ccpd}  
+
+copyright-statement: 
+    head:  |
+
+        \newcommand{\cclicense}{@@children $^{\tiny{\textregistered}}$ }
 
 pub-date: 
   head: |
@@ -268,6 +293,12 @@ list[@list-type="roman-upper"]: |
    \section{@@lua(return find('sec/title'))@@}
    @@lua(return find('//p'))@@
    @@lua(return find('//list'))@@
+   @@lua(return find('//fig'))@@
+
+copyright-year: 
+  head: |
+  
+    \newcommand{\copyrightyear}{@@children}
 
 ext-link: "\\href{@@children}"
 
@@ -383,13 +414,12 @@ p: |
     end
     return find "//sec"
     )@@
-    \iflanguage{portuges}{\medskip\noindent\textbf{Palavras-chave:} \kwdgroup}{}
-    \iflanguage{english}{\medskip\noindent\textbf{Keywords:} \kwdgroupen}{}
-    \iflanguage{spanish}{\medskip\noindent\textbf{Palavras claves:} \kwdgroupes}{}
-    \iflanguage{french}{\medskip\noindent\textbf{Mots clés:} \kwdgroupfr}{}
+    \ifdef{\kwdgroup}{\iflanguage{portuges}{\medskip\noindent\textbf{Palavras-chave:} \kwdgroup}{}}{}
+    \ifdef{\kwdgroupen}{\iflanguage{english}{\medskip\noindent\textbf{Keywords:} \kwdgroupen}{}}{}
+    \ifdef{\kwdgroupes}{\iflanguage{spanish}{\medskip\noindent\textbf{Palavras claves:} \kwdgroupes}{}}{}
+    \ifdef{\kwdgroupfr}{\iflanguage{french}{\medskip\noindent\textbf{Mots clés:} \kwdgroupfr}{}}{}
     \end{abstract}
     \endgroup
-
 
 
 trans-abstract[@xml:lang="es"]: |
@@ -547,6 +577,17 @@ trans-abstract[@xml:lang="fr"]: |
     \end{abstract}
     \end{otherlanguage}
     \endgroup
+
+
+trans-abstract[@xml:lang="zh"]: ""
+
+trans-abstract[@xml:lang="ar"]: ""
+
+trans-title[@xml:lang="zh"]: ""
+
+trans-title[@xml:lang="ar"]: ""
+
+trans-title[@xml:lang="ru"]: ""
 
 /fig: |
   \begin{figure}

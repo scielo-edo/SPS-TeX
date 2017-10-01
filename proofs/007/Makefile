@@ -1,4 +1,4 @@
-TAG=0034-8910-rsp-47-04-0791
+TAG=1415-790X-rbepid-18-01-00234
 
 all:
 	jats2tex $(TAG).xml -t template.yaml

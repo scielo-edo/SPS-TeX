@@ -1,4 +1,5 @@
 
+
 sed -i 's/\\affil\[\w\+\]/\L&/g' *.tex
 sed -i 's/\\author\[\w\+\]/\L&/g' *.tex
 sed -i ':a;N;$!ba;s/\n\\textsuperscript/\\textsuperscript/g' *.tex
@@ -7,6 +8,7 @@ sed -i ':a;N;$!ba;s/\n\]/\]/g' *.tex
 sed -i ':a;N;$!ba;s/\n}/}/g' *.tex
 sed -i 's/\ \\footnote/\\footnote/g' *.tex
 sed -i 's/\ ,/,/g' *.tex
+sed -i 's/e-mail/\\mbox{e-mail}/g' *.tex
 sed -i ':a;N;$!ba;s/\n,/,/g' *.tex
 sed -i ':a;N;$!ba;s/\n\././g' *.tex
 sed -i 's/\([A-ZÁ-Ź][A-ZÁ-Ź][A-ZÁ-Ź]\+\)/\\textsc{\L\1}/g' *.tex
