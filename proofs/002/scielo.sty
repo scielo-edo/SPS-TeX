@@ -1,6 +1,6 @@
 \RequirePackage[T1]{fontenc}
 \RequirePackage[utf8]{inputenc} %% *
-\RequirePackage[portuges,spanish,english,german,italian,russian]{babel} %% *
+\RequirePackage[portuges,spanish,french,english,german,italian,russian]{babel} %% *
 \RequirePackage{amstext}
 \RequirePackage{authblk}
 \RequirePackage{unicode-math}
@@ -8,6 +8,7 @@
 \RequirePackage{graphicx}
 \RequirePackage{etoolbox}
 \RequirePackage{xtab}
+\RequirePackage{adjustbox}
 \RequirePackage{enumerate}
 \RequirePackage{hyperref}
 \RequirePackage{penalidades}
@@ -18,10 +19,11 @@
 
 \RequirePackage{lastpage,fancyhdr}
 \RequirePackage{epstopdf}
-\RequirePackage{xcolor}
+\RequirePackage[table]{xcolor}
 \RequirePackage{tikz}
 \RequirePackage{eso-pic}
 \usepackage{ccicons}
+\usepackage{textcomp}
 
 \newlength\savedwidth
 \newcommand\thickcline[1]{\noalign{\global
@@ -72,8 +74,8 @@
 	%\foreach \y in {0,1,2,3,4,5,7,8,9,10,11,12,13,14,15}
 	%\draw[step=1cm,gray,very thin] (0,0) node {0} (0,\y) node {\y} (-2,-2) grid (60,60);
     \draw (2,20) node {\includegraphics[width=4cm]{logo.png}};
-	\draw (3cm,9cm) node[text width = 5.5cm] {\baselineskip=.7\baselineskip
-		   \footnotesize\begin{minipage}{5.5cm}
+	\draw (3cm,9cm) node[text width = 5cm] {\baselineskip=.7\baselineskip
+		   \footnotesize\begin{minipage}{5cm}
 		   \hyphenpenalty=10000\authornotes\\ \ifdef{\cclicense}{\cclicense}{}\end{minipage}};
 	\end{tikzpicture}
 \sf \ifdef{\articledoi}{\articledoi}{}}
@@ -86,3 +88,29 @@
 \newcommand{\fn}{\afterassignment\fn@aux\count0=}
 \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
 \makeatother
+
+
+% title
+    \newcommand{\subtitlestyle}[1]{-- \emph{#1}\medskip}
+    \newcommand{\transtitlestyle}[1]{\par\medskip\Large #1}
+    \newcommand{\transsubtitlestyle}[1]{-- \Large\emph{ #1}}
+
+    \newcommand{\titlegroup}{
+        \ifdef{\subtitle}{\subtitlestyle{\subtitle}}{}
+        \ifdef{\transtitleen}{\transtitlestyle{\transtitleen}}{}
+        \ifdef{\transtitlees}{\transtitlestyle{\transtitlees}}{}
+        \ifdef{\transtitlefr}{\transtitlestyle{\transtitlefr}}{}
+        \ifdef{\transtitlept}{\transtitlestyle{\transtitlept}}{}
+        \ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}
+        }
+
+% tabelas
+
+\captionsetup[table]{singlelinecheck=false}
+\captionsetup[figure]{singlelinecheck=false}
+
+\definecolor{maroon}{cmyk}{0.85,0.30,1,0.15}
+\definecolor{beginho}{cmyk}{0.15,0.15,0.25,0}
+\definecolor{verde}{cmyk}{0.20,0,0.18,0}
+\definecolor{verdelimao}{cmyk}{0.40,0,0.36,0}
+\rowcolors{3}{verde}{verdelimao}

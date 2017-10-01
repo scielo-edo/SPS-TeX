@@ -10,20 +10,9 @@
 \newcommand{\publishername}{Faculdade de Saúde Pública da Universidade de São
 Paulo}
 \newcommand\articledoi{\textsc{doi} 10.1590/S0034-8910.2014048004822}
-\def\subject{Artigos Originais}\newcommand{\subtitlestyle}[1]{--
-\emph{#1}\medskip}
-\newcommand{\transtitlestyle}[1]{\par\medskip\Large #1}
-\newcommand{\transsubtitlestyle}[1]{-- \Large\emph{ #1}}
-
-\newcommand{\titlegroup}{
-\ifdef{\subtitle}{\subtitlestyle{\subtitle}}{}
-\ifdef{\transtitle}{\transtitlestyle{\transtitle}}{}
-\ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}}
-
+\def\subject{Artigos Originais}
 \title{Homicídios e disputas territoriais nas favelas do Rio de
 Janeiro\titlegroup{}}
-\newcommand{\transtitle}{Homicidios e disputas territoriales en las barriadas de
-Rio de Janeiro}
 \author[{I}]{Barcellos, Christovam}
 \author[{II}]{Zaluar, Alba}
 \affil[i]{Fundação Oswaldo Cruz}
@@ -76,10 +65,11 @@ Desenvolvimento Científico e Tecnológico (\textsc{cnp}q – Processo 482431/ 2
 
 \begin{document}
 \selectlanguage{portuges}
-\input{metadata}
+\newcommand{\lingua}{Português}
 \maketitle
 \tableofcontents
 
+Homicidios e disputas territoriales en las barriadas de Rio de Janeiro
 \begingroup
 \renewcommand{\section}[1]{\subsection*{#1}}
 
@@ -111,10 +101,13 @@ armados rivais.
 de mortalidade por violência e promove a “ecologia do perigo” no entorno de
 favelas.
 
-\iflanguage{portuges}{\medskip\noindent\textbf{Palavras-chave:} \kwdgroup}{}
-\iflanguage{english}{\medskip\noindent\textbf{Keywords:} \kwdgroupen}{}
-\iflanguage{spanish}{\medskip\noindent\textbf{Palavras claves:} \kwdgroupes}{}
-\iflanguage{french}{\medskip\noindent\textbf{Mots clés:} \kwdgroupfr}{}
+\ifdef{\kwdgroup}{\iflanguage{portuges}{\medskip\noindent\textbf{Palavras-chave:} \kwdgroup}{}}{}
+\ifdef{\kwdgroupen}{\iflanguage{english}{\medskip\noindent\textbf{Keywords:}
+\kwdgroupen}{}}{}
+\ifdef{\kwdgroupes}{\iflanguage{spanish}{\medskip\noindent\textbf{Palavras
+claves:} \kwdgroupes}{}}{}
+\ifdef{\kwdgroupfr}{\iflanguage{french}{\medskip\noindent\textbf{Mots clés:}
+\kwdgroupfr}{}}{}
 \end{abstract}
 \endgroup
 
@@ -481,6 +474,19 @@ corredores, mesmo entre favelas sob o mesmo domínio são áreas de possíveis l
 entre subgrupos e de violências contra comerciantes e moradores como estratégia
 de manutenção de poder sobre o território.
 
+\begin{figure}
+\includegraphics[width=\textwidth]{0034-8910-rsp-48-01-0094-gf01}
+\caption{}\label{fig:f01}
+\end{figure}
+\begin{figure}
+\includegraphics[width=\textwidth]{0034-8910-rsp-48-01-0094-gf02}
+\caption{}\label{fig:f02}
+\end{figure}
+\begin{figure}
+\includegraphics[width=\textwidth]{0034-8910-rsp-48-01-0094-gf03}
+\caption{}\label{fig:f03}
+\end{figure}
+
 \section{\textsc{discussão}}
 
 Estas análises demonstram que morar em favelas não representa, por si, um
@@ -588,49 +594,30 @@ TabelaPopulação estimada, número de homicídios segundo local de residência 
 vítima e taxa de homicídio segundo o tipo de atividade no entorno próximo de
 favelas do Rio de Janeiro, RJ, 2009.
 \begin{table}
+\begin{adjustbox}{width=1\textwidth}
+\small
 \begin{xtabular}{ l | l | l | l | l | l | l }
 \hline
 Tipo de ocupação & População estimada &\textsuperscript{a}
 & Número de homicídios &\textsuperscript{b}
 & Taxa homicídios (por 100.000 hab.) &\textsuperscript{c}
 \\ \hline
-Com domínio armada
-& 3.130.117
-& 1.585
-& 50,6
-\\ \hline
+Com domínio armada & 3.130.117 & 1.585 & 50,6\\ \hline
 
-Com domínio desarmada
-& 287.315
-& 131
-& 45,6
-\\ \hline
+Com domínio desarmada & 287.315 & 131 & 45,6\\ \hline
 
-Com domínio com tráfico
-& 167.764
-& 120
-& 71,5
-\\ \hline
+Com domínio com tráfico & 167.764 & 120 & 71,5\\ \hline
 
-Sem domínio sem tráfico
-& 17.862
-& 4
-& 22,4
-\\ \hline
+Sem domínio sem tráfico & 17.862 & 4 & 22,4\\ \hline
 
 \end{xtabular}
-\end{table}
-\textsuperscript{a}
-\textsc{ibge}. Censo demográfico, 2010.
-\textsuperscript{b}
-Secretaria Municipal de Saúde do Rio de Janeiro, 2006 a 2009.
-\textsuperscript{c}
-Distância de até 250 m.
-\textsuperscript{a}
-\textsc{ibge}. Censo demográfico, 2010.
-\textsuperscript{b}
-Secretaria Municipal de Saúde do Rio de Janeiro, 2006 a 2009.
-\textsuperscript{c}
+\end{adjustbox}
+\end{table}\textsuperscript{a}
+\textsc{ibge}. Censo demográfico, 2010.\textsuperscript{b}
+Secretaria Municipal de Saúde do Rio de Janeiro, 2006 a 2009.\textsuperscript{c}
+Distância de até 250 m.\textsuperscript{a}
+\textsc{ibge}. Censo demográfico, 2010.\textsuperscript{b}
+Secretaria Municipal de Saúde do Rio de Janeiro, 2006 a 2009.\textsuperscript{c}
 Distância de até 250 m.
 
 \section*{\textsc{referências}}
@@ -725,4 +712,5 @@ acidentais. \textit{Mana}. 2009;15(2):557-84. \textsc{doi}:10.1590/S0104-9313200
 
 \end{itemize}
 
+\input{metadata}
 \end{document}
