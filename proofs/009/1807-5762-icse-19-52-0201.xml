@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.0" specific-use="sps-1.1" article-type="abstract" xml:lang="pt">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Interface (Botucatu)</journal-id>
+			<journal-id journal-id-type="publisher-id">icse</journal-id>
+			<journal-title-group>
+				<journal-title>Interface - Comunicação, Saúde, Educação</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Interface</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1414-3283</issn>
+			<issn pub-type="epub">1807-5762</issn>
+			<publisher>
+				<publisher-name>Laboratório de Educação e Comunicação em Saúde, Departamento de Saúde Pública, Faculdade de Medicina de Botucatu e Instituto de Biociências de Botucatu - UNESP</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">1807-57622014.0511</article-id>
+			<article-id pub-id-type="doi">10.1590/1807-57622014.0511</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Teses</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Promoção da gestão do regime terapêutico em pacientes com Doença Pulmonar Obstrutiva Crónica (DPOC): um percurso de investigação-ação</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Manejo del régimen terapéutico en pacientes con Enfermedad Pulmonar Obstructiva Crónica (EPOC): un curso de investigación acción</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Padilha</surname>
+						<given-names>José Miguel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<institution content-type="orgdiv1">Universidade Católica Portuguesa</institution>
+				<institution content-type="orgname">Instituto de Ciências da Saúde do Porto</institution>
+				<country>Portugal</country>
+				<institution content-type="original">Tese (Doutorado), 2014. Programa de Doutoramento em Enfermagem, Universidade Católica Portuguesa, Instituto de Ciências da Saúde do Porto, Portugal. miguelpadilha@esenf.pt</institution>
+			</aff>
+			<pub-date pub-type="epub-ppub">
+				<season>Jan-Mar</season>
+				<year>2015</year>
+			</pub-date>
+			<volume>19</volume>
+			<issue>52</issue>
+			<fpage>201</fpage>
+			<lpage>202</lpage>
+			<history>
+				<date date-type="received">
+					<day>07</day>
+					<month>07</month>
+					<year>2014</year>
+				</date>
+				<date date-type="accepted">
+					<day>27</day>
+					<month>08</month>
+					<year>2014</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<kwd-group xml:lang="pt">
+				<kwd>Terapêutica</kwd>
+				<kwd>Doença Pulmonar Obstrutiva Crônica</kwd>
+				<kwd>Autocuidado</kwd>
+				<kwd>Investigação-ação</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="0"/>
+				<page-count count="2"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>A DPOC é uma doença crónica que influencia negativamente o nível de energia disponível para o autocuidado. Os pacientes portadores de DPOC, para controlarem a progressão da doença, necessitam de desenvolver competências para gerir o regime terapêutico (ex.: autocontrolar a dispneia; executar inaloterapia; identificar as exacerbações da doença). A competência dos pacientes para gerirem o regime terapêutico pode influenciar: a condição de saúde, a autonomia no autocuidado e a qualidade de vida.</p>
+		<p>Com este estudo, pretendíamos contribuir para a melhoria contínua da qualidade dos cuidados, por meio do desenvolvimento de uma abordagem terapêutica progressivamente mais sistematizada, tomando por foco a promoção da gestão do regime terapêutico, em pacientes com DPOC.</p>
+		<p>Utilizamos um paradigma de investigação construtivista e uma metodologia de investigação-ação (IA) participativa. Para a recolha de dados, utilizamos, simultaneamente, estratégias qualitativas e quantitativas, recorremos à análise comparativa e iterativa dos dados. O estudo decorreu num serviço de internamento e na consulta externa de uma instituição hospitalar portuguesa, e contou com a participação de 52 enfermeiros. Utilizamos estratégias promotoras da participação e do comprometimento interno dos enfermeiros para viabilizar a mudança.</p>
+		<p>O ciclo de IA empreendido gerou mudanças no modelo de cuidados em uso, que evoluiu de uma lógica de gestão de sinais e sintomas da doença, para uma visão, progressivamente, mais centrada na gestão do regime terapêutico. Para isso, foram construídas e implementadas linhas de orientação para a ação dos enfermeiros, que melhoraram a continuidade de cuidados e a monitorização dos resultados. Na organização dos cuidados, a mudança permitiu otimizar a partilha de informação, tendo por horizonte a promoção da continuidade dos cuidados. A mudança implementada permitiu a reorganização da consulta de enfermagem, garantindo uma maior acessibilidade dos pacientes aos cuidados de enfermagem.</p>
+		<p>Na documentação dos cuidados de enfermagem, assistimos a um aumento significativo da documentação de dados relativos ao autocuidado – gestão do regime terapêutico. Uma vez estabilizada a mudança, foi-nos possível verificar uma melhoria na continuidade dos cuidados e um aumento da documentação de informação válida para a monitorização do impacte da ação terapêutica de enfermagem sobre a condição de saúde dos pacientes.</p>
+		<p>Os resultados permitem verificar que os pacientes com níveis de consciencialização mais adequados são aqueles que apresentam melhores resultados em termos de ganhos em conhecimentos e capacidades para gerir o regime terapêutico.</p>
+		<p>Este estudo revela que a dinamização dos processos organizacionais e logísticos inerentes à mudança, a agregação da intenção e objetivos de todos os envolvidos, e o desenvolvimento/ disponibilização de recursos de suporte à decisão, são fatores-chave na mudança. A disponibilização e a estabilidade dos recursos são funções-chave das organizações para viabilizar a mudança. O envolvimento e a participação dos afetados na conceção, implementação e avaliação da mudança, por meio da promoção de consensos e da intercolaboração, são aspetos centrais no desenvolvimento de uma cultura propícia à melhoria contínua da qualidade dos cuidados de enfermagem e à investigação.</p>
+		<p>A sistematização da ação terapêutica implementada foi um contributo relevante para a melhoria contínua da qualidade dos cuidados de enfermagem a pacientes com DPOC.</p>
+	</body>
+	<sub-article article-type="translation" id="S01" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Theses</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Promoting self-care management in patients with Chronic Obstructive Pulmonary Disease (COPD): a path of action research</article-title>
+			</title-group>
+			<kwd-group xml:lang="en">
+				<kwd>Therapeutics</kwd>><kwd>Chronic Obstructive Pulmonary Disease</kwd>
+				<kwd>Selfcare</kwd>
+				<kwd>Action-research</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<p>COPD is a chronic disease that negatively influences the energy level available for selfcare. Patients carriers of COPD need to develop competences to manage the therapeutic regime (ex. Dispnea autocontrol; perform inhalation therapy; identify exacerbations of the disease) in order to control the progression of the disease. The patient’s competence to manage the therapeutic regimen can influence the health condition, the autonomy in selfcare, and the quality of life.</p>
+			<p>With this study we intend to contribute towards the continuous improvement of the quality of care, through the development of a therapeutic approach progressively more systemized, focused on the promotion of the management of the therapeutic regimen in patients with COPD.</p>
+			<p>We use a constructivist research paradigm and a participative action-research (AR) methodology. For data collection we used qualitative and quantitative strategies simultaneously, resorting to comparative and iterative data analysis. The study occurred in an inpatient service and in the outpatient service of a portuguese hospital and counted with the participation of 52 nurses. We used strategies that promote the participation and internal commitment of nurses, in order to facilitate change.</p>
+			<p>The cycle of AR undertaken, brought change in the care model in use, which evolved from a logic of the management of the signs and symptoms of the disease, to a vision progressively more focused on the management of the therapeutic regimen. For this, we built and implemented guidelines for nursing actions, that improved the continuity of care and the monitoring of outcomes. Regarding the organization of care, the change allowed the optimization of the sharing of information, with the intention of promoting continuity of care. The implemented change allowed the reorganization of the nursing consultation, ensuring greater accessibility of patients to nursing care. In the documentation of nursing care we see a significant increase in documentation of data relating to selfcare - management of the therapeutic regimen. Once the change was stabilized, we were able to see an improvement in the continuity of care and an increase in the documentation of information valid for monitoring the impact of the therapeutic nursing action on the patient’s health condition.</p>
+			<p>The results show that the patients with the most appropriate levels of awareness are those who have better outcomes in terms of gains in knowledge and skills to manage the therapeutic regimen.</p>
+			<p>This study shows that the dynamics of the organizational and logistic processes inherent to change, the aggregation of intent and the objectives of all those envolved and the development/availability of resources that support decision-making, are key factors in the change. The availability and the stability of the resources are key functions of the organizations to ensure change. The envolvement and participation of those affected in the conception, implementation and evaluation of change, through the promotion of consenses and the inter-colaboration, are centrals aspects in developing a culture conducive of the continuous improvement of the quality of nursing care and research.</p>
+			<p>The systemization of the therapeutic action implemented was a relevant contribution towards the continuous improvement of the quality of nursing care to patients with COPD.</p>
+		</body>
+	</sub-article>
+</article>

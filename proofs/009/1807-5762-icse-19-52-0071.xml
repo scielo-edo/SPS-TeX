@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.0" specific-use="sps-1.1" article-type="research-article" xml:lang="pt">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Interface (Botucatu)</journal-id>
+			<journal-id journal-id-type="publisher-id">icse</journal-id>
+			<journal-title-group>
+				<journal-title>Interface - Comunicação, Saúde, Educação</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Interface</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1414-3283</issn>
+			<issn pub-type="epub">1807-5762</issn>
+			<publisher>
+				<publisher-name>Laboratório de Educação e Comunicação em Saúde, Departamento de Saúde Pública, Faculdade de Medicina de Botucatu e Instituto de Biociências de Botucatu - UNESP</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">1807-57622014.0628</article-id>
+			<article-id pub-id-type="doi">10.1590/1807-57622014.0628</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Artigos</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Leituras holísticas: de Tchékhov à Medicina Narrativa<xref ref-type="fn" rid="fn19">
+						<sup>*</sup>
+					</xref>
+				</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Lecturas holísticas: de Tchékhov a la Medicina Narrativa</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Fernandes</surname>
+						<given-names>Isabel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>a</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>a</label>
+				<institution content-type="orgdiv2">Centro de Estudos Anglísticos</institution>
+				<institution content-type="orgdiv1">Faculdade de Letras</institution>
+				<institution content-type="orgname">Universidade de Lisboa</institution>
+				<addr-line>
+					<named-content content-type="city">Lisboa</named-content>
+				</addr-line>
+				<country>Portugal</country>
+				<institution content-type="original">Centro de Estudos Anglísticos, Faculdade de Letras, Universidade de Lisboa. Alameda da Universidade, 1600-214. Lisboa, Portugal. centro.ang@fl.ul.pt</institution>
+			</aff>
+			<pub-date pub-type="epub-ppub">
+				<season>Jan-Mar</season>
+				<year>2015</year>
+			</pub-date>
+			<volume>19</volume>
+			<issue>52</issue>
+			<fpage>71</fpage>
+			<lpage>82</lpage>
+			<history>
+				<date date-type="received">
+					<day>12</day>
+					<month>08</month>
+					<year>2014</year>
+				</date>
+				<date date-type="accepted">
+					<day>19</day>
+					<month>08</month>
+					<year>2014</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>Resumo</title>
+				<p>Neste artigo, procura-se evidenciar como, no conto “Um caso da prática médica”, o escritor russo, Anton Tchékhov, ele próprio médico, ficcionaliza e chama a atenção para aspetos da prática clínica hoje tantas vezes descurados, designadamente a observação e avaliação do ambiente em que vivem os doentes; e aspetos de índole familiar, social e até sexual, bem como a importância crucial da relação interpessoal de carácter dialógico entre médico e doente. Relacionar-se-á esta chamada de atenção indireta de Tchékhov com a situação atual no domínio da prática clínica, recorrendo-se ao conceito de Medicina Baseada na Prova (EBM), como paradigma atualmente dominante nas práticas médicas, e à necessidade de o complementar com o da Medicina Baseada na Narrativa (NBM) ou Medicina Narrativa.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>En este artículo se busca mostrar como en el cuento “Un caso de práctica médica”, el escritor ruso Anton Tchékhov, que era médico, presenta como ficción y llama la atención para aspectos de la práctica clínica tantas veces descuidados, específicamente la observación y la evaluación del ambiente en que viven los enfermos y también sobre aspectos de índole familiar, social e incluso sexual, así como la importancia crucial de la relación inter-personal del carácter dialógico entre médico y paciente. Se relacionará esta llamada de atención indirecta de Tchékhov con la situación actual en el dominio de la práctica clínica, recurriéndose al concepto de EBM (Evidence based medicine) como paradigma dominante en la actualidad en las prácticas médicas y la necesidad de complementarlo con el de NBM (Narrative based medicine) o Medicina narrativa.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="pt">
+				<title>Palavras-chave</title>
+				<kwd>Anton Tchékhov</kwd>
+				<kwd>Medicina baseada na prova</kwd>
+				<kwd>Medicina baseada na narrativa</kwd>
+				<kwd>Medicina narrativa</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title>Palabras-clave</title>
+				<kwd>Anton Tchékhov</kwd>
+				<kwd>Medicina basada en pruebas</kwd>
+				<kwd>Medicina basada en la narrativa</kwd>
+				<kwd>Medicina narrativa</kwd>
+			</kwd-group>
+			<funding-group>
+				<award-group>
+					<funding-source>Fundação para a Ciência e a Tecnologia</funding-source>
+					<award-id>PTDC/CPC-ELT/3719/2012</award-id>
+				</award-group>
+			</funding-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="25"/>
+				<page-count count="12"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>Anton Tchékhov (1860-1904), escritor e médico russo, é autor de muitos contos famosos, de entre os quais o texto intitulado “Um caso da prática médica,” publicado em 1898, será objeto da primeira parte deste artigo<sup>(</sup>
+			<xref ref-type="fn" rid="fn1">
+				<sup>b</sup>
+			</xref>
+			<sup>)</sup>.</p>
+		<p>Para benefício dos que possam não conhecer o texto, fornece-se uma breve paráfrase. Um prestigiado médico de Moscovo recebe um telegrama solicitando-lhe uma visita até a fábrica dos Liálikovs, para consultar a filha dos proprietários, e resolve enviar o seu assistente, o Dr. Koroliov. Este não consegue detetar nenhum problema sério de saúde na jovem Lisa – que se queixa de nervosismo, insónias e palpitações, e, não vendo motivos para se demorar, dispõe-se a partir, mas é instado a pernoitar na casa da família pela mãe, que teme que se repita outra noite de pesadelo. Como não consegue dormir, o médico vagueia de madrugada pela fábrica e zonas adjacentes, e tem como que uma epifania, ao aperceber-se duma conexão entre o opressivo meio envolvente e a doença da jovem. A perceção duma enfermidade social e espiritual que afeta aquele microcosmos justifica, aos seus olhos, os sintomas da paciente e leva-o a encará-la de modo diferente: da visão distanciada e profissional que lhe dispensara antes e que de nada lhe valera, passa a uma atenção mais generosa à pessoa e à situação de Lisa, com quem conversa. Agora, além dos batimentos cardíacos, torna-se atento à expressão dos seus sentimentos, medos e ansiedades, com os quais, de resto, se solidariza. Ela responde-lhe com a revelação de estar também convencida de não ter nenhuma doença física, antes sentir “inquietação” e “medo.” A conversa constitui o momento de viragem decisivo para a jovem, que, na manhã seguinte, aparece a despedir-se do médico, sorridente e vestida de branco, como que para uma festa.</p>
+		<p>Proponho que atentemos no/s parágrafo/s de abertura, geralmente cruciais para o entendimento do que verdadeiramente está em causa no texto, e, também, à identificação de qual/quais a/s figura/s de retórica mais recorrente/s<sup>(</sup>
+			<xref ref-type="fn" rid="fn2">
+				<sup>c</sup>
+			</xref>
+			<sup>)</sup>. Começando pela abertura da narrativa, verificamos que nos fala duma figura que irá estar ausente do conto: o anónimo professor. E, de imediato, nos perguntamos: por que incluir, neste início, uma personagem sem interferência no desenrolar dos acontecimentos?</p>
+		<disp-quote>
+			<p>O professor recebeu um telegrama da fábrica dos Liálikov: pediam que fosse lá com urgência. Adoecera a filha de uma tal senhora Lialikova, pelos vistos a proprietária da fábrica, e mais nada se podia perceber do telegrama longo e desconexo. Então, o professor não quis ir, mandando em seu lugar um dos seus médicos, o doutor Koroliov.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref> (p.261)</p>
+		</disp-quote>
+		<p>Aparentemente inconsequente para o desenvolvimento da história, a menção à atitude do professor é, contudo, significativa, porque ele baseia a sua decisão de não responder ao apelo que lhe é feito num ato interpretativo, num ato de leitura. O facto de o telegrama ser “longo e desconexo” deprecia, aos seus olhos, aqueles que o escreveram, e determina que se esquive à visita, delegando-a no seu assistente. Chama-se aqui a atenção para o ato de leitura como qualquer coisa que precede e acompanha as nossas ações e decisões, e que, como veremos, assinala o tipo de saber e decisões próprios do ato clínico como ato deliberativo, isto é, não meramente cognitivo, dado não se limitar a equacionar factos, mas envolver também emoções e valores, bem como ponderar deveres. Isto é, chama-se indiretamente a atenção para o carácter hermenêutico complexo da prática médica, bem como da sua essência deliberativa<sup>(</sup>
+			<xref ref-type="fn" rid="fn3">
+				<sup>d</sup>
+			</xref>
+			<sup>)</sup>. Para que não restem dúvidas, mais abaixo, ao descrever o que Koroliov vê no seu percurso até à fábrica, lê-se na tradução inglesa: “And now when the workpeople timidly and respectfully made way for the carriage, in their faces, their caps, their walk, he read physical impurity, drunkenness, nervous exhaustion, bewilderment”<xref ref-type="bibr" rid="B2">
+				<sup>2</sup>
+			</xref> (p.174, ênfase minha).</p>
+		<p>Tchékhov está, obviamente, apostado em apresentar os médicos como leitores, como descodificadores dos sistemas sígnicos que os rodeiam, e disso mesmo o texto irá tratar.</p>
+		<p>Quanto ao recurso retórico central neste conto, e não apenas por ser o mais repetido, mas por ser, ele próprio, transformado em princípio composicional da narrativa, como adiante se demonstrará, torna-se inescapável a comparação. Veja-se, por exemplo, logo no segundo parágrafo, a referência ao cocheiro da carruagem que espera Koroliov: “o cocheiro tinha uma pena de pavão no chapéu e respondia a todas as perguntas em voz alta, como um soldado…”<xref ref-type="bibr" rid="B1">
+				<sup>1</sup>
+			</xref> (p.261, ênfase minha). Aqui, o primeiro contacto com um habitante local aponta, por meio da comparação, para o mundo castrense e sua inerente disciplina e relações de poder, aspetos que serão reverberados na apresentação da fábrica.</p>
+		<p>Ora, a essência da comparação (que, como se sabe, está na base de toda a construção metafórica) consiste numa aproximação de objectos ou planos diferentes, num esforço integrativo que, segundo Percy Bysshee Shelley, na sua célebre Defesa da Poesia (escrita em 1821, mas publicada postumamente, em 1840), caracteriza o próprio modo poético. A partir duma distinção entre razão e imaginação, em que, segundo defende: “A razão diz respeito às diferenças e a imaginação às semelhanças entre as coisas”, Shelley vai mais longe e afirma que a poesia, sendo a expressão desse poder integrativo da imaginação, é uma linguagem “vitalmente metafórica, ou seja, assinala as relações até aí inapreendidas entre as coisas e perpetua essa apreensão”<xref ref-type="bibr" rid="B4">
+				<sup>4</sup>
+			</xref> (p. 227, traduções minhas).</p>
+		<p>Que seja a comparação o recurso retórico mais flagrante e recorrente no conto é significativo, dado que, por ele, se assinala a necessidade dum olhar e duma atitude integradoras das forças e relações múltiplas que governam a nossa existência enquanto seres humanos e, mais do que nunca, em momentos críticos como o duma crise ou duma doença, como é o caso neste texto.</p>
+		<p>Além disso, em termos menos microscópicos, o conto vai progredindo por meio de outras comparações ou aproximações, ainda que não de natureza retórico-estilística mas, antes, de teor composicional. Constrói-se e desdobra-se por aproximações sucessivas entre personagens e entre estas e o meio ambiente. Desde logo, temos a comparação entre a governanta e os patrões, seguida da que assimila Lisa à mãe, e, finalmente, a comparação entre o médico e Lisa, neste último caso, unidos por um conspícuo e inesperado “nós,” que, não sendo meramente sintoma duma sensibilidade geracional comum, vai mais fundo e sinaliza a partilha da vulnerabilidade humana que une sempre, afinal, médico e doente.</p>
+		<p>Se associarmos estes dois aspetos, o início do texto e o recurso retórico nele central, poderemos arriscar dizer que Tchékhov estará interessado em propor-nos um tipo de médico que designaremos de hermeneuta ou leitor competente, e um modo de exercer a prática clínica que tenha em conta a pessoa do paciente, no seu contexto doméstico, familiar e social; em suma, ao invés duma medicina que disseque ou separe, propõe-nos uma medicina integrativa, restauradora duma imagem global do paciente “em situação”<sup>(</sup>
+			<xref ref-type="fn" rid="fn4">
+				<sup>e</sup>
+			</xref>
+			<sup>)</sup>.</p>
+		<p>Vejamos como o faz no conto em análise. Trata-se duma narrativa de narrador heterodiegético omnisciente, vulgo de terceira pessoa, em que o ponto de vista é cedido ao jovem Koroliov – é o seu olhar e a sua consciência do mundo que acompanhamos<sup>(</sup>
+			<xref ref-type="fn" rid="fn5">
+				<sup>f</sup>
+			</xref>
+			<sup>)</sup>. Tal escolha merece reparo – o convite ao leitor para partilhar o ponto de vista do jovem clínico aponta no sentido de ilustrar um comportamento e uma visão que se dá à consideração como digna de atenção, ou, por outras palavras, convida à empatia entre o leitor e esta personagem<sup>(</sup>
+			<xref ref-type="fn" rid="fn6">
+				<sup>g</sup>
+			</xref>
+			<sup>)</sup>.</p>
+		<p>O momento climático ocorre quando, de noite, vagueando, primeiro, no perímetro fabril e, em seguida, nas imediações, o médico se dá conta dum ambiente hostil, infernal, semelhante ao duma prisão – comparação inescapável que nos é comunicada significativamente em monólogo citado<sup>(</sup>
+			<xref ref-type="fn" rid="fn7">
+				<sup>h</sup>
+			</xref>
+			<sup>)</sup>, na sequência duma descrição em que os sentidos da audição e da visão da personagem são convocados, testemunhando o seguinte cenário:</p>
+		<disp-quote>
+			<p>Ouviu-se, ao lado do terceiro edifício: “jac… jac… jac…” E o mesmo nos restantes blocos fabris, e depois por trás das barracas e no portão. E parecia que, no meio do silêncio nocturno, era o próprio monstro com olhos rubros quem produzia estes sons, que era o próprio Diabo quem ali reinava sobre os patrões e os operários, enganando estes e aqueles.</p>
+			<p>Koroliov saiu para o campo.</p>
+			<p>- Quem é? – interpelou-o uma voz grosseira. “Como numa prisão…”, pensou Koroliov e não respondeu.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref>(p. 268)</p>
+		</disp-quote>
+		<p>Mas não é só o entorno da fábrica que afeta negativamente o médico, também o interior da casa da família Liálikov, de gosto duvidoso e com um pretensiosismo novo-rico, tem o dom de o irritar. Além disso, as primeiras impressões que tem de Lisa também induzem nele a intuição de que algo falha ao nível da sexualidade da jovem, que o leva a pensar: “Deveria casar-se, está na altura…”<xref ref-type="bibr" rid="B1">
+				<sup>1</sup>
+			</xref> (p. 264).</p>
+		<p>Apercebe-se, então, do sem-sentido dum empreendimento que a ninguém beneficia: nem aos trabalhadores, duramente explorados e alienados, nem aos patrões, também eles, afinal, vítimas do mesmo sistema mecanizado e insensível e do mesmo ambiente insalubre, como se prova pela morte prematura do pai de Lisa e pelo sofrimento presente de mãe e filha. A única e irónica exceção a este estado de coisas irracional parece ser a governanta, Khristina Dmitrievna, que sabe tirar partido da boa cama e boa mesa ao seu dispor.</p>
+		<p>O que se torna evidente ao longo do conto são as qualidades de Koroliov, no que diz respeito às suas capacidades de observação, de audição, de interpretação e à sua sensibilidade em geral. Trata-se de alguém de mente aberta, que sabe ouvir, ver e descodificar o que contempla, e que é afetado pela ausência de beleza e vida em seu redor.</p>
+		<p>O diagnóstico que faz do microcosmos industrializado que observa leva-o a uma nova e eloquente comparação: tal como a vida fabril é para ele enigmática, assim, também, o são certas doenças incuráveis, cujas causas se revelam obscuras mas incontornáveis. Por mais distração e entretenimento que se proporcione aos operários, tal não logrará curá-los da doença que os aflige, como acontece com os tratamentos vãos que se aplicam em casos de doenças sem cura.</p>
+		<p>Mas se a avaliação e a diagnose do contexto social e familiar por parte do clínico será certeira e decisiva para o que se segue, é o diálogo com Lisa, a doente, que vai constituir a peripécia conducente ao desenlace. Este diálogo evidencia a dependência mútua entre o eu e o outro, explorada, entre outros pensadores, por um Paul Ricoeur<sup>(</sup>
+			<xref ref-type="fn" rid="fn8">
+				<sup>i</sup>
+			</xref>
+			<sup>)</sup> ou por um Mikhail Bakhtin. Este último, por exemplo, num passo eloquente de Art and Answerability (obra porventura menos conhecida), chama a atenção para a complementaridade de olhares que caracteriza qualquer encontro interpessoal e sem a qual a apreensão do todo envolvente seria impossível:</p>
+		<disp-quote>
+			<p>Quando eu contemplo um ser humano completo que está situado fora de mim e face a mim, os horizontes concretos por nós efectivamente experimentados não coincidem. Porque, a cada momento dado, independentemente da posição e da proximidade a que esse outro ser humano, a quem eu estou a contemplar, se encontra de mim, eu hei-de ver e saber sempre algo que ele, a partir da posição que ocupa, fora de mim e face a mim, não pode, ele próprio, ver: partes do seu corpo que são incessíveis ao seu próprio olhar (a sua cabeça, a sua face e respectiva expressão), o mundo atrás de si e toda uma série de objectos e relações que, quaisquer que sejam as nossas posições relativas, me é acessível a mim e não a ele. Ao olharmos um para o outro, dois mundos diferentes estão reflectidos nas pupilas dos nossos olhos. É possível, se se assumir uma posição apropriada, reduzir esta diferença de horizontes a um mínimo, mas para anular tal diferença completamente seria necessário fundirmo-nos num só, tornarmo-nos uma e a mesma pessoa.<xref ref-type="bibr" rid="B8">
+					<sup>8</sup>
+				</xref> (p.23)</p>
+		</disp-quote>
+		<p>O carácter conspicuamente óptico conferido a esta cena matricial definidora da relação intersubjectiva, alerta-nos para a interdependência dos pontos de vista irredutíveis que nela se cruzam, indiciando, ao mesmo tempo, que, para o reconhecimento topográfico de qualquer situação, é indispensável a variação do enfoque. Transpondo esta interdependência para o encontro clínico, postula-se a necessidade de o olhar do médico ser complementado pelo do doente, de modo a recuperar o contexto em que este se insere e, assim, alcançar o diagnóstico<sup>(</sup>
+			<xref ref-type="fn" rid="fn9">
+				<sup>j</sup>
+			</xref>
+			<sup>)</sup>.</p>
+		<p>Para se aperceber plenamente da sua situação e dado o seu isolamento relativo, Lisa precisa do olhar de terceiros, neste caso do médico, mas este tão-pouco está seguro de conseguir sozinho lidar com o enigmático mal que afeta Lisa e, sobretudo, de ser capaz de lhe dar conta das suas próprias conclusões, sem que ela com ele interaja. É interessante verificar que o tal diálogo crucial entre médico e paciente é, contra as nossas expectativas, verbalmente enxuto, não muito longo e transmite alguma insegurança de Koroliov: a linguagem técnica da medicina não lhe facilita nem garante o acesso ao íntimo desta criatura que se revelara, entretanto, inteligente e sensível; terá de recorrer a um outro tipo de linguagem. Quase instintivamente, o médico senta-se na borda da cama, pega na mão de Lisa, usa a primeira pessoa do plural, implicando-se no caso, partilhando com ela o que sente ter de lhe transmitir, mesmo sem saber bem como. Por outras palavras, trata-se dum verdadeiro diálogo, dado que ambos os interlocutores se respeitam, se colocam no mesmo patamar, e se vão reposicionando à medida que a conversa se desenrola, visando uma genuína troca de pontos de vista, um entendimento autêntico.</p>
+		<p>Não há aqui paternalismo, nem o médico se refugia no pedestal do seu saber técnico, antes, admite sentir-se embaraçado, constrangido, como sempre pode acontecer quando o encontro verdadeiro de dois seres humanos ocorre e os intervenientes procuram, em conjunto, uma verdade partilhável. Por isso, emergem nele sinais duma interdependência que não se esgota na relação clínica, antes a ultrapassa, já que Lisa admite que o que verdadeiramente lhe falta é um amigo, alguém em quem confie e com quem possa falar. A capacidade de gerar confiança, a abertura para o imponderável do que o outro tem para nos contar, a disponibilidade para a escuta atenta, a empatia, eis o que, neste diálogo, se encena e se insinua como ingredientes indispensáveis num encontro que se queira digno desse nome e produtivo. Nele o médico revela-se, afinal, não apenas em sintonia com a paciente, mas como um seu igual, e os sintomas de doença – a insónia e a taquicardia –, transmutam-se em sinais duma saudável reação a um contexto hostil e insalubre, e indiciam um instinto de vida de que ambos comungam: “A sua insónia é respeitável: seja como for, é um bom sinal. De facto, uma conversa como esta nossa teria sido impensável para os nossos pais; […] ora nós, a nossa geração, dormimos mal, atormentamo-nos, falamos muito e duvidamos sempre de termos ou não razão”<xref ref-type="bibr" rid="B1">
+				<sup>1</sup>
+			</xref> (p. 272).</p>
+		<p>Não interessa se o que Koroliov diz relativamente às diferenças geracionais é verdadeiro ou não, mas, sim, que tal serve como via de acesso e como garantia da necessária confiança viabilizadora do diálogo franco e aberto. O clínico prescindiu transitoriamente da linguagem da ciência, arriscou-se na fragilidade incerta da sua humanidade, cuidando de criar uma ponte para o outro…<sup>(</sup>
+			<xref ref-type="fn" rid="fn10">
+				<sup>k</sup>
+			</xref>
+			<sup>)</sup>.</p>
+		<p>Afinal, tudo se interliga e se nivela: o médico com a paciente, a governanta com os donos da fábrica, estes com os operários e, finalmente, os elementos naturais com o universo humano.</p>
+		<p>Tudo está, aqui, em estreita interdependência: ao avaliar o ecossistema que envolve a doente, o médico é levado a um diagnóstico que, como tantas vezes acontece, excede a sua competência clínica e o seu saber científico. A vida mecanizada, insalubre e irracional gerada pela industrialização repercute-se nos corpos e nos espíritos, em geral, mas especialmente nos mais sensíveis, e exige uma abordagem holística, que tenha em conta a pessoa como um todo, na multiplicidade das suas pertenças, constrangimentos, compromissos e circunstâncias.</p>
+		<p>Em diagnose certeira do atual estado de coisas na área da saúde, João Lobo Antunes, em obra recente, intitulada A Nova Medicina, traça o seguinte quadro:</p>
+		<disp-quote>
+			<p>Um facto surpreendente é que o progresso da biomedicina veio aumentar paradoxalmente a incerteza da decisão médica. […]</p>
+			<p>Ainda hoje na prática clínica o diagnóstico começa com a colheita da história, o exame físico – agora um pouco menosprezado pela abundância e rigor das técnica</p>
+			<p>s de imagem – a que se segue o recurso a exames auxiliares de diagnóstico. Na Nova Medicina a imagem quase aboliu a narrativa da doença, em parte porque o médico tem menos tempo para ouvir […], e porque o próprio doente tem dificuldade em explicar as suas queixas e acha que a doença está claramente revelada nas imagens obtidas.</p>
+			<p>A prevalência dos exames auxiliares de diagnóstico e, sobretudo, das imagens, tenderam a negligenciar os aspectos verbais, ou melhor, narrativos, inerentes à prática clínica: ouve-se menos o doente e dá-se-lhe menos espaço na consulta, porque o seu testemunho verbal foi desvalorizado.<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>(p. 29-30)</p>
+		</disp-quote>
+		<p>Pode dizer-se que é neste contexto, neste equilíbrio difícil entre objetividade e rigor científicos e o reconhecimento da necessidade das palavras, do relato verbal, que emerge a Medicina Narrativa ou as Humanidades Médicas<sup>(</sup>
+			<xref ref-type="fn" rid="fn11">
+				<sup>l</sup>
+			</xref>
+			<sup>)</sup>, como também têm sido chamadas. Trata-se dum campo de estudo que, nas últimas décadas, tem vindo a chamar a atenção para a necessidade de um recentramento na relação intersubjetiva que caracteriza a prática clínica, atendendo e acudindo às competências comunicativas e a uma preparação humanística por parte do pessoal para/médico que coloque a relação com a pessoa do doente no centro dos cuidados. Para tanto, a Medicina Narrativa, profundamente interdisciplinar, tira partido do contributo de áreas do saber do âmbito das Humanidades, designadamente, dos Estudos Literários, da Filosofia, da Ética, da Antropologia, da Sociologia, entre outras. Se os anos oitenta do século passado testemunharam a emergência e a afirmação quase incontestada da “Medicina baseada na prova” (Evidence-based Medicine – EBM<sup>(</sup>
+			<xref ref-type="fn" rid="fn12">
+				<sup>m</sup>
+			</xref>
+			<sup>)</sup>), que abordaremos adiante, já o aparecimento desta nova área de investigação – Narrative-based Medicine – NBM ou Narrative Medicine – NM – tem conhecido menos protagonismo no âmbito das ciências médicas, muito embora não seja propriamente mais recente<sup>(</sup>
+			<xref ref-type="fn" rid="fn13">
+				<sup>n</sup>
+			</xref>
+			<sup>)</sup>. Foi, sobretudo, nas décadas de oitenta e noventa do século passado que se fizeram notar, de forma mais decidida, publicações e iniciativas conducentes a um movimento que hoje se manifesta a nível mundial, mas muito em particular no mundo anglo-saxónico. Refiro-me ao aparecimento de programas académicos como o da Universidade de Columbia, fundado em 2000, e a publicações como as de Richard Zaner, Tricia Greenhalgh, Brian Hurwitz ou Rita Charon.</p>
+		<p>A Medicina Narrativa, nas palavras da sua principal defensora, Rita Charon: “[é uma] medicina praticada com a competência narrativa para reconhecer, interpretar e ser levado a agir pela situação crítica dos outros”<xref ref-type="bibr" rid="B11">
+				<sup>11</sup>
+			</xref> (p. 83).</p>
+		<p>Em definição posterior e mais completa, Hurwitz contempla a diferença crucial entre singularidade biológica e a individualidade do doente (esta última objeto privilegiado da MN):</p>
+		<disp-quote>
+			<p>[a] Medicina Narrativa é uma prática e uma atitude intelectual que permite aos</p>
+			<p>médicos olhar para lá dos mecanismos biológicos no cerne das abordagens convencionais à prática médica</p>
+			<p>, e abarcar domínios de pensamento e modos de dizer que se focalizam na linguagem e na representação, nas emoções e relações que iluminam a prática dos cuidados de saúde.<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref> (p. 73, tradução e ênfase minhas)</p>
+		</disp-quote>
+		<p>Defende-se ser esta</p>
+		<disp-quote>
+			<p>a plataforma mais desenvolvida que existe para exercer clínica com as técnicas e a sensibilidade necessárias, a fim de sermos capazes decombinar o conhecimento clínico e científico com o entendimento interpessoal dos muitos e variados relatos encontrados nos cuidados de saúde individuais.<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref> (p. 84, tradução e ênfase minhas)</p>
+		</disp-quote>
+		<p>A questão central que hoje enfrentamos consiste em equilibrar os extraordinários avanços registados na medicina como ciência, ou melhor, na/s ciência/s médica/s, e a tendência para uma certa subalternização da relação interpessoal no encontro clínico, da escuta atenta da história do doente, da consideração do seu ambiente social e familiar, aspetos que, como se viu, alguns entendem ser consequência da crença inquestionada e (quase) exclusiva no valor decisivo dos exames auxiliares de diagnóstico e, sobretudo, no rigor das técnicas de imagem.</p>
+		<p>Esta nova área interdisciplinar, focando-se na linguagem e/ou na representação, não rejeita os avanços científicos, antes, depende deles, mas combina-os com outras disciplinas, derivando sustento intelectual de domínios que vão além da estrita ciência, designadamente o das artes. Assume-se como atividade interpretativa e provisória, inalienável do contexto situacional em que é praticada<xref ref-type="bibr" rid="B12">
+				<sup>12</sup>
+			</xref>.</p>
+		<p>Não sinalizando, propriamente, uma preocupação nova na medicina clínica, a MN é, porém, um campo inovador no modo como, pela primeira vez, conjuga a prática médica com áreas de investigação alheias a ela<xref ref-type="bibr" rid="B12">
+				<sup>12</sup>
+			</xref>. E responde, modernamente, ao crescente domínio do paradigma científico de base positivista, aliado a um profissionalismo algo estreito no exercício da clínica. A MN apareceu como o necessário complemento à institucionalização desse paradigma duro no exercício da arte médica, de base tecnológica, instalado no início dos anos oitenta do século XX e concretizado pela já referida EBM<xref ref-type="bibr" rid="B10">
+				<sup>10</sup>
+			</xref>.</p>
+		<p>O que devemos entender por EBM? Nas palavras de um dos seus defensores: “[a] Medicina baseada na prova, ou medicina factual, define-se como a utilização consciente e judiciosa dos melhores e mais atualizados dados (provas) da investigação clínica, atendendo à especificidade de cada doente”<xref ref-type="bibr" rid="B13">
+				<sup>13</sup>
+			</xref> (p. 71, tradução minha).</p>
+		<p>Tais provas advêm de estudos clínicos sistemáticos, submetidos a testes extensivos de carácter aleatório, a meta-análises, a estudos transversais ou estudos de acompanhamento fidedignos. A EBM preconiza o recurso a uma revisão sistemática da melhor literatura médica disponível (sujeita a arbitragem científica), análise de risco/benefício e testes de controlo randomizado. Consiste, pois, em basear as decisões clínicas não apenas em conhecimentos teóricos, no julgamento e na experiência (principais componentes da medicina tradicional), mas, também, nas provas científicas, ou seja, os conhecimentos dedutíveis a partir de investigação científica sistemática, realizada sobretudo no plano do diagnóstico, do prognóstico e do tratamento de doenças e que se baseiam em resultados validados e aplicáveis na prática médica corrente.</p>
+		<p>Ainda que os seus defensores aleguem não prescindir do julgamento e da experiência médicas e afirmem que a EBM é complementar em relação à prática médica tradicional, a verdade é que esta orientação acentuou o pendor cientificizante da “nova medicina” e levou os médicos, em gesto defensivo<sup>(</sup>
+			<xref ref-type="fn" rid="fn14">
+				<sup>o</sup>
+			</xref>
+			<sup>)</sup>, a uma utilização excessiva de todo este tipo de resultados e decorrentes dados estatísticos, duma multiplicidade de testes e técnicas auxiliares de diagnóstico, o que determinou um aumento exponencial do número de exames (muitas vezes desnecessários), com riscos acrescidos para os doentes e um aumento significativo dos custos na saúde<sup>(</sup>
+			<xref ref-type="fn" rid="fn15">
+				<sup>p</sup>
+			</xref>
+			<sup>)</sup>.</p>
+		<p>Apesar de tudo, julgo que não devemos encorajar uma visão contraditória entre EBM e NBM/MN, mas, antes, como defende Parker<xref ref-type="bibr" rid="B16">
+				<sup>16</sup>
+			</xref>, afirmar que a EBM, devidamente concebida e complementada pela MN, pode constituir a condição necessária para o exercício consciente da liberdade clínica nos nossos dias.</p>
+		<p>Mas a MN não preconiza apenas que os profissionais de saúde estejam somente atentos e disponíveis para acolher, na história clínica, as informações mais salientes do enredo que, pelo seu relato, o doente veicula, mas, também, que sejam recetivos e capazes de registar e descodificar a linguagem peculiar usada para o narrar, linguagem essa que, por vezes, pode até entrar em conflito com o ostensivo enredo da história relatada. Inspirando-se no método de leitura do New Criticism – o close reading, Charon gosta de usar a expressão close listening, para se referir ao tipo de atenção que o médico deve prestar ao que o doente lhe transmite. Pela capacidade de registarem o tipo de metáforas utilizadas, a repetição insistente de certas expressões, o ponto de vista e a sequência temporal adotados, as ambiguidades, os silêncios, entre outras características discursivas, os profissionais de saúde perceberão melhor e poderão, mais cabalmente, diagnosticar a situação psicossomática particular do doente que têm perante si. E isto só se consegue com treino. Charon defende que: “o treino narrativo ao nível da leitura e da escrita contribui para a eficácia clínica”<xref ref-type="bibr" rid="B17">
+				<sup>17</sup>
+			</xref> (p.107). E acrescenta: “o tipo de decisões terapêuticas que tomamos pode ser marcadamente diferente do processo de decisão convencional, como resultado do aprofundamento narrativo da relação medico-doente”<xref ref-type="bibr" rid="B17">
+				<sup>17</sup>
+			</xref> (p.191).</p>
+		<p>À leitura dos sinais do corpo, deve aduzir-se uma descodificação das narrativas e outros indícios verbais e não verbais dos doentes, e uma consciência dos aspetos éticos e socioculturais envolvidos. Tal requer uma predisposição cognitiva particular que só uma formação humanística – aliada ao conhecimento e à experiência clínica – pode promover<xref ref-type="bibr" rid="B18">
+				<sup>18</sup>
+			</xref>
+			<sup>,</sup>
+			<xref ref-type="bibr" rid="B19">
+				<sup>19</sup>
+			</xref>. Esta apreensão e decifração da situação humana específica que, num determinado momento, caracteriza o doente, e que conduz ao diagnóstico, será tanto ou mais competente e eficaz quanto o profissional de saúde dispuser dos instrumentos de análise e interpretação capazes de lhe permitirem fazer sentido do relato que ouve. Parte desses instrumentos pode ser-lhe facultada pelos estudos literários, em geral, e, em particular, pelos contributos dados mais recentemente pela narratologia<xref ref-type="bibr" rid="B20">
+				<sup>20</sup>
+			</xref>.</p>
+		<p>O reconhecimento desta necessária complementaridade entre um conhecimento científico de pendor universalizante, característico das ciências biológicas, e uma abordagem atenta e aberta às ressonâncias peculiares do caso histórico concreto que, no encontro clínico e na história clínica, vão sendo reveladas, ecoa a distinção estabelecida por Aristóteles, na sua Ética a Nicómaco, entre dois tipos de conhecimento. Refiro-me à díade sabedoria filosófica e sabedoria prática que, fazendo, ambas, parte do lado racional da alma, são de índole bem diferente. Orientada para a ação, a sabedoria prática não se ocupa apenas com universais, como é característico da sabedoria filosófica, mas, antes, atende aos factos particulares imediatos, conhecidos pela experiência. É este tipo de sabedoria que permite corrigir o raciocínio e conduz à excelência da deliberação, fim visado pelo ato clínico<sup>(</sup>
+			<xref ref-type="fn" rid="fn16">
+				<sup>q</sup>
+			</xref>
+			<sup>)</sup>.</p>
+		<p>A importância do reconhecimento duma interdependência entre saber científico, de carácter objetivo, com valor universalizante, e um outro tipo de saber, atento à situação contextual particular e, nesse sentido, provisório e dependente dum ato hermenêutico complexo, foi o que, em parte pelo menos, terá levado Lennard J. Davis e David B. Morris a publicarem, em 2007, o seu manifesto a favor do que designam de “biocultures” [“biocultura/s”], onde defendem o seguinte:</p>
+		<disp-quote>
+			<p>Pensar na ciência sem incluir uma análise histórica e cultural seria como pensar o texto literário sem a teia contextual dos conhecimentos discursivos, ativos ou dormentes, em momentos particulares. É igualmente limitado pensar na literatura […] sem considerar a rede de sentidos que podem ser aprendidos a partir duma perspetiva científica. […]</p>
+			<p>O biológico sem o cultural, ou o cultural sem o biológico, está condenado a ser reducionista, na melhor das hipóteses, e falho de rigor, na pior.<xref ref-type="bibr" rid="B22">
+					<sup>22</sup>
+				</xref> (p. 411, tradução e ênfases minhas)</p>
+		</disp-quote>
+		<p>Com este termo, “biocultura/s,” pretendem validar e consolidar uma multiplicidade de experiências interdisciplinares que já estavam no terreno em inúmeras universidades e que vão desde as “Humanidades Médicas” ou “Medicina Narrativa” à história da medicina, passando pela: saúde pública, bioética, epidemiologia, estudos de identidade e do corpo, antropologia médica, sociologia médica, filosofia da medicina etc. Contestam, ainda, a legitimidade da tradicional fronteira entre as chamadas ciências duras e as restantes, por defenderem “a existência duma comunidade de intérpretes, transversal às disciplinas, intérpretes que estão dispostos a aprender uns com os outros”<xref ref-type="bibr" rid="B22">
+				<sup>22</sup>
+			</xref> (p. 416, tradução e ênfase minhas).</p>
+		<p>Na atual conjuntura, seria vantajoso que o pessoal de saúde e, em particular, os médicos se encarassem como membros duma “comunidade de intérpretes,” e, nesse sentido, valorizassem as competências interpretativas postuladas pelas exigências da “nova medicina”. Mas tal só se concretizará por via duma mudança de atitude, e esta só ocorrerá quando se abandonarem hábitos e uma mentalidade ainda agora demasiado arreigados no exercício da medicina. Treinado para curar, convicto de que a/s ciência/s médica/s e os seus inegáveis progressos são garantia de sucesso, o aluno das atuais escolas médicas não está preparado para admitir que não sabe ou que se enganou<xref ref-type="bibr" rid="B15">
+				<sup>15</sup>
+			</xref>. Daí que, quando confrontados com situações que fogem ao formato tipificado ou ao caso documentado e estatisticamente previsto, para já não falar do fracasso dos tratamentos, estes candidatos a médicos experimentem situações de ansiedade e desespero que nada deveria justificar. Conforme defende Newmann, a moderna ciência e, sobretudo, a Medicina “continua a tratar o organismo humano como um modelo de causa e efeito, uma máquina cartesiana com funções previsíveis e mensuráveis no mundo físico”. Ora, tal pressuposto é claramente inadequado, e não tem em conta a complexidade das “maquinações internas do corpo humano,” a grande maioria das quais está ainda por compreender<xref ref-type="bibr" rid="B15">
+				<sup>15</sup>
+			</xref> (p. 34). Além disso, ignora ainda um outro fator, para o qual a física quântica chamou a nossa atenção: a importância do observador. Conforme argumenta Newmann:</p>
+		<disp-quote>
+			<p>[o] modelo estóico do médico moderno que apoiamos – um observador objectivo e distante – não existe. A nossa presença altera a trajectória da doença e tem impacto sobre a experiência humana. Não somos espectadores indiferentes, nem devemos sê-lo; fazemos parte integrante e poderosa tanto da doença como da cura.<xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref> (p. 223)</p>
+		</disp-quote>
+		<p>É isso mesmo que nos ensina o conto de Tchékhov, ao propor-nos um protagonista-médico que, confrontado com uma situação enigmática e atípica, acaba por envolver-se, deixando-se impregnar pelo ambiente que rodeia a paciente e tornando-se, assim, ‘parte integrante da cura’.</p>
+		<p>Jack Coulehan, observador atento do uso de narrativas e de metáforas em medicina, mostrou-nos como a linguagem prevalecente na prática clínica reflete uma cultura que torna o doente num objeto e, o médico, alguém investido de poder para abordar esse doente-corpo, subalternizado<xref ref-type="bibr" rid="B23">
+				<sup>23</sup>
+			</xref>. Por exemplo, tome-se a expressão inglesa: “history taking” [em português, “colheita da história”], também ela metafórica, em que o peso conceptual de “history” sugere a objetivação do que o doente relata, ao mesmo tempo que está implícito tratar-se duma entidade que encontraremos se a procurarmos de modo suficientemente agressivo, tal como se procura uma caixa negra por entre os destroços da vida do doente. O verbo “taking” sugere, implicitamente, uma violação do doente. O médico como que arranca a história ao doente, como quem arranca um dente ou remove um apêndice. A “colheita” em português, outra metáfora, também ela sugere um acto agressivo, rapace, sublinhando a passividade do doente.</p>
+		<p>Coulehan analisa, ainda, as metáforas mais recorrentes no discurso médico, e chama a atenção para as três mais usuais: a da guerra (a doença é o inimigo e o médico, qual comandante das tropas, propõe-se vencê-la), a paternal (a doença vista como ameaça e o médico como protetor) e a da engenharia (a doença como disfunção e o médico como técnico).</p>
+		<p>Com o declínio das metáforas paternalistas, que a medicina contemporânea baniu, ganharam mais força as metáforas militares e mecânicas. Em ambos os casos, porém, a subalternidade do doente e a redução deste ou do seu corpo à dimensão de objeto são inescapáveis. Tal vai de par com a conceção do médico como um observador objectivo e distante, detentor do saber, que não se envolve.</p>
+		<p>Numa época em que, constantemente, somos surpreendidos pelo reconhecimento da nossa interdependência global, seja em termos climáticos, políticos ou económicos, talvez fizesse mais sentido, como alguém sugeriu, substituir estas metáforas por outras mais holísticas; refiro-me a metáforas ambientalistas, cujos pressupostos remetem para a inter-relação entre as partes envolvidas e entre estas e o todo, evocativas da integralidade dinâmica quer do corpo social quer do corpo físico.</p>
+		<disp-quote>
+			<p>O tratamento bem-sucedido da dor exige mais comunicação entre doente e médico, comunicação entre os vários profissionais e uma visão da medicina como qualquer coisa de inacabado e de integrativo, mais do que especializado, estandardizado e baseado em tecnologia. […] Talvez as metáforas devessem mudar do terreno da guerra para o do ambiente. A medicina precisa de procurar ir para lá da consideração de sintomas isolados e de soluções agressivas e posicionar-se ao nível da ecologia de sistema alargado.<sup>(</sup>
+				<xref ref-type="fn" rid="fn17">
+					<sup>r</sup>
+				</xref>
+				<sup>)</sup>
+			</p>
+		</disp-quote>
+		<p>Em última análise, o que a MN propõe é que venham a mudar-se as metáforas, e, com elas, toda uma cultura que tem caracterizado o modo como a medicina é hoje praticada. Não duvidamos de que se trata dum processo lento e com muitos obstáculos, mas a boa notícia é que ele já foi iniciado. Acreditamos, ainda, que os estudos literários, apesar de toda a sua história recente, caracterizada por antagonismos e clivagens, movimentos de ação/reação sucessivos ou, se calhar, precisamente por causa de tudo isso, atingiram uma maturidade que, no indispensável diálogo interdisciplinar, lhes permite darem um contributo decisivo, se souberem ser criteriosos no uso dos seus melhores instrumentos e métodos. E, para além do mais, não nos esqueçamos de que, como alguém fez questão de assinalar: “Mais do que qualquer outro assunto, a literatura presta-se a um ensino poderoso”<sup>(</sup>
+			<xref ref-type="fn" rid="fn18">
+				<sup>s</sup>
+			</xref>
+			<sup>) </sup>(Tradução minha).</p>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referências</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>Tchékhov A. Contos. Guerra N, Guerra F, tradutores. Lisboa: Relógio d’Água Editores; 2006. v. 6, p. 261-73.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tchékhov</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Contos</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Guerra</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Guerra</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Lisboa</publisher-loc>
+					<publisher-name>Relógio d’Água Editores</publisher-name>
+					<year>2006</year>
+					<volume>6</volume>
+					<fpage>261</fpage>
+					<lpage>273</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>Tchékhov A. A doctor’s visit. In: Coulehan J, editor. Tchékhov’s doctors: a collection of Tchékhov’s medical tales. Kent: Kent State University Press; 2003. p. 174-82.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tchékhov</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="en">A doctor’s visit</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Coulehan</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Tchékhov’s doctors: a collection of Tchékhov’s medical tales</source>
+					<publisher-loc>Kent</publisher-loc>
+					<publisher-name>Kent State University Press</publisher-name>
+					<year>2003</year>
+					<fpage>174</fpage>
+					<lpage>182</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>Del Lungo A. L’Incipit romanesque. Paris: Éditions du Seuil; 2003. (Coll. Poétique)</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Del Lungo</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">L’Incipit romanesque</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Éditions du Seuil</publisher-name>
+					<year>2003</year>
+					<comment>(Coll. Poétique)</comment>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>Shelley PB. A defence of poetry. In: Enright DJ, De Chickera E, editores. English critical texts (1962). Delhi: Oxford University Press; 1979. p. 225-55.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shelley</surname>
+							<given-names>PB</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="en">A defence of poetry</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Enright</surname>
+							<given-names>DJ</given-names>
+						</name>
+						<name>
+							<surname>Chickera</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">English critical texts (1962)</source>
+					<publisher-loc>Delhi</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+					<year>1979</year>
+					<fpage>225</fpage>
+					<lpage>255</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>Stanzel FK. A theory of narrative. Goedsche C, tradutor. Cambridge: Cambridge University Press; 1984.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stanzel</surname>
+							<given-names>FK</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">A theory of narrative</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Goedsche</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+					<year>1984</year>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>Cohn D. Transparent minds: narrative modes for presenting consciousness in fiction. Princeton: Princeton University Press; 1978.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cohn</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Transparent minds: narrative modes for presenting consciousness in fiction</source>
+					<publisher-loc>Princeton</publisher-loc>
+					<publisher-name>Princeton University Press</publisher-name>
+					<year>1978</year>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>Ricoeur P. Soi même comme un autre. Paris: Seuil; 1990.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ricoeur</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="fr">Soi même comme un autre</source>
+					<publisher-loc>Paris</publisher-loc>
+					<publisher-name>Seuil</publisher-name>
+					<year>1990</year>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>Bakhtin MM. Art and answerability: early philosophical essays. Holquist M, editor; Liapunov V, tradutor; Brostrom K, tradutor do suplemento. Austin: University of Texas Press; 1990.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bakhtin</surname>
+							<given-names>MM</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Art and answerability: early philosophical essays</source>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Holquist</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Liapunov</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Brostrom</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Austin</publisher-loc>
+					<publisher-name>University of Texas Press</publisher-name>
+					<year>1990</year>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>Hippocrates. Epidemics 1st, 11 [acesso 2014 Abr 15]. Disponível em: http://www.humanehealthcare.com/Article.asp?art_id=806</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Hippocrates</collab>
+					</person-group>
+					<source xml:lang="en">Epidemics 1st</source>
+					<comment>11</comment>
+					<date-in-citation content-type="access-date">
+						<year>2014</year>
+						<month>Abr</month>
+						<day>15</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://www.humanehealthcare.com/Article.asp?art_id=806">http://www.humanehealthcare.com/Article.asp?art_id=806</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>Antunes JL. A nova medicina. Lisboa: Fundação Francisco Manuel dos Santos; 2012.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Antunes</surname>
+							<given-names>JL</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">A nova medicina</source>
+					<publisher-loc>Lisboa</publisher-loc>
+					<publisher-name>Fundação Francisco Manuel dos Santos</publisher-name>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>Charon R. Narrative medicine: form, function, and ethics. Ann Intern Med. 2001; 134: 83-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Charon</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Narrative medicine: form, function, and ethics</article-title>
+					<source>Ann Intern Med</source>
+					<year>2001</year>
+					<volume>134</volume>
+					<fpage>83</fpage>
+					<lpage>87</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation>Hurtwitz B. Narrative (in) Medicine. In:Spinozzi P, Hurtwitz B, editores. Discourses and Narrations in the Biosciences. Göttingen: Vandenhoeck &amp; Ruprecht Unipress; 2011. p. 73-87.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Hurtwitz</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="en">Narrative (in) Medicine</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Spinozzi</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Hurtwitz</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Discourses and Narrations in the Biosciences</source>
+					<publisher-loc>Göttingen</publisher-loc>
+					<publisher-name>Vandenhoeck &amp; Ruprecht Unipress</publisher-name>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation>Sackett DL, Rosenberg WM, Gray JA, Haynes RB, Richardson WS. Evidence Based Medicine: what it is and what it isn’t. Br Med J. 1996; 312:71-2.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sackett</surname>
+							<given-names>DL</given-names>
+						</name>
+						<name>
+							<surname>Rosenberg</surname>
+							<given-names>WM</given-names>
+						</name>
+						<name>
+							<surname>Gray</surname>
+							<given-names>JA</given-names>
+						</name>
+						<name>
+							<surname>Haynes</surname>
+							<given-names>RB</given-names>
+						</name>
+						<name>
+							<surname>Richardson</surname>
+							<given-names>WS</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Evidence Based Medicine: what it is and what it isn’t</article-title>
+					<source>Br Med J</source>
+					<year>1996</year>
+					<volume>312</volume>
+					<fpage>71</fpage>
+					<lpage>72</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation>Newman DH. Hippocrates’ shadow. New York: Scribner; 2008.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Newman</surname>
+							<given-names>DH</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Hippocrates’ shadow</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Scribner</publisher-name>
+					<year>2008</year>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation>Newman DH. Onde falham os médicos. Lucas AG, tradutor. Alfragide: Casa das Letras; 2010.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Newman</surname>
+							<given-names>DH</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Onde falham os médicos</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Lucas</surname>
+							<given-names>AG</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>Alfragide</publisher-loc>
+					<publisher-name>Casa das Letras</publisher-name>
+					<year>2010</year>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation>Parker M. False dichotomies: EBM, clinical freedom and the art of medicine. Med Humanit [Internet]. 2005 [acesso 2012 Ago 8]; 31(1):23-30. Disponível em: http://mh.bmj.com/content/31/1/23.full</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parker</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">False dichotomies: EBM, clinical freedom and the art of medicine</article-title>
+					<source>Med Humanit [Internet]</source>
+					<year>2005</year>
+					<date-in-citation content-type="access-date">
+						<year>2012</year>
+						<month>Ago</month>
+						<day>8</day>
+					</date-in-citation>
+					<volume>31</volume>
+					<issue>1</issue>
+					<fpage>23</fpage>
+					<lpage>30</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://mh.bmj.com/content/31/1/23.full">http://mh.bmj.com/content/31/1/23.full</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation>Charon R. Narrative medicine: honoring the stories of illness. Oxford: Oxford University Press; 2006.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Charon</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Narrative medicine: honoring the stories of illness</source>
+					<publisher-loc>Oxford</publisher-loc>
+					<publisher-name>Oxford University Press</publisher-name>
+					<year>2006</year>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation>Tauber AI. Science and the quest for meaning. Waco: Baylor University Press; 2009.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tauber</surname>
+							<given-names>AI</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Science and the quest for meaning</source>
+					<publisher-loc>Waco</publisher-loc>
+					<publisher-name>Baylor University Press</publisher-name>
+					<year>2009</year>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation>Danou G. Langue, récit, littérature dans l’éducation médicale. Limoges: Éditions-Lucas; 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Danou</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="fr">Langue, récit, littérature dans l’éducation médicale</source>
+					<publisher-loc>Limoges</publisher-loc>
+					<publisher-name>Éditions-Lucas</publisher-name>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation>Fernandes I. Confronting the other: the interpersonal challenge in narrative medicine. In: Fernandes I, editor. Creative dialogues: narrative and medicine. Cambridge: Cambridge Scholars Publishing. Forthcoming.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernandes</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="en">Confronting the other: the interpersonal challenge in narrative medicine</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Fernandes</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Creative dialogues: narrative and medicine</source>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge Scholars Publishing</publisher-name>
+					<comment>Forthcoming</comment>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation>Aristóteles. Ética a Nicómaco [Internet]. Vallandro L, Bornheim G, tradutores. São Paulo: Abril Cultural; 1984. Livro VI, cap. 7, p. 145-7 [acesso 2014 Ago 8]. Disponível em: http://sumateologica.files.wordpress.com/2009/07/aristoteles_-_metafisica_etica_a_nicomaco_politica.pdf</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Aristóteles</collab>
+					</person-group>
+					<source xml:lang="pt">Ética a Nicómaco [Internet]</source>
+					<person-group person-group-type="translator">
+						<name>
+							<surname>Vallandro</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Bornheim</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Abril Cultural</publisher-name>
+					<year>1984</year>
+					<comment>Livro VI, cap. 7</comment>
+					<fpage>145</fpage>
+					<lpage>147</lpage>
+					<date-in-citation content-type="access-date">
+						<year>2014</year>
+						<month>Ago</month>
+						<day>8</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://sumateologica.files.wordpress.com/2009/07/aristoteles_-_metafisica_etica_a_nicomaco_politica.pdf">http://sumateologica.files.wordpress.com/2009/07/aristoteles_-_metafisica_etica_a_nicomaco_politica.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation>Davis LJ, Morris DB. Biocultures manifesto. New Lit Hist. 2007; 38(3):411-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Davis</surname>
+							<given-names>LJ</given-names>
+						</name>
+						<name>
+							<surname>Morris</surname>
+							<given-names>DB</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Biocultures manifesto</article-title>
+					<source>New Lit Hist</source>
+					<year>2007</year>
+					<volume>38</volume>
+					<issue>3</issue>
+					<fpage>411</fpage>
+					<lpage>418</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation>Coulehan J. Metaphor and medicine: narrative in clinical practice. Yale J Biol Med [Internet]. 2003 [acesso 2012 Ago 21]; 76:87-95. Disponível em: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2582695/pdf/yjbm00203-0044.pdf</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Coulehan</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Metaphor and medicine: narrative in clinical practice</article-title>
+					<source>Yale J Biol Med [Internet]</source>
+					<year>2003</year>
+					<date-in-citation content-type="access-date">
+						<year>2012</year>
+						<month>Ago</month>
+						<day>21</day>
+					</date-in-citation>
+					<volume>76</volume>
+					<fpage>87</fpage>
+					<lpage>95</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2582695/pdf/yjbm00203-0044.pdf">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2582695/pdf/yjbm00203-0044.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation>Jackson M. Pain: the science and culture of why we hurt. London: Bloomsbury; 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jackson</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Pain: the science and culture of why we hurt</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Bloomsbury</publisher-name>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<label>25</label>
+				<mixed-citation>Harpham GG. Politics, professionalism, and the pleasure of reading. Daedalus. 2005; 134(3):68-75.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Harpham</surname>
+							<given-names>GG</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Politics, professionalism, and the pleasure of reading</article-title>
+					<source>Daedalus</source>
+					<year>2005</year>
+					<volume>134</volume>
+					<issue>3</issue>
+					<fpage>68</fpage>
+					<lpage>75</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+		<fn-group>
+			<fn id="fn1">
+				<label>b</label>
+				<p>O conto foi também publicado no Brasil, com o título “Um caso clínico.” Segui a tradução em português europeu<xref ref-type="bibr" rid="B1">
+						<sup>1</sup>
+					</xref>. Sempre que esta se manifestou menos satisfatória, recorri à tradução inglesa constante da antologia de Jack Coulehan, com o título “A Doctor’s Visit”<xref ref-type="bibr" rid="B2">
+						<sup>2</sup>
+					</xref>.</p>
+			</fn>
+			<fn id="fn2">
+				<label>c</label>
+				<p> Sobre a importância dos chamados “incipit,” veja-se, por exemplo, Andréa Del Lungo<xref ref-type="bibr" rid="B3">
+						<sup>3</sup>
+					</xref>.</p>
+			</fn>
+			<fn id="fn3">
+				<label>d</label>
+				<p>Sobre isto, uso os termos e conceitos utilizados na palestra “Bioética e Humanização”, proferida por Diego Gracia, em 31 de março de 2014, no Congresso Internacional Humanidades e Humanização em Saúde, promovido pela FMUSP, em São Paulo, Brasil. Qualquer incorreção ou deturpação de leitura é, porém, da minha total responsabilidade.</p>
+			</fn>
+			<fn id="fn4">
+				<label>e</label>
+				<p>Faço-me eco da expressão sartriana: “être en situation,” no sentido de sermos o resultado dum feixe de circunstâncias e pertenças mas não, em última instância, determinados por elas.</p>
+			</fn>
+			<fn id="fn5">
+				<label>f</label>
+				<p> Estamos perante o artifício dialógico que F. K. Stanzel designa de reflectorização e que origina o que chama de situação narrativa figural, em que uma personagem é usada como reflectora<xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref>.</p>
+			</fn>
+			<fn id="fn6">
+				<label>g</label>
+				<p> Cf. Stanzel, segundo o qual, a situação narrativa figural convida à empatia com a personagem-reflectora ou detentora da focalização<xref ref-type="bibr" rid="B5">
+						<sup>5</sup>
+					</xref>.</p>
+			</fn>
+			<fn id="fn7">
+				<label>h</label>
+				<p>Dorrit Cohn usa o termo “quoted monologue” para designar este artifício narrativo, em narrativas de terceira pessoa<xref ref-type="bibr" rid="B6">
+						<sup>6</sup>
+					</xref>.</p>
+			</fn>
+			<fn id="fn8">
+				<label>i</label>
+				<p>Veja-se uma obra como Soi même comme un autre, por exemplo<xref ref-type="bibr" rid="B7">
+						<sup>7</sup>
+					</xref>.</p>
+			</fn>
+			<fn id="fn9">
+				<label>j</label>
+				<p>Esta necessária interdependência e colaboração faz lembrar o célebre triângulo hipocrático: “The [medical] Art consists of three factors, the disease, the patient and the physician. The physician is the servant of the Art. The patient must cooperate with the physician in combating the disease”<xref ref-type="bibr" rid="B9">
+						<sup>9</sup>
+					</xref> (p. 1).</p>
+			</fn>
+			<fn id="fn10">
+				<label>k</label>
+				<p>A única personagem que, neste conto, tem a pretensão de usar uma linguagem médico-científica é a governanta, que macaqueia o idioleto médico, procurando, assim, representar o papel que julga se espera dela. Trata-se de mais uma comparação, neste caso, irónica.</p>
+			</fn>
+			<fn id="fn11">
+				<label>l</label>
+				<p> As designações variam, com os EUA privilegiando a designação “Narrative Medicine” (Medicina Narrativa - MN), e outros países, como o Reino Unido, preferindo a designação mais abrangente: “Medical Humanities” (Humanidades Médicas), a que correspondem, em França, as “humanités médicales.” Daí, por exemplo, o nome do programa pioneiro nos EUA: Program in Narrative Medicine, sediado no New York’s College of Physicians and Surgeons da Universidade de Columbia.</p>
+			</fn>
+			<fn id="fn12">
+				<label>m</label>
+				<p> Preferimos traduzir “Evidence-based Medicine” por “Medicina baseada na prova,” dado que a tradução corrente: “Medicina baseada na evidência” atraiçoa o sentido do termo inglês “evidence,” o qual reclama, ao contrário do português, para ser incontestado, ser antes provado.</p>
+			</fn>
+			<fn id="fn13">
+				<label>n</label>
+				<p>Note-se que já o aparecimento dos Grupos Balint na década de cinquenta do século XX sinalizava a existência dum mal-estar e da necessidade de o colmatar: reconhecendo que a consulta médica é, no essencial, um ato de relação, visavam amparar o clínico, fazendo-o partilhar inter pares os dilemas e dificuldades da sua relação com o doente concreto e singular. O objetivo seria o de fomentar uma atitude mais empática e mais autoconsciente, abrindo caminho a uma relação de confiança entre ambos. (Fonte: http://www.apmgf.pt/ficheiros/Boletim_Inscricao_Balint.pdf)</p>
+			</fn>
+			<fn id="fn14">
+				<label>o</label>
+				<p>A expressão “medicina defensiva” é usada, a este propósito, por Antunes<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref> (p.24).</p>
+			</fn>
+			<fn id="fn15">
+				<label>p</label>
+				<p> A este respeito, além de Antunes<xref ref-type="bibr" rid="B10">
+						<sup>10</sup>
+					</xref>, veja-se, também, David H. Newman<xref ref-type="bibr" rid="B14">
+						<sup>14</sup>
+					</xref>
+					<sup>,</sup>
+					<xref ref-type="bibr" rid="B15">
+						<sup>15</sup>
+					</xref>.</p>
+			</fn>
+			<fn id="fn16">
+				<label>q</label>
+				<p>Cf. Aristóteles, Ética a Nicómaco<xref ref-type="bibr" rid="B21">
+						<sup>21</sup>
+					</xref>. Agradeço ao Professor Diego Gracia a chamada de atenção para a pertinência desta distinção aristotélica.</p>
+			</fn>
+			<fn id="fn17">
+				<label>r</label>
+				<p>O autor continua: “Politicamente, pensar global tornou-se mais uma necessidade do que uma opção ideológica. As fronteiras já não protegem ninguém. A nossa relação com a terra tornou-se mais completa e inevitável. O mesmo se passa com a nossa saúde”<xref ref-type="bibr" rid="B24">
+						<sup>24</sup>
+					</xref> (p. 356-7, tradução minha).</p>
+			</fn>
+			<fn id="fn18">
+				<label>s</label>
+				<p>“More so than any other subject, literature lends itself to powerful teaching”<xref ref-type="bibr" rid="B25">
+						<sup>25</sup>
+					</xref> (p. 74).</p>
+			</fn>
+			<fn fn-type="financial-disclosure" id="fn19">
+				<label>*</label>
+				<p>O artigo apresentado resulta de investigação desenvolvida no âmbito do projecto “Medicina &amp; Narrativa – (Con)textos e práticas interdisciplinares” [Ref. PTDC/CPC-ELT/3719/2012], do CEAUL/ULICES – Centro de Estudos Anglísticos da Universidade de Lisboa, financiado pela FCT (Fundação para a Ciência e a Tecnologia).</p>
+			</fn>
+		</fn-group>
+	</back>
+	<sub-article article-type="translation" id="S01" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Articles</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Holistic readings: from Chekhov to narrative medicine<xref ref-type="fn" rid="fn19_en">
+						<sup>*</sup>
+					</xref>
+				</article-title>
+			</title-group>
+			<abstract>
+				<title>Abstract</title>
+				<p>The aim of this paper was to show how, in the short story “A Doctor’s Visit,” the Russian writer Anton Chekhov, himself a physician, creates a fictional narrative in which he draws attention to aspects of clinical practice that are rather overlooked today, namely: observation and evaluation of the environment in which patients live and aspects of their family, social and even sexual outlook, along with the crucial importance of the interpersonal dialogue-based relationship between doctor and patient. The attention indirectly drawn to this issue by Chekhov is here correlated with the current situation within the domain of clinical practice by invoking the concept of evidence-based medicine as the currently dominant paradigm in medical practice, and with the need for a complementary approach, namely by narrative-based medicine or narrative medicine.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<title>Keywords</title>
+				<kwd>Anton Chekhov</kwd>
+				<kwd>Evidence-based medicine</kwd>
+				<kwd>Narrative-based medicine</kwd>
+				<kwd>Narrative medicine</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<p>The Russian writer and physician Anton Chekhov (1860-1904) authored many famous short stories, among which “A Doctor’s Visit”, published in 1898, is the subject of the first part of the present article<xref ref-type="fn" rid="fn1_en">
+					<sup>(b)</sup>
+				</xref>.</p>
+			<p>For the benefit of those who are unfamiliar with the text, a brief summary is provided here. A prestigious physician in Moscow receives a telegram asking him to visit the factory owned by the Lyalikov family to attend the daughter of the factory owners. He, in turn, decides to send his assistant, Dr. Korolyov. However, his assistant is unable to detect any serious health problem in young Lisa, who has complained of anxiety, insomnia and palpitations. Seeing no more reason to stay, the assistant is ready to leave, but is then asked to stay overnight at the family house by the mother, who fears another night of insomnia and despair. Not being able to sleep, the physician wanders through the factory and adjacent areas at night. Then he has an “epiphany moment”, in which he realizes that there is a connection between the oppressive surroundings and the young girl’s illness. This perception of a social and spiritual malaise affecting that microcosm explains the patient’s symptoms to him and makes him deal with her in a different manner: from the distanced and professional viewpoint from which he had regarded the patient earlier, with no good results, to a more generous attention to the person and to Lisa’s situation, through engaging her in conversation. Now, in addition to the heart beats, he becomes attentive to the expression of her feelings, fears and anxieties, with which he sympathizes. She reveals to him that she is also convinced she does not suffer from any physical disease, while feeling restless and afraid. This conversation forms a turning point for the young lady, who comes to say goodbye to the doctor on the following morning, smiling and dressed in white, as if ready for a party.</p>
+			<p>I propose that we focus our attention on the opening paragraph(s). These are usually crucial for understanding what is truly at issue in the text; this aspect together with the identification of the most recurrent figures of speech are precious clues for interpretation<xref ref-type="fn" rid="fn2_en">
+					<sup>(c)</sup>
+				</xref>. Beginning with the opening of the narrative, we are told of a figure that will be absent from the short story: the anonymous Professor. We can immediately ask ourselves why, at the outset, to include a character with no interference in the unfolding events.</p>
+			<p>The Professor received a telegram from the Lyalikovs’ factory; he was asked to come as quickly as possible. The daughter of some Madame Lyalikova, apparently the owner of the factory, was ill, and that was all that one could make out of the long, incoherent telegram. And the Professor did not go himself, but sent instead his assistant, Korolyov.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref> (p.261)</p>
+			<p>Although seemingly inconsequent to the development of the story, mentioning the Professor’s attitude is, nevertheless, significant because he bases his decision not to respond to the appeal that is addressed to him on an interpretative act, i.e. through an act of reading. The fact that the telegram is “long” and “incoherent” devalues the person who wrote it, in his eyes, and thus he avoids the visit by delegating the task to his assistant.</p>
+			<p>Particular attention should be given to the act of reading as that which precedes and accompanies our actions and decisions and which, as we will see, signals the type of knowledge and decisions inherent to the clinical act as a deliberative act. That is, the clinical act is not merely cognitive, given that it is not limited to equating facts, but also involves emotions and values, as well as weighing up duties. Thus, the text indirectly draws attention to the complex hermeneutic character of medical practice as well as to its deliberative essence<xref ref-type="fn" rid="fn3_en">
+					<sup>(d)</sup>
+				</xref>. For there to be no doubts, the following passage describes what Korolyov sees on his way to the factory:</p>
+			<p>And now when the workpeople timidly and respectfully made way for the carriage, in their faces, their caps, their walk, <italic>he read</italic> physical impurity, drunkenness, nervous exhaustion, bewilderment.<xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref> (p.174) [my emphasis].</p>
+			<p>Chekhov is obviously committed to presenting physicians as readers, and as decoders of the signal systems that surround them, an aspect the text will address.</p>
+			<p>The central rhetorical device of the story is the simile. Indeed, comparisons are inescapable, not only because they are the most repeated figure of speech, but also because they inform the compositional structure of the narrative, as will be shown later on. For instance, as early as in the second paragraph, there is a reference to the coachman of the carriage that awaits Korolyov: “the coachman had wore a hat with a peacock’s feather on it, and answered every question in a loud voice <italic>like a soldier</italic>…”.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref> (p.261) [my emphasis]. Here, the first contact with a local inhabitant indicates, by means of comparison, a military-oriented world and its inherent discipline and power relationships, characteristics that will be echoed in the presentation of the factory.</p>
+			<p>The essence of comparisons (which, as is well known, are the basis of all metaphorical constructions) consists of bringing together different objects or planes in an integrative effort that, according to Percy Bysshe Shelley in his renowned <italic>A Defence of Poetry</italic> (written in 1821, but published posthumously in 1840), characterizes the poetic form itself. Starting from his affirmation regarding the difference between reason and imagination: “Reason respects the differences, and imagination the similitudes of things”, Shelley goes further and argues that poetry, as the expression of the integrative power of imagination, has a language that is “vitally metaphorical; that is, it marks the before unapprehended relations of things and perpetuates their apprehension”<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref> (p. 227).</p>
+			<p>It is significant that comparison is the most notable and recurrent rhetorical device in the story. Comparisons show the need for an integrative view or attitude towards the forces and multiple relationships that rule our existence as human beings and, more than ever, at critical moments such as a crisis or a disease, as is the case in this text.</p>
+			<p>Besides, in less microscopic terms, the story progresses by means of other comparisons or approximations, although not of a rhetorical-stylistic nature, but more in terms of its composition. The text is constructed and developed by means of successive comparisons among characters and between them and the environment. At the beginning, we are presented with the comparison between the housekeeper and the employers, followed by the comparison that assimilates Lisa to her mother, and finally the comparison between the physician and Lisa. In this latter case, the characters are united by a conspicuous and unexpected “us”, which, more than being merely a symptom of a common generational sensibility, goes deeper and signifies the sharing of human vulnerability, which ultimately unites physician and patient.</p>
+			<p>By correlating these two factors, i.e. the beginning of the text and its central rhetorical device, we can venture to say that Chekhov was interested in presenting to us a physician, whom we will consider to be an interpretive or competent reader, and a way to carry out clinical practice that considers the person of the patient in his/her domestic, familial and social context. In sum, instead of medicine that dissects or separates, he presents to us an integrative form of medicine that restores an overview of the patient <italic>in situ</italic>
+				<xref ref-type="fn" rid="fn4_en">
+					<sup>(e)</sup>
+				</xref>.</p>
+			<p>Let us see how this is done in the story under analysis. The story is a narrative with an omniscient heterodiegetic narrator, i.e. a third-person narrative, in which the point of view is given to the young man Korolyov: it is his view and his consciousness of the world that we follow<xref ref-type="fn" rid="fn5_en">
+					<sup>(f)</sup>
+				</xref>. This choice is significant: the invitation for the reader to share the young physician’s point of view signals his type of behavior and his type of vision as being worthy of attention, or, in other words, this choice invites empathy between the reader and this character<xref ref-type="fn" rid="fn6_en">
+					<sup>(g)</sup>
+				</xref>.</p>
+			<p>The climactic moment occurs when, at night, walking first around the perimeter of the factory and then in the adjacent areas, the physician becomes aware of the hostile and infernal environment, similar to that of a prison – an inescapable comparison that is communicated to us significantly in the monologue cited below<xref ref-type="fn" rid="fn7_en">
+					<sup>(h)</sup>
+				</xref>, in a sequence of descriptions in which the character’s senses of hearing and seeing are invoked, in witnessing the following scenario:</p>
+			<p>Near the third building he heard: “Zhuk… zhuk… zhuk…” And so near all the buildings, and then behind the barracks and beyond the gates. And in the stillness of the night it seemed as though these sounds were uttered by a monster with crimson eyes - the devil himself, who was controlled the owners and the workpeople alike, and was deceiving both.</p>
+			<p>Korolyov went out of the yard into the open country.</p>
+			<p>- Who goes there? – someone called to him at the gates in an abrupt voice.</p>
+			<p>“It’s just like being in prison,” he thought, and made no answer.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref> (p. 268)</p>
+			<p>But it is not only the surroundings of the factory that negatively affect the physician. The interior of the Lyalikov family’s house with its questionable taste and new-rich pretentiousness has the gift of irritating him. Moreover, the first impressions that he has of Lisa also induce his intuition that something is amiss at the level of the young lady’s sexuality, which makes him think: “It’s high time she was married”<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref> (p. 264).</p>
+			<p>We then become aware of the senseless enterprise that benefits no one: neither the workers, who are severely exploited and alienated, nor the owners, who also fall victim to their mechanized and insensitive system and their unhealthy environment, as shown through the premature death of Lisa’s father and the current suffering of the mother and daughter. The only and ironic exception to this irrational state of affairs seems to be the housekeeper, Khristina Dmitrievna, who knows how to take advantage of the good bed and food available to her.</p>
+			<p>Over the course of the story, Korolyov’s qualities become apparent, regarding his capacity for observation, listening and interpretation, as well as his general sensibility. He is an open-minded person, who knows how to listen, see and decode what he observes, as well as being affected by the absence of beauty and life around him.</p>
+			<p>His diagnosis of the industrialized microcosm that he observes leads him to a new and eloquent comparison: in the same way that factory life is to him enigmatic, so are certain incurable diseases, whose causes are revealed to be obscure but unavoidable. No matter how much distraction and entertainment is offered to the workers, this will not cure them of the diseases that affect them, similar to what happens with treatments applied in vain to cases of incurable diseases.</p>
+			<p>But if the physician’s assessment and diagnosis of the social and family context is accurate and decisive for what follows, it is the dialogue with Lisa, the patient, which provides the turning point that leads to the outcome. This dialogue shows the mutual need between the “I” and the “other,” which has been explored among thinkers such as Paul Ricoeur<xref ref-type="fn" rid="fn8_en">
+					<sup>(i)</sup>
+				</xref> or Mikhail Bakhtin. The latter, for example, in an eloquent step in <italic>Art and Answerability</italic> (perhaps one of his lesser known works), draws attention to the complementary nature of views that characterize any encounter between individuals, without which comprehension of the whole picture would be impossible:</p>
+			<p>When I contemplate a whole human being who is situated outside and over against me, our concrete, actually experienced horizons do not coincide. For at each given moment, regardless of the position and the proximity to me of this other human being whom I am contemplating, I shall always see and know something that he, from his place outside and over against me, cannot see himself: parts of his body that are inaccessible to his own gaze (his head, his face and its expression), the world behind his back, and a whole series of objects and relations, which in any of our mutual relations are accessible to me but not to him. As we gaze at each other, two different worlds are reflected in the pupils of our eyes. It is possible, upon assuming an appropriate position, to reduce this difference of horizons to a minimum, but in order to annihilate this difference completely, it would be necessary to merge into one, to become one and the same person.<xref ref-type="bibr" rid="B8">
+					<sup>8</sup>
+				</xref> (p. 23)</p>
+			<p>The conspicuously optical nature given to this defining matrix-like scene of intersubjective relationships makes us aware of the interdependence of the irreducible points of view that intersect here, thus indicating that for an adequate topographical recognition of any situation, we must invariably change our point of view. Transposing this interdependence to the clinical encounter, it can be seen that there is a need for the doctor’s view to be complemented by that of the patient, so as to bring the context of his/her situation into the picture and thus reach an adequate diagnosis.<xref ref-type="fn" rid="fn9_en">
+					<sup>(j)</sup>
+				</xref>
+			</p>
+			<p>On the other hand, for Lisa to become fully aware of her situation, and given her relative isolation, she needs other people’s viewpoints, which in this case is represented by the doctor’s view. However, the doctor himself is not completely confident of being able to deal alone with the enigmatic malady that affects Lisa and, especially, of being able to deal with his own conclusions, unless she interacts with him. It is interesting to observe that this crucial dialogue between doctor and patient is, against our expectations, verbally sparse and not very long.</p>
+			<p>Moreover, it transmits a level of insecurity from Korolyov: the technical language of medicine does not make it easier for him or ensure access to the intimacy of this person, who is in fact revealed to be intelligent and sensitive. Thus, he must resort to another type of language. Almost instinctively, the physician sits on the edge of the bed, holds Lisa’s hand, and uses the first-person plural, thus implying that he is sharing with her what she feels she has to transmit, even without knowing how. In other words, this is a true dialogue, given that the interlocutors respect each other, place each other on the same level, and reposition themselves as the conversation unfolds, seeking a true exchange of points of view and an authentic understanding.</p>
+			<p>There is no paternalism here, nor does the doctor seek refuge in his pedestal of technical knowledge. Rather, he admits feeling embarrassed and uncomfortable, as can always happen in a true encounter between two human beings in which both parties seek a shareable truth. Thus, signs of interdependence emerge between them, which are not limited to the clinical relationship, but rather, surpass it since Lisa admits that what she truly lacks is a friend, someone whom she trusts and can talk to. The capacity to generate trust, the opening up to the imponderables of what the other person has to tell us, the availability of an attentive listener and his empathic presence constitute the scene that is portrayed in this dialogue and which is insinuated to form the indispensable ingredients in a productive encounter that is worthy of this name. In this dialogue, the doctor eventually reveals that he is in tune with the patient, but as her equal. Meanwhile the symptoms of the disease (insomnia and tachycardia) become signs of a healthy reaction to the hostile and unhealthy context and indicate an instinct for life that both share:</p>
+			<p>Your sleeplessness does you credit; in any case, it is a good sign. In reality, such a conversation as this between us now would have been unthinkable for our parents. […]; we, our generation, sleep badly, are restless, but talk a great deal, and are always trying to settle whether they are right or not.<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref> (p. 272)</p>
+			<p>It is not important whether what Korolyov says regarding differences between generations is true or not, but rather this is an access route and ensures the necessary trust that will enable honest and open dialogue. The physician temporarily waived scientific language, thereby putting himself at risk in the uncertain frailty of his own humanity, in trying to create a bridge towards the other person<xref ref-type="fn" rid="fn10_en">
+					<sup>(k)</sup>
+				</xref>.</p>
+			<p>In the end, everything connects and is leveled: the physician with the patient, the housekeeper with the factory owners, the owners with the workers and, ultimately, the natural elements with the human universe.</p>
+			<p>Everything here is presented in close interdependence: by assessing the ecosystem that involves the patient, the physician is led to a diagnosis that, as so often happens, exceeds his clinical competence and scientific knowledge. The mechanized, unhealthy and irrational life produced by industrialization reflects on the body and soul in a general manner, particularly among more sensitive people. This requires a holistic approach that considers the person as a whole, in the multiplicity of their belongings, constraints, commitments and circumstances.</p>
+			<p>In an accurate diagnosis of the current state of affairs in the field of healthcare, João Lobo Antunes, in his recent work entitled <italic>A Nova Medicina </italic>(The New Medicine), describes the following picture:</p>
+			<p>One surprising fact is that progress in biomedicine has come to paradoxically increase the uncertainty of medical decision-making. […] Even today, the practice of clinical diagnosis begins with gathering the patient’s history and conducting a physical examination (now somewhat undervalued due to the abundance and rigor of imaging techniques), followed by auxiliary diagnostic examinations. In the New Medicine, imaging has almost abolished the narrative of the disease, partly because the doctor has less time to listen […], and because the patient himself has difficulty in explaining his complaints and thinks his disease is clearly revealed in the images that were obtained.</p>
+			<p>The prevalence of auxiliary diagnostic examinations and, especially, imaging has led to a tendency to neglect the verbal, or better, the narrative aspects that are inherent to clinical practice: the patient is heard less and less space is given to him during his consultation because his verbal testimony has been devalued.<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref> (p. 29-30)</p>
+			<p>From this context, characterized by this difficult balance between objectivity, scientific rigor and recognition of the need for words and a verbal report, Narrative Medicine or Medical Humanities<xref ref-type="fn" rid="fn11_en">
+					<sup>(l)</sup>
+				</xref>, as it is also called, has emerged. This is a field of study that over the past decades has drawn attention to the need to refocus on the intersubjective relationship that characterizes clinical practice, thereby addressing and improving the communicative competences and humanistic preparation of paramedical personnel and physicians, for them to place the relationship with the patient at the center of care. To do this, Narrative Medicine, which is deeply interdisciplinary, explores the contribution of different fields within the Humanities, namely, Literary Studies, Philosophy, Ethics, Anthropology and Sociology, among others. The 1980s witnessed the emergence and almost unchallenged affirmation of Evidence-based Medicine (EBM), which will be discussed later.</p>
+			<p>On the other hand, the appearance of this new area of investigation, i.e. Narrative-based Medicine (NBM) or Narrative Medicine (NM) has been less of a protagonist within the scope of medical sciences, although it is no more recent<xref ref-type="fn" rid="fn12_en">
+					<sup>(m)</sup>
+				</xref>. Publication of papers and conducive initiatives became noticeable especially during the 1980s and 1990s. Today, the movement is manifested at a global level, but more particularly in the Anglo-Saxon world. The emergence of academic programs such as those of the University of Columbia, founded in 2000, and published papers such as those by Richard Zaner, Tricia Greenhalgh, Brian Hurwitz or Rita Charon can be cited.</p>
+			<p>Narrative Medicine, in the words of its main proponent, Rita Charon, “[is] medicine practiced with the narrative competency to recognize, interpret, and be moved to action by the predicament of others”<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref> (p. 83).</p>
+			<p>In a later and more complete definition, Hurwitz takes into account the crucial difference between biological singularity and the patient’s individuality (this latter being favored in NM):</p>
+			<p>[a] Narrative Medicine is a practice and an intellectual stance which enables physicians to <italic>look beyond the biological mechanisms at the centre of conventional approaches to medical practice</italic>, towards domains of thought and ways of telling that <italic>focus on language and representation, on the emotions and relationships </italic>which illuminate health care practice.<xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref> (p. 73) [my emphasis]</p>
+			<p>This is said to be “the most developed platform we have for practicing with the sensitivities and skills needed <italic>to combine clinical and scientific knowledge with interpersonal understanding</italic> of the many and varied accounts encountered in the health care of individuals”<xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref> (p. 84) [my emphasis].</p>
+			<p>The central issue that we face today consists of balancing the extraordinary advances achieved in medicine as science, or rather, in the medical sciences, and the tendency towards a certain neglect of the interpersonal relationship in clinical encounters, in hearing the patient’s story attentively and taking his social and family environments into consideration. These matters, as we have seen, are understood by some to be a consequence of the unchallenged and (almost) exclusive belief in the decisive value of auxiliary diagnostic exams and tests and, especially, the rigor of imaging techniques.</p>
+			<p>This new interdisciplinary field that focuses on language and/or representation does not reject scientific advances, but rather, it depends on them. However, NM combines these advances with other disciplines, deriving intellectual support from domains beyond the scope of strict science, namely the domain of arts. NM acts as an interpretative and provisional activity, inalienable from the situational context in which it is practiced<xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref>.</p>
+			<p>Although NM does not signal any particularly new concern in clinical medicine, it is, nevertheless, an innovative field in the sense that, for the first time, medical practice is combined with research fields beyond its scope<xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref>. NM also responds in a modern way to the growing prevalence of a positivist-based scientific paradigm, combined with a somewhat narrow professionalism in clinical practice. NM has appeared as the necessary complement to the institutionalization of this “hard” paradigm in practicing the art of medicine, based on technology, which became established at the beginning of the 1980s and was materialized through the aforementioned EBM<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref> (p. 33).</p>
+			<p>What should we understand EBM to be? In the words of one of its advocates:</p>
+			<p>[a] Evidence-based medicine, or factual medicine, is defined as the conscientious and judicious use of current best evidence in clinical investigation, thus addressing the specific care of individual patients.<xref ref-type="bibr" rid="B14">
+					<sup>14</sup>
+				</xref> (p. 71)</p>
+			<p>This evidence comes from systematic clinical trials consisting of extensive randomized tests, meta-analyses, cross-sectional studies or reliable follow-up studies. EBM recommends the use of systematic reviews of the best available medical literature (subject to scientific peer review), risk/benefit analysis and randomized controlled tests. Thus, EBM consists of basing clinical decisions not only on theoretical knowledge, judgment and experience (the main components of traditional medicine), but also on scientific evidence. This means knowledge that can be deduced from systematic scientific investigations, carried out especially at the levels of diagnosis, prognosis and disease treatment, and which is based on validated results that are applicable to current medical practice.</p>
+			<p>Even if the advocates of EBM claim that they do not dispense with medical judgment and experience and affirm that EBM is complementary to traditional medical practice, the truth is that this paradigm has increased the rigidly scientific approach of “new medicine”. This then invites doctors to adopt a defensive attitude<xref ref-type="fn" rid="fn13_en">
+					<sup>(n)</sup>
+				</xref> and make excessive use of all those types of results and corresponding statistical data, of a multiplicity of tests and auxiliary diagnostic techniques, which gave rise to an exponential increase in the number of examinations (often unnecessary), with additional risks to patients and significantly higher healthcare costs<xref ref-type="fn" rid="fn14_en">
+					<sup>(o)</sup>
+				</xref>.</p>
+			<p>Despite all this, I believe that we should not encourage contradictory views between EBM and NBM/NM, but rather, as advocated by Parker<xref ref-type="bibr" rid="B17">
+					<sup>17</sup>
+				</xref>, affirm that EBM, properly conceived and complemented by NM, can constitute the necessary condition for the conscious practice of clinical freedom today.</p>
+			<p>NM does not recommend simply that healthcare professionals should be solely attentive and available to register in the clinical report the most prominent information from the story the patient tells them. They should also be receptive to and able to register and decode the peculiar language used for narration, which may occasionally even conflict with the ostensive story being told. Inspired by the New Criticism reading method, ‘close reading’, Charon likes to use the expression ‘close listening’ to refer to the type of attention that the doctor should provide regarding what the patient transmits. Healthcare professionals will better perceive the particular psychosomatic situation of the patient at hand, and will diagnose it more fully through their capacity to register the types of metaphors that are used, the insistent repetition of certain expressions, the adopted point of view and time frame and even the ambiguities and silences, among other discursive characteristics attending the patient’s utterance. This is only achieved through training. Charon states that “narrative training in reading and writing contributes to clinical effectiveness,”<xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref> (p. 107) and adds that: “the kind of therapeutic decisions we make can be remarkably different from conventional decision-making as a result of narrative deepening of doctor-patient relationships”<xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref> (p. 108).</p>
+			<p>Being able to read body language must be combined with the ability to decode patients’ narratives and other verbal and non-verbal clues, as well as an awareness of the ethical and sociocultural issues involved. This demands a particular cognitive predisposition that only a background in the Humanities, combined with scientific knowledge and clinical experience, can promote<xref ref-type="bibr" rid="B19">
+					<sup>19</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B20">
+					<sup>20</sup>
+				</xref>. This understanding and decoding of the specific human situation that, at a particular time, characterizes the patient and leads to a diagnosis will be the more capable and efficient if the tools for analysis and interpretation will be made available to the healthcare professional thus enabling him /her to make the most of the report s/he listens to. Some of these tools can be provided by literary studies in general and, in particular, by more recent contributions from the field of narratology<xref ref-type="bibr" rid="B21">
+					<sup>21</sup>
+				</xref>.</p>
+			<p>This recognition of the need for complementarity between scientific knowledge with the attending tendency for generalization, which is characteristic of the biological sciences, and an attentive and open approach to the peculiar resonances of the concrete case history that are revealed during the clinical encounter and through the clinical history, echoes the differences established by Aristotle, in <italic>Nicomachean Ethics</italic>, between two types of knowledge. Here, I have in mind the pairing of philosophical knowledge and practical knowledge, which are very different in nature, even though both are part of the rational side of the soul. Practical knowledge is guided by action and is not concerned only with establishing universal rules, as is characteristic of philosophical knowledge, but rather, deals with immediate particular facts that become known through experience. This is the type of knowledge that allows correction of reasoning and leads to excellence in deliberation, which is the desired outcome for the clinical act<xref ref-type="fn" rid="fn15_en">
+					<sup>(p)</sup>
+				</xref>.</p>
+			<p>Recognizing the importance of the interdependency between scientific knowledge, which is objective and has universalizing value, and another type of knowledge, which is attentive to the particular context situation and, in this sense, temporary and dependent on a complex hermeneutic act, was what, at least partly, led Lennard J. Davis and David B. Morris in 2007 to publish their manifest in favor of what they call “biocultures”, in which they state:</p>
+			<p>To think of science without including a historical and cultural analysis would be like thinking of a literary text without the surrounding and embedded weft of discursive knowledge that is active or dormant at particular moments. It is similarly limiting to think of literature […] without considering the network of meanings that might be learned from a scientific perspective. […] The biological without the cultural, or the cultural without the biological, is doomed to be reductionist at best and inaccurate at worst.<xref ref-type="bibr" rid="B23">
+					<sup>23</sup>
+				</xref> (p. 411)</p>
+			<p>Through this term, “biocultures”, these authors intended to validate and consolidate a multiplicity of interdisciplinary experiences that were already in play in several universities, going from “Medical Humanities” or “Narrative Medicine” to the history of medicine, including public health, bioethics, epidemiology, identity and body studies, medical anthropology, medical sociology, medicine philosophy, etc. Moreover, they contested the legitimacy of the traditional boundary between what is called hard science and the remainder, in stating that a “<italic>community of interpreters across disciplines”</italic> exists, comprising “interpreters who are <italic>willing to learn from each other</italic>.”<xref ref-type="bibr" rid="B23">
+					<sup>23</sup>
+				</xref> (p. 416) [my emphasis]</p>
+			<p>In the current state of affairs, it would be advantageous for healthcare professionals and, in particular, for doctors, to see themselves as members of a “community of interpreters” and, thus, place value on the interpretative competences postulated by the demands of the “new medicine”. However, this will only become possible through changes in attitudes, which in turn will only occur when the habits and mentality that are currently deeply rooted in the practice of medicine are abandoned. Trained to heal and convinced that the medical sciences and their undeniable progress are a guarantee of success, students at present-day medical schools are not prepared to admit that they do not know or that they were mistaken<xref ref-type="bibr" rid="B16">
+					<sup>16</sup>
+				</xref> (p. 34). Thus, when confronted with situations that deviate from the typified format or the documented and statistically expected case, not to mention treatment failures, these candidates to become physicians go through situations of anxiety and despair that are utterly unjustified.</p>
+			<p>As advocated by Newmann, modern science and, especially, medicine “continues to treat the human organism as a cause-and-effect model, a Cartesian machine with predictable and measurable functions in the physical world.” This assumption is clearly inadequate and does not take into consideration the complexity of the “inner machinations of the human form,” most of which “have yet to be elucidated”<xref ref-type="bibr" rid="B16">
+					<sup>16</sup>
+				</xref> (p. 34). Moreover, it also ignores another factor, to which quantum physics drew our attention: the importance of the observer. As Newmann argues:</p>
+			<p>[the] stoic model of the modern physician that we endorse - the objective and uninvolved observer - does not exist. Our presence alters the path of illness and impacts the human experience. We are not detached spectators nor should we be; we are an integral and powerful part of both illness and healing.<xref ref-type="bibr" rid="B16">
+					<sup>16</sup>
+				</xref> (p. 223)</p>
+			<p>This is exactly what Chekhov’s short story teaches us, through presenting a medical protagonist who, when confronted by an enigmatic and atypical situation, ends up being involved, allowing himself to become impregnated by the environment surrounding the patient and, thus, becoming “an integral part of healing.”</p>
+			<p>Jack Coulehan, an attentive observer of the use of narratives and metaphors in medicine, has shown how the prevailing language in clinical practice reflects a culture that transforms the patient into an object and the doctor into someone with power to approach this submissive patient-body<xref ref-type="bibr" rid="B24">
+					<sup>24</sup>
+				</xref>. For example, considering the expression “history taking” also in its metaphorical form, the conceptual weight of “history” suggests that what the patient reports is objectified, while implicitly referring to an entity that we are able to find if we look for it in a sufficiently aggressive manner, as if searching for a black box among the wreckage of a patient’s life. The verb “to take” suggests a violation of the patient. The doctor pulls the history from the patient, in the way that a tooth is pulled out or an appendix is removed. In Portuguese, the equivalent word “<italic>colheita</italic>”, another metaphor, also suggests an aggressive and rapacious act, thus underlining the passivity of the patient.</p>
+			<p>Coulehan also analyses the most recurrent metaphors in medical discourse and highlights the three most common ones: war (the disease is the enemy and the doctor, who commands the troops, has set out to beat it), paternalism (the disease is seen as a threat and the doctor as the protector) and engineering (the disease is a disorder and the doctor is the technician).</p>
+			<p>With the decreasing use of paternalist metaphors, which contemporary medicine has banished, the military and mechanical metaphors have gained strength. In both cases, however, the submissiveness of the patient and the reduction of the patient or his/her body to the dimension of an object are inescapable. This is concordant with the conception of the physician as an objective and distant observer, a holder of knowledge, who does not become involved.</p>
+			<p>At a time when we are constantly surprised by the recognition of our global interdependency, whether in climatic, political or economic terms, it might make sense, as has already been suggested, to replace these metaphors with others that are more holistic. I have in mind environmental metaphors, which make assumptions referring to the interrelationship among the parties involved and between these parts and the whole, evocative of the dynamic integrality of either the social or the physical body.</p>
+			<p>Successful treatment of pain calls for more communication between patient and doctor, communication between the professions, and a view of medicine as something unfinished and integrative, rather than specialized, standardized, and technology based. […] Perhaps the metaphors should shift from war to the environment. […] Medicine has to look beyond isolated symptoms and aggressive solutions to the ecology of the larger system.<xref ref-type="fn" rid="fn16_en">
+					<sup>(q)</sup>
+				</xref>
+			</p>
+			<p>Ultimately, what NM proposes is a change in the metaphors and, with that, a change in the whole culture that has characterized the way in which medicine is practiced today. We have no doubt this will be a slow process with many obstacles, but the good news is that it has begun. We also believe that literary studies, despite their recent history, characterized by antagonisms and schisms, and by successive movements of action and reaction, or, perhaps, precisely because of all this, have reached a level of maturity that is indispensable in interdisciplinary dialogue. This allows this type of study to make a decisive contribution, given judicious use of its best tools and methods. Furthermore, we should not forget, as has previously been highlighted, that: “more so than any other subject, literature lends itself to powerful teaching”<sup>26</sup> (p. 74).</p>
+		</body>
+		<back>
+			<fn-group>
+				<fn fn-type="financial-disclosure" id="fn19_en">
+					<label>*</label>
+					<p>The present article is the result of research carried out under the project “Narrative &amp; Medicine: (Con)texts and practices across disciplines” [Ref. PTDC/CPC-ELT/3719/2012], do CEAUL/ULICES – Centro de Estudos Anglísticos da Universidade de Lisboa, financiado pela FCT (Fundação para a Ciência e a Tecnologia).</p>
+				</fn>
+				<fn fn-type="other">
+					<p>Translated by David Elliff</p>
+				</fn>
+				<fn id="fn1_en">
+					<label>(a)</label>
+					<p> The present article is part of the research output of the Project <italic>Narrative &amp; Medicine: (Con)texts and Practices across Disciplines </italic>[Ref. PTDC/CPC-ELT/3719/2012], carried out at CEAUL/ULICES – University of Lisbon Centre for English Studies, sponsored by FCT (Foundation for Science and Technology).</p>
+				</fn>
+				<fn id="fn2_en">
+					<label>(b)</label>
+					<p> The short story was also published in Brazil, under the title “Um caso clínico”<xref ref-type="bibr" rid="B1">
+							<sup>1</sup>
+						</xref>. For this translation I followed the English version, entitled “A Doctor’s Visit,” in Jack Coulehan’s anthology<xref ref-type="bibr" rid="B2">
+							<sup>2</sup>
+						</xref>.</p>
+				</fn>
+				<fn id="fn3_en">
+					<label>(c)</label>
+					<p> About the importance of the so-called “incipit,” see, for instance, <bold>Andréa Del</bold>
+						<bold>Lungo<xref ref-type="bibr" rid="B3">
+								<sup>3</sup>
+							</xref>
+						</bold>.</p>
+				</fn>
+				<fn id="fn4_en">
+					<label>(d)</label>
+					<p> I am here adopting the terminology and concepts used by Diego Gracia on the 31<sup>st</sup>. of March 2014, in his lecture “Bioethics and Humanization,” at the International Congress Humanidades e Humanização em Saúde, organized by FMUSP, in São Paulo, Brazil. Any misreading or mistake is, however, entirely my own fault.</p>
+				</fn>
+				<fn id="fn5_en">
+					<label>(e)</label>
+					<p> Here I am echoing the Sartrian expression: “être en situation,” in the sense that human beings are the result of a bunch of circumstances and allegiances but not in any way totally determined by them.</p>
+				</fn>
+				<fn id="fn6_en">
+					<label>(f)</label>
+					<p> We are dealing with the dialogic device which F. K. Stanzel calls ‘reflectorization’ and which gives rise to what he calls a ‘figural narrative situation,’ where a character is used as a reflector-character, or, to use a Jamesian expression, a ‘vessel of conscience’<xref ref-type="bibr" rid="B5">
+							<sup>5</sup>
+						</xref>.</p>
+				</fn>
+				<fn id="fn7_en">
+					<label>(g)</label>
+					<p> According to Stanzel, ‘figural narrative situation’ invites empathy towards the reflector-character, the character whose point of view is adopted<xref ref-type="bibr" rid="B5">
+							<sup>5</sup>
+						</xref>.</p>
+				</fn>
+				<fn id="fn8_en">
+					<label>(h)</label>
+					<p> Dorrit Cohn uses the term ‘quoted monologue’ to refer to this narrative device, in third person narratives<xref ref-type="bibr" rid="B6">
+							<sup>6</sup>
+						</xref>.</p>
+				</fn>
+				<fn id="fn9_en">
+					<label>(i) </label>
+					<p>See, for instance, his <italic>Soi même comme un autre</italic>.<xref ref-type="bibr" rid="B7">
+							<sup>7</sup>
+						</xref>
+					</p>
+				</fn>
+				<fn id="fn10_en">
+					<label>(j)</label>
+					<p> This indispensable interdependence and collaboration reminds us of the famous Hippocratic triangle: “The [medical] Art consists of three factors, the disease, the patient and the physician. The physician is the servant of the Art. The patient must cooperate with the physician in combating the disease”<xref ref-type="bibr" rid="B9">
+							<sup>9</sup>
+						</xref> (p. 1).</p>
+				</fn>
+				<fn id="fn11_en">
+					<label>(k)</label>
+					<p> The only character in this story to use an allegedly scientific language is the governess, who mimics the medical jargon, thus trying to play the role she thinks is expected from her. We have here another comparison (between governess and doctor) but, in this case, an ironic one.</p>
+				</fn>
+				<fn id="fn12_en">
+					<label>(l)</label>
+					<p> Terminology varies: the US privilege “Narrative Medicine” (MN) while other countries, such as the UK, prefer to use a more encompassing term: “Medical Humanities,” which in France corresponds to “humanités médicales.” Thus, for instance, the name of the pioneering North-American project: “Program in Narrative Medicine,” based at the New York’s College of Physicians and Surgeons of Columbia University.</p>
+				</fn>
+				<fn id="fn13_en">
+					<label>(m)</label>
+					<p> It should be noted that the appearance of the Balint Groups in the 1950’s was the symptom of unease and of the need to correct this state of affairs. By recognizing that the clinical encounter is, above all, a relational act, these groups aimed at supporting doctors, by inviting them to share with their peers the dilemmas and difficulties experienced with particular patients. The goal was to stimulate a more empathic and more self-conscious attitude, thus enabling the establishment of a bond of trust between doctor and patient<xref ref-type="bibr" rid="B11">
+							<sup>11</sup>
+						</xref>.</p>
+				</fn>
+				<fn id="fn14_en">
+					<label>(n)</label>
+					<p> The expression “defensive medicine” is used by Antunes, in a similar context<xref ref-type="bibr" rid="B10">
+							<sup>10</sup>
+						</xref>.</p>
+				</fn>
+				<fn id="fn15_en">
+					<label>(o)</label>
+					<p> On this subject, besides Antunes<xref ref-type="bibr" rid="B10">
+							<sup>10</sup>
+						</xref>, see also David H. Newman<xref ref-type="bibr" rid="B15">
+							<sup>15</sup>
+						</xref>
+						<sup>,</sup>
+						<xref ref-type="bibr" rid="B16">
+							<sup>16</sup>
+						</xref>.</p>
+				</fn>
+				<fn id="fn16_en">
+					<label>(p)</label>
+					<p> Cf. Aristotle, <italic>Ética a Nicómaco</italic>
+						<xref ref-type="bibr" rid="B22">
+							<sup>22</sup>
+						</xref>. I thank Diego Gracia for calling my attention to the relevance of this Aristotelian distinction.</p>
+				</fn>
+				<fn id="fn17_en">
+					<label>(q)</label>
+					<p> The author continues: “Politically, thinking globally has become less an ideological option than a necessity. Borders protect no one. Our relationship to the earth has become more stark and unavoidable. It’s the same with our health”<xref ref-type="bibr" rid="B25">
+							<sup>25</sup>
+						</xref> (p. 356-7).</p>
+				</fn>
+			</fn-group>
+		</back>
+	</sub-article>
+</article>

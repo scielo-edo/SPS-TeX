@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" dtd-version="1.0" specific-use="sps-1.1" article-type="discussion" xml:lang="pt">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Interface (Botucatu)</journal-id>
+			<journal-id journal-id-type="publisher-id">icse</journal-id>
+			<journal-title-group>
+				<journal-title>Interface - Comunicação, Saúde, Educação</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Interface</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1414-3283</issn>
+			<issn pub-type="epub">1807-5762</issn>
+			<publisher>
+				<publisher-name>Laboratório de Educação e Comunicação em Saúde, Departamento de Saúde Pública, Faculdade de Medicina de Botucatu e Instituto de Biociências de Botucatu - UNESP</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">1807-57622014.0427</article-id>
+			<article-id pub-id-type="doi">10.1590/1807-57622014.0427</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Espaço Aberto</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Lições aprendidas na avaliação de um programa brasileiro de atenção a idosos vítimas de violência</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Lecciones aprendidas en la evaluación de un programa brasileño de atención a ancianos víctimas de la violencia</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Minayo</surname>
+						<given-names>Maria Cecília de Souza</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>a</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Souza</surname>
+						<given-names>Edinilsa Ramos de</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>b</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ribeiro</surname>
+						<given-names>Adalgisa Peixoto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>c</sup>
+					</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Figueiredo</surname>
+						<given-names>Ana Elisa Bastos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>d</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>a</label>
+				<label>d</label>
+				<institution content-type="orgdiv2">Centro Latino Americano de Estudos sobre Violência e Saúde</institution>
+				<institution content-type="orgdiv1">Escola Nacional de Saúde Pública</institution>
+				<institution content-type="orgname">Fundação Oswaldo Cruz</institution>
+				<addr-line>
+					<named-content content-type="city">Rio de Janeiro</named-content>
+					<named-content content-type="state">RJ</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original">Centro Latino Americano de Estudos sobre Violência e Saúde, Escola Nacional de Saúde Pública, Fundação Oswaldo Cruz (Claves/Ensp/Fiocruz). Avenida Brasil, 4036, Manguinhos. Rio de Janeiro, RJ, Brasil. 21040-210. cecilia@claves.fiocruz.br; edinilsa@claves.fiocruz.br; adalpeixoto@yahoo.com.br; aebfigueiredo@yahoo.com.br</institution>
+			</aff>
+			<author-notes>
+				<fn fn-type="con">
+					<p>Colaboradores: Os autores participaram, igualmente, de todas as etapas de elaboração do artigo.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<season>Jan-Mar</season>
+				<year>2015</year>
+			</pub-date>
+			<volume>19</volume>
+			<issue>52</issue>
+			<fpage>171</fpage>
+			<lpage>182</lpage>
+			<history>
+				<date date-type="received">
+					<day>10</day>
+					<month>06</month>
+					<year>2014</year>
+				</date>
+				<date date-type="accepted">
+					<day>05</day>
+					<month>07</month>
+					<year>2014</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>Apresentam-se “lições aprendidas” no processo de avaliação e monitoramento dos centros de prevenção de violência contra os idosos, programa criado em 2007 pela Secretaria de Direitos Humanos da Presidência da República (SDH), cuja proposta se baseia em atenção multidisciplinar oferecida por profissionais de direito, saúde e assistência social. Fez-se uma pesquisa avaliativa do programa durante três anos, utilizando-se triangulação de métodos quantitativos e qualitativos. As lições aprendidas provêm da visão dos diferentes atores que compartilharam a experiência, inclusive os idosos. A eficiência e a efetividade das ações mostraram a importância da iniciativa. Mas aqui se apontam, também, seus limites, particularmente problemas de sustentabilidade pela falta de investimento dos gestores e pela descontinuidade do apoio e da orientação da SDH. Em 2013, dos 18 projetos implantados, seis haviam encerrado suas atividades, 12 continuavam ativos, desses, dois expandiram suas ações.</p>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<p>Se presentan las “lecciones aprendidas” en el proceso de evaluación y monitoreo de los centros de prevención de violencia contra los ancianos, programa creado en 2007 por la Secretaría de Derechos Humanos de la Presidencia de la República (SDH), cuya propuesta se basa en la atención multidisciplinaria ofrecida por profesionales de derecho, salud y asistencia social. Se hizo una encuesta de evaluación del programa durante tres años, utilizándose la triangulación de métodos cuantitativos y cualitativos. Las lecciones aprendidas tienen origen en la visión de los diferentes actores que compartieron la
+experiencia. La eficiencia y efectividad de las acciones mostraron la importancia de la iniciativa. Pero aquí se señalan también sus límites, particularmente problemas de sostenibilidad por la falta de inversión de los gestores y por la discontinuidad del apoyo y de la orientación de la SDH. En 2013, de los 18 proyectos implantados, seis habían cerrado sus actividades, 12 continuaban activos siendo que de ellos, dos ampliaron sus acciones.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="pt">
+				<kwd>Idoso</kwd>
+				<kwd>Violência contra o idoso</kwd>
+				<kwd>Direitos do idoso</kwd>
+				<kwd>Prevenção de violência</kwd>
+				<kwd>Avaliação</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<kwd>Anciano</kwd>
+				<kwd>Violencia contra el anciano</kwd>
+				<kwd>Derechos del anciano</kwd>
+				<kwd>Prevención de violencia</kwd>
+				<kwd>Evaluación</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="2"/>
+				<equation-count count="0"/>
+				<ref-count count="27"/>
+				<page-count count="12"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introdução</title>
+			<p>“Lições aprendidas” é uma expressão que, atualmente, titula um dos capítulos da maioria dos trabalhos de avaliação de políticas sociais<xref ref-type="bibr" rid="B1">
+					<sup>1</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref>. Nesse capítulo, se encontram os resultados positivos e negativos provenientes do desenvolvimento dos projetos ou programas, evidenciando os ensinamentos que a partir dele possam ser generalizados<xref ref-type="bibr" rid="B2">
+					<sup>2</sup>
+				</xref>.</p>
+			<p>Neste artigo, focalizamos esse tema a partir da avaliação e monitoramento de 18 Centros Integrados de Atenção e Prevenção à Violência contra a Pessoa Idosa (CIAPVI), os quais seguimos passo a passo durante três anos (2007 a 2009), na implantação, implementação e nos resultados das ações.</p>
+			<p>Na avaliação de programas sociais, é comum a referência às dimensões desejáveis de desempenho traduzidas em termos de eficiência, eficácia e efetividade. A eficiência diz respeito à competência no uso dos instrumentos adequados para se alcançarem os resultados com menor dispêndio de recursos e esforços. A eficácia pode ser entendida como o alcance de resultados desejados em condições controladas<xref ref-type="bibr" rid="B3">
+					<sup>3</sup>
+				</xref>; e a efetividade se refere à obtenção dos resultados pretendidos.</p>
+			<p>Trabalhamos com os conceitos de monitoramento e de avaliação<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>-</sup>
+				<xref ref-type="bibr" rid="B10">
+					<sup>10</sup>
+				</xref>. O monitoramento pode ser interpretado como etapa ou componente do processo de avaliação. Monitora-se a eficiência na implantação e no desenvolvimento de uma proposta e, também, a eficácia das ações e a efetividade dos resultados. O monitoramento é realizado por meio de indicadores que mostram se determinada proposta ocorre conforme o desejado ou se há necessidade de mudança de rumos no seu desenvolvimento. Geralmente, esse acompanhamento é registrado em relatórios curtos e diretos contendo: análise da situação; dados sobre os investimentos feitos; identificação dos problemas e da busca de soluções; garantia de que as atividades previstas estejam sendo executadas corretamente; e informações sobre problemas no andamento da totalidade ou parte da proposta<xref ref-type="bibr" rid="B7">
+					<sup>7</sup>
+				</xref>.</p>
+			<p>Uma avaliação completa incorpora o ciclo inteiro de análise de uma intervenção, começando antes que o processo se inicie (ex-ante), passando pelo acompanhamento (monitoramento) da implantação, da implementação, e pela análise dos resultados e efeitos produzidos (ex-post). Uma avaliação pode também focalizar apenas determinado momento ou etapa da intervenção. Aqui focalizamos apenas o tópico das lições aprendidas na implantação e na implementação dos CIAPVI. No entanto, mesmo quando se analisa apenas parte do processo, é preciso evidenciar a origem, a história, os objetivos da ação e o contexto em que ela se desenvolve<xref ref-type="bibr" rid="B7">
+					<sup>7</sup>
+				</xref>
+				<sup>-</sup>
+				<xref ref-type="bibr" rid="B9">
+					<sup>9</sup>
+				</xref>. Apresentamos os ensinamentos que a experiência dos CIAPVI traz para a aplicação de políticas públicas semelhantes, precedidos de breve descrição da proposta, seus objetivos e a metodologia de sua construção.</p>
+		</sec>
+		<sec>
+			<title>A proposta</title>
+			<p>Os CIAPVI foram criados em 2007 pela Secretaria de Direitos Humanos, da Presidência da República do Brasil (SDH), de forma cooperativa com prefeituras, governos estaduais e instituições não governamentais. Foram instituídos como uma estratégia de ação prevista no Plano Nacional de Enfrentamento da Violência e Maus-Tratos contra a Pessoa Idosa<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref>.</p>
+			<p>Esses centros funcionam com uma equipe multiprofissional composta por assistentes sociais, psicólogos e advogados, capacitados para atender à pessoa idosa. Suas atividades priorizam: orientação sobre direitos humanos ao idoso, vítima de violências; estudo e diagnóstico psicossocial das situações demandadas; mediação de conflitos familiares e comunitários, visando a sensibilização social sobre o envelhecimento e as violências; promoção de grupos de convivência; atendimento ao agressor; encaminhamento dos casos específicos de maus-tratos, abandono ou negligências aos serviços especializados, como Defensoria Pública, Ministério Público, da Saúde, delegacias de polícia, instituições de assistência social, entre outras; internação do idoso em Instituições de Longa Permanência para idosos; notificação dos casos nas delegacias especializadas de atendimento ao idoso, no Ministério Público ou na Defensoria Pública; e investimento na formação de técnicos para lidar com essas questões.</p>
+			<p>Entre 2007 e 2009 foram criados 18 CIAPVI no país: oito na região Nordeste, três na região Norte; quatro na Sudeste; dois na Sul e um na região Centro-Oeste. A maioria deles não tem infraestrutura própria, estando sediados em secretarias de estado de Justiça, de Segurança Pública, de Direitos Humanos e Cidadania e defensorias públicas, de assistência e desenvolvimento social e de defesa de direitos.</p>
+			<p>A avaliação foi construída a partir da compreensão dos objetivos e da missão dos centros. Os parâmetros para condução desse processo foram: as Deliberações da I Conferência Nacional dos Direitos da Pessoa Idosa<xref ref-type="bibr" rid="B12">
+					<sup>12</sup>
+				</xref>, o Estatuto do Idoso<xref ref-type="bibr" rid="B13">
+					<sup>13</sup>
+				</xref> e as diretrizes do Plano de Ação para o Enfrentamento da Violência Contra a Pessoa Idosa, do quadriênio 2007/2010<xref ref-type="bibr" rid="B11">
+					<sup>11</sup>
+				</xref>. Esses documentos apresentam: o diagnóstico dos principais problemas de violência vivenciados pelos idosos e as diretrizes para a organização, o controle, o acompanhamento e a avaliação das ações a serem realizadas pelo poder público.</p>
+		</sec>
+		<sec>
+			<title>Método de realização do monitoramento e da avaliação</title>
+			<p>O estudo avaliativo baseou-se na triangulação de métodos quantitativos e qualitativos<xref ref-type="bibr" rid="B14">
+					<sup>14</sup>
+				</xref>.</p>
+			<p>O processo de monitoramento e avaliação foi paulatinamente construído a partir de várias oficinas participativas e intersetoriais de trabalho, envolvendo todos os participantes desse programa social. Esse procedimento corresponde ao que há de mais atual em avaliação de políticas sociais, denominado ‘avaliação de quarta geração’<xref ref-type="bibr" rid="B15">
+					<sup>15</sup>
+				</xref>
+				<sup>-</sup>
+				<xref ref-type="bibr" rid="B17">
+					<sup>17</sup>
+				</xref>. O pressuposto dessa abordagem é que qualquer processo avaliativo é mais eficiente e fidedigno quando pensado e construído em forma de aprendizagem compartilhada que beneficia a todos, inclusive os pesquisadores.</p>
+			<p>Na primeira das oficinas, estabeleceram-se as estratégias para realização do monitoramento e da avaliação, e articularam-se essas ações com assessoria à SEDH e às unidades locais para correção dos rumos no processo.</p>
+			<p>Nesta etapa, criaram-se instrumentos de caráter exploratório e gerencial para acompanhar e analisar as ações de implantação e implementação dos serviços, investigando-se: a história de implantação de cada centro; sua viabilidade institucional e administrativa; a aceitação da proposta pelos gestores; a compatibilidade entre a realidade, as políticas locais e o Plano de Ação para o Enfrentamento da Violência contra a Pessoa Idosa; os obstáculos encontrados; as estratégias de superação das dificuldades; a infraestrutura e os recursos humanos disponíveis. Um formulário com questões abertas e fechadas, discutido com os coordenadores dos centros, foi enviado por meio eletrônico para ser preenchido pelos gestores e sua equipe. Os dados obtidos foram analisados segundo cada unidade e para o conjunto delas.</p>
+			<p>Em duas outras oficinas, uma em 2007 e outra em 2008, foram pactuados os indicadores quantitativos e qualitativos de avaliação, por meio da técnica ‘grupo nominal’<xref ref-type="bibr" rid="B18">
+					<sup>18</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B19">
+					<sup>19</sup>
+				</xref>. Nessas discussões, foram consensualizados indicadores: <bold>de estrutura</bold>: sustentabilidade, estabilidade da equipe e formação continuada; <bold>de processo</bold>: articulação, referência e contrarreferência, parcerias, redes e inclusão; e <bold>de resultados</bold>: atividades de prevenção, atendimentos, casos resolvidos e casos reincidentes<xref ref-type="bibr" rid="B4">
+					<sup>4</sup>
+				</xref>
+				<sup>,</sup>
+				<xref ref-type="bibr" rid="B8">
+					<sup>8</sup>
+				</xref>.</p>
+			<p>Os resultados do monitoramento foram sendo publicados na página de um Observatório em forma de boletins quadrimestrais, durante os anos de 2008 a 2010, destacando as situações locais e comparando as unidades.</p>
+			<p>A realização da avaliação propriamente dita, por meio de instrumentos quantitativos e qualitativos, abrangeu o processo de implantação e a implementação dos centros. O “formulário de avaliação da implantação” foi aplicado a cada um dos serviços existentes e aos que foram criados a partir de 2008. As respostas foram analisadas e os resultados discutidos presencialmente com os coordenadores dos centros numa oficina de trabalho.</p>
+			<p>A avaliação da implementação foi realizada em duas etapas: em 2008, enfatizamos o estudo dos êxitos e dificuldades no desenvolvimento dos trabalhos. Em 2009, os resultados da ação e as expectativas futuras. Nesse processo, aplicamos três formulários com questões abertas e fechadas e fizemos visitas a todos os centros. Essas visitas tiveram como finalidade observar as atividades in loco e entrevistar os vários atores envolvidos na proposta (gestores, profissionais, parceiros e idosos). Ao todo, realizamos: 48 entrevistas individuais com gestores e parceiros, 42 grupos focais com os profissionais e 14 com os idosos.</p>
+			<p>Na última etapa avaliativa, submetemos as análises que fizemos, sobre todo o processo de monitoramento e avaliação, ao exame crítico dos principais atores envolvidos, num seminário preparado para essa finalidade. Um relatório preliminar, contendo a síntese dos resultados, foi enviado antecipadamente aos coordenadores, profissionais dos centros, representantes da SDH e de instituições parceiras. Após a validação desses atores, o relatório final com os resultados foi concluído.</p>
+		</sec>
+		<sec sec-type="results">
+			<title>Resultados</title>
+			<p>Apesar de o foco do artigo ser sobre “lições aprendidas”, entendemos que será útil ao leitor ter informações mínimas sobre os resultados da avaliação a partir dos indicadores de produtividade e relevância dos centros. Em seguida, discutimos o aprendizado que o processo de implantação e implementação traz para a realização de programas semelhantes, destacando a relevância desse serviço, os êxitos e as dificuldades, mas, sobretudo, os motivos que conduziram a um e a outro.</p>
+		</sec>
+		<sec>
+			<title>Indicadores de produtividade e relevância dos centros</title>
+			<p>O <xref ref-type="table" rid="t1">Quadro 1</xref> apresenta alguns indicadores de produtividade dos centros nos anos de 2008 e 2009.</p>
+			<p>
+				<table-wrap id="t1">
+					<label>Quadro 1</label>
+					<caption>
+						<title>. Indicadores avaliativos da produtividade dos Centros, 2008 e 2009</title>
+					</caption>
+					<table frame="hsides" rules="groups">
+						<thead>
+							<tr>
+								<th>Centros</th>
+								<th>Ano de implantação</th>
+								<th>N<sup>o</sup> ações de prevenção</th>
+								<th>N<sup>o</sup> atendimentos</th>
+								<th>% casos resolvidos</th>
+								<th>% casos reincidentes</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>São Luís/MA</td>
+								<td align="center">2006</td>
+								<td align="center">47</td>
+								<td align="center">2.173</td>
+								<td align="center">73,9</td>
+								<td align="center">26,1</td>
+							</tr>
+							<tr>
+								<td>Manaus/AM</td>
+								<td align="center">2007</td>
+								<td align="center">3</td>
+								<td align="center">1.832</td>
+								<td align="center">80,0</td>
+								<td align="center">5,0</td>
+							</tr>
+							<tr>
+								<td>Rio Branco/AC</td>
+								<td align="center">2007</td>
+								<td align="center">17</td>
+								<td align="center">1.680</td>
+								<td align="center">47,2</td>
+								<td align="center">3,1</td>
+							</tr>
+							<tr>
+								<td>São Cristóvão/SE</td>
+								<td align="center">2007</td>
+								<td align="center">38</td>
+								<td align="center">470</td>
+								<td align="center">24,0</td>
+								<td align="center">0,2</td>
+							</tr>
+							<tr>
+								<td>Maceió/AL</td>
+								<td align="center">2007</td>
+								<td align="center">40</td>
+								<td align="center">54</td>
+								<td align="center">35,2</td>
+								<td align="center">...</td>
+							</tr>
+							<tr>
+								<td>Natal/RN</td>
+								<td align="center">2007</td>
+								<td align="center">16</td>
+								<td align="center">37</td>
+								<td align="center">97,3</td>
+								<td align="center">2,7</td>
+							</tr>
+							<tr>
+								<td>Teresina/PI</td>
+								<td align="center">2007</td>
+								<td align="center">8</td>
+								<td align="center">2.812</td>
+								<td align="center">66,2</td>
+								<td align="center">6,4</td>
+							</tr>
+							<tr>
+								<td>Marília/SP</td>
+								<td align="center">2007</td>
+								<td align="center">2</td>
+								<td align="center">235</td>
+								<td align="center">17,0</td>
+								<td align="center">6,4</td>
+							</tr>
+							<tr>
+								<td>Florianópolis/SC</td>
+								<td align="center">2007</td>
+								<td align="center">5</td>
+								<td align="center">1.822</td>
+								<td align="center">13,5</td>
+								<td align="center">1,3</td>
+							</tr>
+							<tr>
+								<td>Palmas/TO</td>
+								<td align="center">2008</td>
+								<td align="center">9</td>
+								<td align="center">1.362</td>
+								<td align="center">33,7</td>
+								<td align="center">0,9</td>
+							</tr>
+							<tr>
+								<td>Recife/PE</td>
+								<td align="center">2008</td>
+								<td align="center">8</td>
+								<td align="center">1.002</td>
+								<td align="center">12,9</td>
+								<td align="center">26,4</td>
+							</tr>
+							<tr>
+								<td>Salvador/BA</td>
+								<td align="center">2008</td>
+								<td align="center">8</td>
+								<td align="center">507</td>
+								<td align="center">70,4</td>
+								<td align="center">0,4</td>
+							</tr>
+							<tr>
+								<td>Belo Horizonte/MG</td>
+								<td align="center">2008</td>
+								<td align="center">11</td>
+								<td align="center">591</td>
+								<td align="center">18,4</td>
+								<td align="center">...</td>
+							</tr>
+							<tr>
+								<td>Cornélio Procópio/PR</td>
+								<td align="center">2008</td>
+								<td align="center">15</td>
+								<td align="center">230</td>
+								<td align="center">70,9</td>
+								<td align="center">2,6</td>
+							</tr>
+							<tr>
+								<td>Campinas/SP</td>
+								<td align="center">2008</td>
+								<td align="center">1</td>
+								<td align="center">2.432</td>
+								<td align="center">26,8</td>
+								<td align="center">4,9</td>
+							</tr>
+							<tr>
+								<td>Rio de Janeiro/RJ</td>
+								<td align="center">2009</td>
+								<td align="center">5</td>
+								<td align="center">540</td>
+								<td align="center">86,0</td>
+								<td align="center">0</td>
+							</tr>
+							<tr>
+								<td>Fortaleza/CE</td>
+								<td align="center">2009</td>
+								<td align="center">31</td>
+								<td align="center">696</td>
+								<td align="center">23,4</td>
+								<td align="center">0,9</td>
+							</tr>
+							<tr>
+								<td>Goiânia/GO</td>
+								<td align="center">2009</td>
+								<td align="center">0</td>
+								<td align="center">16</td>
+								<td align="center">6,2</td>
+								<td align="center">...</td>
+							</tr>
+							<tr>
+								<td>Total</td>
+								<td align="center"> </td>
+								<td align="center">264</td>
+								<td align="center">18.459</td>
+								<td align="center">47,0</td>
+								<td align="center">7,3</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+			<p>As ações de prevenção, que poderiam ser classificadas como de sensibilização e tomada de consciência, geralmente, incluíram: grandes contingentes de população em feiras, festividades cívicas e religiosas, escolas, programas de rádio, televisão, artigos em jornais, seminários abertos, todas elas focadas no processo de envelhecimento, na condição dos idosos e nas violências que sofrem.</p>
+			<p>Quanto ao número de atendimentos, é importante esclarecer que cada centro foi criado em período diferente, talvez, por isso, os mais antigos, como São Luís, Manaus, Rio Branco, Teresina e Florianópolis, tendam a mostrar índices de eficiência maior. Entretanto, centros criados posteriormente, como Palmas, Recife e Campinas, também apresentaram elevada produtividade. Outros fatores influenciam nessa quantidade de atendimentos, como o tamanho da cidade (Cornélio Procópio) e o fechamento dos centros durante o monitoramento (Natal, Belo Horizonte).</p>
+			<p>Foram considerados “casos resolvidos” aqueles em que o idoso foi integralmente atendido em sua necessidade. A resolutividade foi alta em 38,9% das unidades. No entanto, na maioria, ficou abaixo de 50%. Os encaminhamentos constituíram as maiores dificuldades para os profissionais. A rede pública de serviços não está preparada para acolher a pessoa idosa e nem costuma dar retorno quando atende. O idoso com dependências físicas, mentais e sociais e com necessidade de respostas imediatas encontra maior dificuldade no atendimento<xref ref-type="bibr" rid="B20">
+					<sup>20</sup>
+				</xref>. Verificamos percentuais baixos de reincidência dos casos resolvidos pelos centros, o que demonstra a efetividade dos atendimentos.</p>
+			<p>Os indicadores quantitativos de produtividade foram complementados pela análise das percepções dos diferentes atores envolvidos no trabalho dos CIAPVI. Ouvir as pessoas sobre os programas nos quais estão envolvidas é importante, pois o que elas pensam sobre a situação influencia seu comportamento.</p>
+			<p>Alguns gestores e profissionais destacaram que os idosos saem dos centros mais tranquilos, cientes de seus direitos, se sentem protegidos, seguros, respaldados e satisfeitos. Muitos disseram que o centro é um serviço que veio para ficar em seus municípios, e ressaltam os ganhos conquistados por meio dele: a mobilização da opinião pública e da mídia, a articulação da rede de proteção local e o envolvimento da comunidade. Os representantes de instituições parceiras também destacaram que, na maioria das vezes, o centro consegue atender à demanda com respostas efetivas. Ressaltaram, ainda, a importância da participação ativa e comprometida dos técnicos, muitos deles voluntários, e que o trabalho multiprofissional tornou o grupo coeso e integrado.</p>
+			<p>Para os parceiros das ONG e de outras instituições públicas, o serviço oferecido pelos centros se tornou referência para a cidadania dos idosos e uma iniciativa de vanguarda em relação ao tema, nas localidades em que foram criados. Promotores de justiça, delegados e defensores públicos assinalaram que houve redução nas queixas e denúncias que chegam a suas instituições, o que é indicativo do êxito dos centros.</p>
+			<p>Os idosos ouvidos consideraram que receberam bom atendimento, pois os profissionais os escutaram, deram encaminhamento correto e seus problemas foram resolvidos. Comentaram que se sentem respeitados, à vontade e tranquilos após o atendimento. No entanto, vários deles criticaram: a burocracia e filas nos serviços para onde são encaminhados; o espaço físico dos centros, que, frequentemente, ainda não é adequado, dificultando a privacidade dos atendimentos, e a morosidade dos processos que endereçam à justiça. Por isso, muitos idosos sugeriram melhorias para os centros, como: adequação do espaço físico visando à privacidade dos atendimentos; abolição das filas para atendimento nos serviços a que são referidos; aumento do número de visitas dos técnicos às suas casas quando há denúncia de violência; penalidades mais duras para seus agressores; justiça mais ágil; estabelecimento dos centros em locais acessíveis; e meio de transporte para que os idosos dependentes sejam atendidos em casa ou levados para atendimento nos serviços.</p>
+		</sec>
+		<sec>
+			<title>Lições aprendidas na implantação dos centros</title>
+			<p>O momento de implantação é crucial porque dele se originará uma prática coletiva eficiente ou não. Cada centro teve sua história particular de criação, mas os pontos comuns ressaltados como facilitadores foram: (1) oficinas oferecidas pela SEDH para os profissionais que atuariam nos centros para discutir a viabilidade do trabalho, criar linguagem comum e oferecer orientações para atuação de rotina e frente a problemas mais complexos. Essa estratégia tornou possível: a identificação e a sinergia das pessoas com a proposta, a obtenção de informações precisas e objetivas para a implantação, garantias para a operacionalização e discussão dos indicadores com os quais os serviços seriam avaliados; (2) constituição de um grupo de profissionais e gestores dedicados, com formação básica e experiência pessoal e institucional anterior para trabalhar com idosos; (3) apoio financeiro e orientação técnica da SEDH para prover o centro com condições básicas de funcionamento nos locais onde esse trabalho foi pioneiro; (4) acolhimento institucional de algum órgão que lhe deu abrigo, cobertura e condições de atuação; (5) criação de infraestrutura básica para o projeto: espaço físico adequado; equipamentos; acesso à internet e telefone, transporte para visitas domiciliares e locomoção de idosos dependentes, e salas para atendimento individual; (6) localização do centro em lugar de fácil acesso para os idosos que utilizam transporte público; (7) autonomia do coordenador para adaptar e organizar o espaço físico e para selecionar sua equipe; (8) construção de parcerias ativas com a rede de serviços de saúde, assistência social e segurança, instituições não governamentais e voluntariado.</p>
+			<p>Dentre os fatores que dificultaram a implantação de alguns centros, gestores e técnicos destacaram: (1) escassez de recursos financeiros para realizar a quantidade de ações previstas, pois algumas unidades dependiam exclusivamente do subsídio da SDH; (2) problemas burocráticos que provocaram morosidade nos processos licitatórios para aquisição de materiais e equipamentos, contratação de técnicos e de empresas envolvidas nas ações; (3) problemas na gestão do órgão ao qual a unidade estava vinculada: troca de chefias, de gestores dos próprios centros, tornando descontínuos os atendimentos e encaminhamentos; (4) inexistência, precariedade ou inadequação de serviços e programas de suporte na rede de proteção para os quais os idosos deveriam ser encaminhados. É o caso de centros de cuidados diurnos e de vagas em Instituições de Longa Permanência para Idosos (ILPI) com elevado grau de dependência; (5) problemas de integração entre os profissionais das distintas áreas (direito, saúde, assistência social, segurança e transporte) e dos órgãos que deveriam atuar em rede; (6) dificuldades de sensibilização da sociedade para as questões do envelhecimento e da violência contra a pessoa idosa.</p>
+		</sec>
+		<sec>
+			<title>Lições aprendidas na implementação dos centros</title>
+			<p>Apesar dos problemas desafiantes de se criar um trabalho multiprofissional, o desenvolvimento das atividades nos CIAPVI mostrou conquistas importantes, consensualmente valorizadas por gestores, profissionais, parceiros e pelos próprios idosos.</p>
+			<p>Mostrou ser altamente eficiente: (1) ter foco na missão; (2) ter um grupo de profissionais capacitados, motivados, coesos e comprometidos com o tema; (3) insistir no atendimento multidisciplinar incluindo apoio jurídico, psicológico e social; (4) fazer parcerias com instituições públicas responsáveis pelo atendimento (como secretarias de saúde, de assistência social, de transporte, de mobilidade urbana) ou com instituições apoiadoras, como: universidades, conselhos de direitos, Ministério Público, Ministério da Justiça, Secretaria da Justiça, Rede Nacional de Atendimento dos Direitos do Idoso e grupos de voluntariado; (5) oferecer atendimento resolutivo, personalizado e direto, que significou acolher e escutar o idoso, realizar os encaminhamentos necessários, envolver a família na solução dos problemas e reforçar seus vínculos por meio da mediação compreensiva de seus conflitos; (6) acompanhar as atividades do centro com cursos que promovessem o bom nível dos profissionais e a orientação dos familiares; (7) acompanhar o desenvolvimento do centro com a produção e divulgação de materiais informativos para sensibilização da sociedade; (8) integrar e fortalecer fóruns em defesa dos direitos da pessoa idosa; (9) quando necessário, descentralizar atividades para municípios e bairros com grande número de idosos; (10) contar com apoio político e gerencial e aporte financeiro do governo local.</p>
+			<p>Esse decálogo poderia ser completado com a constatação da importância de contar com a participação dos idosos e de suas famílias no desenvolvimento das ações. Isso ajudou na adequação das atividades dos centros e permitiu a redução da judicialização dos conflitos que costumam protagonizar ou dos quais são vítimas.</p>
+			<p>Foram apontados os problemas que emperraram o trabalho. Alguns são de ordem institucional, outros de gestão de pessoal e do trabalho, e outros se referem ao desempenho das atividades cotidianas.</p>
+			<p>Do ponto de vista institucional, as principais falhas foram: (1) descontinuidade dos convênios com a SDH que orientava as ações e financiava os centros. Em função dessa interrupção, algumas unidades encerraram definitivamente suas atividades, pois não conseguiram ser assumidas pelos governos locais. Outras continuam existindo, mas perderam o foco multiprofissional e passaram a atuar em uma lógica setorial, desconfigurando a proposta inicial. (2) Em alguns CIAPVI, persistiram problemas: de infraestrutura (falta de espaço físico adequado à privacidade dos atendimentos); de equipamentos imprescindíveis, como telefone, transporte para idosos dependentes e para realização de visitas domiciliares; e de pessoal, persistindo quadro de profissionais reduzido, insuficiente e de elevada rotatividade; (3) em várias unidades, a excessiva lentidão burocrática dos órgãos a que estavam subordinadas prejudicou a realização de ações previstas, a contratação e pagamento de profissionais, e licitações para compra de materiais e equipamentos.</p>
+			<p>Do ponto de vista da gestão dos centros, foram assinalados: (1) em alguns locais, evidente desarticulação da rede de apoio e insuficiência de serviços que deveriam garantir atenção integral aos idosos; (2) falhas no sistema de referência e contrarreferência, comprometendo a resolutividade dos casos de violência; (3) inexistência ou insuficiência de vagas em ILPI, deixando, sem apoio, idosos dependentes em extrema condição de pobreza ou que não tinham familiares cuidadores à disposição; (4) dificuldades de inclusão dos idosos e dos abusadores com transtornos psiquiátricos na rede de atendimento de saúde mental; (5) falta de formação dos profissionais para abordar idosos e familiares com transtornos psiquiátricos ou envolvidos em atos criminosos; (6) ausência de instâncias para trabalhar com os agressores; (7) morosidade no processo de interdição e abrigamento compulsório para idosos com demência e sem cuidadores adequados; (8) inexistência de bancos de dados unificados da rede de proteção.</p>
+			<p>Do ponto de vista das equipes e suas atividades, os profissionais mencionaram como problemáticas: (1) inexperiência para lidar com a violência contra a pessoa idosa; (2) descontinuidade nos processos de contratação e capacitação para atuar nos Centros; (3) e rotatividade dos profissionais e estagiários.</p>
+			<p>Sobre os idosos e suas famílias, os profissionais destacaram: (1) resistência da pessoa idosa em relatar a violência que sofre, seja porque o abusador é um familiar com o qual terá de conviver quando regressar para casa, ou por temor de possível desfecho policial ou jurídico-penal da situação que narrar; (2) comprometimento mental e dependência química de alguns idosos e de seus abusadores; (3) frequente omissão, falta de compreensão e de compromisso de familiares em relação às necessidades de seus parentes idosos.</p>
+		</sec>
+		<sec sec-type="discussion">
+			<title>Discussão</title>
+			<p>Há evidência de acertos e dificuldades no desenvolvimento dos CIAPVI que foram concebidos como uma estratégia para construir uma base de conhecimentos e práticas para lidar com a violência contra a pessoa idosa, garantindo seus direitos. Ressalta-se que, embora falemos da pessoa idosa de forma genérica, na verdade, os maiores frequentadores dessas unidades são pessoas pobres e que têm algum grau de dificuldade de se defender por si só. É em relação a esse grupo específico que as instituições públicas e a sociedade brasileira vêm demonstrando maior dificuldade em atuar protetivamente. Mas esse não é um problema apenas brasileiro, pois, nos documentos do Conselho Europeu<xref ref-type="bibr" rid="B21">
+					<sup>21</sup>
+				</xref>, que reúne o pensamento da Comunidade Europeia, o foco são os idosos dependentes, considerados os mais vulneráveis. Na Europa, pretende-se criar um fundo específico para que esse grupo social seja contemplado, uma vez que os serviços a ele destinados ora são mantidos por órgãos públicos ora por organizações não governamentais. O principal desafio tem sido equilibrar as responsabilidades da família e do Estado nos cuidados aos idosos e ampliar a oferta e o acesso aos serviços especializados, assim como proteger e aliviar o desgaste dos cuidadores familiares.</p>
+			<p>Se os CIAPVI pareciam apontar um caminho de possibilidades no sentido citado acima, seu papel se esmaeceu. Como soe acontecer no serviço público brasileiro, as mudanças na gestão da SDH estabeleceram outras prioridades, tornando esses centros apenas uma experiência a mais. Em levantamento realizado em 2013, constatamos que, dos 18 avaliados, seis encerraram suas atividades em função da falta de recursos financeiros e do apoio da gestão local. Dos 12 restantes, nove ainda funcionavam conforme o modelo multiprofissional preconizado originalmente. Os demais continuavam oferecendo seus serviços com foco apenas setorial. Dois centros (Rio de Janeiro, São Luís), ao contrário, ampliaram suas atividades dentro da filosofia proposta: o primeiro criou uma ouvidoria e implantou uma unidade em Niterói. O segundo criou um atendimento móvel que contempla a periferia de São Luís.</p>
+			<p>A proposta de criação dos CIAPVI foi pensada como uma dentre várias outras estratégias do Plano Nacional de Enfrentamento da Violência contra a Pessoa Idosa. Nesse sentido, ela é parte de um todo e, como tal, ela cumpriu sua missão. Foi com o intuito de generalizar essa estratégia que a SEDH contratou a pesquisa de monitoramento e avaliação para acompanhar o percurso do experimento.</p>
+			<p>A pergunta que aqui cabe é se iniciativas como os CIAPVI têm sentido se não forem verdadeiramente institucionalizadas. A experiência internacional mostra que cada país vai encontrando formas de lidar com os problemas gerados pelo envelhecimento da população. Entretanto, observamos que a questão dos idosos dependentes e as violências que acometem os velhos em geral, continuam a ser temas sobre os quais se preocupam governantes, profissionais de saúde, pesquisadores e, sobretudo, familiares. Os CIAPVI, inicialmente criados como uma experiência-piloto de qualidade, eficiência e baixo custo, com pretensão de estender-se nacionalmente, poderiam constituir um exemplo para os países que estão buscando respostas aos problemas mencionados.</p>
+			<p>Artigos que avaliam propostas de prevenção da violência contra a pessoa idosa mostram que um programa efetivo deve atender a cada idoso e abranger os vários componentes de sua vida, como saúde, educação, interações sociais e condições de vida, provendo serviços relevantes que diminuam os seus riscos de violência. Também deve incluir intervenções como campanhas na mídia e estratégias de mudanças que possam melhorar sua condição de vida<xref ref-type="bibr" rid="B22">
+					<sup>22</sup>
+				</xref>
+				<sup>-</sup>
+				<xref ref-type="bibr" rid="B25">
+					<sup>25</sup>
+				</xref>. Tais objetivos coincidem com os da proposta original dos CIAPVI, embora não se tenha encontrado nenhuma iniciativa igual. Os Estados Unidos, por exemplo, criaram, em 2007, o “Nacional Center of Elder Abuse” (NCEA) dentro do “Department of Health and Human Services”, para assegurar recursos para pesquisa, aplicação de políticas sociais, de saúde, de justiça; para formação de cuidadores; para defesa de direitos dos idosos e atendimento aos familiares necessitados. Esse centro atua em colaboração com os Estados e com iniciativas locais<xref ref-type="bibr" rid="B26">
+					<sup>26</sup>
+				</xref>. No Canadá, existe: um Departamento do Idoso no Sistema Público de Saúde; uma Rede Nacional de Cuidados; um Centro de Direito dos Idosos e uma Rede de Prevenção de Abusos<xref ref-type="bibr" rid="B27">
+					<sup>27</sup>
+				</xref>.</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Considerações finais</title>
+			<p>Do estudo desse caso avaliado, aprendemos algumas lições:</p>
+			<list list-type="order">
+				<list-item>
+					<p>A primeira delas é que, quando se faz um arranjo estratégico novo como dispositivo para o desenvolvimento de uma política pública, a instituição que o cria precisa ter foco, objetivos claros, trabalhar coletivamente com todos os atores que o implementarão ou que serão destinatários da iniciativa. No entanto, não basta isso, é preciso ter recursos financeiros, orientação técnica e previsão de sustentabilidade. No caso dos CIAPVI, houve grande investimento inicial da SDH, seguido por descontinuidade.</p>
+				</list-item>
+				<list-item>
+					<p>Concluímos que os 66% dos centros que persistem têm apoio local e caminham por conta própria. Mas a meta da SDH, de implantar, pelo menos, um em cada estado, não foi atingida. Entendemos, portanto, que o papel orientador e indutor dessa secretaria não deveria ter cessado até que a proposta fosse inteiramente implantada.</p>
+				</list-item>
+				<list-item>
+					<p>Um dos problemas cruciais relativos à continuidade dos centros foi que a proposta de sua criação nunca foi consensual na SDH e nos governos locais. Durante o processo de avaliação, percebeu-se, ao contrário, muita resistência interna e opiniões ambivalentes quanto a assumir esses arranjos e a incorporá-los às instâncias locais. Observamos que, na prática, criar estratégias para o cuidado do idoso não é prioridade para alguns governantes e para parte da sociedade brasileira, a não ser para as famílias.</p>
+				</list-item>
+				<list-item>
+					<p>Ressalta-se a importância, caso a proposta seja retomada, de garantir, aos centros, suas características iniciais multiprofissionais e de atuação em rede. Os resultados conseguidos por meio de uma pequena equipe formada por psicólogo, advogado e assistente social, evidenciados nos indicadores, por si só falam da relevância e adequação desse formato.</p>
+				</list-item>
+				<list-item>
+					<p>O engajamento dos técnicos e gestores foi um ponto alto do sucesso dos centros. Ao final do processo avaliativo, muitos coordenadores e profissionais ressaltaram que, apesar de ser um projeto recente, o esforço e o empenho dos funcionários permitiram que os serviços se transformassem em referência e fossem potencializadores de ações efetivas e significativas.</p>
+				</list-item>
+				<list-item>
+					<p>Foi fundamental o papel dos centros na dinamização de uma rede interinstitucional de serviços necessários e imprescindíveis, como os de saúde e de justiça que, infelizmente, constatou-se serem os de mais difícil acesso e os que apresentam demora e falta de qualidade no atendimento. Ressalta-se a insuficiência de oferta de atenção especializada para idosos dependentes e com problemas graves de saúde física e de acesso aos serviços de saúde mental.</p>
+				</list-item>
+				<list-item>
+					<p>Quatro problemas ligados ao cotidiano dos centros põem em risco o trabalho: falta de garantia de institucionalidade e sustentabilidade pelos órgãos locais em colaboração com a SDH; algumas iniciativas em curso, de tornar o serviço apenas setorial; inadequado e insuficiente financiamento para garantir as atividades; e falta de investimento em pessoas competentes e sua substituição por funcionários inexperientes.</p>
+				</list-item>
+			</list>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referências</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>The DAC Network on Development. Evaluation. Joint evaluations: recent experiences, lessons learned and options for the future [Internet] [acesso 2014 Abr 4]. Disponível em: http://www.oecd.org/dac/evaluation/dcdndep/35353699.pdf</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>The DAC Network on Development</collab>
+					</person-group>
+					<source xml:lang="en">Evaluation. Joint evaluations: recent experiences, lessons learned and options for the future</source>
+					<comment>[Internet]</comment>
+					<date-in-citation content-type="access-date">
+						<year>2014</year>
+						<month>Abr</month>
+						<day>4</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://www.oecd.org/dac/evaluation/dcdndep/35353699.pdf">http://www.oecd.org/dac/evaluation/dcdndep/35353699.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>Fundo das Nações Unidas para a Infância (UNICEF). Innovations, lessons learned and good practices [Internet] [acesso 2013 Abr 4]. Disponível em: http://www.unicef.org/innovations</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Fundo das Nações Unidas para a Infância (UNICEF)</collab>
+					</person-group>
+					<source xml:lang="en">Innovations, lessons learned and good practices</source>
+					<comment>[Internet]</comment>
+					<date-in-citation content-type="access-date">
+						<year>2013</year>
+						<month>Abr</month>
+						<day>4</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://www.unicef.org/innovations">http://www.unicef.org/innovations</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>Marinho A, Façanha LO. Programas sociais: efetividade, eficiência e eficácia como dimensões operacionais da avaliação. Texto para Discussão nº 787 [Internet]. Rio de Janeiro: Instituto de Pesquisa Econômica Aplicada; 2001 [acesso 2013 Abr 5]. Disponível em: http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0787.pdf</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Marinho</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Façanha</surname>
+							<given-names>LO</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Programas sociais: efetividade, eficiência e eficácia como dimensões operacionais da avaliação</article-title>
+					<source xml:lang="pt">Texto para Discussão nº 787</source>
+					<comment>[Internet]</comment>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Instituto de Pesquisa Econômica Aplicada</publisher-name>
+					<year>2001</year>
+					<date-in-citation content-type="access-date">
+						<year>2013</year>
+						<month>Abr</month>
+						<day>5</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0787.pdf">http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_0787.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>Tamaki EM, Tanaka OU, Felisberto E, Alves CKA, Drumond Junior M, Bezerra LCA,  et al. Metodologia de construção de um painel de indicadores para o monitoramento e a avaliação da gestão do SUS. Cienc Saude Colet. 2012; 17(4):839-49.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Tamaki</surname>
+							<given-names>EM</given-names>
+						</name>
+						<name>
+							<surname>Tanaka</surname>
+							<given-names>OU</given-names>
+						</name>
+						<name>
+							<surname>Felisberto</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Alves</surname>
+							<given-names>CKA</given-names>
+						</name>
+						<name>
+							<surname>Drumond</surname>
+							<given-names>M</given-names>
+							<suffix>Junior</suffix>
+						</name>
+						<name>
+							<surname>Bezerra</surname>
+							<given-names>LCA</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="pt">Metodologia de construção de um painel de indicadores para o monitoramento e a avaliação da gestão do SUS</article-title>
+					<source>Cienc Saude Colet</source>
+					<year>2012</year>
+					<volume>17</volume>
+					<issue>4</issue>
+					<fpage>839</fpage>
+					<lpage>849</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>Carvalho ALB, Souza MF, Shimizu HE, Senra IMVB, Oliveira KC. A gestão do SUS e as práticas de monitoramento e avaliação: possibilidades e desafios para a construção de uma agenda estratégica. Cienc Saude Colet. 2012; 17(4):901-11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Carvalho</surname>
+							<given-names>ALB</given-names>
+						</name>
+						<name>
+							<surname>Souza</surname>
+							<given-names>MF</given-names>
+						</name>
+						<name>
+							<surname>Shimizu</surname>
+							<given-names>HE</given-names>
+						</name>
+						<name>
+							<surname>Senra</surname>
+							<given-names>IMVB</given-names>
+						</name>
+						<name>
+							<surname>Oliveira</surname>
+							<given-names>KC</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">A gestão do SUS e as práticas de monitoramento e avaliação: possibilidades e desafios para a construção de uma agenda estratégica</article-title>
+					<source>Cienc Saude Colet</source>
+					<year>2012</year>
+					<volume>17</volume>
+					<issue>4</issue>
+					<fpage>901</fpage>
+					<lpage>911</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>Miranda AS, Carvalho ALB, Cavalcante CGCS. Subsídios sobre práticas de monitoramento e avaliação sobre gestão governamental em Secretarias Municipais de Saúde. Cienc Saude Colet. 2012; 17(4):913-20.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Miranda</surname>
+							<given-names>AS</given-names>
+						</name>
+						<name>
+							<surname>Carvalho</surname>
+							<given-names>ALB</given-names>
+						</name>
+						<name>
+							<surname>Cavalcante</surname>
+							<given-names>CGCS</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Subsídios sobre práticas de monitoramento e avaliação sobre gestão governamental em Secretarias Municipais de Saúde</article-title>
+					<source>Cienc Saude Colet</source>
+					<year>2012</year>
+					<volume>17</volume>
+					<issue>4</issue>
+					<fpage>913</fpage>
+					<lpage>920</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>Minayo MCS. Importância da avaliação qualitativa combinada com outras modalidades de avaliação. Saude Transform Soc. 2011; 1(3):2-11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Minayo</surname>
+							<given-names>MCS</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Importância da avaliação qualitativa combinada com outras modalidades de avaliação</article-title>
+					<source>Saude Transform Soc</source>
+					<year>2011</year>
+					<volume>1</volume>
+					<issue>3</issue>
+					<fpage>2</fpage>
+					<lpage>11</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>Contandriopoulos AP. Avaliando a institucionalização da pesquisa. Cienc Saude Colet. 2006; 11(3):705-11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Contandriopoulos</surname>
+							<given-names>AP</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Avaliando a institucionalização da pesquisa</article-title>
+					<source>Cienc Saude Colet</source>
+					<year>2006</year>
+					<volume>11</volume>
+					<issue>3</issue>
+					<fpage>705</fpage>
+					<lpage>711</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>Knaap P. Theory-based evaluation and learning: possibilities and challenges. Evaluation. 2004; 10(1):16-34.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Knaap</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Theory-based evaluation and learning: possibilities and challenges</article-title>
+					<source>Evaluation</source>
+					<year>2004</year>
+					<volume>10</volume>
+					<issue>1</issue>
+					<fpage>16</fpage>
+					<lpage>34</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>Weiss CH. Evaluation, methods for studying programs and policies. New Jersey: Prentice Hall; 1998.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Weiss</surname>
+							<given-names>CH</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="en">Evaluation, methods for studying programs and policies</source>
+					<publisher-loc>New Jersey</publisher-loc>
+					<publisher-name>Prentice Hall</publisher-name>
+					<year>1998</year>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>Secretaria de Direitos Humanos da Presidência da República. Plano de ação para enfrentamento da violência contra a pessoa idosa (2007-2010). Brasília (DF): SDH; 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Secretaria de Direitos Humanos da Presidência da República</collab>
+					</person-group>
+					<source xml:lang="pt">Plano de ação para enfrentamento da violência contra a pessoa idosa</source>
+					<year>2007-2010</year>
+					<publisher-loc>Brasília (DF)</publisher-loc>
+					<publisher-name>SDH</publisher-name>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation>Secretaria de Direitos Humanos da Presidência da República. Relatório da Primeira Conferência Nacional dos Direitos da Pessoa Idosa. Construindo a Rede Nacional de Proteção e Defesa da Pessoa Idosa. Brasília: SDH; 2006 [Internet] [acesso 2014 Mar 12]. Disponível em: www.sdh.gov.br</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Secretaria de Direitos Humanos da Presidência da República</collab>
+						<collab>Relatório da Primeira Conferência Nacional dos Direitos da Pessoa Idosa</collab>
+					</person-group>
+					<source xml:lang="pt">Construindo a Rede Nacional de Proteção e Defesa da Pessoa Idosa</source>
+					<publisher-loc>Brasília</publisher-loc>
+					<publisher-name>SDH</publisher-name>
+					<year>2006</year>
+					<comment>Internet</comment>
+					<date-in-citation content-type="access-date">
+						<year>2014</year>
+						<month>Mar</month>
+						<day>12</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://www.sdh.gov.br">www.sdh.gov.br</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation>Lei nº 10.741, de 01 de outubro de 2003. Dispõe sobre o Estatuto do Idoso e dá outras providências. Estatuto do Idoso. Diário Oficial da União. 3 Out 2003.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Lei nº 10.741, de 01 de outubro de 2003</collab>
+					</person-group>
+					<article-title xml:lang="pt">Dispõe sobre o Estatuto do Idoso e dá outras providências. Estatuto do Idoso</article-title>
+					<source>Diário Oficial da União</source>
+					<day>3</day>
+					<month>Out</month>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation>Minayo MCS, Assis SG, Souza ER, organizadoras. Avaliação por triangulação de métodos. Rio de Janeiro: Fiocruz; 2005.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="compiler">
+						<name>
+							<surname>Minayo</surname>
+							<given-names>MCS</given-names>
+						</name>
+						<name>
+							<surname>Assis</surname>
+							<given-names>SG</given-names>
+						</name>
+						<name>
+							<surname>Souza</surname>
+							<given-names>ER</given-names>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Avaliação por triangulação de métodos</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Fiocruz</publisher-name>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation>Kantorski LP, Wetzel C, Olschowsky A, Jardim VMR, Bielemann VLM, Schneider JF. Avaliação de quarta geração: contribuições metodológicas para avaliação de serviços de saúde mental. Interface (Botucatu). 2009; 13(31):343-55.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kantorski</surname>
+							<given-names>LP</given-names>
+						</name>
+						<name>
+							<surname>Wetzel</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Olschowsky</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Jardim</surname>
+							<given-names>VMR</given-names>
+						</name>
+						<name>
+							<surname>Bielemann</surname>
+							<given-names>VLM</given-names>
+						</name>
+						<name>
+							<surname>Schneider</surname>
+							<given-names>JF</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Avaliação de quarta geração: contribuições metodológicas para avaliação de serviços de saúde mental</article-title>
+					<source>Interface</source>
+					<publisher-loc>Botucatu</publisher-loc>
+					<year>2009</year>
+					<volume>13</volume>
+					<issue>31</issue>
+					<fpage>343</fpage>
+					<lpage>355</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation>Guba EG, Lincoln YS. Fourth generation evaluation. J Adv Nurs. 2000; 31(1):117-25.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guba</surname>
+							<given-names>EG</given-names>
+						</name>
+						<name>
+							<surname>Lincoln</surname>
+							<given-names>YS</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Fourth generation evaluation</article-title>
+					<source>J Adv Nurs</source>
+					<year>2000</year>
+					<volume>31</volume>
+					<issue>1</issue>
+					<fpage>117</fpage>
+					<lpage>125</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation>Koch T. Having a say: negotiation in fourth-generation evaluation. Adv Nurs. 2000; 31(1):125-31.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Koch</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Having a say: negotiation in fourth-generation evaluation</article-title>
+					<source>Adv Nurs</source>
+					<year>2000</year>
+					<volume>31</volume>
+					<issue>1</issue>
+					<fpage>125</fpage>
+					<lpage>131</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation>Lancaster T, Hart R, Gardner S. Literature and medicine: evaluating a special study module using the nominal group technique. Med Educ. 2002; 36(11):1071-86.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lancaster</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Hart</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Gardner</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Literature and medicine: evaluating a special study module using the nominal group technique</article-title>
+					<source>Med Educ</source>
+					<year>2002</year>
+					<volume>36</volume>
+					<issue>11</issue>
+					<fpage>1071</fpage>
+					<lpage>1086</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation>Gallangher M, Hares T, Spencer J, Bradshaw C, Webb I. The nominal group technique: a research tool for general practice. Fam Pract. 1993; 10(1):76-91.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gallangher</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Hares</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Spencer</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Bradshaw</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Webb</surname>
+							<given-names>I</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">The nominal group technique: a research tool for general practice</article-title>
+					<source>Fam Pract</source>
+					<year>1993</year>
+					<volume>10</volume>
+					<issue>1</issue>
+					<fpage>76</fpage>
+					<lpage>91</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation>Lima-Costa MF, Matos DL, Camarano AA. Evolução das desigualdades sociais em saúde entre idosos e adultos brasileiros: um estudo baseado na Pesquisa Nacional por Amostra de Domicílios (PNAD 1998, 2003). Cienc Saude Colet. 2006; 11(4):941-50.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lima-Costa</surname>
+							<given-names>MF</given-names>
+						</name>
+						<name>
+							<surname>Matos</surname>
+							<given-names>DL</given-names>
+						</name>
+						<name>
+							<surname>Camarano</surname>
+							<given-names>AA</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Evolução das desigualdades sociais em saúde entre idosos e adultos brasileiros: um estudo baseado na Pesquisa Nacional por Amostra de Domicílios (PNAD 1998, 2003)</article-title>
+					<source>Cienc Saude Colet</source>
+					<year>2006</year>
+					<volume>11</volume>
+					<issue>4</issue>
+					<fpage>941</fpage>
+					<lpage>950</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation>Garcia AM. La protección social en la Unión Europea, un modelo homogéneo? ICE Rev Econ [Internet]. 2005 [acesso 2014 Abr 25]; 820:1-27. Disponível em: http://www.revistasice.com/CachePDF/ICE_820_195219__9282FA86374DE5D092216C7C85F66803.pdf</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Garcia</surname>
+							<given-names>AM</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="es">La protección social en la Unión Europea, un modelo homogéneo?</article-title>
+					<source xml:lang="en">ICE Rev Econ</source>
+					<comment>Internet</comment>
+					<year>2005</year>
+					<date-in-citation>
+						<year>2014</year>
+						<month>Abr</month>
+						<day>25</day>
+					</date-in-citation>
+					<volume>820</volume>
+					<fpage>1</fpage>
+					<lpage>27</lpage>
+					<ext-link ext-link-type="uri" xlink:href="http://www.revistasice.com/CachePDF/ICE_820_195219__9282FA86374DE5D092216C7C85F66803.pdf">http://www.revistasice.com/CachePDF/ICE_820_195219__9282FA86374DE5D092216C7C85F66803.pdf</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation>Nation M, Crusto C, Wandersman A, Kumpfer KL, Seybolt D, Morrissey-kane E,  et al. What works in prevention: principles of effective prevention programs. Am Psychol. 2003; 58(6-7):449-56.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nation</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Crusto</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Wandersman</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Kumpfer</surname>
+							<given-names>KL</given-names>
+						</name>
+						<name>
+							<surname>Seybolt</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Morrissey-kane</surname>
+							<given-names>E</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="en">What works in prevention: principles of effective prevention programs</article-title>
+					<source>Am Psychol</source>
+					<year>2003</year>
+					<volume>58</volume>
+					<issue>6-7</issue>
+					<fpage>449</fpage>
+					<lpage>456</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation>Gates S, Ficher JD, Cooke MW, Lamb SE. Multifactorial assessment and targeted intervention for preventing falls and injuries among older people in community and emergency care settings: systematic review and meta-analysis. BMJ. 2008; 336(7636):130-3.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gates</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Ficher</surname>
+							<given-names>JD</given-names>
+						</name>
+						<name>
+							<surname>Cooke</surname>
+							<given-names>MW</given-names>
+						</name>
+						<name>
+							<surname>Lamb</surname>
+							<given-names>SE</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Multifactorial assessment and targeted intervention for preventing falls and injuries among older people in community and emergency care settings: systematic review and meta-analysis</article-title>
+					<source>BMJ</source>
+					<year>2008</year>
+					<volume>336</volume>
+					<issue>7636</issue>
+					<fpage>130</fpage>
+					<lpage>133</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation>Chan KL. Comparative review on national strategies in the prevention of domestic violence. Open Soc Sci J. 2011; 4:1-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Chan</surname>
+							<given-names>KL</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Comparative review on national strategies in the prevention of domestic violence</article-title>
+					<source>Open Soc Sci J</source>
+					<year>2011</year>
+					<volume>4</volume>
+					<fpage>1</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<label>25</label>
+				<mixed-citation>World Health Organization. Missing voices: views of older persons on elder abuse. Genève: World Health Organization; 2002.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>World Health Organization</collab>
+					</person-group>
+					<source xml:lang="en">Missing voices: views of older persons on elder abuse</source>
+					<publisher-loc>Genève</publisher-loc>
+					<publisher-name>World Health Organization</publisher-name>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<label>26</label>
+				<mixed-citation>National Center on elder abuse: administration on aging. Department of Health and Human Services [Internet] [acesso 2014 Maio 20]. Disponível em: http://www.ncea.aoa.gov/index.aspx</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>National Center on elder abuse: administration on aging</collab>
+					</person-group>
+					<source xml:lang="en">Department of Health and Human Services</source>
+					<comment>Internet</comment>
+					<date-in-citation content-type="access-date">
+						<year>2014</year>
+						<month>Maio</month>
+						<day>20</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://www.ncea.aoa.gov/index.aspx">http://www.ncea.aoa.gov/index.aspx</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<label>27</label>
+				<mixed-citation>Réseau canadien pour la prévention des mauvais traitements envers les aîné(e)s. Canadian Network for prevention on elder abuse [Internet] [acesso 2014 Maio 30]. Disponível em: http://www.cnpea.ca/ageism.pdf</mixed-citation>
+				<element-citation publication-type="report">
+					<person-group person-group-type="author">
+						<collab>Réseau canadien pour la prévention des mauvais traitements envers les aîné(e)s.</collab>
+					</person-group>
+					<source xml:lang="en">Canadian Network for prevention on elder abuse</source>
+					<comment>Internet</comment>
+					<date-in-citation content-type="access-date">
+						<year>2014</year>
+						<month>Maio</month>
+						<day>30</day>
+					</date-in-citation>
+					<ext-link ext-link-type="uri" xlink:href="http://www.cnpea.ca/ageism.pdf">http://www.cnpea.ca/ageism.pdf</ext-link>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="S01" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading" xml:lang="en">
+					<subject>Open Space</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Lessons learned from the evaluation of a Brazilian healthcare program for elderly victims of violence</article-title>
+			</title-group>
+			<author-notes>
+				<fn fn-type="con">
+					<p>Collaborators: The authors worked together in all stages of the manuscript production.</p>
+				</fn>
+				<fn id="fn1_en">Translated by Derrick Guy Phillips</fn>
+			</author-notes>
+			<abstract>
+				<p>This paper presents the “lessons learned” from the process of evaluation and monitoring of centers for prevention of violence against the elderly, a program created in 2007 by the Brazilian Department of Human Rights (DHR). The aims were based on multidisciplinary care provided by legal professionals, healthcare professionals and social workers. An evaluative investigation on this program was conducted over a three-year period by means of triangulation of quantitative and qualitative methods. The lessons learned came from the viewpoints of the different players who shared in these experiences.. The efficiency and effectiveness of the actions performed showed the importance of the initiative. However, the investigation also indicated the limitations of the program, particularly regarding sustainability problems caused by lack of investment by the administrators and discontinuity of support from the DHR. In 2013, out of the 18 projects that had been implemented, six had ceased activities, 12 remained active and two of the latter had expanded their actions.</p>
+			</abstract>
+			<kwd-group xml:lang="en">
+				<kwd>Elderly person</kwd>
+				<kwd>Violence against the elderly</kwd>
+				<kwd>Rights of the elderly</kwd>
+				<kwd>Prevention of violence</kwd>
+				<kwd>Evaluation</kwd>
+			</kwd-group>
+		</front-stub>
+		<body>
+			<sec sec-type="intro">
+				<title>Introduction</title>
+				<p>“Lessons learned” is an expression that currently forms one of the chapter headings of the majority of social policy evaluation papers. Such a chapter sets out the positive and negative results of the development of projects or programs, on the basis of which some generalized conclusions are reached.</p>
+				<p>This article focuses on the evaluation of 18 Integrated Centers for the Care and Prevention of Violence against the Elderly (ICCPVE), which we monitored stage by stage over a period of three years (2007 to 2009) during the introduction, implementation and results of the programs.</p>
+				<p>In evaluating social programs, it is common to refer to the desired objectives in terms of efficiency, efficacy and effectiveness. Efficiency refers to the competence with which the appropriate resources are used to achieve results with the least expenditure of money and effort. Efficacy may be defined as the achievement of the desired results under controlled conditions; and effectiveness refers to the achievement of the intended results.</p>
+				<p>We work with the concepts of monitoring and evaluation. Monitoring may be understood as a stage or component in the evaluation process. Monitoring is carried out on the <italic>efficiency</italic> of the introduction and development of a project and also on the efficacy of actions and the <italic>effectiveness</italic> of results. Monitoring is practiced using indicators that show whether a particular proposal has been put into effect as desired or whether it is necessary to change the course of its development. Generally speaking this monitoring is recorded in brief reports containing: an analysis of the situation; details of investments made; identification of problems and the search for solutions; an assurance that the planned activities are being executed correctly; and information on any problems encountered with all or part of the proposal.</p>
+				<p>A complete evaluation comprises the whole cycle of analysis of an initiative, beginning before the process starts (ex-ante), passing through the monitoring of the introduction and the implementation, and ending with an analysis of the results and effects produced (ex-post). An evaluation may also focus simply on a certain moment or stage in the initiative. We focus here only on the question of the lessons learned from the introduction and implementation of the ICCPVE. However, even though we are analyzing only part of the process, it is necessary to look at the origin, the history and the objectives of the program and the context in which it was developed. We set out the lessons that the experience of the ICCPVE holds for the application of similar public policies, preceded by a short description of the proposal, its objectives and the methodology used in its formulation.</p>
+			</sec>
+			<sec>
+				<title>The Project</title>
+				<p>The Integrated Centers for the Care and Prevention of Violence against the Elderly were created in 2007 by the National Secretariat for Human Rights/Brazil (NSHR), on a cooperative basis with municipal and state governments and non-governmental organizations. They were set up as a strategy for action under the National Plan for Confronting Violence and Ill-Treatment of the Elderly.</p>
+				<p>These Centers employ a multi-disciplinary team of social workers, psychologists and lawyers to look after the needs of the elderly. Their activities are primarily concerned with guidance on human rights for old people who have been the victims of violence; the psycho-social examination and diagnosis of situations; mediation in family and community conflicts, with a view to heightening social awareness of aging and violence; encouragement of harmony groups; monitoring of aggressors; referral of specific cases of ill-treatment, abandonment or neglect to specialist services such as the Public Defender’s Office, the Public Prosecutor’s Office, Health Services, Police or Social Services; admission of elderly persons to long-stay institutions; and investment in the training of staff to deal with such questions.</p>
+				<p>Between 2007 and 2009, 18 ICCPVEs were opened in Brazil; eight in the Northeast region, three in the North region, four in the Southeast region, two in the Southern region and one in the Midwest region. Most of them do not have their own infrastructure, being based in State Departments for Justice, Public Safety, Human Rights and Citizenship, Public Defender’s Offices, Social Aid and Development and Defense of Rights.</p>
+				<p>The evaluation was based on an understanding of the objectives and aims of the Centers. The parameters for the process were the <italic>Resolutions of the 1<sup>st</sup> National Conference on the Rights of the Elderly</italic>, the <italic>Old Persons Law</italic> and the guidelines of the <italic>Action Plan for Confronting Violence against the Elderly</italic> for the 2007-2010 four-year period. These documents contain an analysis of the principal problems of violence faced by the elderly and guidelines for the organization, control, monitoring and assessment of programs to be carried out by public authorities.</p>
+			</sec>
+			<sec>
+				<title>Methods used in monitoring and evaluation</title>
+				<p>The evaluation study was based on the triangulation of quantitative and qualitative methods.</p>
+				<p>The monitoring and evaluation process was constructed gradually on the basis of various participating and inter-sectorial workshops, involving all the participants in the social programs. This procedure represents the most up to date practice in the evaluation of social policies, known as “fourth generation evaluation”. The assumption behind this approach is that any evaluative process is more efficient and trustworthy when it is conceived and carried out in the form of a shared learning process that is of benefit to all, including the researchers.</p>
+				<p>At the first of the workshops, the strategies for monitoring and assessment were established and were coordinated with the assistance of NSHR and local units in order to set the correct course for the process.</p>
+				<p>This stage saw the creation of exploratory and management tools for following and analyzing the introduction and implementation of services, examining the initial history of each Center; its institutional and administrative viability; acceptance of the proposal by the managers; compatibility between the situation on the ground, local policies and the Action Plan for Confronting Violence against the Elderly; problems encountered; strategies for overcoming difficulties; and infrastructure and human resources available. A form containing open and closed questions, which was discussed with the coordinators of the Centers, was sent by email for completion by managers and their teams. The data obtained was analyzed for each unit and for the Centers as a whole.</p>
+				<p>In two other workshops, one in 2007 and another in 2008, agreement was reached on the qualitative and quantitative assessment indicators, by means of the “<italic>nominal group</italic>” method. The indicators agreed in the discussions were: <underline>structural</underline>: sustainability, team stability and continuous training; <underline>procedural</underline>: coordination, referral and counter-referral, partnerships, networks and inclusion; and <underline>results-oriented</underline>: preventive activities, attendances, cases resolved and recurring cases.</p>
+				<p>The results of the monitoring were published in the form of bulletins every four months during the years 2008 to 2010, highlighting local situations and comparing the units.</p>
+				<p>The actual evaluation process, carried out by means of qualitative and quantitative tools, covered the stages of the introduction and implementation of the Centers. The “Introduction Evaluation Form” was applied to each of the existing services and those that were set up from 2008 onwards. The answers were analyzed and the results discussed at a workshop in the presence of the Center coordinators.</p>
+				<p>The evaluation of the implementation process was carried out in two stages: in 2008, we emphasized the study of the successes and difficulties in the development of the work, in 2009, the results of action and hopes for the future. During this process, we made use of three forms with open and closed questions and we visited all the Centers. The aim of these visits was to observe activities at first hand and to interview the various personnel involved in the program (managers, staff, partners and elderly people). In all, we carried out 48 individual interviews with managers and partners, 42 focus groups with staff and 14 with elderly people.</p>
+				<p>At the final stage of the evaluation, we submitted the analyses we had made of the whole monitoring and evaluation process to the critical examination of the main personnel involved, during the course of a seminar held for this purpose. A preliminary report containing a summary of the results was sent in advance to coordinators, staff, NSHR representatives and partner institutions. After confirmation by these parties, the final report with the results was completed.</p>
+			</sec>
+			<sec sec-type="results">
+				<title>Results</title>
+				<p>Although the focus of this article is on “lessons learned”, we believe it would be useful for the reader to be supplied with some brief information on the results of the evaluation based on the indicators for the productivity and importance of the Centers. After this, we discuss the lessons that the introduction and implementation process has for similar programs, emphasizing the importance of this service, the successes and difficulties, and most of all the reasons that led to both of them.</p>
+				<sec>
+					<title>Indicators for the productivity and importance of the Centers</title>
+					<p>
+						<xref rid="t1_en" ref-type="table">Table 1</xref> shows indicators for the productivity of the Centers in 2008 and 2009.</p>
+					<p>
+						<table-wrap id="t1_en">
+							<label>Table 1</label>
+							<caption>
+								<title>Indicators for the evaluation of productivity in the Centers, 2008 and 2009</title>
+							</caption>
+							<table frame="hsides" rules="groups">
+								<colgroup width="17%">
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+									<col/>
+								</colgroup>
+								<thead>
+									<tr>
+										<th align="left">Center</th>
+										<th>Year set up</th>
+										<th>Number of preventive actions</th>
+										<th>N<sup>o</sup> of attendances</th>
+										<th>% cases resolved</th>
+										<th>% cases recurring</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>
+											<bold>São Luis/MA</bold>
+										</td>
+										<td align="center">2006</td>
+										<td align="center">47</td>
+										<td align="center">2,173</td>
+										<td align="center">73.9</td>
+										<td align="center">26.1</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Manaus/AM</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">3</td>
+										<td align="center">1,832</td>
+										<td align="center">80.0</td>
+										<td align="center">5.0</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Rio Branco/AC</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">17</td>
+										<td align="center">1,680</td>
+										<td align="center">47.2</td>
+										<td align="center">3.1</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>São Cristóvão/SE</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">38</td>
+										<td align="center">470</td>
+										<td align="center">24.0</td>
+										<td align="center">0.2</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Maceió/AL</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">40</td>
+										<td align="center">54</td>
+										<td align="center">35.2</td>
+										<td align="center">...</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Natal/RN</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">16</td>
+										<td align="center">37</td>
+										<td align="center">97.3</td>
+										<td align="center">2.7</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Teresina/PI</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">8</td>
+										<td align="center">2,812</td>
+										<td align="center">66.2</td>
+										<td align="center">6.4</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Marília/SP</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">2</td>
+										<td align="center">235</td>
+										<td align="center">17.0</td>
+										<td align="center">6.4</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Florianópolis/SC</bold>
+										</td>
+										<td align="center">2007</td>
+										<td align="center">5</td>
+										<td align="center">1,822</td>
+										<td align="center">13.5</td>
+										<td align="center">1.3</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Palmas/TO</bold>
+										</td>
+										<td align="center">2008</td>
+										<td align="center">9</td>
+										<td align="center">1,362</td>
+										<td align="center">33.7</td>
+										<td align="center">0.9</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Recife/PE</bold>
+										</td>
+										<td align="center">2008</td>
+										<td align="center">8</td>
+										<td align="center">1,002</td>
+										<td align="center">12.9</td>
+										<td align="center">26.4</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Salvador/BA</bold>
+										</td>
+										<td align="center">2008</td>
+										<td align="center">8</td>
+										<td align="center">507</td>
+										<td align="center">70.4</td>
+										<td align="center">0.4</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Belo Horizonte/MG</bold>
+										</td>
+										<td align="center">2008</td>
+										<td align="center">11</td>
+										<td align="center">591</td>
+										<td align="center">18.4</td>
+										<td align="center">...</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Cornélio Procópio/PR</bold>
+										</td>
+										<td align="center">2008</td>
+										<td align="center">15</td>
+										<td align="center">230</td>
+										<td align="center">70.9</td>
+										<td align="center">2.6</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Campinas/SP</bold>
+										</td>
+										<td align="center">2008</td>
+										<td align="center">1</td>
+										<td align="center">2,432</td>
+										<td align="center">26.8</td>
+										<td align="center">4.9</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Rio de Janeiro/RJ</bold>
+										</td>
+										<td align="center">2009</td>
+										<td align="center">5</td>
+										<td align="center">540</td>
+										<td align="center">86.0</td>
+										<td align="center">0</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Fortaleza/CE</bold>
+										</td>
+										<td align="center">2009</td>
+										<td align="center">31</td>
+										<td align="center">696</td>
+										<td align="center">23.4</td>
+										<td align="center">0.9</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Goiânia/GO</bold>
+										</td>
+										<td align="center">2009</td>
+										<td align="center">0</td>
+										<td align="center">16</td>
+										<td align="center">6.2</td>
+										<td align="center">...</td>
+									</tr>
+									<tr>
+										<td>
+											<bold>Total</bold>
+										</td>
+										<td> </td>
+										<td align="center">264</td>
+										<td align="center">18,459</td>
+										<td align="center">47.0</td>
+										<td align="center">7.3</td>
+									</tr>
+								</tbody>
+							</table>
+							<table-wrap-foot>
+								<fn id="TFN1_en">
+									<p>Key: (...) no information</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>Preventive actions, which may be described generally as awareness-raising programs, normally involve large audiences at markets, civic and religious festivities, schools, radio and television programs, newspaper articles and open seminars, all of them focusing on the aging process, the condition of the elderly and the violence that they suffer.</p>
+					<p>With regard to the number of attendances, it is important to make clear that each Center was set up at a different time, and perhaps for this reason the oldest Centers, such as those of São Luis, Manaus, Rio Branco, Teresina and Florianópolis tend to show indices of greater efficiency. However, centers created subsequently, such as those of Palmas, Recife and Campinas, also show high productivity figures. Other factors influence the number of attendances, such as the size of the city (Cornélio Procópio) or the closing of Centers during the monitoring period (Natal, Belo Horizonte).</p>
+					<p>“Cases resolved” were those in which the elderly person’s needs were fully met. The resolution rate was high in 38.9% of the Units. However, in the majority, it remained below 50%. Referrals represented the greatest difficulty for staff. Public services are not prepared to receive elderly persons and do not normally produce results when they attend them. Elderly persons who are physically, mentally or socially dependent and who need immediate answers meet with great difficulties in being attended. We found a low proportion of recurrence in cases resolved by the Centers, which is testimony to the effectiveness of their action.</p>
+					<p>Quantitative indicators of productivity were supplemented by an analysis of the views of the different personnel involved in the work of the ICCPVE. Listening to people on the programs in which they are involved is important, because what they think about the situation influences the way they behave.</p>
+					<p>Some managers and professional staff stressed that elderly people leave the Centers calmer and more aware of their rights; they feel protected, secure, supported and satisfied. Many of them said that the Center is a service that is here to stay in their municipality and underlined the gains made through them: the mobilization of public and media opinion, the coordination of a network of local protection and the involvement of the community. The representatives of partner institutions also emphasized that, in the majority of cases, the Center succeeds in meeting the demand with an effective response. They also stressed the importance of the active and committed participation of the workers, many of them volunteers, and the fact that the multi-disciplinary work has made the group cohesive and integrated.</p>
+					<p>For the partners in NGOs and other public institutions, the service provided by the Centers has become a reference point for the citizenship of the elderly and an initiative at the forefront of the topic, as regards the places where they have been established. Prosecutors, police and public defenders say that there has been a reduction in the number of complaints lodged with them, which is evidence of the success of the Centers.</p>
+					<p>The elderly people interviewed considered that they had been well attended, because the professional staff listened to them, referred them in a correct manner and resolved their problems. They commented that they felt respected, at ease and calm after being attended. However, a number of them criticized the bureaucracy and queues at the services to which they were referred, and the often inadequate physical space at the Centers, which made it difficult to ensure privacy during the attendance and resulted in delays as regards legal action. For these reasons, many elderly people suggested improvements at the Centers, such as more space so that attendance could be conducted in private; the abolition of queues for attendance at the services to which they were referred; more visits by staff to their homes in cases of complaints of violence; more rigorous penalties for aggressors; a more flexible legal system; the establishment of Centers in accessible locations; and means of transport so that dependent elderly people could be attended at home or taken to appointments at other services.</p>
+				</sec>
+			</sec>
+			<sec>
+				<title>Lessons learned from the introduction of the Centers</title>
+				<p>The time of introduction is crucial because on it will depend whether the collective practice is efficient or not. Each Center has its own history as regards its foundation, but the points in common stressed as making progress easier were: (1) workshops offered by NSHR for the professional staff of the Centers to discuss the feasibility of the work, create a common language and suggest guidelines for routine activities and more complex problems. This strategy made it possible for people to identify and work with the proposals, to obtain accurate and objective information with regard to the introduction of the Center, to ensure its operational capacity and to discuss the indicators which would be used to evaluate the services; (2) the formation of a group of dedicated professional and managers, with the basic qualifications and previous personal and institutional experience in working with the elderly; (3) financial support and technical guidance from NSHR in providing the Center with the basic conditions for operating in places where the work represented a pioneering effort; (4) acceptance by an institutional entity so as to provide the Center with premises and operating conditions; (5) provision of basic infrastructure for the project: adequate physical space; equipment; telephone and internet facilities; transport for home visits and for dependent elderly people; and rooms for individual attendances; (6) location of the Center where it can be easily accessed by elderly people using public transport; (7) autonomy for the coordinator to adapt and organize the workplace and to select the team; (8) the building of active partnerships with health services, social security organizations, non-governmental institutions and the voluntary sector.</p>
+				<p>Among the factors which made the introduction of some Centers more difficult, managers and staff identified the following: (1) scarcity of financial resources needed to carry out the number of activities planned, because some units were entirely dependent on the subsidy from NSHR; (2) bureaucratic problems leading to delays in the bidding processes for acquiring materials and equipment, or the contracting of technical personnel and companies involved in the programs; (3) management problems in the entity to which the unit was linked, or changes in the management of the Centers themselves, which made for discontinuity in attendances and referrals; (4) non-existence or inadequacy of services and programs in the support network to which elderly people must be referred. This is the case with respect to day care centers and places in long-stay institutions for elderly persons with a high degree of dependency; (5) problems of coordination between staff of different specialisms (law, health, social work, security and transport) and the entities which should be cooperating; (6) difficulties in raising public awareness with regard to questions of aging and violence against the elderly.</p>
+			</sec>
+			<sec>
+				<title>Lessons learned from the implementation of the Centers</title>
+				<p>Despite the problems involved in setting up a multi-disciplinary project, the development of activities in the ICCPVE witnessed important achievements, which were supported by managers, professional staff, partners and the elderly themselves.</p>
+				<p>The following points proved to be highly efficient: (1) mission focus; (2) a group of professionals who were qualified, motivated, cohesive and committed to their work; (3) multi-disciplinary attendance, including legal, psychological and social support; (4) partnerships with public institutions responsible for services (such as departments of health, social security, transport, urban mobility) or with supporting institutions such as universities, rights organizations, public prosecutions offices, federal and state justice departments, the National Network for the Rights of the Elderly, and voluntary groups; (5) the provision of personalized and direct attendances for the resolution of problems, which means receiving and listening to the elderly person, making any necessary referrals, involving the family in the resolution of problems and strengthening its links through a comprehensive mediation of its conflicts; (6) accompanying the activities of the Center with courses to improve professional skills and family guidance; (7) accompanying the development of the Center with the production and distribution of informative material to raise social awareness; (8) participation in public discussions in support of the rights of the elderly; (9) where necessary, the decentralization of activities to municipalities and districts with large numbers of old people; (10) political and administrative support and financial assistance from local government.</p>
+				<p>The above ten points should be supplemented by noting the importance of having the participation of old people and their families in developing policies. This helps in ensuring that the Centers provide suitable services and leads to less litigation over conflicts in which they are the victims.</p>
+				<p>Certain problems that obstruct the work were identified. Some are institutional, others are problems of management, and yet others refer to how daily activities are carried out.</p>
+				<p>From the institutional point of view, the main failings were: (1) the discontinuity of the agreements with the NSHR, which guided the programs and financed the Centers. Because of the interruptions, some units ceased to operate, because they did not succeed in being taken over by local government. Others continued to exist, but they lost their multi-professional focus and ended by operating in a single area, contrary to the original plan; (2) problems of infrastructure continued to be evident in some of the Centers (lack of adequate physical space to ensure privacy in attendances), lack of essential equipment, such as telephones and transport for dependent old people and for home visits, and shortage of personnel, not only as regards insufficient numbers of professional staff but also as regards high staff turnover; (3) in various units, excessive bureaucratic delays by entities to which they were subject prejudiced the carrying out of programs, the hiring and payment of professional staff and the bidding processes for the purchase of materials and equipment.</p>
+				<p>From a management point of view, the main problems were: (1) in some areas, an obvious lack of coordination in the support network and a lack of services which should ensure full attention to the needs of the elderly; (2) failings in the system of referrals and counter-referrals which hindered the resolution of cases of violence; (3) non-existence or insufficiency of places in long-stay institutions for elderly persons, meaning that old people who are dependent, living in extreme poverty or do not have family carers are left without support; (4) difficulties in securing mental health treatment for old people or abusers with psychiatric problems; (5) lack of training for professional staff in dealing with old people and families with psychiatric problems or involved in criminal activities; (6) lack of opportunities for working with aggressors; (7) delays in the processes for adjudications of mental incapacity and compulsory institutionalization for old people with dementia and no proper carers; (8) non-existence of unified databanks for the protection network.</p>
+				<p>From the point of view of the teams and their activities, professional workers mentioned the following problems: (1) lack of experience in dealing with violence against old people; (2) discontinuities in the processes of contracting and training Center personnel; (3) high turnover of professional staff and trainees.</p>
+				<p>As regards the elderly and their families, professional workers highlighted the following: (1) reluctance of old people to speak about the violence that they suffer, either because the abuser is a family member with whom they will have to live when they return home, or through the fear of a possible involvement of the police or the criminal courts in the situation; (2) the mental disturbance or chemical dependency of some old people and their abusers; (3) the frequent lack of understanding and commitment by families as regards the needs of their elderly relatives.</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>Discussion</title>
+				<p>There is evidence of successes and difficulties in the development of the ICCPVE, which were conceived as a strategy for constructing a platform of knowledge and practice to deal with violence against old people and to guarantee their rights. It should be remembered that, although we speak of old people in a general way, in reality the most frequent visitors to the units are poor people who have some difficulty in standing up for themselves. It is this specific group that public institutions and Brazilian society have experienced the greatest difficulties in protecting. But this is not a uniquely Brazilian problem, because in documents published by the Council of Europe, which represents the thinking of the European Community, the focus is on the dependent elderly, who are considered the most vulnerable. In Europe, it is proposed to create a specific fund for the benefit of this group, because the services targeted at the group are sometimes run by public entities and sometimes by non-governmental organizations. The main challenge has been to balance the responsibilities of the family and the State in caring for the elderly, by expanding access to specialist services and by relieving the burden placed on family carers.</p>
+				<p>Although the ICCPVE seemed to show the way towards possibilities of the kind mentioned above, their role has now faded. As often happens with public services in Brazil, changes in the management of the NSHR have established other priorities, making the Centers just one more experiment. In a survey carried out in 2013, we noted that of the 18 Centers evaluated, six had closed down due to lack of financial resources and local management support. Of the remaining 12, nine were still functioning in accordance with the multi-professional model originally conceived. The others were continuing to offer their services only in certain areas. Two Centers (Rio de Janeiro, São Luis), however, had expanded their activities within the planned philosophy, the former by creating a complaints department and by starting a unit in Niterói, and the latter by setting up a mobile facility to attend to the outlying areas of São Luis.</p>
+				<p>The proposed creation of the ICCPVE was one of several strategies devised under the National Plan for Confronting Violence against the Elderly. In this sense, it forms part of a whole and as such it has fulfilled its mission. It was for the purpose of drawing general conclusions from this strategy that the NSHR commissioned the monitoring and evaluation research in order to follow the course of the experiment.</p>
+				<p>The question that arises here is whether initiatives such as the ICCPVE make sense if they are not genuinely institutionalized. International experience shows that every country has been seeking ways of dealing with the problems produced by an aging population. However, we note that the question of dependent old people and the violence to which old people in general are subject continue to be subjects of concern to governments, health professionals, researchers and, above all, families. The ICCPVE initially created as a pilot experiment for quality, efficiency and low cost, with the aim of expanding nationally, could still be seen as an example for countries that are seeking solutions to the problems that have been mentioned.</p>
+				<p>Articles which have evaluated proposals for the prevention of violence against the elderly show that an effective program must meet the needs of each elderly person and embrace the various aspects of his or her life, such as health, education, social interaction and living conditions, providing relevant services which will lessen the risks of violence. It should also include initiatives such as media campaigns and strategies for changes that can improve the living conditions of the elderly. These objective reflect the original proposals for ICCPVE, even though there have been no corresponding initiatives. In 2007 the United States, for example, established the National Center on Elder Abuse (NCEA) within the Department of Health and Human Services to ensure funds for research, the application of social, health and legal policies, the training of carers, the defense of the rights of the elderly, and attendance on families in need. This Center operates in collaboration with the States and with local initiatives. In Canada, there is a Department for the Elderly within the Public Health System, a National Care Network, a Law Center for the Elderly and a Network for the Prevention of Abuse.</p>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>Final considerations</title>
+				<p>We have learned certain lessons from studying the evaluations in this case:</p>
+				<list list-type="order">
+					<list-item>
+						<p>The first lesson is that when a new strategic arrangement is made, such as a project for the development of a public policy, the institution responsible must have a clear focus and defined objectives, and must work closely with all the personnel who will be implementing the project and all those who will be affected by it. However, this is not enough, there needs to be financial resources, technical guidance and foreseeable sustainability. In the case of the ICCPVE, there was a large initial investment by the NSHR, followed by a lack of continuity.</p>
+					</list-item>
+					<list-item>
+						<p>We concluded that 66% of the Centers that still exist enjoy local support and are pursuing their own program. Nevertheless, the NSHR target of establishing at least one Center in every state has not been achieved. It is our view, therefore, that the guiding role of the NSHR should not have ceased until the project had been fully established.</p>
+					</list-item>
+					<list-item>
+						<p>One of the crucial problems as regards the continuity of the Centers lay in the fact that the project for their creation was never fully agreed between the NSHR and local authorities. During the evaluation process, it was noticed, on the contrary, that there was a great deal of internal resistance and discordant views with regard to taking over the projects and incorporating them at the local level. We noted that, in practice, plans for the care of the elderly are not a priority for some authorities or for some sections of Brazilian society, except for the families concerned.</p>
+					</list-item>
+					<list-item>
+						<p>We stress the importance, if the project is to be taken up again, of ensuring that the Centers are provided with their original multi-professional staff and operate on a network basis. The results achieved by a small team comprising a psychologist, lawyer and social worker, as shown by the indicators, are by themselves evidence of the importance and appropriateness of such a format.</p>
+					</list-item>
+					<list-item>
+						<p>The contracting of professional staff and managers was one of the successes of the Centers. At the end of the evaluation process, many coordinators and staff stressed that, even though it was a new project, the efforts and performance of the employees ensured that the services became a reference point leading to effective and important achievements.</p>
+					</list-item>
+					<list-item>
+						<p>The role of the Centers was fundamental in establishing an inter-institutional network of necessary and essential services, such as health and legal assistance, which are unfortunately the most difficult to access and which involve delays and poor quality in their provision. We stress again the inadequacy of specialist care for dependent old people with serious physical health problems, and the difficulties of access to mental health services.</p>
+					</list-item>
+					<list-item>
+						<p>There are four problems with regard to the day to day running of the Centers that jeopardize their work: the lack of any guarantee of continuity and sustainability on the part of the local authorities working in collaboration with the NSHR; some current policies mean that the Centers serve only certain sections of society; inadequate financial resources for the activities of the Centers; and a lack of investment in qualified personnel, and their replacement by inexperienced staff.</p>
+					</list-item>
+				</list>
+			</sec>
+		</body>
+	</sub-article>
+</article>

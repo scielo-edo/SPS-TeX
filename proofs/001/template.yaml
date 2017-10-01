@@ -65,7 +65,7 @@ article[@xml:lang="es"]:
     @@bodies
 
     \end{document}
-    
+
 sub-article: ""
 
 article-title:
@@ -174,12 +174,40 @@ lpage:
 
     \def\lpage{@@children}
 
-permissions:
-  head: |
 
-    \def\permissions{@@children}
+license[@xlink:href="http://creativecommons.org/licenses/by/3.0/"]: 
+    head: |
+
+        \newcommand{\cclicense}{\ccby}
+
+license[@xlink:href="http://creativecommons.org/licenses/by-nc/3.0/"]: 
+    head: |
+
+        \newcommand{\cclicense}{\ccbync}
 
 
+license[@xlink:href="http://creativecommons.org/licenses/by-sa/3.0/"]: 
+    head: |
+
+        \newcommand{\cclicense}{\ccbysa}
+
+
+license[@xlink:href="http://creativecommons.org/licenses/by-nc-sa/3.0/"]: 
+    head: |
+
+        \newcommand{\cclicense}{\ccbyncsa}
+
+
+license[@xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"]: 
+    head: |
+
+        \newcommand{\cclicense}{\ccbyncnd}            
+
+
+license[@xlink:href="http://creativecommons.org/licenses/by-pd/3.0/"]: 
+    head: |
+
+        \newcommand{\cclicense}{\ccpd}   
 
 pub-date: 
   head: |

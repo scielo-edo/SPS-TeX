@@ -1,0 +1,2353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" xml:lang="pt" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<front>
+			<journal-meta>
+				<journal-id journal-id-type="nlm-ta">Rev Bras Epidemiol</journal-id>
+				<journal-id journal-id-type="publisher-id">rbepid</journal-id>
+				<journal-title-group>
+					<journal-title>Revista Brasileira de Epidemiologia</journal-title>
+					<abbrev-journal-title abbrev-type="publisher">Rev. bras. epidemiol.</abbrev-journal-title>
+				</journal-title-group>
+				<issn pub-type="ppub">1415-790X</issn>
+				<issn pub-type="epub">1980-5497</issn>
+				<publisher>
+					<publisher-name>Associação Brasileira de Saúde Coletiva</publisher-name>
+				</publisher>
+			</journal-meta>
+			<article-meta>
+				<article-id pub-id-type="doi">10.1590/1980-5497201500010018</article-id>
+				<article-categories>
+					<subj-group subj-group-type="heading">
+						<subject>Artigos Originais</subject>
+					</subj-group>
+				</article-categories>
+				<title-group>
+					<article-title>Prevalência de dor crônica e sua associação com a situação sociodemográfica e atividade física no lazer em idosos de Florianópolis, Santa Catarina: estudo de base populacional</article-title>
+				</title-group>
+				<contrib-group>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Santos</surname>
+							<given-names>Franco Andrius Ache dos</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Souza</surname>
+							<given-names>Juliana Barcellos de</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Antes</surname>
+							<given-names>Danielle Ledur</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>d'Orsi</surname>
+							<given-names>Eleonora</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+					</contrib>
+					<aff id="aff1">
+						<label>I</label>
+						<institution content-type="orgname">Universidade Federal de Santa Catarina</institution>
+						<institution content-type="orgdiv1">Centro de Ciências da Saúde</institution>
+						<addr-line>
+							<named-content content-type="city">Florianópolis</named-content>
+							<named-content content-type="state">SC</named-content>
+						</addr-line>
+						<country>Brasil</country>
+						<institution content-type="original">Programa de Pós-Graduação em Saúde Coletiva do Centro de Ciências da Saúde da Universidade Federal de Santa Catarina - Florianópolis (SC), Brasil</institution>
+					</aff>
+				</contrib-group>
+				<author-notes>
+					<corresp id="c01"><bold>Autor correspondente:</bold> Franco Andrius Ache dos Santos. Centro de Ciências da Saúde da Universidade Federal de Santa Catarina. Campus Universitário Reitor João David Ferreira Lima, Trindade, CEP 88040-970, Florianópolis, SC, Brasil. E-mail: <email>francoache@hotmail.com</email>
+					</corresp>
+					<fn fn-type="conflict">
+						<p>Conflito de interesses: nada a delcarar</p>
+					</fn>
+				</author-notes>
+				<pub-date pub-type="epub">
+					<season>Jan-Mar</season>
+					<year>2015</year>
+				</pub-date>
+				<volume>18</volume>
+				<issue>1</issue>
+				<fpage>234</fpage>
+				<lpage>247</lpage>
+				<history>
+					<date date-type="received">
+						<day>30</day>
+						<month>09</month>
+						<year>2013</year>
+					</date>
+					<date date-type="rev-recd">
+						<day>16</day>
+						<month>06</month>
+						<year>2014</year>
+					</date>
+					<date date-type="accepted">
+						<day>31</day>
+						<month>07</month>
+						<year>2014</year>
+					</date>
+				</history>
+				<permissions>
+					<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+						<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+					</license>
+				</permissions>
+				<abstract>
+					<sec>
+						<title>OBJETIVO:</title>
+						<p> Estimar a prevalência de dor crônica e sua associação com a situação socioeconômica, demográfica e atividade física no lazer em idosos. </p>
+					</sec>
+					<sec>
+						<title>MÉTODOS:</title>
+						<p> Este estudo é parte do inquérito epidemiológico e transversal de base populacional e domiciliar EpiFloripa Idoso 2009-2010 realizado com 1.705 idosos (≥ 60 anos), residentes em Florianópolis, Santa Catarina. A partir da resposta afirmativa de dor crônica, foram investigadas as associações com as variáveis obtidas por meio de entrevista estruturada. Realizou-se a estatística descritiva, incluindo cálculos de proporções e intervalos de confiança 95% (IC95%). Na análise bruta e ajustada, empregou-se regressão de Poisson, estimando-se as razões de prevalência, com intervalos de confiança de 95% e valores p ≤ 0,05. </p>
+					</sec>
+					<sec>
+						<title>RESULTADOS:</title>
+						<p> Dentre os idosos investigados, 29,3% (IC95% 26,5 - 32,2) relataram dor crônica. Na análise ajustada, observou-se que as variáveis sexo feminino, menor escolaridade e pior situação econômica ficaram associadas significativamente com maior prevalência de dor crônica; ser fisicamente ativo no lazer ficou associado significativamente com menor prevalência do desfecho. </p>
+					</sec>
+					<sec>
+						<title>CONCLUSÕES:</title>
+						<p> Percebe-se que a dor crônica é um agravo que acomete considerável parcela de idosos, havendo desigualdades sociais na sua frequência e sendo beneficamente afetada pela atividade física no lazer. É necessário que políticas públicas de saúde subsidiem programas multidisciplinares de controle da dor incluindo a prática regular de atividade física, voltada especificamente à promoção da saúde do idoso, evitando assim que a dor crônica comprometa a qualidade de vida desta população.</p>
+					</sec>
+				</abstract>
+				<kwd-group xml:lang="pt">
+					<kwd>Prevalência</kwd>
+					<kwd>Dor crônica</kwd>
+					<kwd>Fatores socioeconômicos</kwd>
+					<kwd>Atividade motora</kwd>
+					<kwd>Idoso</kwd>
+					<kwd>Estudos transversais</kwd>
+				</kwd-group>
+				<funding-group>
+					<award-group>
+						<funding-source>Conselho Nacional de Desenvolvimento Científico e Tecnológico</funding-source>
+						<award-id>569834/2008-2</award-id>
+					</award-group>
+				</funding-group>
+				<counts>
+					<table-count count="6"/>
+					<ref-count count="32"/>
+					<page-count count="28"/>
+				</counts>
+			</article-meta>
+		</front>
+		<body>
+			<sec sec-type="intro">
+				<title>INTRODUÇÃO</title>
+				<p>A população mundial vem passando por um acelerado e gradual processo de envelhecimento<xref ref-type="bibr" rid="B01">1</xref>. Acompanhando essa tendência, no Brasil, o envelhecimento populacional é uma realidade. Segundo dados do último censo demográfico realizado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) em 2010, o número de idosos (60 anos ou mais) representava 11,3% da população brasileira<xref ref-type="bibr" rid="B02">2</xref>. </p>
+				<p>Essa mudança na estrutura etária brasileira está diretamente relacionada à transição epidemiológica, pois, à medida que a população envelhece, maior é a prevalência de problemas crônicos de saúde. Entre as consequências que a transição demográfica e a longevidade trazem para a sociedade, a dor é uma das mais significativas; em muitos casos, a dor crônica é a principal queixa dos indivíduos, interferindo consideravelmente na qualidade de vida dos idosos<xref ref-type="bibr" rid="B03">3</xref>.</p>
+				<p> Em um contexto temporal, a dor pode ser classificada como aguda ou crônica. A dor aguda está associada à lesão do organismo, é de curta duração e desaparece com a cicatrização da lesão. A dor crônica, por sua vez, é persistente ou recorrente e não está necessariamente associada a uma lesão no organismo<xref ref-type="bibr" rid="B04">4</xref>. É considerada um evento complexo, de natureza biopsicossocial, que se configura em problema de saúde coletiva e exige abordagem multidisciplinar<xref ref-type="bibr" rid="B05">5</xref>.</p>
+				<p>A prevalência de dor crônica em estudos envolvendo idosos é bastante diversificada, dependendo das características da população em estudo e da metodologia utilizada. Em estudos internacionais, a prevalência de dor crônica varia entre 28,9 e 59,3%<xref ref-type="bibr" rid="B06">6</xref><sup>-</sup><xref ref-type="bibr" rid="B08">8</xref>, enquanto no Brasil a prevalência varia entre 29,7 e 62,2%<xref ref-type="bibr" rid="B03">3</xref><sup>,</sup><xref ref-type="bibr" rid="B09">9</xref><sup>-</sup><xref ref-type="bibr" rid="B10">10</xref>. Estudos transversais sugerem que o aumento da dor crônica está associado principalmente com o sexo feminino, a idade avançada e o baixo nível socioeconômico<xref ref-type="bibr" rid="B11">11</xref>. Menor prevalência de dor crônica tem sido associada a ter trabalho remunerado<xref ref-type="bibr" rid="B03">3</xref>, níveis elevados de escolaridade e condição socioeconômica, bem como à prática regular de atividade física<xref ref-type="bibr" rid="B12">12</xref>. </p>
+				<p>Apesar da considerável interferência negativa da dor crônica na qualidade de vida dos idosos, configurando-se assim em um problema de saúde coletiva, em nosso país, poucos estudos epidemiológicos de base populacional têm se dedicado a esse assunto. Em Santa Catarina, este estudo é pioneiro sobre essa temática, servindo de base para que outros estudos possam surgir, contribuindo com a difusão desse conhecimento. Assim, o objetivo do presente estudo foi estimar a prevalência de dor crônica e a sua associação com a situação socioeconômica e demográfica e o nível de atividade física no lazer da população idosa de Florianópolis, Santa Catarina.</p>
+			</sec>
+			<sec sec-type="methods">
+				<title>MÉTODOS</title>
+				<p>Este é um estudo epidemiológico transversal, realizado com os dados do projeto &quot;Condições de Saúde da População Idosa do Município de Florianópolis, Santa Catarina: Estudo de Base Populacional&quot; (EpiFloripa Idoso 2009-2010).</p>
+				<p>O estudo foi desenvolvido na zona urbana do município de Florianópolis, capital do estado de Santa Catarina. Florianópolis está localizada no centro-leste do estado, grande parte do município (97,23%) está situada na Ilha de Santa Catarina. Segundo a Organização das Nações Unidas, o município apresentou um índice de desenvolvimento humano municipal (IDH-M) de 0,847 em 2010, colocando o município na terceira posição dentre todos os municípios brasileiros<xref ref-type="bibr" rid="B01">1</xref>. </p>
+				<p>De acordo com dados do último censo demográfico realizado pelo IBGE, o município apresenta esperança de vida ao nascer de 79,1 anos e taxa de fecundidade total de 1,4 filhos por mulher<xref ref-type="bibr" rid="B02">2</xref>. A população estimada para Florianópolis em 2009 foi de 408.163 habitantes, sendo 44.460 pertencentes à faixa etária com idade igual ou superior a 60 anos (18.844 do sexo masculino e 25.616 do sexo feminino), representando, dessa forma, 10,9% da população total<xref ref-type="bibr" rid="B13">13</xref>. A população do estudo foi constituída por idosos de ambos os sexos, com 60 anos ou mais de idade, completos no ano da pesquisa, residentes na zona urbana do município de Florianópolis, Santa Catarina. Para o cálculo do tamanho da amostra, foram utilizados os seguintes parâmetros: a população foi igual a 44.460 idosos, prevalência para o desfecho desconhecido (50%), erro amostral igual a 4 pontos percentuais e intervalo de confiança de 95% (IC95%). O tamanho da amostra obtido foi multiplicado por 2 em razão do efeito de delineamento do estudo (<italic>deff</italic>), acrescido ainda de 20% de perdas previstas e 15% para estudos de associação, totalizando 1.599 indivíduos. </p>
+				<p>Para a presente investigação, o cálculo da amostra foi realizado <italic>a posteriori</italic>, considerando-se uma prevalência de dor crônica em idosos de 51,4%<xref ref-type="bibr" rid="B03">3</xref>, com 4 pontos percentuais de margem de erro, IC95% efeito de delineamento de 2, acrescido de 20% para eventuais perdas e 15% para estudos de associação, resultando em amostra mínima de 1.029 indivíduos. Como este estudo foi parte do EpiFloripa Idoso, utilizou-se a maior amostra calculada. A seleção da amostra foi realizada por conglomerados em dois estágios. No primeiro estágio, os 420 setores censitários urbanos do município foram colocados em ordem crescente conforme a renda média mensal do chefe da família, sorteando-se sistematicamente 80 desses setores (8 setores em cada decil de renda). </p>
+				<p>As unidades de segundo estágio foram os domicílios. Uma etapa de atualização do número de domicílios em cada setor (arrolamento) fez-se necessária uma vez que o Censo mais recente havia sido realizado em 2000. Supervisores do estudo percorreram os setores censitários sorteados e procederam à contagem de todos os domicílios habitados, obedecendo a normas do IBGE. O número de domicílios variou de 61 a 725. A fim de diminuir o coeficiente de variação do número de domicílios por setor, foi realizado o agrupamento de setores com menos de 150 domicílios e divisão dos setores com mais de 500, respeitando o decil de renda correspondente, originando 83 setores censitários. O coeficiente de variação inicial era de 52,7% (n = 80 setores) e o final foi de 35,5% (n = 83 setores). </p>
+				<p>De acordo com dados do IBGE<xref ref-type="bibr" rid="B14">14</xref>, estimou-se que deveriam ser visitados cerca de 60 domicílios por setor para se encontrar 20 idosos. Os domicílios foram sorteados de forma sistemática e todos os idosos residentes nestes foram convidados a participar da pesquisa. Em virtude da disponibilidade de recursos financeiros, estimou-se realizar 23 entrevistas por setor censitário, permitindo maior variabilidade da amostra e obtendo-se, dessa forma, 1.911 idosos elegíveis para o estudo. A taxa de não resposta do estudo foi de 10,9%, o que originou uma amostra final de 1.705 idosos efetivamente entrevistados. Idosos institucionalizados foram excluídos deste estudo.</p>
+				<p> Consideraram-se perdas as entrevistas não realizadas após quatro tentativas (sendo pelo menos uma no período noturno e uma no final de semana). As recusas foram os sujeitos que negaram responder o questionário por opção pessoal, não sendo admitidas substituições. A coleta de dados foi realizada por entrevistadoras devidamente treinadas, por meio de questionário estruturado com questões pré-codificadas aplicadas na forma de entrevista face a face, utilizando-se o <italic>Personal Digital Assistants</italic> (PDA), após realização de pré-teste e estudo-piloto em setores não amostrados para a pesquisa. Houve verificação semanal da consistência dos dados e controle de qualidade por meio de aplicação por telefone de um questionário reduzido em 10% das entrevistas selecionadas aleatoriamente.</p>
+				<p>A variável desfecho ou dependente deste estudo foi a prevalência de dor crônica na população idosa de Florianópolis, Santa Catarina. Para tal, foi utilizado o questionário estruturado sobre dor crônica contendo cinco questões<xref ref-type="bibr" rid="B15">15</xref>, considerando-se dor crônica aquela com duração igual ou superior a seis meses, de caráter contínuo ou recorrente, conforme preconizado pela <italic>International Association for the Study ofPain</italic> (IASP)<xref ref-type="bibr" rid="B16">16</xref>. Os idosos foram indagados quanto a sentir dor na maioria dos dias (sim/não); há quanto tempo (&lt; 3 meses, entre 3 e 6 meses e &gt; 6 meses); se no último mês ele sentiu dores em várias partes do corpo, como, por exemplo, costas, pernas, braços, pescoço ou cabeça (sim/não); se a dor durou mais de 15 dias (sim/não); e, ainda, mediante uma escala de dor, na qual o valor zero representava ausência de dor e cem a dor máxima suportável, como ele avaliava a dor na última semana. Tendo em vista a subjetividade da questão sobre dor crônica, todas as entrevistas respondidas por informante ou cuidador foram excluídas da análise.</p>
+				<p>As variáveis de controle ou independentes incluídas foram: sexo; faixa etária (60-69; 70-79; 80 anos ou mais); situação conjugal (casado/companheiro, solteiro/divorciado, viúvo); escolaridade (0 - 4; 5 - 8; 9 - 11; 12 anos ou mais); renda familiar em quartis (1° quartil: ≤ R$ 327,50, 2° quartil: R$ 327,50 a R$ 700,00, 3° quartil: R$ 700,00 a R$ 1.500,00, 4° quartil: &gt; R$ 1.500,00); se exercia trabalho remunerado (sim/não); e se a situação econômica comparada aos 50 anos de idade piorou, permaneceu a mesma ou melhorou. O nível de atividade física no lazer foi mensurado pela versão longa do <italic>Questionário Internacional de Atividades Físicas</italic> (IPAQ) adaptado e validado para idosos do Brasil<xref ref-type="bibr" rid="B17">17</xref>. Idosos que praticavam pelo menos 150 minutos por semana ou mais de atividade física no lazer, foram classificados como fisicamente ativos, e os que praticaram menos de 150 minutos de atividade física no lazer, foram classificados como insuficientemente ativos neste domínio<xref ref-type="bibr" rid="B18">18</xref>.</p>
+				<p> Todas as variáveis do estudo foram analisadas de forma descritiva por meio de frequência absoluta e relativa. A estatística descritiva incluiu cálculos de proporções e IC95% para variáveis categóricas. Para testar a associação entre o desfecho (prevalência de dor crônica) e as variáveis de controle (socioeconômicas e demográficas e atividade física no lazer), foram realizadas análise bruta e ajustada por meio de regressão de Poisson, estimando-se as razões de prevalência brutas e ajustadas, com IC95% e valor p (obtido por meio do teste de Wald)<xref ref-type="bibr" rid="B19">19</xref>.<sup>.</sup>Foram selecionadas para entrarem no modelo ajustado as variáveis que apresentaram valores de p ≤ 0,05 na análise bruta, permanecendo no modelo se atingissem valores de p ≤ 0,05 e/ou ajustassem o modelo. Utilizou-se o pacote estatístico Stata 9.0 (Stata Corp., College Station, Estados Unidos), considerando-se para todas as análises o efeito do desenho amostral por meio do comando svy, projetado para análise de dados provenientes de amostras complexas. </p>
+				<p>O projeto foi aprovado no Comitê de Ética em Pesquisa da Universidade Federal de Santa Catarina, sob protocolo de n° 352/2008 em 23 de dezembro de 2008. Os sujeitos foram informados sobre os objetivos do estudo, e foi solicitada a assinatura do termo de consentimento livre e esclarecido. </p>
+			</sec>
+			<sec sec-type="results">
+				<title>RESULTADOS</title>
+				<p>Da amostra original de 1.911 idosos elegíveis para o estudo, 1.705 indivíduos (89,2%) foram entrevistados, correspondendo a uma taxa de não resposta de 10,8% (n = 206) variando entre 8,5% no primeiro decil de renda e 22,0% no decil mais elevado. Os principais motivos de perdas (n = 206) foram: &quot;não tinha ninguém em casa&quot;, &quot;o idoso estava viajando&quot;, &quot;marcou com a entrevistadora e não compareceu&quot;, &quot;estava de férias&quot;, &quot;estava muito doente&quot;, &quot;tinha cachorro bravo no terreno&quot;. Houve 3 perdas por motivo de hospitalização do idoso no momento da entrevista, não afetando os resultados. Os principais motivos de recusas foram: &quot;não quis dar entrevista&quot;, &quot;entrevista muito longa&quot;, &quot;sem tempo para responder a entrevista&quot;, &quot;acha perda de tempo responder entrevistas&quot;, &quot;não acredita em pesquisas&quot;. </p>
+				<p>Dentre os 1.705 idosos investigados, foram excluídas da análise 49 entrevistas respondidas por informante/cuidadores, totalizando, portanto, 1.656 idosos, dos quais 29,3% (IC95% 26,5 - 32,2) apresentaram dor crônica. Na amostra do estudo, houve predominância de mulheres (62,5%), de idosos na faixa etária de 60 a 69 anos (51,7%), casados ou vivendo com companheiro (58,9%) e com baixa escolaridade (40,0%). A maioria dos idosos respondeu não trabalhar (86,5%) e 48,6% mencionaram que a situação econômica melhorou comparada aos 50 anos de idade. Com relação ao nível de atividade física no lazer, 68,5% dos idosos foram classificados como insuficientemente ativos no lazer (<xref ref-type="table" rid="t01">Tabela 1</xref>). </p>
+				<p>
+					<table-wrap id="t01">
+						<label>Tabela 1.</label>
+						<caption>
+							<title>Descrição das variáveis socioeconômicas e demográficas, atividade física no lazer e presença de dor crônica. Florianópolis, SC. EpiFloripa Idoso 2009 - 2010.</title>
+						</caption>
+						<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+							<thead>
+								<tr>
+									<th>Variáveis</th>
+									<th>n</th>
+									<th>%</th>
+									<th>IC95%</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="4">Sexo (n = 1.656)</td>
+								</tr>
+								<tr>
+									<td> Masculino</td>
+									<td>598</td>
+									<td>37,5</td>
+									<td>34,7 – 40,3</td>
+								</tr>
+								<tr>
+									<td> Feminino</td>
+									<td>1.058</td>
+									<td>62,5</td>
+									<td>59,7 – 65,3</td>
+								</tr>
+								<tr>
+									<td colspan="4">Faixa etária (anos) (n = 1.656)</td>
+								</tr>
+								<tr>
+									<td> 60 a 69</td>
+									<td>846</td>
+									<td>51,7</td>
+									<td>48,8 – 54,7</td>
+								</tr>
+								<tr>
+									<td> 70 a 79</td>
+									<td>596</td>
+									<td>35,5</td>
+									<td>32,5 – 38,4</td>
+								</tr>
+								<tr>
+									<td> ≥ 80</td>
+									<td>214</td>
+									<td>12,8</td>
+									<td>10,3 – 15,3</td>
+								</tr>
+								<tr>
+									<td colspan="4">Situação conjugal (n = 1.656)</td>
+								</tr>
+								<tr>
+									<td> Casado/com companheiro</td>
+									<td>974</td>
+									<td>58,9</td>
+									<td>55,5 – 62,4</td>
+								</tr>
+								<tr>
+									<td>Solteiro/divorciado</td>
+									<td>225</td>
+									<td>13,7</td>
+									<td>11,7 – 15,7</td>
+								</tr>
+								<tr>
+									<td> Viúvo</td>
+									<td>457</td>
+									<td>27,4</td>
+									<td>24,5 – 30,3</td>
+								</tr>
+								<tr>
+									<td colspan="4">Renda em quartis (n = 1.656)</td>
+								</tr>
+								<tr>
+									<td> &gt; R$ 1.500,00</td>
+									<td>410</td>
+									<td>26,8</td>
+									<td>21,7 – 32,0</td>
+								</tr>
+								<tr>
+									<td> R$ 700,00 a R$ 1.500,00 </td>
+									<td>414</td>
+									<td>25,4</td>
+									<td>22,4 – 28,4</td>
+								</tr>
+								<tr>
+									<td> R$ 327,50 a R$ 700,00</td>
+									<td>418</td>
+									<td>25,2</td>
+									<td>21,7 – 28,8</td>
+								</tr>
+								<tr>
+									<td> ≤ R$ 327,50 </td>
+									<td>414</td>
+									<td>22,6</td>
+									<td>18,6 – 26,4</td>
+								</tr>
+								<tr>
+									<td colspan="4">Escolaridade (anos) (n = 1.648)</td>
+								</tr>
+								<tr>
+									<td> ≥ 12</td>
+									<td>386</td>
+									<td>25,2</td>
+									<td>20,6 – 29,8</td>
+								</tr>
+								<tr>
+									<td> 9 a 11</td>
+									<td>231</td>
+									<td>16,2</td>
+									<td>12,6 – 19,8</td>
+								</tr>
+								<tr>
+									<td> 5 a 8</td>
+									<td>315</td>
+									<td>18,6</td>
+									<td>16,0 – 21,3</td>
+								</tr>
+								<tr>
+									<td> 0 a 4</td>
+									<td>716</td>
+									<td>40,0</td>
+									<td>33,9 – 46,0</td>
+								</tr>
+								<tr>
+									<td colspan="4">Trabalho remunerado (n = 1.656)</td>
+								</tr>
+								<tr>
+									<td> Não</td>
+									<td>1.429</td>
+									<td>86,5</td>
+									<td>84,1 – 88,8</td>
+								</tr>
+								<tr>
+									<td> Sim</td>
+									<td>227</td>
+									<td>13,5</td>
+									<td>11,2 – 15,8 </td>
+								</tr>
+								<tr>
+									<td colspan="4">Situação econômica comparada aos 50 anos (n = 1.654)</td>
+								</tr>
+								<tr>
+									<td> Melhor</td>
+									<td>775</td>
+									<td>48,6</td>
+									<td>44,3 – 53,0 </td>
+								</tr>
+								<tr>
+									<td> A mesma</td>
+									<td>460</td>
+									<td>25,9</td>
+									<td>22,5 – 29,1</td>
+								</tr>
+								<tr>
+									<td> Pior</td>
+									<td>419</td>
+									<td>25,5</td>
+									<td>22,5 – 28,5</td>
+								</tr>
+								<tr>
+									<td colspan="4">Atividade física no lazer (n = 1.656)</td>
+								</tr>
+								<tr>
+									<td>Insuficientemente ativo</td>
+									<td>1.165</td>
+									<td>68,5</td>
+									<td>63,5 – 73,6</td>
+								</tr>
+								<tr>
+									<td> Fisicamente ativo</td>
+									<td>491</td>
+									<td>31,5</td>
+									<td>26,4 – 36,5</td>
+								</tr>
+								<tr>
+									<td colspan="4">Dor crônica (n = 1.656)</td>
+								</tr>
+								<tr>
+									<td> Sim</td>
+									<td>497</td>
+									<td>29,3</td>
+									<td>26,5 – 32,2</td>
+								</tr>
+								<tr>
+									<td> Não</td>
+									<td>1.159</td>
+									<td>70,7</td>
+									<td>67,8 – 73,5</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p>Na análise bruta, associaram-se ao desfecho ser do sexo feminino, ter renda entre 700 e 1.500 reais, menor escolaridade, exercer trabalho remunerado, referir situação econômica pior comparada aos 50 anos de idade e ser fisicamente ativos no lazer. Não esteve associada significativamente à dor crônica a variável faixa-etária e situação conjugal (<xref ref-type="table" rid="t02">Tabela 2</xref>). A variável faixa-etária, mesmo não estando associada significativamente ao desfecho na análise bruta, foi mantida no modelo final de análise pelo fato de ser uma importante variável de confundimento.</p>
+				<p>
+					<table-wrap id="t02">
+						<label>Tabela 2.</label>
+						<caption>
+							<title>Análise bruta da prevalência de dor crônica associada às variáveis socioeconômicas e demográficas e atividade física no lazer. Florianópolis, SC. EpiFloripa Idoso 2009 - 2010.</title>
+						</caption>
+						<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+							<thead>
+								<tr>
+									<th>Variáveis</th>
+									<th>n (%)</th>
+									<th>RP bruta (IC95%)</th>
+									<th>Valor p</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="3">Sexo (n = 1.656)</td>
+									<td>&lt; 0,001*</td>
+								</tr>
+								<tr>
+									<td> Masculino</td>
+									<td>106 (17,7)</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Feminino</td>
+									<td>391 (37,0)</td>
+									<td>1,99 (1,59 – 2,48)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="3">Faixa etária (anos) (n = 1.656)</td>
+									<td>0,212</td>
+								</tr>
+								<tr>
+									<td> 60 a 69</td>
+									<td>243 (28,7)</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 70 a 79</td>
+									<td>188 (31,5)</td>
+									<td>1,19 (0,99 – 1,44)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> ≥ 80</td>
+									<td>66 (30,8)</td>
+									<td>1,07 (0,82 – 1,40)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="3">Situação conjugal (n = 1.656)</td>
+									<td>0,816</td>
+								</tr>
+								<tr>
+									<td> Casado/com companheiro</td>
+									<td>291 (29,9)</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td>Solteiro/divorciado</td>
+									<td>61 (27,1)</td>
+									<td>0,90 (0,71 – 1,15)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Viúvo</td>
+									<td>145 (31,7)</td>
+									<td>1,04 (0,83 – 1,30)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="3">Renda em quartis (n = 1.656)</td>
+									<td>0,001*</td>
+								</tr>
+								<tr>
+									<td> &gt; R$ 1.500,00</td>
+									<td>137 (33,1)</td>
+									<td> 1,00 </td>
+									<td/>
+								</tr>
+								<tr>
+									<td> R$ 700,00 a R$ 1.500,00 </td>
+									<td>145 (34,7)</td>
+									<td>0,64 (0,48 – 0,85)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> R$ 327,50 a R$ 700,00</td>
+									<td>125 (30,2)</td>
+									<td>0,88 (0,70 – 1,11)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> ≤ R$ 327,50 </td>
+									<td>90 (21,9)</td>
+									<td>1,13 (0,89 – 1,43)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="3">Escolaridade (anos) (n = 1.648)</td>
+									<td>&lt; 0,001*</td>
+								</tr>
+								<tr>
+									<td> ≥ 12</td>
+									<td>82 (21,2)</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 9 a 11</td>
+									<td>58 (25,1)</td>
+									<td>1,16 (0,80 – 1,69)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 5 a 8</td>
+									<td>91 (28,9)</td>
+									<td>1,37 (1,01 – 1,86)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 0 a 4</td>
+									<td>264 (36,9)</td>
+									<td>1,83 (1,40 – 2,38)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="3">Trabalho remunerado (n = 1.656)</td>
+									<td>0,040*</td>
+								</tr>
+								<tr>
+									<td> Não</td>
+									<td>444 (31,1)</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Sim</td>
+									<td>53 (23,3)</td>
+									<td>0,74 (0,56 – 0,99)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="3">Situação econômica comparada aos 50 anos (n = 1.654)</td>
+									<td>0,039*</td>
+								</tr>
+								<tr>
+									<td> Melhor</td>
+									<td>227 (29,3)</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> A mesma</td>
+									<td>125 (27,2)</td>
+									<td>0,92 (0,74 – 1,14)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Pior</td>
+									<td>144 (34,4)</td>
+									<td>1,21 (1,03 – 1,42)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="3">Atividade física no lazer (n = 1.656)</td>
+									<td>&lt; 0,001*</td>
+								</tr>
+								<tr>
+									<td>Insuficientemente ativo</td>
+									<td>386 (33,1)</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Fisicamente ativo</td>
+									<td>111 (22,6)</td>
+									<td>0,69 (0,55 – 0,85)</td>
+									<td/>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<fn id="t02TFN01">
+								<label>*</label>
+								<p>Valores estatisticamente significantes (p = 0,05); RP: Razão de prevalência.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+				<p>Na análise ajustada, apenas a variável sexo, escolaridade, situação econômica e atividade física no lazer mantiveram-se associadas ao desfecho até o final da análise.</p>
+				<p>As mulheres apresentaram prevalência 82% maior de dor crônica em relação aos homens (RP = 1,82; IC95%1,45 - 2,29), e idosos com escolaridade entre 0 e 4 anos têm maior prevalência do desfecho em relação aos idosos com 12 ou mais anos de estudo (RP = 1,43; IC95% 1,10 - 1,85). Indivíduos com relato de pior situação econômica comparada aos 50 anos de idade apresentaram prevalência 26% maior de dor em relação aos idosos que melhoraram a sua situação econômica (RP = 1,26; IC95% 1,08 - 1,49). Ser fisicamente ativo no lazer apresentou menor prevalência de dor crônica quando comparados aos idosos insuficientemente ativos (RP = 0,80; IC95% 0,65 - 0,99) (<xref ref-type="table" rid="t03">Tabela 3</xref>).</p>
+				<p>
+					<table-wrap id="t03">
+						<label>Tabela 3.</label>
+						<caption>
+							<title>Análise ajustada da prevalência de dor crônica associada às variáveis socioeconômicas e demográficas e atividade física no lazer. Florianópolis, SC. EpiFloripa Idoso 2009 - 2010.</title>
+						</caption>
+						<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+							<thead>
+								<tr>
+									<th>Variáveis</th>
+									<th>RP ajustada (IC95%)</th>
+									<th>Valor p</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="2">Sexo (n = 1.656)</td>
+									<td>&lt; 0,001*</td>
+								</tr>
+								<tr>
+									<td> Masculino</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Feminino</td>
+									<td>1,82 (1,45 – 2,29)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="2">Faixa etária (anos) (n = 1.656)</td>
+									<td>0,947</td>
+								</tr>
+								<tr>
+									<td> 60 a 69</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 70 a 79</td>
+									<td>1,10 (0,90 – 1,34)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> ≥ 80</td>
+									<td>0,95 (0,72 – 1,25)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="2">Renda em quartis (n = 1.656)</td>
+									<td>0,412</td>
+								</tr>
+								<tr>
+									<td> &gt; R$ 1.500,00</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> R$ 700,00 a R$ 1.500,00</td>
+									<td>0,90 (0,67 – 1,20)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> R$ 327,50 a R$ 700,00</td>
+									<td>1,08 (0,84 – 1,40)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> ≤ R$ 327,50</td>
+									<td>1,19 (0,93 – 1,52)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="2">Escolaridade (anos) (n = 1.656)</td>
+									<td>0,001*</td>
+								</tr>
+								<tr>
+									<td> ≥ 12</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 9 a 11</td>
+									<td>0,95 (0,67 – 1,36)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 5 a 8</td>
+									<td>1,08 (0,80 – 1,45)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> 0 a 4</td>
+									<td>1,43 (1,10 – 1,85)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="2">Trabalho remunerado (n = 1.656)</td>
+									<td>0,546</td>
+								</tr>
+								<tr>
+									<td> Não</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Sim</td>
+									<td>0,92 (069 – 1,21)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="2">Situação econômica comparada aos 50 anos (n = 1.654)</td>
+									<td>0,012*</td>
+								</tr>
+								<tr>
+									<td> Melhor</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> A mesma</td>
+									<td>0,95 (0,77 – 1,18)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Pior</td>
+									<td>1,26 (1,08 – 1,49)</td>
+									<td/>
+								</tr>
+								<tr>
+									<td colspan="2">Atividade física no lazer (n = 1.656) </td>
+									<td>0,047*</td>
+								</tr>
+								<tr>
+									<td>Insuficientemente ativo</td>
+									<td>1,00</td>
+									<td/>
+								</tr>
+								<tr>
+									<td> Fisicamente ativo</td>
+									<td>0,80 (0,65 – 0,99)</td>
+									<td/>
+								</tr>
+							</tbody>
+						</table>
+						<table-wrap-foot>
+							<fn id="t03TFN01">
+								<label>*</label>
+								<p>Valores estatisticamente significantes (p = 0,05); Teste de Wald: p &lt; 0,001; RP: Razão de prevalência.</p>
+							</fn>
+						</table-wrap-foot>
+					</table-wrap>
+				</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>DISCUSSÃO</title>
+				<p>Os principais achados do presente estudo mostram importantes associações entre a prevalência de dor crônica e a situação socioeconômica e demográfica e o nível de atividade física no lazer da população idosa do município de Florianópolis. A maior prevalência de dor crônica ficou associada significativamente com ser do sexo feminino, ter menor escolaridade e pior situação econômica. Por outro lado, atividade física no lazer associou-se com menor prevalência do desfecho. </p>
+				<p>Nesta investigação, a prevalência de dor crônica na população idosa do município de Florianópolis foi de 29,3%. Dellaroza et al.<xref ref-type="bibr" rid="B03">3</xref>, que estudaram 529 idosos servidores municipais aposentados e em atividade de Londrina, Paraná, os quais relataram dor há pelo menos seis meses, observaram prevalência de dor crônica em 51,4% da população estudada. O fato de esse estudo ter sido realizado com uma população de conveniência, apenas servidores municipais, pode ter contribuído para que a prevalência de dor crônica observada tenha sido bem maior do que a encontrada no presente estudo. </p>
+				<p>Em estudo transversal realizado com 219 idosos na cidade de Taipei em Taiwan, Yu et al.<xref ref-type="bibr" rid="B07">7</xref> encontraram uma prevalência de dor crônica de 42,0%. Em outra investigação transversal de base populacional realizada na Colômbia na população em geral, a prevalência de dor crônica encontrada em indivíduos acima de 65 anos foi de 43,8%<xref ref-type="bibr" rid="B20">20</xref>. Dellaroza et al.<xref ref-type="bibr" rid="B09">9</xref> entrevistaram 172 idosos residentes na área de abrangência de uma Unidade Básica de Saúde localizada na zona norte da cidade de Londrina, Paraná, com dor há pelo menos seis meses e com queixas frequentes de dor; a prevalência de dor crônica encontrada no estudo foi de 62,2%. Nesse estudo em específico, observa-se que a amostra (n = 172) pode ser muito pequena e pouco representativa, uma vez que esses idosos correspondem apenas aos residentes que utilizam uma unidade básica de saúde de uma localidade específica do município de Londrina, não representando assim o total da população do município. Ressalta-se ainda que os idosos selecionados para o estudo já apresentavam queixas de dor, o que também pode ter contribuído para o elevado percentual de dor crônica encontrada. </p>
+				<p>Dellaroza et al.<xref ref-type="bibr" rid="B10">10</xref> realizaram um estudo transversal de base populacional com 1.271 idosos na cidade de São Paulo, São Paulo, e observaram uma prevalência de dor crônica em 29,7% da população estudada, prevalência essa que se aproxima do valor de 29,3%, corroborando com o encontrado no presente estudo.</p>
+				<p>Nesta pesquisa, evidenciou-se que ser do sexo feminino ficou significativamente associado a maior prevalência de dor crônica, consoante com o que foi encontrado na literatura. A prevalência de dor crônica na população em geral tem sido maior em mulheres, comparativamente aos homens<xref ref-type="bibr" rid="B21">21</xref><sup>-</sup><xref ref-type="bibr" rid="B24">24</xref>. Em estudos internacionais, realizados na Espanha, França e Colômbia<xref ref-type="bibr" rid="B08">8</xref><sup>,</sup><xref ref-type="bibr" rid="B20">20</xref><sup>,</sup><xref ref-type="bibr" rid="B25">25</xref>, a prevalência de dor crônica foi igualmente maior em mulheres. No estudo de Dellaroza et al.<xref ref-type="bibr" rid="B03">3</xref>, das variáveis sociodemográficas analisadas, somente o sexo associou-se à presença de dor crônica, mais frequente em mulheres. Em estudo realizado por Leveille et al.<xref ref-type="bibr" rid="B26">26</xref>, os autores encontraram uma prevalência maior de dor musculoesquelética em mulheres. Em geral, as mulheres idosas têm maior prevalência de dor crônica comparativamente aos homens idosos<xref ref-type="bibr" rid="B07">7</xref>, o que vai ao encontro do observado no presente estudo. </p>
+				<p>Mulheres podem perceber o evento da dor com maior seriedade, pois as múltiplas responsabilidades e papéis, resultantes de cuidados com parentes e administração do lar, são razões para elas considerarem a dor ameaçadora. Além disso, o significado da dor para homens e mulheres pode ser influenciado por normas sociais e culturais que permitem à mulher a expressão ou manifestação de dor enquanto encorajam os homens a desconsiderá-la. Esses fatores também devem ser considerados como contribuintes para a maior queixa de dor entre o sexo feminino<xref ref-type="bibr" rid="B21">21</xref>.</p>
+				<p>No presente estudo, idosos com menor nível de escolaridade apresentaram maiores percentuais de dor crônica quando comparado aos demais níveis. Em estudo realizado por Dellaroza et al.<xref ref-type="bibr" rid="B03">3</xref>, os autores encontraram que idosos que tinham entre dois e quatro anos de estudo apresentaram maiores percentuais de dor crônica. Em outro estudo sobre a prevalência de dor crônica na população de Salvador, indivíduos com nível de escolaridade mais baixo apresentaram maiores percentuais de dor crônica quando comparados aos níveis médio e alto<xref ref-type="bibr" rid="B22">22</xref>. Assim, baixa escolaridade sugere estar relacionada a elevados percentuais de dor crônica entre os indivíduos.</p>
+				<p>Este resultado é expressivo, pois reflete as condições sociais do início do século passado, demonstrando que o acesso à educação era restrito. A possibilidade educacional há mais de meio século era muito baixa, e as pessoas precisavam trabalhar para auxiliar no sustento da família. Tendo em vista que o nível de escolaridade influencia sobremaneira no acesso à informação, este pode ser determinante para a busca de tratamento, assim como é decisivo no autocuidado, pois o idoso deve ser capaz de cuidar de si mesmo, e saber ler é fator contributivo<xref ref-type="bibr" rid="B27">27</xref>.</p>
+				<p>Nesta investigação, idosos que relataram que a situação econômica piorou quando comparada aos 50 anos de idade apresentaram maiores percentuais de dor crônica. Embora algumas investigações<xref ref-type="bibr" rid="B09">9</xref><sup>,</sup><xref ref-type="bibr" rid="B12">12</xref> mencionem que o percentual de dor crônica é maior entre os indivíduos pertencentes às classes sociais mais baixas, não foram encontrados outros estudos que analisaram a relação entre dor crônica e situação econômica aos 50 anos comparada com a atual, o que evidencia a necessidade de maiores investigações a respeito. </p>
+				<p>No presente estudo, constatou-se que ser fisicamente ativo no lazer, ficou significativamente associado a menor prevalência de dor crônica. A prática de atividades físicas pelos idosos, principalmente no lazer, proporciona oportunidades para uma vida mais ativa, saudável e independente, contribuindo para a manutenção da autonomia e melhora da qualidade de vida<xref ref-type="bibr" rid="B28">28</xref>. Em estudo transversal com a população da Noruega, os autores encontraram entre 10 e 12% menor prevalência de dor crônica entre indivíduos de 20 - 64 anos que praticavam atividade física com intensidade moderada e frequência semanal de três vezes; já entre os mais velhos, dependendo da intensidade do exercício, houve redução de 21 - 38% na prevalência de dor crônica<xref ref-type="bibr" rid="B29">29</xref>. </p>
+				<p>Entre as estratégias empregadas por programas multidisciplinares destinados ao tratamento da dor crônica, a atividade física é uma das mais utilizadas<xref ref-type="bibr" rid="B30">30</xref><sup>-</sup><xref ref-type="bibr" rid="B31">31</xref>. Uma das hipóteses mais aceitas sobre os benefícios da prática de atividade física para a gestão da dor crônica se deve ao fato de sua influência estar relacionada aos mecanismos endógenos de controle da dor<xref ref-type="bibr" rid="B32">32</xref>.</p>
+				<p>Algumas limitações do presente estudo devem ser consideradas, sobretudo o delineamento transversal, que não permite definir relações de causalidade entre a prevalência de dor crônica e as demais variáveis investigadas e as medidas autorreferidas das variáveis estudada. Entretanto, não há relevância em saber, neste caso, se os idosos apresentaram menor prevalência para o desfecho por serem fisicamente ativos ou se por serem fisicamente ativos apresentaram menor prevalência para o desfecho, pois ser fisicamente ativo pode ter sido benéfico tanto para a manutenção da saúde, evitando assim o surgimento da dor crônica, como para que nos idosos que apresentaram dor crônica esta tivesse sua intensidade e duração reduzida. Entre os pontos positivos, o estudo se destaca pela relevância e originalidade do tema, servindo de base para outras investigações, bem como pelo fato de a amostra ser ampla e representativa dos idosos do município de Florianópolis. Ressalta-se ainda a elevada taxa de resposta do estudo, que contribuiu para a validade interna dele, diminuindo a chance de ocorrência de erros sistemáticos.</p>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>CONCLUSÃO</title>
+				<p>A constatação de que as mulheres, os indivíduos com baixa escolaridade, com pior situação econômica e insuficientemente ativos apresentam maior prevalência de dor crônica entre os idosos representa um importante achado, que poderá subsidiar políticas de saúde pública e focadas na atenção ao idoso. </p>
+				<p>Portanto, os resultados sugerem que campanhas de prevenção à dor crônica devam visar prioritariamente mulheres, com baixa renda e insuficientemente ativas no lazer. Faz-se necessário ainda o desenvolvimento de programas multidisciplinares de gestão e controle da dor crônica, incluindo orientação aos profissionais de saúde para atuarem na prevenção à dor crônica e programas de atividade física voltados especificamente ao idoso, com o objetivo de evitar que a dor crônica configure-se como fator responsável pelo comprometimento da qualidade de vida dos idosos.</p>
+			</sec>
+		</body>
+		<back>
+			<ref-list>
+				<title>REFERÊNCIAS</title>
+				<ref id="B01">
+					<label>1</label>
+					<mixed-citation>1. Programa das Nações Unidas - PNUD. Atlas do Desenvolvimento Humano no Brasil 2003. Disponível em http://www.pnud.org.br/atlas. (Acessado em maio de 2010).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Programa das Nações Unidas - PNUD</collab>
+						</person-group>
+						<source xml:lang="pt">Atlas do Desenvolvimento Humano no Brasil 2003</source>
+						<year>2003</year>
+						<ext-link ext-link-type="uri" xlink:href="http://www.pnud.org.br/atlas">http://www.pnud.org.br/atlas</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B02">
+					<label>2</label>
+					<mixed-citation>2. Instituto Brasileiro de Geografia e Estatística - IBGE. Sinopse do Censo Demográfico de 2010/2011. Disponível em http://www.ibge.gov.br/home/estatistica/populacao/censo2010/default_sinopse.shtm. (Acessado em maio de 2013).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Instituto Brasileiro de Geografia e Estatística - IBGE</collab>
+						</person-group>
+						<source xml:lang="pt">Sinopse do Censo Demográfico de 2010/2011</source>
+						<year>2011</year>
+						<ext-link ext-link-type="uri" xlink:href="http://www.ibge.gov.br/home/estatistica/populacao/censo2010/default_sinopse.shtm">http://www.ibge.gov.br/home/estatistica/populacao/censo2010/default_sinopse.shtm</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B03">
+					<label>3</label>
+					<mixed-citation>3. Dellaroza MS, Pimenta CA, Matsuo T. Prevalence and characterization of chronic pain among the elderly living in the community. Cad Saúde Pública 2007; 23(5): 1151-60.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dellaroza</surname>
+								<given-names>MS</given-names>
+							</name>
+							<name>
+								<surname>Pimenta</surname>
+								<given-names>CA</given-names>
+							</name>
+							<name>
+								<surname>Matsuo</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Prevalence and characterization of chronic pain among the elderly living in the community</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2007</year>
+						<volume>23</volume>
+						<issue>5</issue>
+						<fpage>1151</fpage>
+						<lpage>1160</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B04">
+					<label>4</label>
+					<mixed-citation>4. Souza JB. Poderia a atividade física induzir analgesia em pacientes com dor crônica? Rev Bras Med Esporte 2009; 15(2): 145-50.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Souza</surname>
+								<given-names>JB</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Poderia a atividade física induzir analgesia em pacientes com dor crônica</article-title>
+						<source>Rev Bras Med Esporte</source>
+						<year>2009</year>
+						<volume>15</volume>
+						<issue>2</issue>
+						<fpage>145</fpage>
+						<lpage>150</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B05">
+					<label>5</label>
+					<mixed-citation>5. Rull M. Abordaje multidisciplinar del dolor de espalda. Rev Soc Esp Dolor 2004; 11(3): 119-21.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Rull</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Abordaje multidisciplinar del dolor de espalda</article-title>
+						<source>Rev Soc Esp Dolor</source>
+						<year>2004</year>
+						<volume>11</volume>
+						<issue>3</issue>
+						<fpage>119</fpage>
+						<lpage>121</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B06">
+					<label>6</label>
+					<mixed-citation>6. Jakobsson U, Klevsgård R, Westergren A, Hallberg IR. Old people in pain: a comparative study. J Pain Symptom Manage 2003; 26(1): 625-36.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Jakobsson</surname>
+								<given-names>U</given-names>
+							</name>
+							<name>
+								<surname>Klevsgård</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Westergren</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Hallberg</surname>
+								<given-names>IR</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Old people in pain: a comparative study</article-title>
+						<source>J Pain Symptom Manage</source>
+						<year>2003</year>
+						<volume>26</volume>
+						<issue>1</issue>
+						<fpage>625</fpage>
+						<lpage>636</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B07">
+					<label>7</label>
+					<mixed-citation>7. Yu HY, Tang FI, Kuo BI, Yu S. Prevalence, interference, and risk factors for chronic pain among Taiwanese community older people. Pain Manag Nurs 2006; 7(1): 2-11.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yu</surname>
+								<given-names>HY</given-names>
+							</name>
+							<name>
+								<surname>Tang</surname>
+								<given-names>FI</given-names>
+							</name>
+							<name>
+								<surname>Kuo</surname>
+								<given-names>BI</given-names>
+							</name>
+							<name>
+								<surname>Yu</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Prevalence, interference, and risk factors for chronic pain among Taiwanese community older people</article-title>
+						<source>Pain Manag Nurs</source>
+						<year>2006</year>
+						<volume>7</volume>
+						<issue>1</issue>
+						<fpage>2</fpage>
+						<lpage>11</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B08">
+					<label>8</label>
+					<mixed-citation>8. Catàla E, Reig E, Artés M, Aliaga L, López J, Segú J. Prevalence of pain in the Spanish population: telephone survey in 5000 homes. Eur J Pain 2002; 6(2): 133-40.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Catàla</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Reig</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Artés</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Aliaga</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>López</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Segú</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Prevalence of pain in the Spanish population: telephone survey in 5000 homes</article-title>
+						<source>Eur J Pain</source>
+						<year>2002</year>
+						<volume>6</volume>
+						<issue>2</issue>
+						<fpage>133</fpage>
+						<lpage>140</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B09">
+					<label>9</label>
+					<mixed-citation>9. Dellaroza MS, Furuya RK, Cabrera MA, Matsuo T, Trelha C, Yamada KN, et al. Caracterização da dor crônica e métodos analgésicos utilizados por idosos da comunidade. Rev Assoc Med Bras 2008; 54(1): 36-41.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dellaroza</surname>
+								<given-names>MS</given-names>
+							</name>
+							<name>
+								<surname>Furuya</surname>
+								<given-names>RK</given-names>
+							</name>
+							<name>
+								<surname>Cabrera</surname>
+								<given-names>MA</given-names>
+							</name>
+							<name>
+								<surname>Matsuo</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Trelha</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Yamada</surname>
+								<given-names>KN</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="pt">Caracterização da dor crônica e métodos analgésicos utilizados por idosos da comunidade</article-title>
+						<source>Rev Assoc Med Bras</source>
+						<year>2008</year>
+						<volume>54</volume>
+						<issue>1</issue>
+						<fpage>36</fpage>
+						<lpage>41</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B10">
+					<label>10</label>
+					<mixed-citation>10. Dellaroza MS, Pimenta CA, Duarte YA, Lebrão ML. Dor crônica em idosos residentes em São Paulo, Brasil: prevalência, características e associação com capacidade funcional e mobilidade (Estudo SABE). Cad Saúde Pública 2013; 29(2): 325-34.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Dellaroza</surname>
+								<given-names>MS</given-names>
+							</name>
+							<name>
+								<surname>Pimenta</surname>
+								<given-names>CA</given-names>
+							</name>
+							<name>
+								<surname>Duarte</surname>
+								<given-names>YA</given-names>
+							</name>
+							<name>
+								<surname>Lebrão</surname>
+								<given-names>ML</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Dor crônica em idosos residentes em São Paulo, Brasil: prevalência, características e associação com capacidade funcional e mobilidade (Estudo SABE)</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2013</year>
+						<volume>29</volume>
+						<issue>2</issue>
+						<fpage>325</fpage>
+						<lpage>334</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B11">
+					<label>11</label>
+					<mixed-citation>11. Blyth FM, March LM, Brnabic AJ, Jorm LR, Williamson M, Cousins MJ. Chronic pain in Australia: a prevalence study. Pain 2001; 89(2): 127-34.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Blyth</surname>
+								<given-names>FM</given-names>
+							</name>
+							<name>
+								<surname>March</surname>
+								<given-names>LM</given-names>
+							</name>
+							<name>
+								<surname>Brnabic</surname>
+								<given-names>AJ</given-names>
+							</name>
+							<name>
+								<surname>Jorm</surname>
+								<given-names>LR</given-names>
+							</name>
+							<name>
+								<surname>Williamson</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Cousins</surname>
+								<given-names>MJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Chronic pain in Australia: a prevalence study</article-title>
+						<source>Pain</source>
+						<year>2001</year>
+						<volume>89</volume>
+						<issue>2</issue>
+						<fpage>127</fpage>
+						<lpage>134</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B12">
+					<label>12</label>
+					<mixed-citation>12. Turner JA, Franklin G, Fulton-Kehoe D, Egan K, Wickizer TM, Lymp JF, et al. Prediction of chronic disability in work-related musculoskeletal disorders: a prospective, population-based study. BMC Musculoskel Disord 2004; 5(1): 14.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Turner</surname>
+								<given-names>JA</given-names>
+							</name>
+							<name>
+								<surname>Franklin</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Fulton-Kehoe</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Egan</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Wickizer</surname>
+								<given-names>TM</given-names>
+							</name>
+							<name>
+								<surname>Lymp</surname>
+								<given-names>JF</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Prediction of chronic disability in work-related musculoskeletal disorders: a prospective, population-based study</article-title>
+						<source>BMC Musculoskel Disord</source>
+						<year>2004</year>
+						<volume>5</volume>
+						<issue>1</issue>
+						<fpage>14</fpage>
+						<lpage>14</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B13">
+					<label>13</label>
+					<mixed-citation>13. Instituto Brasileiro de Geografia e Estatística - IBGE. Estimativas populacionais para o TCU. Estimativas da população para 1º de julho de 2009 2009. Disponível em http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf (Acessado em junho de 2010).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Instituto Brasileiro de Geografia e Estatística - IBGE</collab>
+						</person-group>
+						<source xml:lang="pt">Estimativas populacionais para o TCU. Estimativas da população para 1º de julho de 2009</source>
+						<year>2009</year>
+						<ext-link ext-link-type="uri" xlink:href="http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf">http://www.ibge.gov.br/home/estatistica/populacao/estimativa2009/POP2009_DOU.pdf</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B14">
+					<label>14</label>
+					<mixed-citation>14. Instituto Brasileiro de Geografia e Estatística - IBGE. Perfil dos Idosos responsáveis pelos domicílios no Brasil 2000. Disponível em http://www.ibge.gov.br/home/estatistica/populacao/perfilidoso/default.shtm (Acessado em junho de 2010).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Instituto Brasileiro de Geografia e Estatística - IBGE</collab>
+						</person-group>
+						<source xml:lang="pt">Perfil dos Idosos responsáveis pelos domicílios no Brasil 2000</source>
+						<year>2000</year>
+						<ext-link ext-link-type="uri" xlink:href="http://www.ibge.gov.br/home/estatistica/populacao/perfilidoso/default.shtm">http://www.ibge.gov.br/home/estatistica/populacao/perfilidoso/default.shtm</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B15">
+					<label>15</label>
+					<mixed-citation>15. Perez C, Galvez R, Huelbes S, Insausti J, Bouhassira D, Diaz S, et al. Validity and reliability of the Spanish version of the DN4 (Douleur Neuropathique 4 questions) questionnaire for differential diagnosis of pain syndromes associated to a neuropathic or somatic component. Health Qual Life Outcomes 2007; 5: 66.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Perez</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Galvez</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Huelbes</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Insausti</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Bouhassira</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Diaz</surname>
+								<given-names>S</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Validity and reliability of the Spanish version of the DN4 (Douleur Neuropathique 4 questions) questionnaire for differential diagnosis of pain syndromes associated to a neuropathic or somatic component</article-title>
+						<source>Health Qual Life Outcomes</source>
+						<year>2007</year>
+						<volume>5</volume>
+						<fpage>66</fpage>
+						<lpage>66</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B16">
+					<label>16</label>
+					<mixed-citation>16. Merskey H, Bogduk N (eds). Task Force on Taxonomy of the International Association for the Study of Pain. Classification of chronic pain: descriptions of chronic pain syndromes and definition of pain terms. Seattle: IASP; 1994.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Merskey</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Bogduk</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Task Force on Taxonomy of the International Association for the Study of Pain.Classification of chronic pain: descriptions of chronic pain syndromes and definition of pain terms</source>
+						<publisher-loc>Seattle</publisher-loc>
+						<publisher-name>IASP</publisher-name>
+						<year>1994</year>
+					</element-citation>
+				</ref>
+				<ref id="B17">
+					<label>17</label>
+					<mixed-citation>17. Benedetti TB, Mazo GZ, Barros Md. Aplicação do Questionário Internacional de Atividades Físicas para avaliação do nível de atividades físicas de mulheres idosas: validade concorrente e reprodutibilidade teste-reteste. Rev Bras Ciênc Mov 2004; 12(1): 25-34.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Benedetti</surname>
+								<given-names>TB</given-names>
+							</name>
+							<name>
+								<surname>Mazo</surname>
+								<given-names>GZ</given-names>
+							</name>
+							<name>
+								<surname>Barros Md</surname>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Aplicação do Questionário Internacional de Atividades Físicas para avaliação do nível de atividades físicas de mulheres idosas: validade concorrente e reprodutibilidade teste-reteste</article-title>
+						<source>Rev Bras Ciênc Mov</source>
+						<year>2004</year>
+						<volume>12</volume>
+						<issue>1</issue>
+						<fpage>25</fpage>
+						<lpage>34</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B18">
+					<label>18</label>
+					<mixed-citation>18. Nelson ME, Rejeski JW, Blair SN, Duncan PW, Judge JO, King AC, et al. Physical activity and public health in older adults: recommendation from the American College of Sports Medicine and the American Heart Association. Circulation 2007; 116(9): 1094-105.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Nelson</surname>
+								<given-names>ME</given-names>
+							</name>
+							<name>
+								<surname>Rejeski</surname>
+								<given-names>JW</given-names>
+							</name>
+							<name>
+								<surname>Blair</surname>
+								<given-names>SN</given-names>
+							</name>
+							<name>
+								<surname>Duncan</surname>
+								<given-names>PW</given-names>
+							</name>
+							<name>
+								<surname>Judge</surname>
+								<given-names>JO</given-names>
+							</name>
+							<name>
+								<surname>King</surname>
+								<given-names>AC</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Physical activity and public health in older adults: recommendation from the American College of Sports Medicine and the American Heart Association</article-title>
+						<source>Circulation</source>
+						<year>2007</year>
+						<volume>116</volume>
+						<issue>9</issue>
+						<fpage>1094</fpage>
+						<lpage>1105</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B19">
+					<label>19</label>
+					<mixed-citation>19. Barros AJ, Hirakata VN. Alternatives for logistic regression in cross-sectional studies: an empirical comparison of models that directly estimate the prevalence ratio. BMC Med Res Methodol 2003; 3(1): 21.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Barros</surname>
+								<given-names>AJ</given-names>
+							</name>
+							<name>
+								<surname>Hirakata</surname>
+								<given-names>VN</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Alternatives for logistic regression in cross-sectional studies: an empirical comparison of models that directly estimate the prevalence ratio</article-title>
+						<source>BMC Med Res Methodol</source>
+						<year>2003</year>
+						<volume>3</volume>
+						<issue>1</issue>
+						<fpage>21</fpage>
+						<lpage>21</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B20">
+					<label>20</label>
+					<mixed-citation>20. Díaz CR, Marulanda MF, Sáenz X. Estudio epidemiológico del dolor crónica en Caldas, Colombia (Estudio DOLCA). Acta Méd Colomb 2009; 34(3): 96-102.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Díaz</surname>
+								<given-names>CR</given-names>
+							</name>
+							<name>
+								<surname>Marulanda</surname>
+								<given-names>MF</given-names>
+							</name>
+							<name>
+								<surname>Sáenz</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="es">Estudio epidemiológico del dolor crónica en Caldas, Colombia (Estudio DOLCA)</article-title>
+						<source>Acta Méd Colomb</source>
+						<year>2009</year>
+						<volume>34</volume>
+						<issue>3</issue>
+						<fpage>96</fpage>
+						<lpage>102</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B21">
+					<label>21</label>
+					<mixed-citation>21. Kreling M, Cruz D, Pimenta CAdM. Prevalência de dor crônica em adultos. Rev Bras Enferm 2006; 59(4): 509-13.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Kreling</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Cruz</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Pimenta</surname>
+								<given-names>CAdM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Prevalência de dor crônica em adultos</article-title>
+						<source>Rev Bras Enferm</source>
+						<year>2006</year>
+						<volume>59</volume>
+						<issue>4</issue>
+						<fpage>509</fpage>
+						<lpage>513</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B22">
+					<label>22</label>
+					<mixed-citation>22. Sá K, Baptista AF, Matos MA, LessaI I. Prevalência de dor crônica e fatores associados na população de Salvador, Bahia. Rev Saude Publica 2009; 43(4): 622-30.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Sá</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Baptista</surname>
+								<given-names>AF</given-names>
+							</name>
+							<name>
+								<surname>Matos</surname>
+								<given-names>MA</given-names>
+							</name>
+							<name>
+								<surname>LessaI</surname>
+								<given-names>I</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Prevalência de dor crônica e fatores associados na população de Salvador, Bahia</article-title>
+						<source>Rev Saude Publica</source>
+						<year>2009</year>
+						<volume>43</volume>
+						<issue>4</issue>
+						<fpage>622</fpage>
+						<lpage>630</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B23">
+					<label>23</label>
+					<mixed-citation>23. Silva MC, Fassa AG, Valle NC. Dor lombar crônica em uma população adulta do Sul do Brasil: prevalência e fatores associados. Cad Saúde Pública 2004; 20(2): 377-85.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Silva</surname>
+								<given-names>MC</given-names>
+							</name>
+							<name>
+								<surname>Fassa</surname>
+								<given-names>AG</given-names>
+							</name>
+							<name>
+								<surname>Valle</surname>
+								<given-names>NC</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Dor lombar crônica em uma população adulta do Sul do Brasil: prevalência e fatores associados</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2004</year>
+						<volume>20</volume>
+						<issue>2</issue>
+						<fpage>377</fpage>
+						<lpage>385</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B24">
+					<label>24</label>
+					<mixed-citation>24. Vieira EB, Garcia JB, Silva AA, Araújo RL, Jansen RC, Bertrand AL. Chronic pain, associated factors, and impact on daily life: are there differences between the sexes? Cad Saúde Pública 2012; 28(8): 1459-67.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Vieira</surname>
+								<given-names>EB</given-names>
+							</name>
+							<name>
+								<surname>Garcia</surname>
+								<given-names>JB</given-names>
+							</name>
+							<name>
+								<surname>Silva</surname>
+								<given-names>AA</given-names>
+							</name>
+							<name>
+								<surname>Araújo</surname>
+								<given-names>RL</given-names>
+							</name>
+							<name>
+								<surname>Jansen</surname>
+								<given-names>RC</given-names>
+							</name>
+							<name>
+								<surname>Bertrand</surname>
+								<given-names>AL</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Chronic pain, associated factors, and impact on daily life: are there differences between the sexes?</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2012</year>
+						<volume>28</volume>
+						<issue>8</issue>
+						<fpage>1459</fpage>
+						<lpage>1467</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B25">
+					<label>25</label>
+					<mixed-citation>25. Bouhassira D, Lantéri-Minet M, Attal N, Laurent B, Touboul C. Prevalence of chronic pain with neuropathic characteristics in the general population. Pain 2008; 136(3): 380-7.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bouhassira</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Lantéri-Minet</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Attal</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Laurent</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Touboul</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Prevalence of chronic pain with neuropathic characteristics in the general population</article-title>
+						<source>Pain</source>
+						<year>2008</year>
+						<volume>136</volume>
+						<issue>3</issue>
+						<fpage>380</fpage>
+						<lpage>387</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B26">
+					<label>26</label>
+					<mixed-citation>26. Leveille SG, Zhang Y, McMullen W, Kelly-Hayes M, Felson DT. Sex differences in musculoskeletal pain in older adults. Pain 2005; 116(3): 332-8.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Leveille</surname>
+								<given-names>SG</given-names>
+							</name>
+							<name>
+								<surname>Zhang</surname>
+								<given-names>Y</given-names>
+							</name>
+							<name>
+								<surname>McMullen</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Kelly-Hayes</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Felson</surname>
+								<given-names>DT</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Sex differences in musculoskeletal pain in older adults</article-title>
+						<source>Pain</source>
+						<year>2005</year>
+						<volume>116</volume>
+						<issue>3</issue>
+						<fpage>332</fpage>
+						<lpage>338</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B27">
+					<label>27</label>
+					<mixed-citation>27. Celich KLS, Galon C. Dor crônica em idosos e sua influência nas atividades da vida diária e convivência social. Rev Bras de Geriatr Gerontol 2009; 12(3): 345-59.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Celich</surname>
+								<given-names>KLS</given-names>
+							</name>
+							<name>
+								<surname>Galon</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="unknown">Dor crônica em idosos e sua influência nas atividades da vida diária e convivência social</article-title>
+						<source>Rev Bras de Geriatr Gerontol</source>
+						<year>2009</year>
+						<volume>12</volume>
+						<issue>3</issue>
+						<fpage>345</fpage>
+						<lpage>359</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B28">
+					<label>28</label>
+					<mixed-citation>28. Cress ME, Buchner DM, Prohaska T, Rimmer J, Brown M, Macera C, et al. Best practices for physical activity programs and behavior counseling in older adult populations. J Aging Phys Act 2005; 13(1): 61-74.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cress</surname>
+								<given-names>ME</given-names>
+							</name>
+							<name>
+								<surname>Buchner</surname>
+								<given-names>DM</given-names>
+							</name>
+							<name>
+								<surname>Prohaska</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Rimmer</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Brown</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Macera</surname>
+								<given-names>C</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Best practices for physical activity programs and behavior counseling in older adult populations</article-title>
+						<source>J Aging Phys Act</source>
+						<year>2005</year>
+						<volume>13</volume>
+						<issue>1</issue>
+						<fpage>61</fpage>
+						<lpage>74</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B29">
+					<label>29</label>
+					<mixed-citation>29. Landmark T, Romundstad P, Borchgrevink PC, Kaasa S, Dale O. Associations between recreational exercise and chronic pain in the general population: evidence from the HUNT 3 study. Pain 2011; 152(10): 2241-7.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Landmark</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Romundstad</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Borchgrevink</surname>
+								<given-names>PC</given-names>
+							</name>
+							<name>
+								<surname>Kaasa</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Dale</surname>
+								<given-names>O</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Associations between recreational exercise and chronic pain in the general population: evidence from the HUNT 3 study</article-title>
+						<source>Pain</source>
+						<year>2011</year>
+						<volume>152</volume>
+						<issue>10</issue>
+						<fpage>2241</fpage>
+						<lpage>2247</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B30">
+					<label>30</label>
+					<mixed-citation>30. Bennett RM, Burckhardt C, Clark S, O'Reilly C, Wiens A, Campbell S. Group treatment of fibromyalgia: a 6 month outpatient program. J Rheumatol 1996; 23(3): 521-8.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bennett</surname>
+								<given-names>RM</given-names>
+							</name>
+							<name>
+								<surname>Burckhardt</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Clark</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>O'Reilly</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Wiens</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Campbell</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Group treatment of fibromyalgia: a 6 month outpatient program</article-title>
+						<source>J Rheumatol</source>
+						<year>1996</year>
+						<volume>23</volume>
+						<issue>3</issue>
+						<fpage>521</fpage>
+						<lpage>528</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B31">
+					<label>31</label>
+					<mixed-citation>31. Souza JB, Charest J, Marchand S. École interactionnelle de fibromyalgie: description et évaluation. Douleur et Analgésie 2007; 20(4): 213-8.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Souza</surname>
+								<given-names>JB</given-names>
+							</name>
+							<name>
+								<surname>Charest</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>Marchand</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="unknown">École interactionnelle de fibromyalgie: description et évaluation</article-title>
+						<source>Douleur et Analgésie</source>
+						<year>2007</year>
+						<volume>20</volume>
+						<issue>4</issue>
+						<fpage>213</fpage>
+						<lpage>218</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B32">
+					<label>32</label>
+					<mixed-citation>32. Koltyn KF. Analgesia following exercise: a review. Sports Med 2000; 29(2): 85-98.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Koltyn</surname>
+								<given-names>KF</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Analgesia following exercise: a review</article-title>
+						<source>Sports Med</source>
+						<year>2000</year>
+						<volume>29</volume>
+						<issue>2</issue>
+						<fpage>85</fpage>
+						<lpage>98</lpage>
+					</element-citation>
+				</ref>
+			</ref-list>
+			<fn-group>
+				<fn fn-type="financial-disclosure">
+					<p>Fonte de financiamento: Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq), Processo n. 569834/2008-2.</p>
+				</fn>
+			</fn-group>
+		</back>
+		<sub-article article-type="translation" id="S01" xml:lang="en">
+			<front-stub>
+				<article-categories>
+					<subj-group subj-group-type="heading">
+						<subject>Original Articles</subject>
+					</subj-group>
+				</article-categories>
+				<title-group>
+					<article-title xml:lang="en">Prevalence of chronic pain and its association with the sociodemographic situation and physical activity in leisure of elderly in Florianópolis, Santa Catarina: population-based study</article-title>
+				</title-group>
+				<contrib-group>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Santos</surname>
+							<given-names>Franco Andrius Ache dos</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff2"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Souza</surname>
+							<given-names>Juliana Barcellos de</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff2"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Antes</surname>
+							<given-names>Danielle Ledur</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff2"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>d'Orsi</surname>
+							<given-names>Eleonora</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff2"><sup>I</sup></xref>
+					</contrib>
+					<aff id="aff2">
+						<label>I</label>
+						<institution content-type="original">Graduate Program in Public Health at Health Sciences Center at Universidade Federal de Santa Catarina - Florianópolis (SC), Brazil</institution>
+					</aff>
+				</contrib-group>
+				<author-notes>
+					<corresp id="c02"><bold>Corresponding author:</bold> Franco Andrius Ache dos Santos. Health Sciences Center at Universidade Federal de Santa Catarina. Campus Universitário Reitor João David Ferreira Lima, Trindade, CEP 88040-970, Florianópolis, SC, Brazil. E-mail: <email>francoache@hotmail.com</email>
+					</corresp>
+					<fn fn-type="conflict">
+						<p>Conflict of interests: nothing to declare</p>
+					</fn>
+				</author-notes>
+				<abstract xml:lang="en">
+					<sec>
+						<title>OBJECTIVE:</title>
+						<p> To estimate the prevalence of chronic pain and its association with socioeconomic and demographic status, and leisure physical activity in the elderly population. </p>
+					</sec>
+					<sec>
+						<title>METHODS:</title>
+						<p> This study is part of an epidemiological cross-sectional population-based household survey called EpiFloripa Elderly 2009-2010, which was conducted with 1,705 elderly individuals (≥ 60 years) residents of Florianópolis, Santa Catarina. From the positive response to chronic pain, the associations with the variables were investigated through a structured interview. Descriptive statistics were conducted, including ratio calculation and 95% confidence intervals. In crude and adjusted analysis, Poisson regression was utilized, estimating prevalence ratios, with 95% confidence intervals and ≤ 0.05 p-values. </p>
+					</sec>
+					<sec>
+						<title>RESULTS:</title>
+						<p> Among the subjects, 29.3% (IC95% 26.5 - 32.2) reported chronic pain. Adjusted analysis showed that being female, having less years of schooling, and being in worse economic situation were significantly associated with a higher prevalence of chronic pain. Being physically active during leisure time was significantly associated with lower prevalence of the outcome. </p>
+					</sec>
+					<sec>
+						<title>CONCLUSIONS:</title>
+						<p> Therefore, it is clear that chronic pain affects a considerable amount of elderly individuals. Social inequalities are a harmful influence in these individuals' quality of life, inasmuch as those inequalities increase the frequency with which chronic pain afflicts them. At the same time, physical activity during leisure time decreases chronic pain frequency. It is fundamental that public health policies subsidize multidisciplinary pain management programs, which should include health targeted physical activity for the elderly, thus preventing the decrease in quality of life that chronic pain brings to this population.</p>
+					</sec>
+				</abstract>
+				<kwd-group xml:lang="en">
+					<kwd>Prevalence</kwd>
+					<kwd>Chronic pain</kwd>
+					<kwd>Socioeconomic factors</kwd>
+					<kwd>Motor activity</kwd>
+					<kwd>Aged</kwd>
+					<kwd>Cross-sectional studies</kwd>
+				</kwd-group>
+			</front-stub>
+			<body>
+				<sec sec-type="intro">
+					<title>INTRODUCTION</title>
+					<p>The world population has been going through a fast and gradual aging process<xref ref-type="bibr" rid="B01">1</xref>. According to this tendency, population aging is a reality in Brazil. According to data from the last demographic census conducted by the Brazilian Institute of Geography and Statistics (IBGE) in 2010, the number of elderly people (60 years old or more) represented 11.3% of the Brazilian population<xref ref-type="bibr" rid="B02">2</xref>. </p>
+					<p>This change in the Brazilian age structure is directly related to the epidemiological transition, because the older the population gets, the higher the prevalence of chronic health problems. Among the consequences that demographic transition and longevity bring to society, pain is one of the most significant ones; in many cases, chronic pain is a major complaint of individuals, and considerably interferes in the quality of life of the elderly<xref ref-type="bibr" rid="B03">3</xref>.</p>
+					<p>In a temporal context, pain can be classified as acute or chronic. Acute pain is associated with body injury; it lasts little and disappears when the injury is healed. Chronic pain, on the other hand, is persistent and recurrent, and is not necessarily associated with body injury<xref ref-type="bibr" rid="B04">4</xref>. It is considered to be a complex and biopsychosocial event, configured as a public health problem. It demands a multidisciplinary approach<xref ref-type="bibr" rid="B05">5</xref>.</p>
+					<p>The prevalence of chronic pain in studies involving the elderly is very diverse, depending on the characteristics of the study population and the used methodology. In international studies, the prevalence of chronic pain ranges from 28.9 to 59.3%<xref ref-type="bibr" rid="B06">6</xref><sup>-</sup><xref ref-type="bibr" rid="B08">8</xref>, while in Brazil this prevalence ranges from 29.7 to 62.2%<xref ref-type="bibr" rid="B03">3</xref><sup>,</sup><xref ref-type="bibr" rid="B09">9</xref><sup>-</sup><xref ref-type="bibr" rid="B10">10</xref>. A cross-sectional study suggests that increasing chronic pain is mainly associated with the female gender, older age and low socioeconomic status<xref ref-type="bibr" rid="B11">11</xref>. Lower prevalence of chronic pain has been associated with having a paid job<xref ref-type="bibr" rid="B03">3</xref>, high schooling levels and socioeconomic conditions, as well as the regular practice of exercises<xref ref-type="bibr" rid="B12">12</xref>.</p>
+					<p>Despite the considerable negative influence of chronic pain on the quality of life of the elderly, which configures a public health problem, in our country only a few population-based epidemiological studies have addressed this subject. In Santa Catarina, this is the first analysis about this theme, and can be a base for other studies to emerge, thus contributing with the diffusion of such knowledge. Therefore, the objective of this study was to estimate the prevalence of chronic pain and its association with the socioeconomic and demographic situation, as well as the level of physical activities during leisure time in the elderly population of Florianópolis, Santa Catarina. </p>
+				</sec>
+				<sec sec-type="methods">
+					<title>METHODS</title>
+					<p>This is a cross-sectional epidemiological study conducted with the data from the project &quot;<italic>Condições de Saúde da População Idosa do Município de Florianópolis, Santa Catarina: Estudo de Base Populacional</italic>&quot; (EpiFloripa Idoso 2009-2010).</p>
+					<p>The study was carried out in the urban zone of the city of Florianópolis, capital of the state of Santa Catarina. Florianópolis is located in the center-east region of the state, and most of the city (97.23%) is located in the island of Santa Catarina. According to the United Nations, the city presented municipal Human Development Index (M-HDI) of 0.847, in 2010, thus holding the third position among all Brazilian cities<xref ref-type="bibr" rid="B01">1</xref>.</p>
+					<p>According to the data from the last demographic census conducted by IBGE, the city's life expectancy at birth is 79.1 years old, and total fertility rate is 1.4 children per woman<xref ref-type="bibr" rid="B02">2</xref>. The estimated population in Florianópolis in 2009 was of 408,163 inhabitants, and 44,460 were aged 60 years old or more (18,844 male and 25,616 female participants), thus representing 10.9% of the total population<xref ref-type="bibr" rid="B13">13</xref>. The study population was constituted by male and female elderly people, aged 60 years old or more, living in the urban zone of Florianópolis, Santa Catarina. For sample calculation, the following parameters were used: the population was comprised of 44,460 elderly people, prevalence for the unknown outcome (50%), sampling error 4 percentage points and 95% confidence interval (95%CI). The sample was multiplied by 2 because of the design effect of the study (deff), plus 20% of predicted loss and 15% for studies of association, accounting for 1,599 individuals. </p>
+					<p>For this investigation, the sample calculation was conducted afterwards, by considering the 51.4%<xref ref-type="bibr" rid="B03">3</xref> prevalence of chronic pain among the elderly, with 4 percentage points as margin of error, 95%CI and design effect of 2, plus 20% for eventual loss and 15% for studies of association, resulting in a minimum sample of 1,029 individuals. Since this study was part of the EpiFloripa Idoso, the highest calculated sample was used. A two-stage cluster sampling was adopted for this study. In the first stage, the 420 urban census sectors of the city were placed in increasing order according to monthly average income of the head of the family, by systematically raffling 80 of these sectors (8 sectors in each income decile). </p>
+					<p>The units of the second stage were the households. One stage was necessary to update the number of households in each sector (listing), once the most recent census had been conducted in 2000. The study supervisors visited the raffled census sectors and started counting the inhabited households, by following the guidelines of IBGE. The number of households ranged from 61 to 725. In order to decrease the coefficient of variation in the number of households per sector, sectors with less than 150 households were clustered, and sectors with more than 500 households were divided, by respecting the corresponding income decile, which resulted in 83 census sectors. The initial coefficient of variation was 52.7% (n = 80 sectors), and the final one was 35.5% (n = 83 sectors).</p>
+					<p>According to data from IBGE<xref ref-type="bibr" rid="B14">14</xref>, the estimation was that 60 households should be visited per sector to find 20 elderly people. Households were raffled systematically, and all elderly people living in these places were invited to participate in the study. Due to the availability of financial resources, the estimation involved 23 interviews per census sectors, thus enabling the variability of the sample; therefore, 1,911 elderly people were eligible for the study. The non-response rate was of 10.9%, which led to a final sample of 1,705 elders who were effectively interviewed. Institutionalized elderly people were excluded from this study.</p>
+					<p>Loss was considered when interviews were not conducted after four attempts (at least on in the evening and one on the weekend). Refusals involved subjects refusing to answer the questionnaire, and replacements were not admitted. Data collection was conducted by properly trained female interviewers, by means of a structured questionnaire with pre-codified questions applied in a face-to-face interview, by using the Personal Digital Assistants (PDA), after the conduction of a pre-test and a pilot-study in sectors that were not part of the study. The consistency of data and quality control were verified every week by a telephone survey reduced in 10% of the randomly selected interviews. </p>
+					<p>The outcome or dependent variable of this study was the prevalence of chronic pain in the elderly population of Florianópolis, Santa Catarina. Therefore, a structured questionnaire about chronic pain was applied with five questions<xref ref-type="bibr" rid="B15">15</xref>, and chronic pain was considered when it lasted six months or more, being continuous or recurrent, as established by the International Association for the Study of Pain (IASP)<xref ref-type="bibr" rid="B16">16</xref>. The elderly people were asked about the sensation of pain on most days (yes/no); for how long (&lt; 3 months, between 3 and 6 months and &gt; 6 months); feeling pain in several parts of the body in the past month, for instance, back, legs, arms, neck or head (yes/no); if the pain lasted for more than 15 days (yes/no); and, also, in a pain scale, in which zero represented absence of pain, and one hundred, maximum bearable pain, how the person assessed pain in the past week. Considering the subjective aspect of the question about chronic pain, all of the interviews answered by an informer or a caretaker were excluded from the analysis. </p>
+					<p>The control or independent variables were: sex, age group (60 - 69; 70 - 79; 80 years old or more); marital status (married/with a partner, single/divorced, widower); schooling (0 - 4; 5-8; 9 - 11; 12 years or more); family income in quartiles (1<sup>st</sup> quartile: ≤ R$ 327.50, 2<sup>nd</sup> quartile: R$ 327.50 to R$ 700.00, 3<sup>rd</sup> quartile: R$ 700.00 to R$ 1,500.00, 4<sup>th</sup> quartile: &gt; R$ 1,500.00); having a paid job (yes/no); worse, similar or improved economic status in comparison to the time they were 50 years old. The level of physical activity during leisure time was measured by the long version of the International Physical Activity Questionnaire (IPAQ), adapted and validated for the elderly people in Brazil<xref ref-type="bibr" rid="B17">17</xref>. Elderly people who practiced at least 150 minutes a week of physical activity during leisure time were classified as being physically active; those who practiced less than 150 minutes of physical activity during leisure time were classified as insufficiently active in this domain<xref ref-type="bibr" rid="B18">18</xref>.</p>
+					<p>All of the study variables were descriptively analyzed by means of absolute and relative frequency. Descriptive statistics included calculations of proportions and 95% confidence intervals for categorical variables. In order to test the association between the outcome (prevalence of chronic pain) and control variables (socioeconomic and demographic aspects and physical activity during leisure time), crude and adjusted analyses were conducted by the Poisson regression method, by estimating the crude and adjusted prevalence ratios with 95% confidence intervals and p-value (obtained by the Wald's test)<xref ref-type="bibr" rid="B19">19</xref>. Variables presenting p ≤ 0.05 in the crude analysis were selected to enter the adjusted model, and they remained in the model in case they reached p values ≤ 0.05 and/or were adjusted to the model. The statistical package Stata 9.0 (Stata Corp., College Station, the United States) was used, and for all of the analyses the effect of the sample design was considered by the svy command, designed to analyze data from complex samples.</p>
+					<p>The project was approved by the Research Ethics Committee of Universidade Federal de Santa Catarina, protocol n. 352/2008, on December 23, 2008. Participants were informed about the objectives of the study, and signed the informed consent form.</p>
+				</sec>
+				<sec sec-type="results">
+					<title>RESULTS</title>
+					<p>From the original sample of 1,911 elderly people eligible for the study, 1,705 individuals (89.2%) were interviewed, which corresponded to a 10.8% non-response rate (n = 206), ranging from 8.5% in the first income decile and 22.0% in the highest decile. The main reasons for losses (n = 206) were: &quot;there was nobody home&quot;, &quot;the elder was travelling&quot;, &quot;scheduled with the interviewer and did not show up&quot;, &quot;was on vacation&quot;, &quot;was very ill&quot;, &quot;there was an angry dog in the yard&quot;. There were 3 losses caused by hospitalization at the time of the interview, which did not affect the results. The main reasons for refusal were: &quot;did not want to give interviews&quot;, &quot;very long interview&quot;, &quot;no time to answer the interview&quot;, &quot;thinks it is a waste of time to answer interviews&quot;, &quot;does not believe in research&quot;. </p>
+					<p>Among the 1,705 investigated elderly people, 59 interviews were excluded from the analyses for being answered by informers/caretakers, therefore accounting for 1,656 elders, out of whom 29.3% (95%CI 26.5 - 32.2) presented with chronic pain. In the study sample, women were prevalent (62.5%), as well as elderly people aged from 60 to 69 years old (51.7%), married people or those living with partners (58.9%) and with low schooling (40.0%). Most elderly people did not work (86.5%) and 48.6% mentioned that the economic status improved in comparison to when they were 50 years old. With regard to physical activities during leisure time, 68.5% of the elderly people were classified as being insufficiently active during leisure time (<xref ref-type="table" rid="t04">Table 1</xref>).</p>
+					<p>
+						<table-wrap id="t04">
+							<label>Table 1.</label>
+							<caption>
+								<title>Description of socioeconomic and demographic variables, physical activity at leisure and chronic pain. Florianópolis, SC. EpiFloripa Idoso 2009 - 2010.</title>
+							</caption>
+							<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+								<thead>
+									<tr>
+										<th>Variables</th>
+										<th>n</th>
+										<th>%</th>
+										<th>95%CI</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td colspan="4">Sex (n = 1,656)</td>
+									</tr>
+									<tr>
+										<td> Male</td>
+										<td>598</td>
+										<td>37.5</td>
+										<td>34.7 – 40.3</td>
+									</tr>
+									<tr>
+										<td> Female</td>
+										<td>1,058</td>
+										<td>62.5</td>
+										<td>59.7 – 65.3</td>
+									</tr>
+									<tr>
+										<td colspan="4">Age group (years) (n = 1,656)</td>
+									</tr>
+									<tr>
+										<td> 60 to 69</td>
+										<td>846</td>
+										<td>51.7</td>
+										<td>48.8 – 54.7</td>
+									</tr>
+									<tr>
+										<td> 70 to 79</td>
+										<td>596</td>
+										<td>35.5</td>
+										<td>32.5 – 38.4</td>
+									</tr>
+									<tr>
+										<td> ≥ 80</td>
+										<td>214</td>
+										<td>12.8</td>
+										<td>10.3 – 15.3</td>
+									</tr>
+									<tr>
+										<td colspan="4">Marital status (n = 1,656)</td>
+									</tr>
+									<tr>
+										<td> Married/with a partner</td>
+										<td>974</td>
+										<td>58.9</td>
+										<td>55.5 – 62.4</td>
+									</tr>
+									<tr>
+										<td>Single/divorced</td>
+										<td>225</td>
+										<td>13.7</td>
+										<td>11.7 – 15.7</td>
+									</tr>
+									<tr>
+										<td> Widower</td>
+										<td>457</td>
+										<td>27.4</td>
+										<td>24.5 – 30.3</td>
+									</tr>
+									<tr>
+										<td colspan="4">Income in quartiles (n = 1,656)</td>
+									</tr>
+									<tr>
+										<td> &gt; R$ 1,500,00</td>
+										<td>410</td>
+										<td>26.8</td>
+										<td>21.7 – 32.0</td>
+									</tr>
+									<tr>
+										<td> R$ 700.00 to R$ 1,500,00</td>
+										<td>414</td>
+										<td>25.4</td>
+										<td>22.4 – 28.4</td>
+									</tr>
+									<tr>
+										<td> R$ 327.50 to R$ 700.00</td>
+										<td>418</td>
+										<td>25.2</td>
+										<td>21.7 – 28.8</td>
+									</tr>
+									<tr>
+										<td> ≤ R$ 327.50</td>
+										<td>414</td>
+										<td>22.6</td>
+										<td>18.6 – 26.4</td>
+									</tr>
+									<tr>
+										<td colspan="4">Schooling (years) (n = 1,648)</td>
+									</tr>
+									<tr>
+										<td> ≥ 12</td>
+										<td>386</td>
+										<td>25.2</td>
+										<td>20.6 – 29.8</td>
+									</tr>
+									<tr>
+										<td> 9 to 11</td>
+										<td>231</td>
+										<td>16.2</td>
+										<td>12.6 – 19.8</td>
+									</tr>
+									<tr>
+										<td> 5 to 8</td>
+										<td>315</td>
+										<td>18.6</td>
+										<td>16.0 – 21.3</td>
+									</tr>
+									<tr>
+										<td> 0 to 4</td>
+										<td>716</td>
+										<td>40.0</td>
+										<td>33.9 – 46.0</td>
+									</tr>
+									<tr>
+										<td colspan="4">Paid job (n = 1,656)</td>
+									</tr>
+									<tr>
+										<td> No</td>
+										<td>1,429</td>
+										<td>86.5</td>
+										<td>84.1 – 88.8</td>
+									</tr>
+									<tr>
+										<td> Yes</td>
+										<td>227</td>
+										<td>13.5</td>
+										<td>11.2 – 15.8 </td>
+									</tr>
+									<tr>
+										<td colspan="4">Economic status in comparison to the age of 50 (n = 1,654)</td>
+									</tr>
+									<tr>
+										<td> Better</td>
+										<td>775</td>
+										<td>48.6</td>
+										<td>44.3 – 53.0 </td>
+									</tr>
+									<tr>
+										<td> Similar</td>
+										<td>460</td>
+										<td>25.9</td>
+										<td>22.5 – 29.1</td>
+									</tr>
+									<tr>
+										<td> Worse</td>
+										<td>419</td>
+										<td>25.5</td>
+										<td>22.5 – 28.5</td>
+									</tr>
+									<tr>
+										<td colspan="4">Physical activity at leisure (n = 1,656)</td>
+									</tr>
+									<tr>
+										<td> Insufficiently active</td>
+										<td>1,165</td>
+										<td>68.5</td>
+										<td>63.5 – 73.6</td>
+									</tr>
+									<tr>
+										<td> Physically active</td>
+										<td>491</td>
+										<td>31.5</td>
+										<td>26.4 – 36.5</td>
+									</tr>
+									<tr>
+										<td colspan="4">Chronic pain (n = 1,656)</td>
+									</tr>
+									<tr>
+										<td> Yes</td>
+										<td>497</td>
+										<td>29.3</td>
+										<td>26.5 – 32.2</td>
+									</tr>
+									<tr>
+										<td> No</td>
+										<td>1,159</td>
+										<td>70.7</td>
+										<td>67.8 – 73.5</td>
+									</tr>
+								</tbody>
+							</table>
+						</table-wrap>
+					</p>
+					<p>In the crude analysis, being female, with income ranging from 700 to 1,500 reais, lower schooling, having a paid job, mentioning worse economic status in comparison to the age of 50 and being physically active during leisure time were associated to the outcome. The variables age group and marital status (<xref ref-type="table" rid="t05">Table 2</xref>) were not significantly associated with chronic pain. Even though the age group variable was not significantly associated with the outcome in the crude analysis, it was maintained in the final model of the analysis because it was an important confounding variable. </p>
+					<p>
+						<table-wrap id="t05">
+							<label>Table 2.</label>
+							<caption>
+								<title>Crude analysis of the prevalence of chronic pain associated with socioeconomic and demographic variables and physical activity during leisure. Florianópolis, SC. EpiFloripa Idoso 2009 - 2010.</title>
+							</caption>
+							<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+								<thead>
+									<tr>
+										<th>Variables</th>
+										<th>n (%)</th>
+										<th>Crude PR (95%CI)</th>
+										<th>p-value</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td colspan="3">Sex (n = 1,656)</td>
+										<td>&lt; 0.001*</td>
+									</tr>
+									<tr>
+										<td> Male</td>
+										<td>106 (17.7)</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Female</td>
+										<td>391 (37.0)</td>
+										<td>1.99 (1.59 – 2.48)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="3">Age group (years) (n = 1,656)</td>
+										<td>0.212</td>
+									</tr>
+									<tr>
+										<td> 60 to 69</td>
+										<td>243 (28.7)</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 70 to 79</td>
+										<td>188 (31.5)</td>
+										<td>1.19 (0.99 – 1.44)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> ≥ 80</td>
+										<td>66 (30.8)</td>
+										<td>1.07 (0.82 – 1.40)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="3">Marital status (n = 1,656)</td>
+										<td>0.816</td>
+									</tr>
+									<tr>
+										<td> Married/with a partner</td>
+										<td>291 (29.9)</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td>Single/divorced</td>
+										<td>61 (27.1)</td>
+										<td>0.90 (0.71 – 1.15)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Widower</td>
+										<td>145 (31.7)</td>
+										<td>1.04 (0.83 – 1.30)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="3">Income in quartiles (n = 1,656)</td>
+										<td>0.001*</td>
+									</tr>
+									<tr>
+										<td> &gt; R$ 1,500,00</td>
+										<td>137 (33.1)</td>
+										<td> 1.00 </td>
+										<td/>
+									</tr>
+									<tr>
+										<td> R$ 700.00 to R$ 1,500,00</td>
+										<td>145 (34.7)</td>
+										<td>0.64 (0.48 – 0.85)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> R$ 327.50 to R$ 700.00</td>
+										<td>125 (30.2)</td>
+										<td>0.88 (0.70 – 1.11)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> ≤ R$ 327.50</td>
+										<td>90 (21.9)</td>
+										<td>1.13 (0.89 – 1.43)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="3">Schooling (years) (n = 1,648)</td>
+										<td>&lt; 0.001*</td>
+									</tr>
+									<tr>
+										<td> ≥ 12</td>
+										<td>82 (21.2)</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 9 to 11</td>
+										<td>58 (25.1)</td>
+										<td>1.16 (0.80 – 1.69)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 5 to 8</td>
+										<td>91 (28.9)</td>
+										<td>1.37 (1.01 – 1.86)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 0 to 4</td>
+										<td>264 (36.9)</td>
+										<td>1.83 (1.40 – 2.38)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="3">Paid job (n = 1,656)</td>
+										<td>0.040*</td>
+									</tr>
+									<tr>
+										<td> No</td>
+										<td>444 (31.1)</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Yes</td>
+										<td>53 (23.3)</td>
+										<td>0.74 (0.56 – 0.99)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="3">Economic status in comparison to the age of 50 (n = 1,654)</td>
+										<td>0.039*</td>
+									</tr>
+									<tr>
+										<td> Better</td>
+										<td>227 (29.3)</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Similar</td>
+										<td>125 (27.2)</td>
+										<td>0.92 (0.74 – 1.14)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Worse</td>
+										<td>144 (34.4)</td>
+										<td>1.21 (1.03 – 1.42)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="3">Physical activity at leisure (n = 1,656)</td>
+										<td>&lt; 0.001*</td>
+									</tr>
+									<tr>
+										<td> Insufficiently active</td>
+										<td>386 (33.1)</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Physically active</td>
+										<td>111 (22.6)</td>
+										<td>0.69 (0.55 – 0.85)</td>
+										<td/>
+									</tr>
+								</tbody>
+							</table>
+							<table-wrap-foot>
+								<fn id="t05TFN01">
+									<label>*</label>
+									<p>Statistically significant values (p = 0.05); PR: Prevalence ratio.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>In the adjusted analysis, only the variable sex, schooling, economic status and physical activity during leisure time remained associated with the outcome until the end of the analysis.</p>
+					<p>Women presented 82% more prevalence of chronic pain in relation to men (PR = 1.82; 95%CI 1.45 - 2.29), and elderly people with 0 to 4 schooling years present more prevalence of the outcome in comparison to elderly people with 12 or more schooling years (PR = 1.43; 95%CI 1.10 - 1.85). Individuals who reported worse economic status in comparison to when they were 50 years old presented 26% more prevalence of pain in comparison to those who improved their economic status (PR = 1.26; 95%CI 1.08 - 1.49). Being physically active during leisure time presented lower prevalence of chronic pain when compared to elderly who were insufficiently active (PR = 0.80; 95%CI 0.65 - 0.99) (<xref ref-type="table" rid="t06">Table 3</xref>).</p>
+					<p>
+						<table-wrap id="t06">
+							<label>Table 3.</label>
+							<caption>
+								<title>Adjusted analysis of the prevalence of chronic pain associated with socioeconomic and demographic variables and physical activity during leisure. Florianópolis, SC. EpiFloripa Idoso 2009-2010.</title>
+							</caption>
+							<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+								<thead>
+									<tr>
+										<th>Variables</th>
+										<th>Adjusted PR (95%CI)</th>
+										<th>p-value</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td colspan="2">Sex (n = 1,656)</td>
+										<td>&lt; 0.001*</td>
+									</tr>
+									<tr>
+										<td> Male</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Female</td>
+										<td>1.82 (1.45 – 2.29)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="2">Age group (years) (n = 1,656)</td>
+										<td>0.947</td>
+									</tr>
+									<tr>
+										<td> 60 to 69</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 70 to 79</td>
+										<td>1.10 (0.90 – 1.34)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> ≥ 80</td>
+										<td>0.95 (0.72 – 1.25)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="2">Income in quartiles (n = 1,656)</td>
+										<td>0.412</td>
+									</tr>
+									<tr>
+										<td> &gt; R$ 1,500,00</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> R$ 700.00 to R$ 1,500,00</td>
+										<td>0.90 (0.67 – 1.20)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> R$ 327.50 to R$ 700.00</td>
+										<td>1.08 (0.84 – 1.40)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> ≤ R$ 327.50</td>
+										<td>1.19 (0.93 – 1.52)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="2">Schooling (years) (n = 1,648)</td>
+										<td>0.001*</td>
+									</tr>
+									<tr>
+										<td> ≥ 12</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 9 to 11</td>
+										<td>0.95 (0.67 – 1.36)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 5 to 8</td>
+										<td>1.08 (0.80 – 1.45)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> 0 to 4</td>
+										<td>1.43 (1.10 – 1.85)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="2">Paid job (n = 1,656)</td>
+										<td>0.546</td>
+									</tr>
+									<tr>
+										<td> No</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Yes</td>
+										<td>0.92 (069 – 1.21)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="2">Economic status in comparison to the age of 50 (n = 1,654)</td>
+										<td>0.012*</td>
+									</tr>
+									<tr>
+										<td> Better</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Similar</td>
+										<td>0.95 (0.77 – 1.18)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Worse</td>
+										<td>1.26 (1.08 – 1.49)</td>
+										<td/>
+									</tr>
+									<tr>
+										<td colspan="2">Physical activity at leisure (n = 1,656)</td>
+										<td>0.047*</td>
+									</tr>
+									<tr>
+										<td> Insufficiently active</td>
+										<td>1.00</td>
+										<td/>
+									</tr>
+									<tr>
+										<td> Physically active</td>
+										<td>0.80 (0.65 – 0.99)</td>
+										<td/>
+									</tr>
+								</tbody>
+							</table>
+							<table-wrap-foot>
+								<fn id="t06TFN01">
+									<label>*</label>
+									<p>Statistically significant values (p = 0.05); W ald test p &lt; 0.001. PR: Pr evalence ratio.</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+				</sec>
+				<sec sec-type="discussion">
+					<title>DISCUSSION</title>
+					<p>The main findings of this study show important associations between the prevalence of chronic pain and socioeconomic and demographic status with physical activity during leisure time in the elderly population of the city of Florianópolis. The highest prevalence of chronic pain was significantly associated with being female, having lower schooling and worse economic status. On the other hand, being physically active during leisure time was associated with the lower prevalence of the outcome.</p>
+					<p>In this investigation, the prevalence of chronic pain in the elderly population of the city of Florianópolis was of 29.3%. Dellaroza et al.<xref ref-type="bibr" rid="B03">3</xref> analyzed 529 elderly people who were retired and active municipal servants in Londrina, Paraná, who reported feeling pain for at least six months, and observed prevalence of chronic pain in 51.4% of the studied population. The fact that this study was conducted with a convenience sample, that is, only municipal servants, may have contributed with the result of observing higher prevalence of chronic pain than what was found in this study.</p>
+					<p>In a cross-sectional study conducted with 219 elderly people in the city of Taipei, Taiwan, Yu et al.<xref ref-type="bibr" rid="B07">7</xref> found a 42.0% prevalence of chronic pain. In another cross-sectional population-based study conducted in Colombia with the general population, the prevalence of chronic pain found among individuals aged more than 65 years old was of 43.8%<xref ref-type="bibr" rid="B20">20</xref>. Dellaroza et al.<xref ref-type="bibr" rid="B09">9</xref> interviewed 172 elderly people living in the region of a Basic Health Union in the north zone of Londrina, Paraná, who had felt pain for at least six months and frequent complaints of pain; the prevalence of chronic pain found in that study was of 62.2%. In this study, it is possible to observe that the sample (n = 172) was very small and not so representative, once these elderly people only correspond to people using one basic health unit of a specific location in the city of Londrina. Therefore, it does not represent the entire population of the city. It is also worth to mention that the elderly people selected for the study already complained of pain, which may have also contributed with the high percentage of chronic pain.</p>
+					<p>Dellaroza et al.<xref ref-type="bibr" rid="B10">10</xref> conducted a cross-sectional population-based study with 1,271 elderly people in the city of São Paulo and observed prevalence of chronic pain in 29.7% of the studied population; such prevalence is close to 29.3%, which corroborates the findings in this study.</p>
+					<p>In this study, it was possible to observe that the female gender was significantly associated with the higher prevalence of chronic pain, which is in accordance with findings in literature. The prevalence of chronic pain in the general population has been higher among women, in comparison to men<xref ref-type="bibr" rid="B21">21</xref><sup>-</sup><xref ref-type="bibr" rid="B24">24</xref>. In international studies conducted in Spain, France and Colombia<xref ref-type="bibr" rid="B08">8</xref><sup>,</sup><xref ref-type="bibr" rid="B20">20</xref><sup>,</sup><xref ref-type="bibr" rid="B25">25</xref>, the prevalence of chronic pain was equally higher among women. In the study by Dellaroza et al.<xref ref-type="bibr" rid="B03">3</xref>, from the analyzed sociodemographic variables, only sex was associated with the presence of chronic pain, mostly among women. In a study conducted by Leveille et al.<xref ref-type="bibr" rid="B26">26</xref>, the authors found higher prevalence of musculoskeletal pain among women. In general, elderly women have more prevalence of chronic pain in comparison to elderly men<xref ref-type="bibr" rid="B07">7</xref>, which is in accordance with the findings in this study.</p>
+					<p>Women may take the event of pain more seriously, since the multiple responsibilities and roles resulting from taking care of relatives and managing the household are reasons for them to think of pain as a threat. Besides, the meaning of pain for men and women may be influenced by social and cultural rules, which allow women to express or manifest pain, while encouraging men not to consider it. These factors should contribute with the higher number of complaints related to pain among women<xref ref-type="bibr" rid="B21">21</xref>.</p>
+					<p>In this study, elderly people with lower schooling presented higher percentages of chronic pain when compared to other levels. In a study conducted by Dellaroza et al.<xref ref-type="bibr" rid="B03">3</xref>, the authors found that elderly people who had from two to four schooling years presented higher percentage of chronic pain. In another study about the prevalence of chronic pain in the population of Salvador, individuals with lower schooling presented higher percentage of chronic pain in comparison to those with medium and high schooling<xref ref-type="bibr" rid="B22">22</xref>. Therefore, the low schooling is probably related to high percentages of chronic pain among the individuals.</p>
+					<p>This is an expressive result, since it reflects the social conditions of the beginning of last century, demonstrating that access to education was restricted. The educational possibilities more than half a century ago were little, and people needed to work in order to provide for their families. Considering that the schooling level has an important influence on the access to information, it can be determinant for the search for treatments, and also for self-care, since elderly people should be able to look after themselves, and knowing how to read is a contributive factor<xref ref-type="bibr" rid="B27">27</xref>.</p>
+					<p>In this investigation, elderly people who reported that their economic situation became worse when compared to when they were 50 years old presented higher percentages of chronic pain. Even though some investigations<xref ref-type="bibr" rid="B09">9</xref><sup>,</sup><xref ref-type="bibr" rid="B12">12</xref> mention that the percentage of chronic pain is higher among individuals from lower social classes, no studies were found that analyzed the relationship between chronic pain and economic situation at the age of 50 when compared to the current time, which shows the need for further investigations. </p>
+					<p>In this study, it was observed that being physically active during leisure time was significantly associated with lower prevalence of chronic pain. The practice of physical activities by the elderly, especially during leisure time, provides opportunities for a more active, healthy and independent life, thus contributing with the maintenance of autonomy and improved quality of life<xref ref-type="bibr" rid="B28">28</xref>. In a cross-sectional study conducted with the population of Norway, the authors found 10 to 12% lower prevalence of chronic pain among individuals aged 20 - 64 years old who practiced moderate physical activities three times a week; among the older ones, depending on the intensity of the exercise, there was a 21 - 38% reduction in the prevalence of chronic pain<xref ref-type="bibr" rid="B29">29</xref>.</p>
+					<p>Among the strategies employed by multidisciplinar programs addressed to treating chronic pain, physical activity is one of the most used ones<xref ref-type="bibr" rid="B30">30</xref><sup>-</sup><xref ref-type="bibr" rid="B31">31</xref>. One of the mostly accepted hypotheses about the benefits of exercises for managing chronic pain is owed to the fact that its influence is related to endogenous pain control mechanisms<xref ref-type="bibr" rid="B32">32</xref>.</p>
+					<p>Some limitations of this study should be considered, especially the cross-sectional design, which does not enable causality relations between the prevalence of chronic pain and the other investigated variables with the self-reported measurements of the studied variables. However, it is not relevant to know, in this case, if the elderly presented lower prevalence for the outcome because they were physically active, or if the fact of being physically active led to lower prevalence for the outcome, because being physically active may have been beneficial both for maintaining health, thus avoiding the onset of chronic pain, and for reducing the intensity and duration of pain among the elderly who already presented with chronic pain. Among the positive aspects, the study stands out for the relevance and originality of the theme, which can be the base for other investigations, and for the fact that the sample is large and represents the elderly people of the city of Florianópolis. It is also worth to mention that the high response rate of the study contributed with its internal validity and reduced the chances of systematic errors.</p>
+				</sec>
+				<sec sec-type="conclusions">
+					<title>CONCLUSION</title>
+					<p>The fact that women, individuals with low schooling, the ones with worse economic status and those who were insufficiently active presented higher prevalence of chronic pain among the elderly represents an important finding, which can subsidize public health policies focused on assistance for this population. </p>
+					<p>Therefore, the results suggest that campaigns addressed to preventing chronic pai should mostly be aimed at women, with low income and insufficiently active during leisure time. It is also necessary to create multidisciplinary management programs and chronic pain control, including guidance to health professionals so that they can work on preventing chronic pain and physical activities specifically addressed to the elderly population, with the objective of preventing chronic pain from being responsible for problems in the quality of life of the elderly.</p>
+				</sec>
+			</body>
+			<back>
+				<fn-group>
+					<fn fn-type="financial-disclosure">
+						<p>Financing source: National Council for Scientific and Technological Development (CNPq), Process n. 569834/2008-2.</p>
+					</fn>
+				</fn-group>
+			</back>
+		</sub-article>
+	</article>

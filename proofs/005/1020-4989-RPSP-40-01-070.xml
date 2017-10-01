@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="brief-report" dtd-version="1.0" specific-use="sps-1.3" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">rpsp</journal-id>
+			<journal-title-group>
+				<journal-title>Revista Panamericana de Salud Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev Panam Salud Publica</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1680-5348</issn>
+			<issn pub-type="ppub">1020-4989</issn>
+			<publisher>
+				<publisher-name>Organización Panamericana de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">40-070</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Comunicación breve</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Emergencia de β-lactamasa AmpC plasmídica del grupo CMY-2 en <italic>Shigella sonnei</italic> y <italic>Salmonella</italic> spp. en Costa Rica, 2003-2015</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Emergence of CMY-2-type plasmid-mediated AmpC <italic>β</italic>-lactamase in Shigella sonnei and Salmonella spp. in Costa Rica, 2003–2015</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Ayala</surname>
+						<given-names>Anamariela Tijerino</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Acuña</surname>
+						<given-names>Hilda María Bolaños</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Calvo</surname>
+						<given-names>María Teresa Acuña</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Morales</surname>
+						<given-names>José Luis Vargas</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Chacón</surname>
+						<given-names>Elena Campos</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Centro Nacional de Referencia de Bacteriología, Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud, San José, Costa Rica</institution>
+				<institution content-type="orgname">Centro Nacional de Referencia de Bacteriología</institution>
+				<institution content-type="orgdiv1">Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud</institution>
+				<addr-line>
+					<named-content content-type="city">San José</named-content>
+				</addr-line>
+				<country country="CR">Costa Rica</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Centro Nacional de Referencia en Inocuidad Microbiológica de los Alimentos, Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud, San José, Costa Rica</institution>
+				<institution content-type="orgname">Centro Nacional de Referencia en Inocuidad Microbiológica de los Alimentos</institution>
+				<institution content-type="orgdiv1">Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud</institution>
+				<addr-line>
+					<named-content content-type="city">San José</named-content>
+				</addr-line>
+				<country country="CR">Costa Rica</country>
+			</aff>
+			<author-notes>
+				<corresp id="cor1">La correspondencia se debe dirigir a Anamariela Tijerino Ayala. Correo electrónico: <email>atijerino@inciensa.sa.cr</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<month>07</month>
+				<year>2016</year>
+			</pub-date>
+			<volume>40</volume>
+			<issue>1</issue>
+			<fpage>70</fpage>
+			<lpage>75</lpage>
+			<history>
+				<date date-type="received">
+					<day>21</day>
+					<month>10</month>
+					<year>2015</year>
+				</date>
+				<date date-type="accepted">
+					<day>24</day>
+					<month>02</month>
+					<year>2016</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>RESUMEN</title>
+				<p>Las AmpC plasmídicas son enzimas del grupo de las β-lactamasas, codificadas por genes bla<sub><italic>AmpC</italic></sub>. Entre ellas, las del tipo CMY-2 son las que se reportan con mayor frecuencia a nivel mundial. La detección de enterobacterias productoras de AmpC plasmídicas CMY-2 es de importancia clínica, ya que pueden conducir a fracasos terapéuticos al emplear antibióticos β-lactámicos. Además, tienen importancia para la salud pública por su capacidad de transferirse por conjugación a otras enterobacterias, tanto en la comunidad como en ambiente nosocomial, por lo que se considera que tienen un claro potencial epidémico.</p>
+				<p>Con el fin de conocer la circulación de este mecanismo de resistencia entre aislamientos de <italic>Salmonella y Shigella</italic> en Costa Rica, se realizó un análisis retrospectivo de la información contenida en las bases de datos de vigilancia de laboratorio del Centro Nacional de Referencia de Bacteriología (CNRB) del Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud (Inciensa), entre enero de 2003 y mayo de 2015.</p>
+				<p>En dicho período se analizaron 4 363 aislamientos de <italic>Shigella</italic> y 1 785 aislamientos de <italic>Salmonella</italic>. Entre ellos se detectaron 15 aislamientos de <italic>Shigella sonnei</italic> y nueve de <italic>Salmonella</italic> (cuatro de origen clínico humano y cinco de origen aviar) con fenotipo sospechoso de portar AmpC plasmídica, todos los cuales se confirmaron pertenecientes al tipo CMY-2 mediante reacción en cadena de la polimerasa.</p>
+				<p>Considerando estos resultados, se recomienda a los laboratorios de microbiología de la Red Nacional mantener la vigilancia y realizar la confirmación correspondiente de cualquier aislamiento sospechoso por métodos fenotípicos y moleculares. Lo anterior es especialmente importante en bacterias aisladas de infecciones extraintestinales, para evitar fallas en el tratamiento.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>ABSTRACT</title>
+				<p>Plasmid-mediated AmpC are enzymes belonging to the group of <italic>β</italic>-lactamases and encoded by <italic>bla</italic>
+					<sub>AmpC</sub> genes. Of these enzymes, those known as type CMY-2 are the most frequently reported worldwide. Detection of enterobacteria that produce CMY-2-type plasmid-mediated AmpC is clinically important since the use of <italic>β</italic>-lactam antibiotics can result in treatment failure. It is also important from a public health standpoint owing to the capacity for conjugative plasmid transfer to other enterobacteria, both within the community and in nosocomial environments. Thus, bacteria of this kind are considered to have clear epidemic potential.</p>
+				<p>To investigate the circulation of this resistance mechanism among <italic>Salmonella</italic> and <italic>Shigella</italic> isolates in Costa Rica, from January 2003 to May 2015 we carried out a retrospective review of the data contained in the laboratory surveillance databases of the National Reference Bacteriology Center (CNRB) of the Costa Rican Nutrition and Health Research Institute (Inciensa).</p>
+				<p>Over this period, 4363 <italic>Shigella</italic> isolates and 1785 <italic>Salmonella</italic> isolates were examined. Among them, 15 <italic>Shigella sonnei</italic> isolates and nine <italic>Salmonella</italic> isolates (four from human clinical specimens and five of avian origin) displayed a phenotype suspected of carrying plasmid-mediated AmpC. Polymerase chain reaction confirmed that all these isolates belong to type CMY-2.</p>
+				<p>In light of these results, we recommend that the microbiology laboratories in the national network continue to conduct surveillance and confirm any suspicious isolates using phenotypic and molecular methods. This is particularly relevant when dealing with bacterial isolates from extraintestinal infections so as to prevent treatment failure.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave</title>
+				<kwd>Salmonella</kwd>
+				<kwd>Shigella</kwd>
+				<kwd>farmacorresistencia microbiana</kwd>
+				<kwd>Costa Rica</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Key words</title>
+				<kwd>Salmonella</kwd>
+				<kwd>Shigella</kwd>
+				<kwd>drug resistance, microbial</kwd>
+				<kwd>Costa Rica</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+	<body>
+		<p>Las AmpC plasmídicas son enzimas del grupo de las β-lactamasas, asociadas a integrones o transposones localizados en plásmidos conjugativos. Tienen su origen en las β-lactamasas Amp-C cromosómicas propias de <italic>Enterobacter cloacae</italic>, <italic>Citrobacter freundii</italic>, <italic>Morganella morganii</italic> y <italic>Hafnia alvei</italic> (<xref ref-type="bibr" rid="r1">1</xref>). Estas enzimas se han descrito en enterobacterias de importancia clínica como <italic>Salmonella</italic> spp., <italic>Shigella</italic> sp., <italic>Klebsiella</italic> sp., <italic>Proteus mirabilis</italic> y <italic>Esherichia coli</italic>, entre otras. Dentro de las AmpC plasmídicas, las del tipo CMY-2 son las que se reportan con mayor frecuencia a nivel mundial. Los primeros aislamientos clínicos portadores de este mecanismo de resistencia se documentaron en Estados Unidos en los años 90 y posteriormente en diferentes países europeos y en Argentina (<xref ref-type="bibr" rid="r2">2</xref>-<xref ref-type="bibr" rid="r4">4</xref>). En Japón y China también se aislaron enterobacterias, como <italic>Salmonella</italic>, portadoras de este mecanismo de resistencia en muestras de vacas y cerdos (<xref ref-type="bibr" rid="r5">5</xref>).</p>
+		<p>La detección de enterobacterias productoras de AmpC plasmídicas CMY-2 reviste de importancia clínica, ya que pueden conducir a fracasos terapéuticos al emplear antibióticos β-lactámicos, incluyendo carboxipenicilinas, acilureido penicilinas, cefalosporinas de tercera generación (C3G) como cefotaxima, ceftazidima y ceftriaxona y las cefalosporinas de cuarta generación como cefepima (<xref ref-type="bibr" rid="r6">6</xref>). Este mecanismo de resistencia es de relevancia para la salud pública, ya que el gen <italic>bla</italic><sub>CMY-2</sub> que codifica para la AmpC plasmídica CMY-2, también tiene la capacidad de transferirse a otras enterobacterias, tanto en la comunidad como en el ambiente nosocomial, por lo que se considera que tienen un claro potencial epidémico (<xref ref-type="bibr" rid="r7">7</xref>).</p>
+		<p>Este hallazgo, además, es de gran importancia en el caso de las infecciones extraintestinales por <italic>Salmonella</italic> y <italic>Shigella</italic>, donde las C3G son antibióticos considerados de primera elección, cuando la bacteria presenta resistencia o sensibilidad disminuida a las fluoroquinolonas (<xref ref-type="bibr" rid="r2">2</xref>, <xref ref-type="bibr" rid="r8">8</xref>-<xref ref-type="bibr" rid="r10">10</xref>).</p>
+		<p>Por lo tanto, con el fin de conocer la circulación de AmpC plasmídico entre aislamientos de Salmonella y Shigella en Costa Rica, se realizó un análisis retrospectivo de la información contenida en las bases de datos de vigilancia de laboratorio del CNRB-Inciensa, entre enero 2003 y mayo 2015. Finalmente, la confirmación oportuna de cepas sospechosas de portar este mecanismo de resistencia es fundamental para alertar al personal médico y a las autoridades de salud, no solo para la elección del tratamiento del paciente, sino también para establecer medidas de control tendientes a evitar la diseminación horizontal de este tipo de resistencia, ya que cepas con estas características han provocado brotes en diferentes países (<xref ref-type="bibr" rid="r6">6</xref>).</p>
+		<sec id="s1" sec-type="materials|methods">
+			<title>MATERIALES Y MÉTODOS</title>
+			<p>Con el fin de conocer la circulación en Costa Rica de β-lactamasas AmpC plasmídicas entre aislamientos de <italic>Salmonella</italic> y <italic>Shigella</italic> referidos para la vigilancia basada en laboratorio entre enero del 2003 y mayo del 2015, se realizó un análisis retrospectivo de la información contenida en las bases de datos Excel del Centro Nacional de Referencia de Bacteriología (CNRB), en busca de fenotipos sugestivos: resistentes a ampicilina (AMP), ceftazidima (CAZ), cefotaxima (CTX) y cefoxitin (FOX), de acuerdo a las recomendaciones de la Red Latinoamericana de Vigilancia de la Resistencia a los Antibióticos (ReLAVRA-OPS) y Jacoby en el año 2009 (<xref ref-type="bibr" rid="r6">6</xref>, <xref ref-type="bibr" rid="r11">11</xref>).</p>
+			<p>Las bacterias incluidas en esta base de datos fueron aisladas por laboratorios clínicos y de la industria de los alimentos, que forman parte de la Red Nacional de Laboratorios de Bacteriología (RNLB) de Costa Rica y referidas al CNRB del Instituto Costarricense de Investigación y Enseñanza en Nutrición y Salud (Inciensa) para su confirmación/tipificación y vigilancia de la resistencia a los antibióticos. Todos los aislamientos de Shigella y Salmonella se confirmaron y serotipificaron por métodos bioquímicos y serológicos convencionales (<xref ref-type="bibr" rid="r12">12</xref>-<xref ref-type="bibr" rid="r13">13</xref>).</p>
+			<p>La prueba de sensibilidad a los antibióticos (PSA) de todos los aislamientos de <italic>Shigella</italic> y <italic>Salmonella</italic> incluidos se realizó por el método Kirby Bauer (<xref ref-type="bibr" rid="r14">14</xref>), empleando los puntos de corte y cepas control establecidas por la Clinical Laboratory Standards Institute (CLSI) del año correspondiente (<xref ref-type="bibr" rid="r15">15</xref>), para antibióticos de uso clínico y otros empleados para la vigilancia, incluyendo: ampicilina <xref ref-type="bibr" rid="r10">10</xref> μg (AMP), cefotaxima 30 μg (CTX), cefotaxima-ácido clavulánico 30/10 μg (CTX-CLA), ceftazidima 30 μg (CAZ), ceftazidima-ácido clavulánico 30/10 μg (CAZ-CLA), amoxicilina ácido clavulánico 30 μg (AMC), cefoxitin 30 μg (FOX), imipenem 10 μg (IMP), meropenem 10 μg (MEM), ertapenem 10 μg (ETP), trimetoprima-sulfametoxazol 25 μg (SXT), ciprofloxacina 5 μg (CIP) y ácido nalidíxico 30 μg (NAL).</p>
+			<sec id="s1a">
+				<title>Confirmación fenotípica de AmpC plasmídica CMY-2</title>
+				<p>En todos los aislamientos con perfil de resistencia a los antibióticos sugestivos de AmpC plasmídicos, en el CNRB se descartó la presencia de β-lactamasa de espectro extendido (BLEE), mediante la técnica de Kirby Bauer (<xref ref-type="bibr" rid="r14">14</xref>). Para esto se incubó la bacteria en presencia de discos de CAZ y CTX con y sin AMC (inhibidor de BLEE) (<xref ref-type="bibr" rid="r15">15</xref>).</p>
+				<p>La confirmación fenotípica de CMY-2 se realizó mediante la observación de sinergia entre FOX y las C3G con el ácido 3-amino-fenil-borónico (APB) (300 μg, Laboratorios Britania S.A., Argentina), que actúa como inhibidor de las β-lactamasas tipo AmpC, independientemente si es cromosómica o plasmídica (ReLAVRA-OPS y Jacoby 2009) (<xref ref-type="bibr" rid="r2">2</xref>, <xref ref-type="bibr" rid="r6">6</xref>, <xref ref-type="bibr" rid="r11">11</xref>, <xref ref-type="bibr" rid="r16">16</xref>).</p>
+			</sec>
+			<sec id="s1b">
+				<title>Confirmación molecular de CMY-2</title>
+				<p>Se realizó a todos los aislamientos con perfil de resistencia a los antibióticos sugestivos de AmpC plasmídicos. Para esto se empleó ADN obtenido mediante lisis celular (por ebullición durante 10 minutos) de una suspensión 0,5 McFarland de la cepa en estudio. Seguidamente se centrifugó a 11 300 revoluciones por minuto (rpm) y se extrajo el sobrenadante, con el cual se realizó la reacción en cadena de la polimerasa (PCR), según el protocolo descrito por Pérez-Pérez y Hanson 2002 (<xref ref-type="bibr" rid="r17">17</xref>). Para el análisis molecular se incluyeron como controles: <italic>Proteus mirabilis</italic> ReLAVRA-OPS 146 (positivo) y <italic>Escherichia coli</italic> ATCC 25922 (negativo). Además del marcador de peso molecular de 100-1000 pb, marca Thermo<sup>®</sup>. Se utilizó el equipo Termociclador Veriti (Applied Biosystems, modelo 9902<sup>®</sup>. La visualización y análisis de los productos del PCR se realizó por medio de electroforesis capilar, empleando el equipo QIAxcel Advanced System<sup>®</sup>, para identificar el amplicón de 462 pb correspondiente a CMY-2.</p>
+			</sec>
+		</sec>
+		<sec id="s2" sec-type="results">
+			<title>RESULTADOS</title>
+			<p>En la revisión retrospectiva de las bases de datos del período comprendido entre enero de 2003 hasta mayo de 2015, que incluía 4 363 aislamientos de diferentes especies de <italic>Shigella</italic> y 1 785 de <italic>Salmonella</italic> spp., se detectaron un total de 24 aislamientos con un perfil fenotípico sugestivo de β-lactamasa AmpC plasmídica. De estos, 15 correspondieron a <italic>S. sonnei</italic> todos de origen clínico humano y nueve a <italic>Salmonella</italic> spp. (cuatro de origen clínico humano y cinco no humano).</p>
+			<p>Los 24 aislamientos antes mencionados presentaron sensibilidad reducida a las C3G (CAZ: 11-16 mm y CTX: 12-20 mm), con zonas de inhibición consideradas dentro del rango de sospecha de BLEE (según normas de CLSI M100-S25). Sin embargo, en todos ellos se descartó la presencia de BLEE, ya que ninguno presentó agrandamiento igual o mayor que 5 mm para las combinaciones CTX/CTX-AMC y CAZ/CAZ-AMC, ni la clásica inhibición (efecto “huevo”) entre AMC y las C3G. Todos los aislamientos presentaron zonas de inhibición para los carbapenemes (IMP, MEM y ERT) dentro de los rangos esperados de sensibilidad.</p>
+			<p>En los 24 aislamientos de <italic>S. sonnei</italic> y <italic>Salmonella</italic> spp. con perfil fenotípico sugestivo de β-lactamasa AmpC plasmídica se observó sinergia entre FOX y las C3G con el APB, confirmándose el mecanismo (<xref ref-type="fig" rid="f1">figura 1</xref>).</p>
+			<fig id="f1" orientation="portrait" position="float">
+				<label>FIGURA 1</label>
+				<caption>
+					<title>Sinergia entre discos de APB versus CTX, CAZ y FOX.</title>
+				</caption>
+				<graphic orientation="portrait" position="float" xlink:href="1020-4989-RPSP-40-01-070-g001.tif"/>
+				<attrib><italic><bold>Fuente:</bold></italic> Centro Nacional de Referencia en Bacteriología, Red Nacional de Laboratorios de Bacteriología, Costa Rica.</attrib>
+			</fig>
+			<p>Por métodos moleculares se confirmó la presencia del gen plasmídico bla<sub>CMY-2</sub> en los 24 aislamientos antes mencionados.</p>
+			<p>En el caso de S. <italic>sonnei</italic>, aislamientos portadores del gen <italic>bla</italic><sub>CMY-2</sub> se confirmaron a partir del año 2012 (4/261 = 1,5 %), mientras que entre enero y mayo de 2015 se confirmaron 11/255 (4,3 %) (<xref ref-type="table" rid="t1">cuadro 1</xref>). Todos los aislamientos provenían de pacientes con diarrea, la mayoría adultos jóvenes, de las provincias de San José, Limón y Alajuela, incluyendo tres casos relacionados a un brote de diarrea en una comunidad fronteriza en el 2012. Los 15 aislamientos de <italic>S. sonnei</italic> fueron resistentes a SXT, catorce resultaron sensibles a CIP y uno presentó sensibilidad disminuida a este antibiótico.</p>
+			<table-wrap id="t1" orientation="portrait" position="float">
+				<label>CUADRO 1</label>
+				<caption>
+					<title>Aislamientos de <italic>Shigella sonnei</italic> de origen clínico humano portadores del gen <italic>bla</italic><sub><sub>CMY-2</sub></sub>. Costa Rica, 2003–2015</title>
+				</caption>
+				<table frame="border" rules="groups">
+					<thead valign="bottom">
+						<tr>
+							<th align="left">Año</th>
+							<th align="center">Porcentaje de cepas CMY-2 positivas (%)</th>
+							<th align="center">No. de aislamientos CMY-2 positivos/total de aislamientos</th>
+						</tr>
+					</thead>
+					<tbody valign="bottom">
+						<tr>
+							<td align="left">2003-2011</td>
+							<td align="center">0</td>
+							<td align="center">0/1 433</td>
+						</tr>
+						<tr>
+							<td align="left">2012</td>
+							<td align="center">1,5</td>
+							<td align="center">4/261</td>
+						</tr>
+						<tr>
+							<td align="left">2013-2014</td>
+							<td align="center">0</td>
+							<td align="center">0/1 123</td>
+						</tr>
+						<tr>
+							<td align="left">2015<sup><xref ref-type="table-fn" rid="t1n1">a</xref></sup></td>
+							<td align="center">4,3</td>
+							<td align="center">11/255</td>
+						</tr>
+					</tbody>
+				</table>
+				<table-wrap-foot>
+					<fn id="t1n1">
+						<label>a</label>
+						<p>Incluye solo de enero a mayo de 2015.</p>
+					</fn>
+					<fn>
+						<p><bold><italic>Fuente:</italic></bold> Centro Nacional de Referencia en Bacteriología, Red Nacional de Laboratorios de Bacteriología, Costa Rica.</p>
+					</fn>
+				</table-wrap-foot>
+			</table-wrap>
+			<p>Con relación a <italic>Salmonella</italic> de origen clínico portadores del gen <italic>bla</italic><sub>CMY-2</sub>, los cuatro aislamientos que se confirmaron a partir del 2010 correspondían a diferentes serovariedades (<xref ref-type="table" rid="t2">cuadro 2</xref>). Tres de estos aislamientos corresponden a pacientes menores de dos años de edad, incluyendo el obtenido de sangre. A excepción de <italic>S</italic>. <italic>cholerasuis</italic> var. Kunzendorf que presentó sensibilidad disminuida a CIP, todos los aislamientos clínicos fueron sensibles a SXT y CIP.</p>
+			<table-wrap id="t2" orientation="portrait" position="float">
+				<label>CUADRO 2</label>
+				<caption>
+					<title>Serovariedades de <italic>Salmonella</italic> de origen clínico humano portadores del gen <italic>bla</italic><sub><sub>CMY-2</sub></sub>. Costa Rica, 2003–2015</title>
+				</caption>
+				<table frame="border" rules="groups">
+					<thead valign="bottom">
+						<tr>
+							<th align="left" rowspan="3" valign="bottom">Año</th>
+							<th align="center" colspan="2">Cepas CMY-2 positivas</th>
+							<th align="center" rowspan="3" valign="bottom">Serovariedad</th>
+							<th align="center" rowspan="3" valign="bottom">Origen</th>
+							<th align="center" rowspan="3" valign="bottom">Edad (años)</th>
+							<th align="center" rowspan="3" valign="bottom">Provincia de residencia</th>
+						</tr>
+						<tr>
+							<th align="center" colspan="2">
+								<hr/>
+							</th>
+						</tr>
+						<tr>
+							<th align="center">Porcentaje (%)</th>
+							<th align="center">(No./total)<sup><xref ref-type="table-fn" rid="t2n1">a</xref></sup></th>
+						</tr>
+					</thead>
+					<tbody valign="bottom">
+						<tr>
+							<td align="left">2003 - 2009</td>
+							<td align="center">0</td>
+							<td align="center">( 0/791)</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+						</tr>
+						<tr>
+							<td align="left">2010</td>
+							<td align="center">0,5</td>
+							<td align="center">(1/186)</td>
+							<td align="center"><italic>S. cholerasuis</italic> var. Kunzendorf</td>
+							<td align="center">Heces</td>
+							<td align="center">51</td>
+							<td align="center">Puntarenas</td>
+						</tr>
+						<tr>
+							<td align="left">2011</td>
+							<td align="center">0</td>
+							<td align="center">(0/180)</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+						</tr>
+						<tr>
+							<td align="left">2012</td>
+							<td align="center">0</td>
+							<td align="center">(0/204)</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+							<td align="center">NA</td>
+						</tr>
+						<tr>
+							<td align="left">2013</td>
+							<td align="center">0,5</td>
+							<td align="center">(1/200)</td>
+							<td align="center"><italic>S.</italic> Bonariensis</td>
+							<td align="center">Sangre</td>
+							<td align="center">&lt; 1</td>
+							<td align="center">Limón</td>
+						</tr>
+						<tr>
+							<td align="left">2014</td>
+							<td align="center">0,4</td>
+							<td align="center">(1/224)</td>
+							<td align="center"><italic>S</italic>. Oslo</td>
+							<td align="center">Heces</td>
+							<td align="center">1</td>
+							<td align="center">Heredia</td>
+						</tr>
+						<tr>
+							<td align="left">2015</td>
+							<td align="center">1,9</td>
+							<td align="center">(1/52)</td>
+							<td align="center"><italic>S.</italic> Typhimurium</td>
+							<td align="center">Heces</td>
+							<td align="center">&lt; 1</td>
+							<td align="center">ND</td>
+						</tr>
+					</tbody>
+				</table>
+				<table-wrap-foot>
+					<fn>
+						<p>NA, no aplica; ND: dato no disponible.</p>
+					</fn>
+					<fn id="t2n1">
+						<label>a</label>
+						<p>Número de aislamientos de <italic>Salmonella</italic> de origen clínico humano CMY-2 positivo/total de aislamientos <italic>Salmonella</italic> de origen clínico humano a los que se realizó la prueba de sensibilidad a los antibióticos durante el año.</p>
+					</fn>
+					<fn>
+						<p><bold><italic>Fuente:</italic></bold> Centro Nacional de Referencia en Bacteriología, Red Nacional de Laboratorios de Bacteriología, Costa Rica.</p>
+					</fn>
+				</table-wrap-foot>
+			</table-wrap>
+			<p>Con respecto a los aislamientos de <italic>Salmonella</italic> de origen no humano portadores del gen <italic>bla</italic><sub>CMY-2</sub>, todos se recuperaron de muestras de aves de granjas de diferentes provincias, tres de ellos en el 2010 y dos en el 2011. De estos aislamientos, tres corresponden a <italic>S</italic>. Heidelberg y dos a <italic>S</italic>. Kentucky (<xref ref-type="table" rid="t3">cuadro 3</xref>). Los cinco aislamientos resultaron sensibles a SXT y dos de ellos (<italic>S</italic>. Heidelberg) presentaron sensibilidad disminuida a CIP.</p>
+			<table-wrap id="t3" orientation="portrait" position="float">
+				<label>CUADRO 3</label>
+				<caption>
+					<title>Serovariedades de <italic>Salmonella</italic> de origen aviar portadores del gen <italic>bla</italic><sub><sub>CMY-2</sub></sub>, Costa Rica, 2003–2015.</title>
+				</caption>
+				<table frame="border" rules="groups">
+					<thead valign="bottom">
+						<tr>
+							<th align="left" rowspan="3" valign="bottom">Año</th>
+							<th align="center" colspan="2">Cepas CMY-2 positivas</th>
+							<th align="center" rowspan="3" valign="bottom">Serovariedad</th>
+							<th align="center" rowspan="3" valign="bottom">Origen</th>
+							<th align="center" rowspan="3" valign="bottom">Provincia</th>
+						</tr>
+						<tr>
+							<th align="center" colspan="2">
+								<hr/>
+							</th>
+						</tr>
+						<tr>
+							<th align="center">Porcentaje (%)</th>
+							<th align="center">No./total<sup><xref ref-type="table-fn" rid="t3n1">a</xref></sup></th>
+						</tr>
+					</thead>
+					<tbody valign="bottom">
+						<tr>
+							<td align="left">2010</td>
+							<td align="center">1,8</td>
+							<td align="center">(3/166)</td>
+							<td align="left"><italic>S</italic>. Heidelberg</td>
+							<td align="left">Heces de ave</td>
+							<td align="left">Puntarenas</td>
+						</tr>
+						<tr>
+							<td align="left"/>
+							<td align="right"/>
+							<td align="right"/>
+							<td align="left"><italic>S</italic>. Heidelberg</td>
+							<td align="left">Hisopado cloacal</td>
+							<td align="left">Heredia</td>
+						</tr>
+						<tr>
+							<td align="left"/>
+							<td align="right"/>
+							<td align="right"/>
+							<td align="left"><italic>S</italic>. Kentucky</td>
+							<td align="left">Hisopado cloacal</td>
+							<td align="left">Heredia</td>
+						</tr>
+						<tr>
+							<td align="left">2011</td>
+							<td align="center">1,8</td>
+							<td align="center">(2/114)</td>
+							<td align="left"><italic>S</italic>. Kentucky</td>
+							<td align="left">Pasta de pollo<sup><xref ref-type="table-fn" rid="t3n2">b</xref></sup></td>
+							<td align="left">Heredia</td>
+						</tr>
+						<tr>
+							<td align="left"/>
+							<td align="right"/>
+							<td align="right"/>
+							<td align="left"><italic>S</italic>. Heidelberg</td>
+							<td align="left">Heces de ave</td>
+							<td align="left">Puntarenas</td>
+						</tr>
+						<tr>
+							<td align="left">2012</td>
+							<td align="center">0</td>
+							<td align="center">(0/40)</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+						</tr>
+						<tr>
+							<td align="left">2013</td>
+							<td align="center">0</td>
+							<td align="center">(0/43)</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+						</tr>
+						<tr>
+							<td align="left">2014</td>
+							<td align="center">0</td>
+							<td align="center">(0/46)</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+						</tr>
+						<tr>
+							<td align="left">2015</td>
+							<td align="center">0</td>
+							<td align="center">(0/0)</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+							<td align="left">NA</td>
+						</tr>
+					</tbody>
+				</table>
+				<table-wrap-foot>
+					<fn>
+						<p>NA, no aplica.</p>
+					</fn>
+					<fn id="t3n1">
+						<label>a</label>
+						<p>Número de aislamientos de <italic>Salmonella</italic> de origen no humano CMY-2 positivo/total de aislamientos <italic>Salmonella</italic> de origen no humano a los que se realizó la prueba de sensibilidad a los antibióticos durante el año.</p>
+					</fn>
+					<fn id="t3n2">
+						<label>b</label>
+						<p>Corresponde a un alimento importado.</p>
+					</fn>
+					<fn>
+						<p><bold><italic>Fuente:</italic></bold> Centro Nacional de Referencia en Bacteriología, Red Nacional de Laboratorios de Bacteriología, Costa Rica.</p>
+					</fn>
+				</table-wrap-foot>
+			</table-wrap>
+		</sec>
+		<sec id="s3" sec-type="discussion">
+			<title>DISCUSIÓN</title>
+			<p>Las enzimas AmpC plasmídicas se han descrito en todos los continentes, con una prevalencia variable según el microorganismo, del tipo de enzima y del área geográfica. En general, la prevalencia de estas enzimas suele ser baja (menor al 2% en las enterobacterias), aunque se ha reportado una tendencia al incremento (<xref ref-type="bibr" rid="r18">18</xref>).</p>
+			<p>En la literatura se encuentran reportes de aislamientos de <italic>S. flexneri</italic> y <italic>S. sonnei</italic> portadoras de CMY-2 en Irán, Japón, China y Argentina, entre otros (<xref ref-type="bibr" rid="r2">2</xref>, <xref ref-type="bibr" rid="r19">19</xref>). También se describen aislamientos de diferentes serovariedades de <italic>Salmonella</italic> (ej: <italic>S</italic>. Typhimurium, <italic>S</italic>. Heidelberg, <italic>S</italic>. Kentucky) portadoras de este mecanismo en Estados Unidos, Japón y recientemente en América del Sur (<xref ref-type="bibr" rid="r20">20</xref>, <xref ref-type="bibr" rid="r21">21</xref>). Sin embargo, existen muy pocas publicaciones científicas en relación al tema en Centroamérica. En el caso particular de Costa Rica, hasta donde se tiene conocimiento, este es el primer reporte de confirmación de cepas de <italic>Shigella</italic> y <italic>Salmonella</italic> portadoras de CMY-2.</p>
+			<p>Con relación a los aislamientos de <italic>Shigella</italic> portadores de CMY-2, cabe resaltar que estos se confirmaron solo en la especie <italic>S. sonnei</italic>, a partir del 2012 (1,5% de los aislamientos), observándose una tendencia al incremento en el 2015 (4,3 % de los aislamientos). Este hallazgo contrasta con lo observado en Argentina, donde desde el 2006 se reportó la emergencia clonal de <italic>S. flexneri</italic> portadora de CMY-2 (<xref ref-type="bibr" rid="r2">2</xref>). Al respecto vale la pena destacar que a diferencia de otros países de la región y similar a lo observado en países como Tailandia en el período 2002-2003 (<xref ref-type="bibr" rid="r22">22</xref>), desde el 2005 S. <italic>sonnei</italic> es la especie más prevalente en Costa Rica como causa de shigelosis, seguida por <italic>S. flexneri</italic>. Por otra parte, la emergencia de CMY-2 en Costa Rica a partir del 2012 concuerda con lo reportado en México donde previo al 2012 no se habían encontraron aislamientos de <italic>Shigella</italic> portadores de este mecanismo de resistencia (<xref ref-type="bibr" rid="r23">23</xref>).</p>
+			<p>Con relación a <italic>Salmonella</italic> de origen humano, en Costa Rica se documentaron únicamente cuatro aislamientos portadores de CMY-2, todos entre 2010 y 2015, pertenecientes a serovariedades poco frecuentes en el país (a excepción de <italic>S</italic>. Typhimurium). Lo anterior contrasta con la elevada prevalencia observada en <italic>S</italic>. Typhimurium (10-27%) en México para el período 2005-2011 (<xref ref-type="bibr" rid="r23">23</xref>).</p>
+			<p>Cabe mencionar que en los aislamientos de Costa Rica se descartó la presencia de BLEE en conjunto con CMY-2, lo que contrasta con los hallazgos reportados por Liebana y col. (2004), que describen el aislamiento de <italic>S</italic>. Infantis multirresistente portadora de CMY-2 y de BLEE tipo CTX-M15 (<xref ref-type="bibr" rid="r5">5</xref>). De igual manera, en Venezuela durante el período 2010-2011 se notificaron aislamientos de <italic>Salmonella</italic>, que producían simultáneamente CMY plasmídico y BLEE de diferentes tipos (CTXM-1, CTMX-2, TEM-1) (datos no publicados) (<xref ref-type="bibr" rid="r10">10</xref>).</p>
+			<p>Estudios sugieren que los genes <italic>bla</italic><sub>CMY-2</sub> pueden ser transferidos entre diferentes géneros o especies bacterianas asociadas a animales, alimentos para animales y para consumo humano y a infecciones en los seres humanos (<xref ref-type="bibr" rid="r24">24</xref>). En este estudio se demuestra la circulación de cepas de <italic>S</italic>. Heidelberg y <italic>S</italic>. Kentucky de origen aviar portadoras de CMY-2 en Costa Rica. Sin embargo, cabe destacar que estos serovares se aíslan con muy poca frecuencia de infecciones de humanos en Costa Rica, y a la fecha no se ha encontrado ninguno portador de CMY-2. Al respecto, en Canadá se notificó por primera vez en el 2003 <italic>S</italic>. Heidelberg CMY-2 positivo en intestino de jabalí (<xref ref-type="bibr" rid="r16">16</xref>). Además, en estudios realizados en México entre 2000-2005, se describen aislamientos <italic>S</italic>. Typhimurium portadores de CMY-2 de origen aviar (con una prevalencia de 3,9 %), en carne de cerdo (3,5 %) y en intestino porcino (7,4 %) (<xref ref-type="bibr" rid="r4">4</xref>).</p>
+			<p>La detección de AmpC plasmídicas es especialmente importante en aquellos géneros y especies que carecen naturalmente de estas enzimas a nivel cromosómico, como es el caso de <italic>Salmonella</italic> spp. <italic>Proteus mirabilis</italic>, <italic>Klebsiella</italic> sp., y en aquellas que la producen en pequeñas cantidades, como <italic>Shigella</italic> sp. y <italic>Escherichia coli</italic>. En estos microorganismos que no poseen una βeta-lactamasa tipo AmpC en su cromosoma, la detección de AmpC plasmídicas implica la adquisición de este elemento móvil.</p>
+			<p>A la fecha no existe consenso sobre el reporte de las C3G en cepas productoras de AmpC plasmídico. Por otra parte, es escasa la bibliografía internacional sobre la utilidad clínica de C3G en infecciones provocadas por enterobacterias con AmpC plasmídica. Sin embargo, es prudente evitar el uso de las C3G en infecciones severas. Lo anterior dado que, según ReLAVRA-OPS y Jacoby (2009), la resistencia enzimática, como la debida a AmpC plasmídico, eleva las concentraciones inhibitorias mínimas (CIM) de las C3G que pueden verse afectadas por inóculos bacterianos de alta densidad (<xref ref-type="bibr" rid="r2">2</xref>, <xref ref-type="bibr" rid="r6">6</xref>, <xref ref-type="bibr" rid="r13">13</xref>).</p>
+			<p>Por lo tanto, se recomienda a los laboratorios de microbiología estar vigilantes y enviar al Laboratorio Nacional de Referencia los aislamientos de <italic>Salmonella</italic> y <italic>Shigella</italic> para realizar la confirmación correspondiente por métodos fenotípicos y moleculares. Lo anterior es especialmente importante en bacterias aisladas de infecciones extraintestinales.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>Se reconoce la contribución de los microbiólogos de los laboratorios de la Red Nacional de Laboratorios de Costa Rica, quienes suministraron los aislamientos, y la información clínico-epidemiológica, incluida en este informe.</p>
+		</ack>
+		<sec>
+			<title>Conflicto de intereses</title>
+			<p>Ninguno declarado por los autores.</p>
+		</sec>
+		<sec>
+			<title>Declaración</title>
+			<p>Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.</p>
+		</sec>
+		<ref-list id="references">
+			<title>REFERENCIAS</title>
+			<ref id="r1">
+				<label>1</label>
+				<mixed-citation>1 Bush K, Jacoby G. Updated functional classification of β-lactamases. Antimicrob Agents Chemother. 2010;54(3):969-76.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bush</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Jacoby</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<article-title>Updated functional classification of β-lactamases</article-title>
+					<source>Antimicrob Agents Chemother</source>
+					<year>2010</year>
+					<volume>54</volume>
+					<issue>3</issue>
+					<fpage>969</fpage>
+					<lpage>76</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r2">
+				<label>2</label>
+				<mixed-citation>2 Rapoport M, Monzani V, Pasteran F, Morvay L, Faccone D, Petroni A, <italic>et al.</italic> CMY-2-type plasmid-mediated AmpC β-lactamase finally emerging in Argentina. Int J Antimicrob Agents. 2008;31(4):385-87.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rapoport</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Monzani</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Pasteran</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Morvay</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Faccone</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Petroni</surname>
+							<given-names>A</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>CMY-2-type plasmid-mediated AmpC β-lactamase finally emerging in Argentina</article-title>
+					<source>Int J Antimicrob Agents</source>
+					<year>2008</year>
+					<volume>31</volume>
+					<issue>4</issue>
+					<fpage>385</fpage>
+					<lpage>87</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r3">
+				<label>3</label>
+				<mixed-citation>3 Seral C, Gude MJ, Castillo FJ. Emergencia de β-lactamasas Amp-C plasmídicas (pAmpC o cefamicinasas): origen, importancia, detección y alternativas terapéuticas. Rev Esp Quimioter. 2012;25(2):89-99.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Seral</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Gude</surname>
+							<given-names>MJ</given-names>
+						</name>
+						<name>
+							<surname>Castillo</surname>
+							<given-names>FJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Emergencia de β-lactamasas Amp-C plasmídicas (pAmpC o cefamicinasas): origen, importancia, detección y alternativas terapéuticas</article-title>
+					<source>Rev Esp Quimioter</source>
+					<year>2012</year>
+					<volume>25</volume>
+					<issue>2</issue>
+					<fpage>89</fpage>
+					<lpage>99</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r4">
+				<label>4</label>
+				<mixed-citation>4 Zaidi MB, Leon V, Canche C, Perez C, Zhao S, Hubert SH, <italic>et al.</italic> Rapid and widespread dissemination of multidrug-resistant <italic>bla</italic>CMY-2 <italic>Salmonella typhimurium</italic> in Mexico. J Antimicrob Chemother. 2007;60(2):398-401.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zaidi</surname>
+							<given-names>MB</given-names>
+						</name>
+						<name>
+							<surname>Leon</surname>
+							<given-names>V</given-names>
+						</name>
+						<name>
+							<surname>Canche</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Perez</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Zhao</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Hubert</surname>
+							<given-names>SH</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Rapid and widespread dissemination of multidrug-resistant <italic>bla</italic>CMY-2 <italic>Salmonella typhimurium</italic> in Mexico</article-title>
+					<source>J Antimicrob Chemother</source>
+					<year>2007</year>
+					<volume>60</volume>
+					<issue>2</issue>
+					<fpage>398</fpage>
+					<lpage>401</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r5">
+				<label>5</label>
+				<mixed-citation>5 Lee KE, Lim SI, Choi HW, Lim SK, Song JY, An DJ. Plasmid-mediated AmpC β-lactamase (CMY-2) gene in <italic>Salmonella</italic> Typhimurium isolated from diarrheic pigs in South Korea. BMC Res Notes. 2014;7:329. doi:10.1186/1756-0500-7-329.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lee</surname>
+							<given-names>KE</given-names>
+						</name>
+						<name>
+							<surname>Lim</surname>
+							<given-names>SI</given-names>
+						</name>
+						<name>
+							<surname>Choi</surname>
+							<given-names>HW</given-names>
+						</name>
+						<name>
+							<surname>Lim</surname>
+							<given-names>SK</given-names>
+						</name>
+						<name>
+							<surname>Song</surname>
+							<given-names>JY</given-names>
+						</name>
+						<name>
+							<surname>An</surname>
+							<given-names>DJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Plasmid-mediated AmpC β-lactamase (CMY-2) gene in <italic>Salmonella</italic> Typhimurium isolated from diarrheic pigs in South Korea</article-title>
+					<source>BMC Res Notes</source>
+					<year>2014</year>
+					<volume>7</volume>
+					<fpage>329</fpage>
+					<pub-id pub-id-type="doi">10.1186/1756-0500-7-329</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="r6">
+				<label>6</label>
+				<mixed-citation>6 Red Latinoamericana de Vigilancia de la Resistencia a los Antimicrobianos (ReLAVRA)-Organización Panamericana de la Salud. Proyecto de Prevención y Control de la Resistencia a los Antimicrobianos en las Américas. Programa Latinoamericano de Control de Calidad en Bacteriología y Resistencia a los Antimicrobianos (2008) Argentina, Encuesta- Informe N°15.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Red Latinoamericana de Vigilancia de la Resistencia a los Antimicrobianos (ReLAVRA)-Organización Panamericana de la Salud</collab>
+					</person-group>
+					<source>Proyecto de Prevención y Control de la Resistencia a los Antimicrobianos en las Américas. Programa Latinoamericano de Control de Calidad en Bacteriología y Resistencia a los Antimicrobianos</source>
+					<year>2008</year>
+					<publisher-loc>Argentina</publisher-loc>
+					<publisher-name>Encuesta- Informe N°15</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="r7">
+				<label>7</label>
+				<mixed-citation>7 Boyle F, Morris D, O’Connor J, DeLappe N, Ward J, Cormican M. First report of extended-spectrum-β-lactamase-producing <italic>Salmonella enterica</italic> serovar Kentucky isolated from poultry in Ireland. Antimicrob Agents Chemother. 2010; 54(1):551-3.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boyle</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Morris</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>O’Connor</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>DeLappe</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Ward</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Cormican</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>First report of extended-spectrum-β-lactamase-producing <italic>Salmonella enterica</italic> serovar Kentucky isolated from poultry in Ireland</article-title>
+					<source>Antimicrob Agents Chemother</source>
+					<year>2010</year>
+					<volume>54</volume>
+					<issue>1</issue>
+					<fpage>551</fpage>
+					<lpage>3</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r8">
+				<label>8</label>
+				<mixed-citation>8 Folster JP, Pecic G, Bolcen S, Theobald L, Hise K, Carattoli A, <italic>et al.</italic> Characterization of extended-spectrum cephalosporin resistant <italic>Salmonella enterica</italic> serovar Heidelberg isolated from humans in the United States. Foodborne Pathog Dis. 2010;7(2):181-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Folster</surname>
+							<given-names>JP</given-names>
+						</name>
+						<name>
+							<surname>Pecic</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Bolcen</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Theobald</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Hise</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Carattoli</surname>
+							<given-names>A</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Characterization of extended-spectrum cephalosporin resistant <italic>Salmonella enterica</italic> serovar Heidelberg isolated from humans in the United States</article-title>
+					<source>Foodborne Pathog Dis</source>
+					<year>2010</year>
+					<volume>7</volume>
+					<issue>2</issue>
+					<fpage>181</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r9">
+				<label>9</label>
+				<mixed-citation>9 Liebana E, Batchelor M, Torres C, Briñas L, Lagos LA, Abdalhamid B, <italic>et al.</italic> Pediatric infection due to multiresistant <italic>Salmonella enterica</italic> serotype Infantis in Honduras. J Clin Microbiol. 2004;42(10):4885-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Liebana</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Batchelor</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Briñas</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Lagos</surname>
+							<given-names>LA</given-names>
+						</name>
+						<name>
+							<surname>Abdalhamid</surname>
+							<given-names>B</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Pediatric infection due to multiresistant <italic>Salmonella enterica</italic> serotype Infantis in Honduras</article-title>
+					<source>J Clin Microbiol</source>
+					<year>2004</year>
+					<volume>42</volume>
+					<issue>10</issue>
+					<fpage>4885</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r10">
+				<label>10</label>
+				<mixed-citation>10 Pulsenet America Latina y Caribe. Reunión Pulsenet America Latina y Caribe. 9na Reunión. Santiago de Chile - Chile, 2011.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Pulsenet America Latina y Caribe</collab>
+					</person-group>
+					<source>Reunión Pulsenet America Latina y Caribe</source>
+					<edition>9na Reunión</edition>
+					<publisher-loc>Santiago de Chile - Chile</publisher-loc>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="r11">
+				<label>11</label>
+				<mixed-citation>11 Jacoby G. AmpC β-lactamases. Clin Microbiol Rev. 2009;22(1):61-182.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jacoby</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<article-title>AmpC β-lactamases</article-title>
+					<source>Clin Microbiol Rev</source>
+					<year>2009</year>
+					<volume>22</volume>
+					<issue>1</issue>
+					<fpage>61</fpage>
+					<lpage>182</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r12">
+				<label>12</label>
+				<mixed-citation>12 Edwards PR, Ewing WH. Identification of Enterobacteriaceae, 4th edition. New York: Elsevier; 1986.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Edwards</surname>
+							<given-names>PR</given-names>
+						</name>
+						<name>
+							<surname>Ewing</surname>
+							<given-names>WH</given-names>
+						</name>
+					</person-group>
+					<source>Identification of Enterobacteriaceae</source>
+					<edition>4th edition</edition>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Elsevier</publisher-name>
+					<year>1986</year>
+				</element-citation>
+			</ref>
+			<ref id="r13">
+				<label>13</label>
+				<mixed-citation>13 Grimont PAD, Weill FX. Antigenic formulae of the <italic>Salmonella</italic> serovars, 9th ed., WHO Collaborating Centre for Reference and Research on <italic>Salmonella</italic>, Institut Pasteur, Paris, France, 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Grimont</surname>
+							<given-names>PAD</given-names>
+						</name>
+						<name>
+							<surname>Weill</surname>
+							<given-names>FX</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Antigenic formulae of the <italic>Salmonella</italic> serovars</chapter-title>
+					<edition>9th ed</edition>
+					<source>WHO Collaborating Centre for Reference and Research on <italic>Salmonella</italic></source>
+					<publisher-name>Institut Pasteur</publisher-name>
+					<publisher-loc>Paris, France</publisher-loc>
+					<year>2007</year>
+				</element-citation>
+			</ref>
+			<ref id="r14">
+				<label>14</label>
+				<mixed-citation>14 CLSI M02-A11 Performance Standards for Antimicrobial Disk Susceptibility Tests; approved standard- Eleventh edition. Clinical and Laboratory Standards Institute, Wayne, Pennsylvania, USA; 2012;32(1).</mixed-citation>
+				<element-citation publication-type="book">
+					<source>CLSI M02-A11 Performance Standards for Antimicrobial Disk Susceptibility Tests; approved standard- Eleventh edition</source>
+					<publisher-name>Clinical and Laboratory Standards Institute, Wayne</publisher-name>
+					<publisher-loc>Pennsylvania, USA</publisher-loc>
+					<year>2012</year>
+					<volume>32</volume>
+					<issue>1</issue>
+				</element-citation>
+			</ref>
+			<ref id="r15">
+				<label>15</label>
+				<mixed-citation>15 CLSI M100-S25 Performance Standards for Antimicrobial Susceptibility Testing; twenty-fifth informational supplement. Clinical and Laboratory Standards Institute, Wayne, Pennsylvania, USA; 2015;35(3).</mixed-citation>
+				<element-citation publication-type="book">
+					<source>CLSI M100-S25 Performance Standards for Antimicrobial Susceptibility Testing; twenty-fifth informational supplement</source>
+					<publisher-name>Clinical and Laboratory Standards Institute, Wayne</publisher-name>
+					<publisher-loc>Pennsylvania, USA</publisher-loc>
+					<year>2015</year>
+					<volume>35</volume>
+					<issue>3</issue>
+				</element-citation>
+			</ref>
+			<ref id="r16">
+				<label>16</label>
+				<mixed-citation>16 Aarestrup F, Hasman H, Olsen I, Sørensen G. International Spread of <italic>bla</italic><sub>CMY-2</sub> mediated cephalosporin resistance in a multiresistant <italic>Salmonella</italic> enterica serovar Heidelberg isolate stemming from the importation of a boar by Denmark from Canada. Antimicrob Agents Chemother. 2004;48(5):1916-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Aarestrup</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Hasman</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Olsen</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Sørensen</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<article-title>International Spread of <italic>bla</italic><sub>CMY-2</sub> mediated cephalosporin resistance in a multiresistant <italic>Salmonella</italic> enterica serovar Heidelberg isolate stemming from the importation of a boar by Denmark from Canada</article-title>
+					<source>Antimicrob Agents Chemother</source>
+					<year>2004</year>
+					<volume>48</volume>
+					<issue>5</issue>
+					<fpage>1916</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r17">
+				<label>17</label>
+				<mixed-citation>17 Pérez-Pérez F, Hanson ND. Detection of plasmid-mediated AmpC β-lactamase genes in clinical isolates by using multiplex PCR. J Clin Microbiol. 2002;40(6):2153-62.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pérez-Pérez</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Hanson</surname>
+							<given-names>ND</given-names>
+						</name>
+					</person-group>
+					<article-title>Detection of plasmid-mediated AmpC β-lactamase genes in clinical isolates by using multiplex PCR</article-title>
+					<source>J Clin Microbiol</source>
+					<year>2002</year>
+					<volume>40</volume>
+					<issue>6</issue>
+					<fpage>2153</fpage>
+					<lpage>62</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r18">
+				<label>18</label>
+				<mixed-citation>18 Calvo J, Cantón R, Fernández F, Mirelis B, Navarro F. Procedimientos en microbiología clínica. Recomendaciones de la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica. Detección fenotípica de mecanismos de resistencia en Gram negativos. Segunda edición, 2011.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Calvo</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Cantón</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Mirelis</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Navarro</surname>
+							<given-names>F</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Procedimientos en microbiología clínica</chapter-title>
+					<source>Recomendaciones de la Sociedad Española de Enfermedades Infecciosas y Microbiología Clínica. Detección fenotípica de mecanismos de resistencia en Gram negativos</source>
+					<edition>Segunda edición</edition>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="r19">
+				<label>19</label>
+				<mixed-citation>19 Taneja N, Mewara A, Kumar A, Verma G, Sharma MJ. Cephalosporin-resistant <italic>Shigella flexneri</italic> over 9 years (2001-2009) in India. Antimicrob Agents Chemother. 2012;67(6):1347-53.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Taneja</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Mewara</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Kumar</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Verma</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Sharma</surname>
+							<given-names>MJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Cephalosporin-resistant <italic>Shigella flexneri</italic> over 9 years (2001-2009) in India</article-title>
+					<source>Antimicrob Agents Chemother</source>
+					<year>2012</year>
+					<volume>67</volume>
+					<issue>6</issue>
+					<fpage>1347</fpage>
+					<lpage>53</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r20">
+				<label>20</label>
+				<mixed-citation>20 Cejas D, Vignoli R, Quinteros M, Marino R, Callejo R, Betancor L, <italic>et al.</italic> First detection of CMY-2 plasmid mediated β-lactamase in <italic>Salmonella</italic> Heidelberg in South America. Rev Argent Microbiol. 2014;46(1):30-3.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cejas</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Vignoli</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Quinteros</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Marino</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Callejo</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Betancor</surname>
+							<given-names>L</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>First detection of CMY-2 plasmid mediated β-lactamase in <italic>Salmonella</italic> Heidelberg in South America</article-title>
+					<source>Rev Argent Microbiol</source>
+					<year>2014</year>
+					<volume>46</volume>
+					<issue>1</issue>
+					<fpage>30</fpage>
+					<lpage>3</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r21">
+				<label>21</label>
+				<mixed-citation>21 Lee K, Kusumoto M, Sekizuka T, Kuroda M, Uchida I, Iwata T, <italic>et al.</italic> Extensive amplification of GI-VII-6, a multidrug resistance genomic island of <italic>Salmonella enterica</italic> serovar Typhimurium, increases resistance to extended-spectrum cephalosporins. Front Microbiol. 2015;6:1-10 doi:10.3389/fmicb.2015.00078</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lee</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Kusumoto</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Sekizuka</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Kuroda</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Uchida</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Iwata</surname>
+							<given-names>T</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Extensive amplification of GI-VII-6, a multidrug resistance genomic island of <italic>Salmonella enterica</italic> serovar Typhimurium, increases resistance to extended-spectrum cephalosporins</article-title>
+					<source>Front Microbiol</source>
+					<year>2015</year>
+					<volume>6</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.3389/fmicb.2015.00078</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="r22">
+				<label>22</label>
+				<mixed-citation>22 Von Seidlein L, Kim DR, Ali M, Lee H, Wang XY, Thiem VD, <italic>et al.</italic> A multicentre study of <italic>Shigella</italic> diarrhoea in six Asian countries: disease burden, clinical manifestations, and microbiology. PLoS Med. 2006;3(9):1556-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Von Seidlein</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Kim</surname>
+							<given-names>DR</given-names>
+						</name>
+						<name>
+							<surname>Ali</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Lee</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>XY</given-names>
+						</name>
+						<name>
+							<surname>Thiem</surname>
+							<given-names>VD</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>A multicentre study of <italic>Shigella</italic> diarrhoea in six Asian countries: disease burden, clinical manifestations, and microbiology</article-title>
+					<source>PLoS Med</source>
+					<year>2006</year>
+					<volume>3</volume>
+					<issue>9</issue>
+					<fpage>1556</fpage>
+					<lpage>9</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r23">
+				<label>23</label>
+				<mixed-citation>23 Zaidi MB, Estrada-García T, Campos FD, Chim R, Arjona F, Leon M, <italic>et al.</italic> Incidence, clinical presentation, and antimicrobial resistance trends in <italic>Salmonella</italic> and <italic>Shigella</italic> infections from children in Yucatan, Mexico. Front Microbiol. 2013;1(4):288. doi:10.3389/fmicb.2013.00288</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zaidi</surname>
+							<given-names>MB</given-names>
+						</name>
+						<name>
+							<surname>Estrada-García</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Campos</surname>
+							<given-names>FD</given-names>
+						</name>
+						<name>
+							<surname>Chim</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Arjona</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Leon</surname>
+							<given-names>M</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Incidence, clinical presentation, and antimicrobial resistance trends in <italic>Salmonella</italic> and <italic>Shigella</italic> infections from children in Yucatan, Mexico</article-title>
+					<source>Front Microbiol</source>
+					<year>2013</year>
+					<volume>1</volume>
+					<issue>4</issue>
+					<fpage>288</fpage>
+					<pub-id pub-id-type="doi">10.3389/fmicb.2013.00288</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="r24">
+				<label>24</label>
+				<mixed-citation>24 Winokur PL, Vonstein DL, Hoffman LJ, Uhlenhopp EK, Doern GV. Evidence for transfer of CMY-2 AmpC β-lactamase plasmids between <italic>Escherichia coli</italic> and <italic>Salmonella</italic> isolates from food animals and humans. Antimicrob Agents Chemother. 2001;45(10): 2716-22.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Winokur</surname>
+							<given-names>PL</given-names>
+						</name>
+						<name>
+							<surname>Vonstein</surname>
+							<given-names>DL</given-names>
+						</name>
+						<name>
+							<surname>Hoffman</surname>
+							<given-names>LJ</given-names>
+						</name>
+						<name>
+							<surname>Uhlenhopp</surname>
+							<given-names>EK</given-names>
+						</name>
+						<name>
+							<surname>Doern</surname>
+							<given-names>GV</given-names>
+						</name>
+					</person-group>
+					<article-title>Evidence for transfer of CMY-2 AmpC β-lactamase plasmids between <italic>Escherichia coli</italic> and <italic>Salmonella</italic> isolates from food animals and humans</article-title>
+					<source>Antimicrob Agents Chemother</source>
+					<year>2001</year>
+					<volume>45</volume>
+					<issue>10</issue>
+					<fpage>2716</fpage>
+					<lpage>22</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

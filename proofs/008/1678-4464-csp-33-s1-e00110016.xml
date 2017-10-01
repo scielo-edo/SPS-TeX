@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="other" dtd-version="1.0" specific-use="sps-1.6" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Cad Saude Publica</journal-id>
+			<journal-id journal-id-type="publisher-id">csp</journal-id>
+			<journal-title-group>
+				<journal-title>Cadernos de Saúde Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cad. Saúde Pública</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0102-311X</issn>
+			<issn pub-type="epub">1678-4464</issn>
+			<publisher>
+				<publisher-name>Escola Nacional de Saúde Pública Sergio Arouca, Fundação Oswaldo Cruz</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1590/0102-311X00110016</article-id>
+			<article-id pub-id-type="other">03001</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>ESSAY</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Shadows of doubt: the uneasy incorporation of identification science into legal determination of paternity in Brazil</article-title>
+				<trans-title-group xml:lang="pt">
+					<trans-title>Sombras da dúvida: a difícil incorporação da ciência de identificação na determinação legal da paternidade no Brasil</trans-title>
+				</trans-title-group>
+				<trans-title-group xml:lang="es">
+					<trans-title>Sombras de duda: la ardua incorporación de las pruebas científicas de identificación en la determinación legal de la paternidad en Brasil</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Caulfield</surname>
+						<given-names>Sueann</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Stern</surname>
+						<given-names>Alexandra Minna</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<aff id="aff1">
+					<label>1</label>
+					<institution content-type="original"> University of Michigan, Ann Arbor, U.S.A.</institution>
+					<institution content-type="normalized">University of Michigan</institution>
+					<institution content-type="orgname">University of Michigan</institution>
+					<addr-line>
+						<named-content content-type="city">Ann Arbor</named-content>
+					</addr-line>
+					<country country="US">USA</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">* Correspondence A. M. Stern University of Michigan. 3700 Haven Hall, Ann Arbor / MI - 48103, U.S.A. <email>amstern@med.umich.edu</email>
+				</corresp>
+				<fn fn-type="con" id="fn1">
+					<p>S. Caulfield and A. M. Stern contributed equally to the research and analysis for this article.</p>
+				</fn>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>08</day>
+				<month>05</month>
+				<year>2017</year>
+			</pub-date>
+			<volume>33</volume>
+			<issue>Suppl 1</issue>
+			<elocation-id>e00110016</elocation-id>
+			<history>
+				<date date-type="received">
+					<day>24</day>
+					<month>06</month>
+					<year>2016</year>
+				</date>
+				<date date-type="rev-recd">
+					<day>25</day>
+					<month>10</month>
+					<year>2016</year>
+				</date>
+				<date date-type="accepted">
+					<day>15</day>
+					<month>12</month>
+					<year>2016</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="en">
+					<license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<p>The arrival of DNA paternity testing in the 1980s was met with great enthusiasm in the Brazilian courts. Yet, over the past two decades, Brazilian legal doctrine and jurisprudence have increasingly rejected DNA proof as the sine qua non for paternity cases. Instead, DNA paternity testing has generated mountains of litigation, as biological proof has been challenged by the argument that paternity is primarily “socio-affective”. Leading family law specialists describe this new conception of paternity as an outcome of the “revolutionary” provisions of the 1988 Constitution, which recognizes the “pluralism” of family forms in modern society and guarantees equal family rights for all children. Without denying the significance of the constitution’s dignitary framework, we show that new legal understandings of paternity represent less a paradigm shift than a continuation of longstanding historical tensions between biological and socio-cultural understandings of family and identity. In this article, we explore the development of biological and eventually genetic typing in Brazil, both of which had ties to the fields of criminology and race science. Our review suggests that techniques of biological identification, no matter how sophisticated or precise, were ineffective means for establishing identity, whether of individual personhood, as in the case of paternity, or national make-up. Instead, they became incorporated as supplemental methods into complex legal, social, and cultural decision-making around families.</p>
+			</abstract>
+			<trans-abstract xml:lang="pt">
+				<p>O surgimento dos testes de DNA para determinação de paternidade, nos anos 1980, foi recebida com grande entusiasmo nos tribunais brasileiros. No entanto, ao longo das últimas duas décadas, a doutrina jurídica e a jurisprudência brasileiras têm rejeitado cada vez mais a prova de DNA como condição <italic>sine qua non</italic> para os casos de paternidade. Testes de paternidade de DNA geraram inúmeros litígios que contestaram a prova biológica com o argumento de que a paternidade é principalmente “socioafetiva”. Os principais especialistas em direito de família descrevem essa nova concepção de paternidade como resultado das disposições “revolucionárias” da Constituição Federal de 1988, que reconhece a “pluralidade” das formas familiares na sociedade moderna e garante direitos iguais para todas as crianças. Sem negar a importância de novos princípios constitucionais, mostramos que os novos conceitos jurídicos da paternidade representam menos uma mudança de paradigma do que a continuação de antigas tensões históricas entre concepções biológicas e socioculturais da família e da identidade. Neste artigo, exploramos o desenvolvimento da tipologia biológica e, posteriormente, genética no Brasil, ambas ligadas aos campos da criminologia e da ciência racial. Nossa análise sugere que as técnicas de identificação biológica, por mais sofisticadas ou precisas que fossem, eram meios ineficazes para estabelecer a identidade, seja da personalidade individual, como no caso da paternidade, ou da composição nacional. Em vez disso, elas foram incorporadas como métodos suplementares para as decisões legais, sociais e culturais complexas em torno das famílias.</p>
+			</trans-abstract>
+			<trans-abstract xml:lang="es">
+				<p>La inclusión de las pruebas de ADN para la determinación de la paternidad en los años ochenta fue recibida con gran entusiasmo en los tribunales brasileños. A pesar de ello hoy en día, tras haber trascurrido dos décadas, la doctrina legal y la jurisprudencia brasileña han rechazado cada vez más las pruebas de ADN como pruebas determinantes de los casos de paternidad. Es más, las pruebas de ADN para la paternidad han generado muchísimos litigios, puesto que las pruebas biológicas han sido rebatidas por argumentos basados en que la paternidad es primordialmente una cuestión “socio-afectiva”. Los letrados especialistas en familia consideran esta nueva concepción de la paternidad como una revolución de la Constitución de 1988, la cual reconoce la existencia del pluralismo de familias y equipara los derechos de todos los niños. Sin menoscabar la interpretación del marco constitucional indicado, entendemos que las nuevas interpretaciones jurídicas de paternidad representan, cuanto menos, un cambio generado por las continuas tensiones entre las interpretaciones biológicas y socioculturales de los conceptos de familia y de identidad. En este artículo, analizamos el desarrollo de esta cuestión, desde el punto de vista biológico y genético en Brasil, los cuales se relacionan con los campos de criminología y los estudios raciales. Nuestro análisis sugiere que las técnicas de identificación biológicas, sin importar lo precisas y sofisticadas que sean, son ineficientes en el sentido de establecer una identidad, sea individual como persona, como en el caso de la paternidad, o sea colectiva, como en el seno de una nación. En su lugar, han sido incorporados como métodos complementarios, en el ámbito de toma de decisiones legal, social y cultural, sobre los estudios acerca de las familias.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<kwd>Paternity</kwd>
+				<kwd>Forensic Genetics</kwd>
+				<kwd>Forensic Medicine</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="pt">
+				<kwd>Paternidade</kwd>
+				<kwd>Genética Forense</kwd>
+				<kwd>Medicina Legal</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<kwd>Paternidad</kwd>
+				<kwd>Genética Forense</kwd>
+				<kwd>Medicina Legal</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="0"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="83"/>
+				<page-count count="01"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>Introduction</title>
+			<p>Brazil has a long history of the utilization of genetic research and tests in the fields of population genetics and in clinical and forensic medicine. It is not surprising that it was the first Latin American nation to develop the capacity for DNA paternity testing in the 1980s. In the early 1990s, both the scientific community and popular media created the expectation that DNA testing would easily edge out other methods of paternity determination. For some, this heralded a social transformation that would make insecurities about fatherhood - which Machado de Assis famously depicted as a central feature of Brazilian culture in his 1899 novel, <italic>Dom Casmurro</italic> - a relic of the patriarchal past <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. Yet around the world, studies have shown that the uptake of genetic technologies has been messy. Examples include popular and clinical uses of ancestry tests or tests for genes associated with breast and ovarian cancer. Although heredity increasingly has been understood as playing an important role in human identity and health, “geneticization” - or the ascendency of genetic explanations - has not been clear-cut. Instead, genomics and genetic technologies become caught up in dynamic social processes that cannot escape history, culture and emotion <xref ref-type="bibr" rid="B2"><sup>2</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. This seems to be particularly true regarding DNA paternity testing.</p>
+			<p>Across Latin America, advances in genetic identification have played a prominent role in human rights cases, including the Abuelas de Plaza de Mayo’s search for biological grandchildren following the dictatorship in Argentina (1976-1983), the forensic identification of victims of state and paramilitary violence in Guatemala, Colombia, and Brazil, and, in the 1990s, the identification of Brazilian children whose parents were committed forcibly to leper’s colonies from the 1940s to the 1980s <xref ref-type="bibr" rid="B4"><sup>4</sup></xref>. The implicit relationship between DNA testing and human rights also emerged in international law in 1989, when the United Nations Convention of the Rights of the Child, influenced by the Argentinean Abuelas, included the child’s right to know his or her parents (Art. 7) and to preserve his or her identity (Art. 8). Given these precedents, it is not surprising that the arrival of DNA paternity testing initially generated tremendous enthusiasm in the Brazilian scientific community, popular culture, and courts. Yet although the explosion of this testing in the 1990s provided good business for medical laboratories and lowbrow television entertainment, it did not resolve long-standing moral and legal debates over the meaning and responsibilities of paternity. Instead, reliance on DNA testing has generated mountains of litigation, as biological proof was challenged by the argument that paternity is primarily “socio-affective”.</p>
+			<p>DNA paternity testing has provoked similar responses elsewhere in Latin America and around the world <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B7"><sup>7</sup></xref>. We demonstrate, however, that the intersecting histories of family law, identity science, and population genetics contributed to the particular resonance of these debates in Brazil, where legal doctrine in support of “socio-affective paternity” and children’s rights is especially strong. Brazil’s leading family law specialists see the law’s embrace of socio-affective paternity as emblematic of a paradigm shift underway since the 1980s, which, in fits and starts, brought radically new conceptions of citizenship and dissolved the patriarchal underpinnings of family law. Evoking the human rights framework that emerged as an antidote to authoritarianism across Latin America, they have described new conceptions of paternity as an outcome of the “revolutionary” provisions of Brazil’s 1988 Federal Constitution, which recognizes “pluralistic” family forms and guarantees equal family rights as essential to human dignity <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B9"><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B10"><sup>10</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B11"><sup>11</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B12"><sup>12</sup></xref>. The Superior Court of Justice (STJ, the highest federal court of appeal) and Supreme Court (STF) have largely adopted these interpretations, although they have not always been consistently implemented at lower instances of law and public policy <xref ref-type="bibr" rid="B13"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B14"><sup>14</sup></xref>.</p>
+			<p>Without diminishing the significance of the constitution’s dignitary framework, we show that responses to the advent of DNA paternity testing also represent a continuation of longstanding tensions between biological and socio-cultural understandings of identity and family. These tensions surfaced both in the realm of family law and among international teams of biologists and geneticists who saw Brazil as an ideal laboratory for observation of racial mixture.</p>
+		</sec>
+		<sec>
+			<title>Illegitimacy and paternal recognition in Brazilian history</title>
+			<p>Concern with verification of paternity has deep roots in Brazilian law. During the colonial period (1500-1822), illegitimacy rates were notoriously high, particularly among the enslaved and free poor population, while Catholic marriage and legitimate birth were critical marks of honor for the white elite. Yet illegitimate children were not uniformly bereft of family honor or access to patrimony. Regardless of the child’s birth status, both parents were required to provide nurturance and education, and for those who could afford it, a royal dispensation could permit a child’s “legitimization”. Even without such dispensation, a father’s recognition of paternity could significantly reduce social stigma, and if a child was of “natural” birth - that is, not adulterous, incestuous, or sacrilegious - parental recognition gave the child the same hereditary rights as legitimate children. A child could sue for recognition, and while maternal recognition required no documentation and was seldom disputed, investigations of paternity were commonly carried out during settlement of a deceased father’s estate, as is true today. Evidence generally consisted of witness testimony confirming that the alleged father had behaved publicly as such, particularly by giving the child his surname and affection and providing for the child’s care and education. The law excluded slaves, but many masters freed and then recognized the children they fathered with slave women <xref ref-type="bibr" rid="B15"><sup>15</sup></xref>.</p>
+			<p>After political independence in 1822, liberal reforms expanded access to the justice system, making it easier for the rapidly growing population of freed and free people of color to sue for paternal recognition. Many liberals also called for the expansion of illegitimate children’s rights. Their arguments were defeated by a series of laws that first reiterated colonial restrictions, then, in 1847, rescinded natural children’s right to demand paternal recognition in court. This radical change was consistent with a trend throughout post-independence Latin America, due in part to the strong influence of the 1804 Napoleonic Code <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B16"><sup>16</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B17"><sup>17</sup></xref>. Yet whereas French revolutionaries had framed their arguments against paternity suits around enhancing individual men’s freedom, the Brazilian debate took place in the context of regional unrest and slave revolts, and arguments that traditional family honor required protection from individual men’s folly and disreputable outsiders carried heavy racial overtones <xref ref-type="bibr" rid="B7"><sup>7</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B16"><sup>16</sup></xref>.</p>
+			<p>The debate over the rights of illegitimate children erupted again at the start of the first republic (1890-1930), reaching its height during the lengthy legislative review that preceded the approval of Brazil’s first Civil Code in 1916. This time, liberals held sway, and the code restored natural children’s right to sue for paternal recognition if, during the time of conception, the father had sexual relations, abducted, or “lived in concubinage” with the mother (Art. 363) <xref ref-type="bibr" rid="B18"><sup>18</sup></xref>. Citing precedents in the modern laws of “civilized nations”, liberal jurists and legislators lobbied to include “possession of status of filiation” as an additional basis for paternity investigation <xref ref-type="bibr" rid="B19"><sup>19</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B21"><sup>21</sup></xref>. This Roman Law concept was intended to extend rights to children raised jointly by unmarried parents, which its supporters recognized was a longstanding norm in Brazilian law and popular culture. Conservative legislators, however, struck “possession of status” from the final draft of the code. They also defeated liberal attempts to permit parental recognition of adulterous and incestuous children (such children could still demand child support) (Art. 358 and 405) <xref ref-type="bibr" rid="B18"><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B20"><sup>20</sup></xref>. Nonetheless, Brazilian liberals boasted that the code’s provisions regarding illegitimate children were among the world’s most liberal <xref ref-type="bibr" rid="B22"><sup>22</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B23"><sup>23</sup></xref>. The French law that reintroduced paternity investigations in 1912, for instance, was much more restrictive, as were similar Portuguese and Spanish laws of 1867 and 1889, respectively <xref ref-type="bibr" rid="B7"><sup>7</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B21"><sup>21</sup></xref>.</p>
+			<p>Once the Civil Code was implemented, paternity investigations quickly became one of the most common types of suits heard in the family courts. Jurists debated how to define “sexual relations” and “concubinage”, but agreed that the mother’s reputation as “honest”, that is, modest and respectable, was indispensable <xref ref-type="bibr" rid="B24"><sup>24</sup></xref>. Surprisingly however, given the narrow wording of the law, evidence of concubinage or sexual relations at the time of conception was not usually the sole deciding issue. Instead, by the 1930s, jurists largely agreed that “possession of status” was not only admissible, but among the most valuable evidence of paternity <xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. In subsequent decades, judges frequently decided in favor of children whose father had provided a name, financial support, education, or affection, particularly if this were public knowledge. Although these elements were understood as evidence of a biological relationship, in practice, judgments reinforced a social and emotional conception of fatherhood <xref ref-type="bibr" rid="B13"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B24"><sup>24</sup></xref>.</p>
+			<sec>
+				<title>From race science to biotypology</title>
+				<p>Jurisprudence also grappled with the validity of forensic evidence in paternity cases from the 1920s-1950s, as identification sciences wedded to theories of heredity were taking root, first through the development of race science in legal medicine, and eventually through the loosely organized field of biotypology. Nina Rodrigues (1862-1906), chair of Legal Medicine at the Medical Faculty in Bahia at the turn of the century, is widely credited with transforming Brazilian legal medicine into an interdisciplinary applied science focused on identifying the specific propensities and anomalies of different “types” within Brazil’s multiracial population. Inspired by Cesare Lombroso’s positivist school of criminal anthropology, Rodrigues introduced phrenology and anthropometry as well as evaluation of psychological and cognitive development, which led him to racist conclusions regarding the hereditary degeneracy and general inferiority of his subjects. The field of legal medicine was thus “nationalized” through the introduction of race science <xref ref-type="bibr" rid="B26"><sup>26</sup></xref>.</p>
+				<p>Ironically, given the centrality of race in the development of identification science, Rodrigues’ disciples found that in practice, determining paternity through comparison of “racial” traits was particularly challenging in Brazil due to its level of racial complexity <xref ref-type="bibr" rid="B27"><sup>27</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B28"><sup>28</sup></xref>. More than Rodrigues’ racism, it was his commitment to local empirical research, and its direct application to Brazilian law and society, that inspired his students, many of whom continued his struggle to institutionalize legal medicine over the first half of the twentieth century <xref ref-type="bibr" rid="B26"><sup>26</sup></xref>. This interest in applied research was evident among Brazilian biotypologists, who emerged in the 1930s principally in anthropology and medicine, and were disenchanted if not hostile to scientific proclamations about the supposed biological degeneration of mixed-race societies <xref ref-type="bibr" rid="B29"><sup>29</sup></xref>. Biotypology was a dimension of the Lamarckian variant of eugenics popular in Latin America and “Latin” European countries such as Italy, Spain, and France. It thrived in countries that tended to reject the hard-line racist Mendelian eugenics found in the United States and Germany, even as its adherents sought to map human differences <xref ref-type="bibr" rid="B30"><sup>30</sup></xref>. Biotypology was central to the anthropological search to identify the quintessential Brazilian “normotype” or normal man, the subject of dozens of specialized publications, and the field secured a solid foothold in Rio de Janeiro’s School of Medicine <xref ref-type="bibr" rid="B29"><sup>29</sup></xref>.</p>
+				<p>Biotypology facilitated the entry of ABO blood typing to Brazil. Kurt Landsteiner, an immunologist, elaborated this system in Germany in the early twentieth century. In 1901 he discovered that different types of blood would agglutinate when mixed together, and based on those clumping patterns, divided blood types into A, B, O, and AB. This led to advances in transfusion medicine and a “<italic>proliferation of studies on the blood-group frequencies of different racial and national populations</italic>” around the world <xref ref-type="bibr" rid="B31"><sup>31</sup></xref> (p. 75). Blood typing did not simply reveal racial and ethnic differences, it also constructed social and legal categories. This was most evident in Nazi Germany, where blood typing tests to exclude paternity were used to determine “racial purity” <xref ref-type="bibr" rid="B32"><sup>32</sup></xref>. Elsewhere, these tests were used haphazardly in legal disputes, as they were integrated into the battery of so-called classical genetic markers that included enzyme and protein testing. Fitfully these techniques displaced morphologically based analyses such as anthropometry and phrenology, favored by Rodrigues, and the photographic composites used by some legal experts <xref ref-type="bibr" rid="B33"><sup>33</sup></xref>.</p>
+				<p>The first blood test to verify paternity in all of the Americas was performed in 1927 at the Oscar Freire Institute of Legal Medicine in São Paulo, Brazil, one of the nation’s premier forensic laboratories and research centers <xref ref-type="bibr" rid="B34"><sup>34</sup></xref>. The Institute’s forensic team, led by Flamínio Fávero, conducted ABO blood type analysis to exonerate a well-to-do fellow physician accused of fathering the child of his former domestic servant <xref ref-type="bibr" rid="B35"><sup>35</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B36"><sup>36</sup></xref>. Their report and subsequent publications on blood type and paternity investigations circulated widely, contributing to the evolving forensic literature on individual identification as well as to the development of biological methods for studying Brazil’s racial and ethnic types. Nevertheless, the nation’s top experts warned that although combined observations of various heritable traits might serve as supplemental evidence, none could confirm a genetic relationship, and they insisted that forensic reports consider physical evidence alongside contextual information gathered by interviewing the alleged father and child <xref ref-type="bibr" rid="B24"><sup>24</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B25"><sup>25</sup></xref>. Against their admonitions, countless private examiners, police legal-medical services, and even some experts at elite institutes commonly offered medical assessments of the “degree of probability” of paternity from the late 1930s to the 1950s, using techniques such as superimposition of photographs of alleged parents and offspring to measure facial structures; cranial or dental formation; sensitivity to the taste of phenylthiourea; eyelash length; earlobe attachment; and fingerprinting. Some judges and even appeals courts ruled on the basis of the medical examination, although this contradicted dominant legal doctrine. Sabrina Finamori describes several paternity cases that contained medical examinations of this sort in the 1930s, although none of them were decided primarily on the physical evidence <xref ref-type="bibr" rid="B36"><sup>36</sup></xref>. In the juridical literature, specialists routinely criticized exams performed by private physicians and the reliance on unproven anthropometric methods, which some characterized as completely worthless <xref ref-type="bibr" rid="B34"><sup>34</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B36"><sup>36</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B37"><sup>37</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B38"><sup>38</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B39"><sup>39</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B40"><sup>40</sup></xref>. Nonetheless, well into the 1980s, legal-medical examiners still completed standardized forms that required various morphological observations, followed by the blood test results <xref ref-type="bibr" rid="B39"><sup>39</sup></xref>.</p>
+				<p>Despite medical examiners’ enthusiasm about the potential of blood typing for verification of paternity in the 1930s, very few tests were performed in Brazilian legal-medical labs in the first half of the twentieth century. In his 1941 dissertation, Antônio Almeida Júnior counted only 73 in all of Brazil - 19 at the Oscar Freire Institute and 54 in the state of Pernambuco, in addition to various exams performed in Rio de Janeiro. Only two of the 54 Pernambucan tests were conclusive, excluding paternity; Almeida did not report on the outcome of the others <xref ref-type="bibr" rid="B36"><sup>36</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B38"><sup>38</sup></xref>. In the 1950s, blood tests became increasingly accessible, and the degree of accuracy in paternity exclusions improved steadily - rising from less than 20% in the 1920s, to 65% in the 1950s, to over 99% after the introduction of HLA technology, introduced in Brazil in 1976 <xref ref-type="bibr" rid="B40"><sup>40</sup></xref>. In 1984, Dr. Ayush Morad Amar reported that he had performed 10,000 blood tests over twenty years as medical examiner at the Oscar Freire Institute, achieving a 26% exclusion rate with 1,600 tests done after 1978 <xref ref-type="bibr" rid="B40"><sup>40</sup></xref>. As the technology became more reliable, the courts began to weigh medical evidence more heavily, particularly when it excluded paternity <xref ref-type="bibr" rid="B41"><sup>41</sup></xref>. After decades of debate regarding its precariousness, however, the Procedural Code of 1973 specified “<italic>the judge is not bound by the medical examination</italic>” (Art. 436). Even in the 1980s, when blood tests offered high degrees of accuracy, many judges insisted that medical proof was unreliable, and paternity must be decided on the basis of “<italic>indirect proof</italic>” and “<italic>moral certainty</italic>” <xref ref-type="bibr" rid="B42"><sup>42</sup></xref> (p. 355).</p>
+				<p>Efforts to extend blood typing in other areas met with mixed success. Fávero advocated widespread use of blood type, suggesting it be recorded on school registration and state identity cards, a goal only attained at the University of São Paulo in 1935 <xref ref-type="bibr" rid="B36"><sup>36</sup></xref>. Foreshadowing larger-scale genetic studies, in the 1930s Fávero attempted to map ABO blood type among different ethnic groups - European, Brazilian, and Asian, determined by the birthplace of the subjects’ grandparents - but his research was limited to 265 University of São Paulo students, hardly a representative group <xref ref-type="bibr" rid="B43"><sup>43</sup></xref>. By 1953, his laboratory’s data was more robust: his colleague Arnaldo Ferreira published a study that year that mapped blood types of 3,000 white, mulatto, and black Brazilians and found racial variations similar to those in the international literature <xref ref-type="bibr" rid="B34"><sup>34</sup></xref>.</p>
+			</sec>
+			<sec>
+				<title>Human diversity and population genetics</title>
+				<p>As blood typing gained some traction in legal medicine, it became a key instrument in several large-scale population-level genetics studies launched in Brazil after World War II. These studies shifted hereditary frameworks from questions of individual identification to puzzles of racial ancestry and national demography and helped to cement genetics as a dynamic scientific field with international and national relevance. Starting in the 1950s, Brazil became a premier site for anthropological and genetic research into human types, a kind of “living laboratory” for exploring racial ancestry, population migrations, and regional distinctions <xref ref-type="bibr" rid="B44"><sup>44</sup></xref>. With significant financial backing from the Rockefeller Foundation, this research moved into two seemingly different directions, both of which expressed profound concern with the national and evolutionary aspects of ethnic and racial diversity in Brazil.</p>
+				<p>Much of this research focused on identifying the characteristics of “racial isolates”, ostensibly primitive, or what one scholar has called “ultraprimitive” groups that exhibited pre-modern social organization and embodied unsullied pure human biology <xref ref-type="bibr" rid="B33"><sup>33</sup></xref>. The foremost example of this strand were studies conducted by geneticists James Neel, of the University of Michigan, and Francisco Salzano, of the Federal University of Rio Grande do Sul. This duo launched their collaboration in the 1950s by tracking far into the Amazon to acquire samples from the Xavante Indians living in Mato Grosso, eventually incorporating Yanomami living between Brazil and Venezuela, as well as indigenous groups in Central America <xref ref-type="bibr" rid="B44"><sup>44</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B45"><sup>45</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B46"><sup>46</sup></xref>.</p>
+				<p>At the same time, geneticists assessed the degree of racial admixture in Brazil’s population, confirming that it was high and variable, and a biological testament to centuries of tri-hybrid miscegenation among Portuguese, Amerindians, and Africans. The ABO system was a core technique for many of these studies. Several prominent scientists dedicated the bulk of their careers to studying racial crossing in Brazil. Newton Morton traveled from the University of Hawai’i to conduct a genetics study of migration from the more racially diverse Northeast to the Southeast, setting up his station in the São Paulo Immigrant Hotel. This living laboratory allowed him to develop widely-influential theories of genetic linkage analysis in humans, notably the LOD (logarithm of the odds) score which compared the “<italic>likelihood that traits were actually being inherited together to the likelihood that they had appeared simply by chance in the observed pattern</italic>” <xref ref-type="bibr" rid="B46"><sup>46</sup></xref> (p. 727). Fritz Ottensooser, a Jewish refugee whose family had fled to São Paulo, developed mathematical formulas to measure degrees of racial mixture utilizing serological analysis. He was joined by the prolific Pedro Henrique Saldanha, trained at the Universidade do Brasil in Rio de Janeiro, who published a major study of “<italic>gene flow from the white population to the black population</italic>” <xref ref-type="bibr" rid="B46"><sup>46</sup></xref> (p. 102) in the flagship genetics journal <italic>American Journal of Human Genetics</italic> in 1957.</p>
+				<p>All of these studies relied on classical genetic markers to “<italic>understand the formation and evolution of the composition of the Brazilian population from a genetic perspective</italic>” <xref ref-type="bibr" rid="B33"><sup>33</sup></xref> (p. 45). The underlying message was that Brazil was a melting pot of biological amalgamation, most ideally, a genetic portrait of racial synthesis and democracy. This research helped to consolidate human genetics and genomics in Brazil. With the rise of molecular technologies in the 1990s, tools became more sophisticated, including mtDNA (mitochondrial DNA), Y chromosome, and AIM (ancestry-informative markers). This quest for biogeographic archetypes continues today in studies that seek to demonstrate the degree of African ancestry among various regional populations and to underscore the tri, if not poly, hybrid genome of the entire nation <xref ref-type="bibr" rid="B47"><sup>47</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B48"><sup>48</sup></xref>. Yet, like modalities of paternity testing, these macro-level approaches to understanding the biological and molecular composition of Brazil’s population have not provided categorical answers to complex questions of national and/or racial identity. Many scientists, including the “father” of DNA paternity testing, Sérgio Danilo Pena, a geneticist at the Federal University of Minas Gerais, have rejected race as a biological fact, explicitly viewing it as a cultural and social construct <xref ref-type="bibr" rid="B49"><sup>49</sup></xref>.</p>
+			</sec>
+			<sec>
+				<title>DNA paternity testing arrives to Belo Horizonte</title>
+				<p>In the mid 1980s, Pena (2015, personal communication) learned about the work of Alec Jeffreys at the University of Leicester, who was developing novel techniques of “genetic fingerprinting” using PCR (polymerase chain reaction). In 1985 Jeffreys described the development of multilocus DNA fingerprints and surmised that this new technique could play an important role in legal cases. Within one year, this application had been used in an immigration dispute, murder case, and paternity disputes <xref ref-type="bibr" rid="B50"><sup>50</sup></xref>.</p>
+				<p>Pena, who had studied in the UK, the United States and Canada, was eager to bring this technique to Brazil. At the time he was running a private lab, GENE, in Belo Horizonte, and wanted to calibrate genetic fingerprinting to work in his country’s particular legal, scientific, and social environment. Aware that the judicial system remained very patriarchal, tending to hold women to a double sexual standard, he wanted to bring DNA paternity testing to Brazil. Like many of his contemporaries, Pena had experience with HLA and blood typing for paternity exclusions, but wanted the greater accuracy afforded by emergent DNA sequencing, particularly with the visualization of banding techniques. In the late 1980s, Pena performed the first DNA paternity test in Latin America. Due to his entrepreneurship, the city of Belo Horizonte became an early adapter of genetic sequencing methods, four years before the country’s second lab, in São Paulo, began doing DNA paternity tests (Sergio Pena, 2015, personal communication).</p>
+				<p>In 1993, Pena’s group demonstrated the accuracy of DNA paternity testing in an article on the techniques of F10 multilocus fingerprinting in 200 paternity cases (156 exclusions and 44 inclusions) evaluated at GENE: “<italic>it was capable of distinguishing fathers from non-fathers in every case</italic>” <xref ref-type="bibr" rid="B51"><sup>51</sup></xref> (p. 237). Pena and colleagues soon expanded beyond multi- and single-locus probes to include two additional techniques (Amp-FLPs and microsatellites) which he encouraged all laboratories to utilize, thus enabling them to “<italic>resolve all paternity disputes without any probable, possible shadow of doubt</italic>” <xref ref-type="bibr" rid="B51"><sup>51</sup></xref> (p. 209).</p>
+				<p>The 1990s witnessed an explosion of DNA paternity testing, with labs appearing throughout Brazil, the pursuit of thousands of cases of contested paternity through the court system, and increased use of testing by private clients. The São Paulo Institute of Medicine performed 600 exams each month for legal cases. An estimate by <italic>Folha de S. Paulo</italic> in 1997 reported that 6,500 exams were processed each year by private labs, with an expected increase in these numbers in coming years <xref ref-type="bibr" rid="B36"><sup>36</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B52"><sup>52</sup></xref>.</p>
+			</sec>
+			<sec>
+				<title>The impact of DNA paternity testing on family law</title>
+				<p>As geneticists and the media publicized the advent of DNA testing in the 1980s-1990s, many assumed that contentious investigations of paternity would soon become obsolete. Indeed, as the procedure became increasingly accessible over the next twenty years, countless families, particularly among the middle and upper classes, resolved disputes privately. According to Pena <sup>1</sup>, the DNA test revolutionized family law in favor of single mothers, putting an end to their humiliation in trials in which the defense invariably attacked the woman’s sexual honor. This perspective was supported by advocates for single mothers in the 1990s, who demanded DNA tests in order to hold fathers accountable, pointing out that up to 25% of Brazilian children were not legally recognized by their fathers <xref ref-type="bibr" rid="B13"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B53"><sup>53</sup></xref>. Whereas many observers had decried the effect of previous blood tests that could only exclude, but not affirm paternity as potentially benefitting only the alleged father, DNA tests were thus promoted by Pena and others as vindication for women <xref ref-type="bibr" rid="B54"><sup>54</sup></xref>.</p>
+				<p>More importantly, DNA testing was hailed as a tool that supported children’s rights. Brazil had been a leader in the elaboration of children’s rights legislation since passage of the Minors’ Code in 1927 (<italic>Decree n. 17,943A</italic>), though its implementation remained deficient. In the early 1980s, the global debt crisis swelled the ranks of destitute “street children”, who came to symbolize the inadequacy of social policies enacted by the 26-year military regime (1964-1985) <xref ref-type="bibr" rid="B55"><sup>55</sup></xref>. In response, the 1988 Constitution defined children’s rights as an “absolute priority”, guaranteeing all children, whether biological or adoptive, the right to nurturance within a family and eliminating legal distinctions among them (Art. 227). In 1990, the <italic>Statute of the Child and Adolescent</italic> (<italic>Law n. 8,069/90</italic>), in consonance with the 1990 UN Convention on the Rights of the Child, defined the right to “<italic>recognition of the status of filiation</italic>” as an “<italic>inalienable, essential individual right</italic>” (Art. 27). In 2009, the statute was amended to include adopted children’s right “<italic>to know their biological origin</italic>”, although this knowledge does not establish legal parentage (Art. 48) (children born through gamete donation do not share this right) <xref ref-type="bibr" rid="B56"><sup>56</sup></xref>. Judicial doctrine linked the right to knowledge of genetic heritage to the right to personhood (personalidade), a core element of humanity, dignity, and citizenship <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>.</p>
+				<p>State initiatives that aimed to secure children’s right to parental recognition supported the growing faith in DNA testing. A 1992 law (<italic>Law n. 8,560/92</italic>, Art. 2) mandated a paternity investigation whenever a child’s birth was registered with only the mother’s name. The law was seldom implemented, but various state agencies embarked on “responsible paternity” campaigns, identifying fathers who had not registered their children and facilitating voluntary recognition <xref ref-type="bibr" rid="B13"><sup>13</sup></xref>. When an alleged father denied his paternity, officials arranged a DNA test if financial resources were available; if not, they sometimes helped women file suit. In 2003, the Supreme Court confirmed that state prosecutors could intervene in judicial proceedings on behalf of mothers and children <xref ref-type="bibr" rid="B57"><sup>57</sup></xref>. Until recently, the cost of DNA tests was prohibitively high for most Brazilians, leading some states, followed by the federal government, to mandate its provision free of charge in legal disputes (<italic>Law n. 10,317/2001</italic>).</p>
+				<p>Two controversial STF decisions regarding DNA testing, both of which supported prevailing trends in the jurisprudence of the STJ, also rested on children’s constitutional rights to paternal recognition and personhood. In a split 1994 habeas corpus decision, the Court determined that the state could not force someone to submit to a DNA test, but indicated that paternity would be presumed if an alleged father refused. Emphasizing the broad significance of the decision, Minister Francisco Rezek pointed out that “<italic>with the new exam, for the first time, legal truth, generally based on presumption, has come to correspond to scientific truth</italic>”, allowing the courts “<italic>to replace legal fiction</italic> [a verdade ficta, literally, fictive truth] <italic>with the real truth</italic> [a verdade real]” <xref ref-type="bibr" rid="B58"><sup>58</sup></xref>.</p>
+				<p>In another controversial split decision, the Court ruled in 2011 that paternity investigations that had been litigated when the parties did not have access to DNA testing could be re-tried after the lapse of the two-year limit set by law (Art. 975, <italic>Law n. 13,105/2015</italic>) <xref ref-type="bibr" rid="B59"><sup>59</sup></xref>. Once again, the effects of DNA paternity testing were far-reaching: the decision opened an exception, for the first time under the 1988 Constitution, to the laws governing res judicata, the principle that precludes further litigation on an “already judged” case. While acknowledging that res judicata is necessary for judicial security, and thus democracy, the Court argued that in matters of fundamental rights, “the real truth” constitutes a higher principle. Writing for the majority, Minister Dias Toffoli quoted appeals decisions that argued that “<italic>the substitution of legal fiction with real truth</italic>” represented “<italic>the advancement of juridical science</italic>” in the service of justice, which “<italic>must be held above security, for without Justice there is no freedom</italic>” <xref ref-type="bibr" rid="B59"><sup>59</sup></xref> (p. 26).</p>
+				<p>Both of these Supreme Court decisions hinged on the rights of children (including adult children) to obtain information regarding their ancestry and demand recognition by their fathers. The exception to res judicata, however, could also benefit men who wished to disestablish paternity, a procedure that was greatly facilitated by DNA testing. As is true around the world, DNA testing provoked intense debates over whether to lift traditional restrictions on paternity disestablishment. Among the most contentious of these debates focuses on the “marital presumption”, a nearly universal norm derived from Roman Law that attributes paternity to husbands and limits the time frame and grounds for rescission. Recent reviews of laws and jurisprudence in the United States and Europe show continued (though uneven) support for maintaining the marital presumption even when DNA testing reveals the absence of biological fatherhood <xref ref-type="bibr" rid="B6"><sup>6</sup></xref>. The Brazilian courts and legislature were more receptive to the argument that the “real truth”, revealed through DNA testing, could render this legal fiction obsolete, and in 2002, the new civil code eliminated previous restrictions on husbands who wished to disestablish paternity (Arts. 178 and 340) <xref ref-type="bibr" rid="B18"><sup>18</sup></xref> (Arts. 1,597, 1,601, and 1,604) <xref ref-type="bibr" rid="B60"><sup>60</sup></xref>.</p>
+			</sec>
+			<sec>
+				<title>Challenges to the “sanctification of DNA”</title>
+				<p>Despite their enthusiasm over the potential of DNA testing to reveal “the real truth”, Brazil’s jurists and legislators did not abandon the long-standing principle that medical evidence should supplement, not supplant, the corpus of legal evidence. When the Supreme Court indicated in 1994 that paternity would be presumed when the defendant refused a DNA test, it explained that “<italic>the refusal must be resolved</italic> (...) <italic>through legal instruments</italic>” <xref ref-type="bibr" rid="B58"><sup>58</sup></xref> (p. 420), allowing a judge to analyze and weigh all of the evidence <xref ref-type="bibr" rid="B58"><sup>58</sup></xref>. Controversy over the relative weight of a refusal continued over the next two decades, finally resulting in a 2009 law that placed the presumption “<italic>in the context of other evidence</italic>” (<italic>Law n. 12,004/2009</italic>) <xref ref-type="bibr" rid="B61"><sup>61</sup></xref>. Moreover, refusal by a child did not carry a corresponding presumption of the absence of paternity <xref ref-type="bibr" rid="B62"><sup>62</sup></xref>. Most importantly, although DNA evidence alone was generally sufficient to establish paternity in the interest of the child, by 2011, jurisprudence had firmly established that it was not sufficient for disestablishment of paternity by a legal father. In its exception to res judicata, for example, the Supreme Court indicated that the precedent would apply only to cases in which “<italic>there is not a dispute between paternity of a biological type and paternity of an affective type</italic>” <xref ref-type="bibr" rid="B59"><sup>59</sup></xref> (p. 2).</p>
+				<p>These decisions reflected the intense doctrinal and jurisprudential debate that accompanied the incorporation of DNA testing into family law in Brazil and around the world. The most pressing concern was (and is) that legal support for DNA testing, and massive publicity surrounding it, encouraged fathers to “resolve their doubts” without consideration for the best interests of the child, an issue that was also raised by social scientists <xref ref-type="bibr" rid="B14"><sup>14</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B63"><sup>63</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B64"><sup>64</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B65"><sup>65</sup></xref>. As Finamori <xref ref-type="bibr" rid="B36"><sup>36</sup></xref> observes, this dilemma was not new: it had arisen when legal-medical specialist Flamínio Fávero first introduced ABO blood testing in Brazil in 1927. Fávero himself believed that since the process could prove devastating to a child, paternity exams should be legally permitted only as part of a judicial process in which the judge carefully considered the circumstances of the case <xref ref-type="bibr" rid="B36"><sup>36</sup></xref>. The advent of DNA testing heightened this concern. In France and Germany, the two countries whose civil law had most influenced Brazil’s since the nineteenth century, legislators prohibited private paternity testing, allowing it only with a court order.</p>
+				<p>In Brazil, where the law did not limit access to DNA paternity testing, many critics noted that by the early 2000s, the role of family court judges had been reduced to “merely verifying the test results” in paternity cases. The nation’s leading family law specialists derided this trend as the “biologization of paternity” or “sanctification of DNA” <xref ref-type="bibr" rid="B66"><sup>66</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B67"><sup>67</sup></xref>. A common early complaint was that DNA testing unnecessarily strained the budgets of public legal services when less costly HLA blood testing was often equally effective. Moreover, like earlier generations of jurists, many were concerned about the reliability of biological evidence in the absence of consistent state regulation and oversight of the exams at public and private laboratories. Complaints of poor quality control and even fraud were common, and many tests had to be resubmitted multiple times <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B36"><sup>36</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B67"><sup>67</sup></xref>.</p>
+				<p>The most significant criticism rested on moral and philosophical grounds. Just as it became possible to prove biological paternity with near certainty, the longstanding emphasis on social and emotional attributes of paternity gained new significance. The trend was not unique to Brazil, but according to legal scholar Paulo Lôbo, Brazilian doctrine has moved further in this direction than that of any other nation <xref ref-type="bibr" rid="B68"><sup>68</sup></xref>. Lôbo does not support this claim with extensive comparative research, but his account identifies the particular ways the concept developed in Brazilian legal doctrine. A major catalyst was the 1988 Constitution, which led legal scholars to reconceptualize the family through the principles of equality, non-discrimination, and human dignity. This facilitated the adaptation of family law to social reality, at a time when the wave of social mobilization that had shaped the constitution’s human rights framework inspired new demands for children’s rights and equality for increasingly varied family forms <xref ref-type="bibr" rid="B55"><sup>55</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B69"><sup>69</sup></xref>.</p>
+				<p>In the late 1990s, jurists affiliated with the Brazilian Institute of Family Law (IBDFAM), a progressive legal association, adopted the term “socio-affective” (a term also used in Francophone nations <xref ref-type="bibr" rid="B70"><sup>70</sup></xref>) as a way to describe and advocate for protection of these and other “plural family forms” <xref ref-type="bibr" rid="B8"><sup>8</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B9"><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B68"><sup>68</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B71"><sup>71</sup></xref>. Lôbo notes that the concept of the socio-affective family, borrowed from the social sciences, is especially appropriate in Brazil, where scholars have long observed the strong tradition in popular culture of non-consanguineous family formation through consensual unions, informal adoption, and other practices <xref ref-type="bibr" rid="B55"><sup>55</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B68"><sup>68</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B72"><sup>72</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B73"><sup>73</sup></xref> (though the same could be said regarding Latin America as a whole <xref ref-type="bibr" rid="B74"><sup>74</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B75"><sup>75</sup></xref>). Brazilian scholars and feminist activists have also long observed the especially deep roots of the patriarchal and “patrimonial” model of family in law and society. Their struggle to dismantle it did not begin with the 1988 Constitution, but had accompanied the elaboration of family law from its inception in the nineteenth century <xref ref-type="bibr" rid="B69"><sup>69</sup></xref>.</p>
+				<p>Like their predecessors of earlier decades, jurists affiliated with IBDFAM argued that social and emotional bonds should constitute legal grounds for paternity investigations, but no longer merely as evidence of a biological relationship. Their influence was felt in jurisprudence and legislative reform efforts such as a 2005 bill to prohibit disestablishment of paternity “<italic>in cases where possession of status of filiation has been established</italic>”. The proposal explicitly challenged the conflation of “real truth” with the results of DNA testing while asserting that this error was being corrected by “<italic>doctrine and jurisprudence</italic> [that] <italic>has increasingly emphasized that the real paternal-filial relationship does not derive from biological truth, but rather socio-affective truth</italic>” <xref ref-type="bibr" rid="B76"><sup>76</sup></xref> (p. 9788).</p>
+				<p>Although the 2005 bill did not become law, this norm was solidified in national jurisprudence through scores of cases of contested paternity heard by federal appeals courts over the decade that followed. It was applied most consistently in cases in which the mother’s companion had assumed paternity of her child by another man and “legalized” the relationship by signing the child’s birth registry, a practice so common that it is known as “Brazilian-style adoption” <xref ref-type="bibr" rid="B55"><sup>55</sup></xref>. According to research by anthropologist Claudia Fonseca in the State of Rio Grande do Sul, in 2002-2003, many such fathers procured a DNA test in order to disestablish paternity after separating from the mother, and judges routinely approved their petitions <xref ref-type="bibr" rid="B63"><sup>63</sup></xref>. Yet cases of this sort were frequently overturned on appeal, and by 2006, several state appeals courts had “<italic>enshrined the understanding that so-called ‘Brazilian-style adoption’ ... is irrevocable</italic>” <xref ref-type="bibr" rid="B77"><sup>77</sup></xref> (p. 2). The federal appeals court upheld this position, viewing “Brazilian-style adoption” as a form of “real adoption”, based on the father’s informed consent and the child’s possession of status <xref ref-type="bibr" rid="B78"><sup>78</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B79"><sup>79</sup></xref>. Yet the STJ also established that a child who was adopted “Brazilian style” does has the right to disestablish legal paternity on the basis of a DNA test, arguing that this is consistent with the prioritization of the best interests of the child and the fundamental right to personhood <xref ref-type="bibr" rid="B80"><sup>80</sup></xref>.</p>
+				<p>In decisions regarding cases in which a man claims to have been deceived when he established legal paternity (a situation known as “paternity fraud” in the United States), appeals courts have been less likely to discount the biological “truth”, and there has been conflicting jurisprudence. Influential decisions in 2006 and 2007 established that a in such cases, a legal father, whether or not married to the child’s mother, has the right to rescind paternity on the basis of a DNA test, and the child’s best interest lies in the “real truth” <xref ref-type="bibr" rid="B77"><sup>77</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B81"><sup>81</sup></xref>. In 2013, however, the STJ published a verdict that exemplifies its jurisprudence: “<italic>the STJ has enshrined the understanding that ... to disestablish paternity requires demonstration, at the same time, of the absence of biological origins and also that possession of status of filiation, marked by socio-affective relations, has not been constituted</italic>” <xref ref-type="bibr" rid="B62"><sup>62</sup></xref> (p. 10).</p>
+				<p>This does not mean that the tension between biological and socio-affective paternity has been definitively resolved. Disputes continue to generate conflicting decisions; the doctrine influenced by progressive legal scholarship does not consistently prevail in family court, public policy, or popular culture; and new situations and arguments constantly emerge. Examples include demands for legal recognition of “parental multiplicity”, or more than two parents, and “parallel families”, traditionally characterized as a man’s simultaneous relationships with more than one woman and their respective children, as well as issues surrounding assisted reproduction, such as gamete donors’ right to anonymity <xref ref-type="bibr" rid="B82"><sup>82</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B83"><sup>83</sup></xref>. As Lôbo indicated in 2004, the criteria for determining when socio-affective paternity should take precedence over biology, and what is in the best interest of the child, continues to require careful attention to specific circumstances, and to socio-cultural and technological changes, on a case-by-case basis <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>.</p>
+			</sec>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>Conclusion</title>
+			<p>Exploring the history of legal contests over paternity in Brazil highlights the complexities and tensions that have accompanied the development of identification sciences, whether applied to individual families or population groups. Over the past century, for Brazilian scientists and their international collaborators, Brazil was an ideal laboratory for the elaboration and use of biotypology and a field site for large-scale population genetics. In their quest to map Brazil’s composition, these scientists confirmed that the country is characterized not by fixed racial or ethnic types, but by complex ancestry and significant regional variation. At the same time, Brazilian jurists struggled to apply identification sciences in the courts, with limited success. Ironically, the arrival of DNA testing in the 1980s, despite its high level of accuracy, did not enshrine genetic science as the ultimate arbiter of either racial identity or family relationships. On both the macro level of population and nation, and the micro level of individual and family, genetic identification techniques resulted in most cases not in precision and certitude but in a range of “shadows of doubt” and in legal doctrine that distinguishes socio-affective from genetic paternity. By the turn of the twenty-first century, jurists and scientists alike came to embrace social and cultural criteria not merely as proxy for biological proof of racial or family identity, but as its fundamental constitutive element. The holy grail of truth sought by identification and juridical science ultimately was not found in DNA, but rather in the shifting relationship between biological and cultural dimensions of individual and collective identity.</p>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Acknowledgments</title>
+			<p>We thank the University of Michigan Brazil Initiative for support for travel and research, special issue co-editors Dora Chor and Ricardo Ventura Santos for their incisive feedback, Leandro Carvalho for his expert editorial assistance, and two anonymous reviewers for their constructive criticism on early drafts.</p>
+		</ack>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation>1. Pena SD. A revolução dos testes de DNA. Ciênc Hoje 2010; 9 jul.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pena</surname>
+							<given-names>SD</given-names>
+						</name>
+					</person-group>
+					<article-title>A revolução dos testes de DNA</article-title>
+					<source>Ciênc Hoje</source>
+					<day>09</day>
+					<month>07</month>
+					<year>2010</year>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation>2. Nelson A. The social life of DNA: reparations and reconciliation after the genome. Boston: Beacon Press; 2016.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nelson</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source>The social life of DNA: reparations and reconciliation after the genome</source>
+					<year>2016</year>
+					<publisher-loc>Boston</publisher-loc>
+					<publisher-name>Beacon Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation>3. Wade P, Santos RV, Restrepo E, Lopez Beltran C. Mestizo genomics: race mixture, nation, and science in Latin America. Durham: Duke University Press; 2014.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wade</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>RV</given-names>
+						</name>
+						<name>
+							<surname>Restrepo</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Lopez Beltran</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<source>Mestizo genomics: race mixture, nation, and science in Latin America</source>
+					<year>2014</year>
+					<publisher-loc>Durham</publisher-loc>
+					<publisher-name>Duke University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation>4. Penchaszadeh V, editor. Genética y derechos humanos: encuentros y desencuentros. Buenos Aires: Paidós; 2012.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Penchaszadeh</surname>
+							<given-names>V</given-names>
+						</name>
+					</person-group>
+					<source>Genética y derechos humanos: encuentros y desencuentros</source>
+					<year>2012</year>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Paidós</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation>5. Milanich N. Certain mothers, uncertain fathers: placing reproductive technologies in historical perspective. In: Michel S, Ergas Y, editors. Bodies and borders: negotiating motherhood in the 21st century. New York: Columbia University Press; in press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Milanich</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Certain mothers, uncertain fathers: placing reproductive technologies in historical perspective</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Michel</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Ergas</surname>
+							<given-names>Y</given-names>
+						</name>
+					</person-group>
+					<source>Bodies and borders: negotiating motherhood in the 21st century</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Columbia University Press</publisher-name>
+					<comment>in press</comment>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation>6. Browne-Barbour V. &quot;Mama's baby, papa's maybe&quot;: disestablishment of paternity. Akron Law Rev 2015; 48:264-313.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Browne-Barbour V &quot;Mama's baby.papa's maybe&quot;: disestablishment of paternity</collab>
+					</person-group>
+					<article-title>Akron Law</article-title>
+					<source>Rev</source>
+					<year>2015</year>
+					<volume>48</volume>
+					<fpage>264</fpage>
+					<lpage>313</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation>7. Fuchs RG. Contested paternity: constructing families in modern France. Baltimore: Johns Hopkins University Press; 2008.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fuchs</surname>
+							<given-names>RG</given-names>
+						</name>
+					</person-group>
+					<source>Contested paternity: constructing families in modern France</source>
+					<year>2008</year>
+					<publisher-loc>Baltimore</publisher-loc>
+					<publisher-name>Johns Hopkins University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation>8. Fachin LE. Da paternidade: relação biológica e afetiva. Belo Horizonte: Del Rey; 1996.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fachin</surname>
+							<given-names>LE</given-names>
+						</name>
+					</person-group>
+					<source>Da paternidade: relação biológica e afetiva</source>
+					<year>1996</year>
+					<publisher-loc>Belo Horizonte</publisher-loc>
+					<publisher-name>Del Rey</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation>9. Welter BP. Igualdade entre as filiações biológica e socioafetiva. São Paulo: Editora Revista dos Tribunais; 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Welter</surname>
+							<given-names>BP</given-names>
+						</name>
+					</person-group>
+					<source>Igualdade entre as filiações biológica e socioafetiva</source>
+					<year>2003</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Editora Revista dos Tribunais</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation>10. Dias MB. Investigando a parentalidade. Revista CEJ 2004; 8:64-8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dias</surname>
+							<given-names>MB</given-names>
+						</name>
+					</person-group>
+					<article-title>Investigando a parentalidade</article-title>
+					<source>Revista CEJ</source>
+					<year>2004</year>
+					<volume>8</volume>
+					<fpage>64</fpage>
+					<lpage>68</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation>11. Lôbo PLN. O exame de DNA e o princípio da dignidade da pessoa humana. Revista Brasileira de Direito de Família 1999; 1:67-78.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lôbo</surname>
+							<given-names>PLN</given-names>
+						</name>
+					</person-group>
+					<article-title>O exame de DNA e o princípio da dignidade da pessoa humana</article-title>
+					<source>Revista Brasileira de Direito de Família</source>
+					<year>1999</year>
+					<volume>1</volume>
+					<fpage>67</fpage>
+					<lpage>78</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation>12. Lôbo PLN. Direito ao estado de filiação e direito à origem genética: uma distinção necessária. Revista CEJ 2004; 8:47-56.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lôbo</surname>
+							<given-names>PLN</given-names>
+						</name>
+					</person-group>
+					<article-title>Direito ao estado de filiação e direito à origem genética uma distinção necessária</article-title>
+					<source>Revista CEJ</source>
+					<year>2004</year>
+					<volume>8</volume>
+					<fpage>47</fpage>
+					<lpage>56</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation>13. Caulfield S. The right to a father's name: a historical perspective on state efforts to combat the stigma of illegitimate birth in Brazil. Law and History Review 2012; 30:1-36.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caulfield</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>The right to a father's name a historical perspective on state efforts to combat the stigma of illegitimate birth in Brazil</article-title>
+					<source>Law and History Review</source>
+					<year>2012</year>
+					<volume>30</volume>
+					<fpage>1</fpage>
+					<lpage>36</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<label>14</label>
+				<mixed-citation>14. Fonseca C. Parentesco, tecnologia e lei na era do DNA. Rio de Janeiro: EDUERJ; 2014.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fonseca</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<source>Parentesco, tecnologia e lei na era do DNA</source>
+					<year>2014</year>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>EDUERJ</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<label>15</label>
+				<mixed-citation>15. Lewin L. Surprise heirs: illegitimacy, patrimonial rights, and legal nationalism in Luso-Brazilian inheritance, 1750-1821. v. 1. Stanford: Stanford University Press; 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lewin</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<source>Surprise heirs: illegitimacy, patrimonial rights, and legal nationalism in Luso-Brazilian inheritance, 1750-1821. v. 1</source>
+					<year>2003</year>
+					<publisher-loc>Stanford</publisher-loc>
+					<publisher-name>Stanford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<label>16</label>
+				<mixed-citation>16. Lewin L. Surprise heirs: illegitimacy, inheritance rights, and public power in the formation of imperial Brazil. v. 2. Stanford: Stanford University Press; 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lewin</surname>
+							<given-names>L</given-names>
+						</name>
+					</person-group>
+					<source>Surprise heirs: illegitimacy, inheritance rights, and public power in the formation of imperial Brazil. v. 2</source>
+					<year>2003</year>
+					<publisher-loc>Stanford</publisher-loc>
+					<publisher-name>Stanford University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<label>17</label>
+				<mixed-citation>17. Milanich N. To make all children equal is a change in the power structures of society: the politics of family law in twentieth century Chile and Latin America. Law and History Review 2015; 33:767-802.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Milanich</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>To make all children equal is a change in the power structures of society the politics of family law in twentieth century Chile and Latin America</article-title>
+					<source>Law and History Review</source>
+					<year>2015</year>
+					<volume>33</volume>
+					<fpage>767</fpage>
+					<lpage>802</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<label>18</label>
+				<mixed-citation>18. Brasil. Lei nº 3.071, de 1º de janeiro de 1916. Código Civil dos Estados Unidos do Brasil. Diário Oficial da União 1916; 5 jan.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Brasil</collab>
+					</person-group>
+					<article-title>Lei nº 3.071, de 1º de janeiro de 1916. Código Civil dos Estados Unidos do Brasil.</article-title>
+					<source>Diário Oficial da União</source>
+					<day>05</day>
+					<month>01</month>
+					<year>1916</year>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<label>19</label>
+				<mixed-citation>19. Brasil. Código Civil brasileiro: trabalhos relativos á sua elaboração. v. 1. Rio de Janeiro: Imprensa Nacional; 1917.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Brasil</collab>
+					</person-group>
+					<source>Código Civil brasileiro: trabalhos relativos á sua elaboração. v. 1</source>
+					<year>1917</year>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Imprensa Nacional</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<label>20</label>
+				<mixed-citation>20. Soares de Faria S. Investigação da paternidade illegitima. São Paulo: Saraiva; 1926.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Soares de Faria S</collab>
+					</person-group>
+					<source>Investigação da paternidade illegitima</source>
+					<year>1926</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Saraiva</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<label>21</label>
+				<mixed-citation>21. Souza A. Posição juridica dos filhos naturais em face do nosso direito. São Paulo: Hennies Irmãos; 1916.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Souza</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source>Posição juridica dos filhos naturais em face do nosso direito</source>
+					<year>1916</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Hennies Irmãos</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<label>22</label>
+				<mixed-citation>22. Ferreira AA. Determinação médico-legal da paternidade (legislação, doutrina e perícia). São Paulo: Companhia Melhoramentos de São Paulo; 1939.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ferreira</surname>
+							<given-names>AA</given-names>
+						</name>
+					</person-group>
+					<source>Determinação médico-legal da paternidade (legislação, doutrina e perícia)</source>
+					<year>1939</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Companhia Melhoramentos de São Paulo</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<label>23</label>
+				<mixed-citation>23. Azevedo N. Da prova na investigação da paternidade. São Paulo: Empresa Gráfica da Revista dos Tribunais; 1928.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Azevedo</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<source>Da prova na investigação da paternidade</source>
+					<year>1928</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Empresa Gráfica da Revista dos Tribunais</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<label>24</label>
+				<mixed-citation>24. Zicarelli Filho F. Investigação da paternidade natural. Curitiba: Guaíra; 1941.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zicarelli</surname>
+							<given-names>F</given-names>
+							<suffix>Filho</suffix>
+						</name>
+					</person-group>
+					<source>Investigação da paternidade natural</source>
+					<year>1941</year>
+					<publisher-loc>Curitiba</publisher-loc>
+					<publisher-name>Guaíra</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<label>25</label>
+				<mixed-citation>25. Góes Filho JF. A Investigação da paternidade illegitima no codigo civil brasileiro [Associate Professorship Dissertation]. Salvador: Faculdade de Direito da Bahia; 1930.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Góes</surname>
+							<given-names>JF</given-names>
+							<suffix>Filho</suffix>
+						</name>
+					</person-group>
+					<source>A Investigação da paternidade illegitima no codigo civil brasileiro</source>
+					<comment content-type="degree">Associate Professorship Dissertation</comment>
+					<publisher-loc>Salvador</publisher-loc>
+					<publisher-name>Faculdade de Direito da Bahia</publisher-name>
+					<year>1930</year>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<label>26</label>
+				<mixed-citation>26. Corrêa M. As ilusões da liberdade: a escola Nina Rodrigues e a antropologia no Brasil. Rio de Janeiro: Editora Fiocruz; 2013.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Corrêa</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<source>As ilusões da liberdade: a escola Nina Rodrigues e a antropologia no Brasil</source>
+					<year>2013</year>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Editora Fiocruz</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<label>27</label>
+				<mixed-citation>27. Peixoto A. Novos rumos da medicina legal. Rio de Janiero: Companhia Nacional; 1938.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Peixoto</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source>Novos rumos da medicina legal</source>
+					<year>1938</year>
+					<publisher-loc>Rio de Janiero</publisher-loc>
+					<publisher-name>Companhia Nacional</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B28">
+				<label>28</label>
+				<mixed-citation>28. Silva EL. Manual de medicina legal. 3ª Ed. São Paulo: Sugestões Literárias; 1964.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Silva</surname>
+							<given-names>EL</given-names>
+						</name>
+					</person-group>
+					<source>Manual de medicina legal.</source>
+					<edition>3ª Ed</edition>
+					<year>1964</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Sugestões Literárias</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B29">
+				<label>29</label>
+				<mixed-citation>29. Vimieiro Gomes AC. The emergence of biotypology in Brazilian medicine: the Italian model, textbooks, and discipline building, 1930-1940. In: Simões A, Diogo MP, Gavroglu K, editors. History of European universities, 19th and 20th centuries: challenges and transformations. New York: Springer; 2015. p. 361-80.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Vimieiro Gomes</surname>
+							<given-names>AC</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Simões</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Diogo</surname>
+							<given-names>MP</given-names>
+						</name>
+						<name>
+							<surname>Gavroglu</surname>
+							<given-names>K</given-names>
+						</name>
+					</person-group>
+					<source>History of European universities, 19th and 20th centuries: challenges and transformations</source>
+					<chapter-title>The emergence of biotypology in Brazilian medicine: the Italian model, textbooks, and discipline building, 1930-1940</chapter-title>
+					<year>2015</year>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+					<fpage>361</fpage>
+					<lpage>380</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B30">
+				<label>30</label>
+				<mixed-citation>30. Stern AM. From mestizophilia to biotypology: racialization and science in Mexico, 1920-1960. In: MacPherson AS, Appelbaum NP, Rosemblatt KA, editors. Race and nation in modern Latin America. Chapel Hill: University of North Carolina Press; 2003. p. 187-209.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Stern</surname>
+							<given-names>AM</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>MacPherson</surname>
+							<given-names>AS</given-names>
+						</name>
+						<name>
+							<surname>Appelbaum</surname>
+							<given-names>NP</given-names>
+						</name>
+						<name>
+							<surname>Rosemblatt</surname>
+							<given-names>KA</given-names>
+						</name>
+					</person-group>
+					<source>Race and nation in modern Latin America</source>
+					<chapter-title>From mestizophilia to biotypology: racialization and science in Mexico, 1920-1960</chapter-title>
+					<year>2003</year>
+					<publisher-loc>Chapel Hill</publisher-loc>
+					<publisher-name>University of North Carolina Press</publisher-name>
+					<fpage>187</fpage>
+					<lpage>209</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B31">
+				<label>31</label>
+				<mixed-citation>31. Bangham J. Blood groups and human groups: collecting and calibrating genetic data after World War Two. Stud Hist Philos Biol Biomed Sci 2014; 47 Part A:74-86.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bangham</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Blood groups and human groups: collecting and calibrating genetic data after World War Two.</article-title>
+					<source>Stud Hist Philos Biol Biomed Sci</source>
+					<year>2014</year>
+					<volume>47</volume>
+					<issue-part>Part A</issue-part>
+					<fpage>74</fpage>
+					<lpage>86</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B32">
+				<label>32</label>
+				<mixed-citation>32. Mouton M. From nurturing the nation to purifying the volk: Weimar and Nazi family policy, 1918-1945. Cambridge: Cambridge University Press; 2007.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mouton</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<source>From nurturing the nation to purifying the volk: Weimar and Nazi family policy, 1918-1945</source>
+					<year>2007</year>
+					<publisher-loc>Cambridge</publisher-loc>
+					<publisher-name>Cambridge University Press</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B33">
+				<label>33</label>
+				<mixed-citation>33. Santos RV, Kent M, Gaspar Neto VV. From degeneration to meeting point: historical views on race, mixture, and biological diversity of the Brazilian population. In: Wade P, López Beltrán C, Restrepo E, Santos RV, editors. Mestizo genomics: race mixture, nation, and science in Latin America. Durham: Duke University Press; 2014. p. 33-54.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santos</surname>
+							<given-names>RV</given-names>
+						</name>
+						<name>
+							<surname>Kent</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Gaspar</surname>
+							<given-names>VV</given-names>
+							<suffix>Neto</suffix>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wade</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>López Beltrán</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Restrepo</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>RV</given-names>
+						</name>
+					</person-group>
+					<source>Mestizo genomics: race mixture, nation, and science in Latin America</source>
+					<chapter-title>From degeneration to meeting point: historical views on race, mixture, and biological diversity of the Brazilian population</chapter-title>
+					<year>2014</year>
+					<publisher-loc>Durham</publisher-loc>
+					<publisher-name>Duke University Press</publisher-name>
+					<fpage>33</fpage>
+					<lpage>54</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B34">
+				<label>34</label>
+				<mixed-citation>34. Ferreira AA. Investigação médico-legal da paternidade. Revista Médica 1953; 37:1-25. Reprinted 2006; 4:142-56.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ferreira</surname>
+							<given-names>AA</given-names>
+						</name>
+					</person-group>
+					<article-title>Investigação médico-legal da paternidade.</article-title>
+					<source>Revista Médica</source>
+					<year>1953</year>
+					<volume>37</volume>
+					<fpage>1</fpage>
+					<lpage>25</lpage>
+					<comment>Reprinted 2006; 4:142-56</comment>
+				</element-citation>
+			</ref>
+			<ref id="B35">
+				<label>35</label>
+				<mixed-citation>35. Sociedade de Medicina Legal e Criminologia. Correio Paulistano 1927; 9 sep.</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<article-title>Sociedade de Medicina Legal e Criminologia</article-title>
+					<source>Correio Paulistano</source>
+					<day>09</day>
+					<month>09</month>
+					<year>1927</year>
+				</element-citation>
+			</ref>
+			<ref id="B36">
+				<label>36</label>
+				<mixed-citation>36. Finamori SD. Os sentidos da paternidade: dos &quot;pais desconhecidos&quot; ao exame de DNA [Doctoral Dissertation]. Campinas: Universidade Estadual de Campinas; 2012.</mixed-citation>
+				<element-citation publication-type="thesis">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Finamori</surname>
+							<given-names>SD</given-names>
+						</name>
+					</person-group>
+					<source>Os sentidos da paternidade: dos &quot;pais desconhecidos&quot; ao exame de DNA</source>
+					<comment content-type="degree">Doctoral Dissertation</comment>
+					<publisher-loc>Campinas</publisher-loc>
+					<publisher-name>Universidade Estadual de Campinas</publisher-name>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="B37">
+				<label>37</label>
+				<mixed-citation>37. Lins e Silva A. Estudos de medicina legal. Rio de Janeiro: A. Coelho Branco; 1938.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lins e Silva</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<source>Estudos de medicina legal</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>A. Coelho Branco</publisher-name>
+					<year>1938</year>
+				</element-citation>
+			</ref>
+			<ref id="B38">
+				<label>38</label>
+				<mixed-citation>38. Almeida Júnior AF. As provas genéticas da filiação. São Paulo: Revista dos Tribunais; 1941.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Almeida</surname>
+							<given-names>AF</given-names>
+							<suffix>Júnior</suffix>
+						</name>
+					</person-group>
+					<source>As provas genéticas da filiação</source>
+					<year>1941</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Revista dos Tribunais</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B39">
+				<label>39</label>
+				<mixed-citation>39. Fida O, Albuquerque JBT. Investigação de paternidade: teoria, formulários, jurisprudência, legislação. 4ª Ed. Campinas: Julex Livros; 1987.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fida</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Albuquerque</surname>
+							<given-names>JBT</given-names>
+						</name>
+					</person-group>
+					<source>Investigação de paternidade: teoria, formulários, jurisprudência, legislação. 4ª Ed</source>
+					<year>1987</year>
+					<publisher-loc>Campinas</publisher-loc>
+					<publisher-name>Julex Livros</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B40">
+				<label>40</label>
+				<mixed-citation>40. Amar AM. Revisão da experiência de 23 anos em investigações de paternidade e maternidade. Arquivos da Polícia Civil de São Paulo 1984; 42:67-76.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Amar</surname>
+							<given-names>AM</given-names>
+						</name>
+					</person-group>
+					<article-title>Revisão da experiência de 23 anos em investigações de paternidade e maternidade</article-title>
+					<source>Arquivos da Polícia Civil de São Paulo</source>
+					<year>1984</year>
+					<volume>42</volume>
+					<fpage>67</fpage>
+					<lpage>76</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B41">
+				<label>41</label>
+				<mixed-citation>41. Barra WE. Investigação de paternidade. Revista do Advogado 1988; 25:66-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barra</surname>
+							<given-names>WE</given-names>
+						</name>
+					</person-group>
+					<article-title>Investigação de paternidade</article-title>
+					<source>Revista do Advogado</source>
+					<year>1988</year>
+					<volume>25</volume>
+					<fpage>66</fpage>
+					<lpage>69</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B42">
+				<label>42</label>
+				<mixed-citation>42. Gomes O, Teodoro Jr. H. Direito de família. 14ª Ed. Rio de Janeiro: Forense; 2001.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gomes</surname>
+							<given-names>O</given-names>
+						</name>
+						<name>
+							<surname>Teodoro</surname>
+							<given-names>H</given-names>
+							<suffix>Jr</suffix>
+						</name>
+					</person-group>
+					<source>Direito de família.</source>
+					<edition>14ª Ed. </edition>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Forense</publisher-name>
+					<year>2001</year>
+				</element-citation>
+			</ref>
+			<ref id="B43">
+				<label>43</label>
+				<mixed-citation>43. Fávero F, Novah E. Os typos sanguineos no meio universitário de São Paulo. Archivos da Sociedade Medicina Legal e Criminologia de São Paulo 1938; 28-30.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fávero</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Novah</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<article-title>Os typos sanguineos no meio universitário de São Paulo.</article-title>
+					<source>Archivos da Sociedade Medicina Legal e Criminologia de São Paulo</source>
+					<year>1938</year>
+					<fpage>28</fpage>
+					<lpage>30</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B44">
+				<label>44</label>
+				<mixed-citation>44. Lindee S, Santos RV. The biological anthropology of living human populations: world histories, national styles, and international networks. Curr Anthropol 2012; 53 Suppl 5:S3-16.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lindee</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>RV</given-names>
+						</name>
+					</person-group>
+					<article-title>The biological anthropology of living human populations world histories, national styles, and international networks</article-title>
+					<source>Curr Anthropol</source>
+					<year>2012</year>
+					<volume>53</volume>
+					<supplement>5</supplement>
+					<fpage>S3</fpage>
+					<lpage>16</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B45">
+				<label>45</label>
+				<mixed-citation>45. Dent R. Including the indigenous: Xavante genes in Brazilian human population genetics since 1950. In: XXXIII International Congress of the Latin American Studies Association. San Juan: Latin American Studies Association; 2015.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dent</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<source>XXXIII International Congress of the Latin American Studies Association</source>
+					<chapter-title>Including the indigenous: Xavante genes in Brazilian human population genetics since 1950</chapter-title>
+					<year>2015</year>
+					<publisher-loc>San Juan</publisher-loc>
+					<publisher-name>Latin American Studies Association</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B46">
+				<label>46</label>
+				<mixed-citation>46. de Souza VS, Santos RV. The emergence of human population genetics and narratives about the formation of the Brazilian nation (1950-1960). Stud Hist Philos Biol Biomed Sci 2014; 47 Pt A:97-107.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>de Souza</surname>
+							<given-names>VS</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>RV</given-names>
+						</name>
+					</person-group>
+					<article-title>The emergence of human population genetics and narratives about the formation of the Brazilian nation (1950-1960)</article-title>
+					<source>Stud Hist Philos Biol Biomed Sci</source>
+					<year>2014</year>
+					<volume>47</volume>
+					<issue-part>Pt A</issue-part>
+					<fpage>97</fpage>
+					<lpage>107</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B47">
+				<label>47</label>
+				<mixed-citation>47. Kent M, Santos RV. &quot;The charrua are alive&quot;: the genetic resurrection of an extinct indigenous population in southern Brazil. In: Wade P, López Beltrán C, Restrepo E, Santos RV, editors. Mestizo genomics: race mixture, nation, and science in Latin America. Durham: Duke University Press; 2014. p. 109-34.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kent</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>RV</given-names>
+						</name>
+					</person-group>
+					<chapter-title>&quot;The charrua are alive&quot;: the genetic resurrection of an extinct indigenous population in southern Brazil</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Wade</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>López Beltrán</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Restrepo</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Santos</surname>
+							<given-names>RV</given-names>
+						</name>
+					</person-group>
+					<source>Mestizo genomics: race mixture, nation, and science in Latin America</source>
+					<publisher-loc>Durham</publisher-loc>
+					<publisher-name>Duke University Press</publisher-name>
+					<year>2014</year>
+					<fpage>109</fpage>
+					<lpage>134</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B48">
+				<label>48</label>
+				<mixed-citation>48. Callegari-Jacques SM, Grattapaglia D, Salzano FM, Salamoni SP, Crossetti SG, Ferreira ME, et al. Historical genetics: spatiotemporal analysis of the formation of the Brazilian population. Am J Hum Biol 2003; 15:824-34.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Callegari-Jacques</surname>
+							<given-names>SM</given-names>
+						</name>
+						<name>
+							<surname>Grattapaglia</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Salzano</surname>
+							<given-names>FM</given-names>
+						</name>
+						<name>
+							<surname>Salamoni</surname>
+							<given-names>SP</given-names>
+						</name>
+						<name>
+							<surname>Crossetti</surname>
+							<given-names>SG</given-names>
+						</name>
+						<name>
+							<surname>Ferreira</surname>
+							<given-names>ME</given-names>
+						</name>
+					</person-group>
+					<article-title>Historical genetics spatiotemporal analysis of the formation of the Brazilian population</article-title>
+					<source>Am J Hum Biol</source>
+					<year>2003</year>
+					<volume>15</volume>
+					<fpage>824</fpage>
+					<lpage>834</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B49">
+				<label>49</label>
+				<mixed-citation>49. Pena SDJ. Razões para banir o conceito de raça da medicina brasileira. Hist Ciênc Saúde-Manguinhos 2005; 12:321-46.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pena</surname>
+							<given-names>SDJ</given-names>
+						</name>
+					</person-group>
+					<article-title>Razões para banir o conceito de raça da medicina brasileira</article-title>
+					<source>Hist Ciênc Saúde-Manguinhos</source>
+					<year>2005</year>
+					<volume>12</volume>
+					<fpage>321</fpage>
+					<lpage>346</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B50">
+				<label>50</label>
+				<mixed-citation>50. Jeffreys AJ, Pena SDJ. Brief introduction to human DNA fingerprinting. In: Pena SD, editor. DNA fingerprinting: state of the science. Boston: Springer; 1993. p. 1-20.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Jeffreys</surname>
+							<given-names>AJ</given-names>
+						</name>
+						<name>
+							<surname>Pena</surname>
+							<given-names>SDJ</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pena</surname>
+							<given-names>SD</given-names>
+						</name>
+					</person-group>
+					<source>DNA fingerprinting: state of the science</source>
+					<chapter-title>Brief introduction to human DNA fingerprinting</chapter-title>
+					<year>1993</year>
+					<publisher-loc>Boston</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+					<fpage>1</fpage>
+					<lpage>20</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B51">
+				<label>51</label>
+				<mixed-citation>51. Pena SD, Chakraborty R. Paternity testing in the DNA era. Trends Genet 1994; 10:204-9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pena</surname>
+							<given-names>SD</given-names>
+						</name>
+						<name>
+							<surname>Chakraborty</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>Paternity testing in the DNA era</article-title>
+					<source>Trends Genet</source>
+					<year>1994</year>
+					<volume>10</volume>
+					<fpage>204</fpage>
+					<lpage>209</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B52">
+				<label>52</label>
+				<mixed-citation>52. Magalhães M. Mercado já movimenta R$ 6,5 mi. Folha S. Paulo 1997; 3 nov.</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Magalhães</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Mercado já movimenta R$ 6,5 mi.</article-title>
+					<source>Folha S. Paulo</source>
+					<day>03</day>
+					<month>11</month>
+					<year>1997</year>
+				</element-citation>
+			</ref>
+			<ref id="B53">
+				<label>53</label>
+				<mixed-citation>53. Thurler AL. Outros horizontes para a paternidade brasileira no século XXI? Sociedade e Estado 2006; 21:681-707.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Thurler</surname>
+							<given-names>AL</given-names>
+						</name>
+					</person-group>
+					<article-title>Outros horizontes para a paternidade brasileira no século XXI</article-title>
+					<source>Sociedade e Estado</source>
+					<year>2006</year>
+					<volume>21</volume>
+					<fpage>681</fpage>
+					<lpage>707</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B54">
+				<label>54</label>
+				<mixed-citation>54. Pena SDJ. O DNA como (única) testemunha em determinação de paternidade. Rev Bioét 1997; 5:231-41.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pena</surname>
+							<given-names>SDJ</given-names>
+						</name>
+					</person-group>
+					<article-title>O DNA como (única) testemunha em determinação de paternidade</article-title>
+					<source>Rev Bioét</source>
+					<year>1997</year>
+					<volume>5</volume>
+					<fpage>231</fpage>
+					<lpage>241</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B55">
+				<label>55</label>
+				<mixed-citation>55. Fonseca C. Inequality near and far: adoption as seen from the Brazilian favelas. Law Soc Rev 2002; 36:397-432.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fonseca</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Inequality near and far adoption as seen from the Brazilian favelas</article-title>
+					<source>Law Soc Rev</source>
+					<year>2002</year>
+					<volume>36</volume>
+					<fpage>397</fpage>
+					<lpage>432</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B56">
+				<label>56</label>
+				<mixed-citation>56. Conselho Federal de Medicina. Resolução CFM nº 2.121/2015. Diário Oficial da União 2015; 24 set.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Conselho Federal de Medicina</collab>
+					</person-group>
+					<article-title>Resolução CFM nº 2.121/2015.</article-title>
+					<source>Diário Oficial da União</source>
+					<day>24</day>
+					<month>09</month>
+					<year>2015</year>
+				</element-citation>
+			</ref>
+			<ref id="B57">
+				<label>57</label>
+				<mixed-citation>57. Supremo Tribunal Federal. RE 248869-1/SP 2003. Diário da Justiça 2004; 12 mar. <ext-link ext-link-type="uri" xlink:href="http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=257829">http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=257829</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Supremo Tribunal Federal</collab>
+					</person-group>
+					<article-title>RE 248869-1/SP 2003</article-title>
+					<source>Diário da Justiça</source>
+					<day>12</day>
+					<month>03</month>
+					<year>2004</year>
+					<ext-link ext-link-type="uri" xlink:href="http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=257829">http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=257829</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B58">
+				<label>58</label>
+				<mixed-citation>58. Supremo Tribunal Federal. HC 71373-4/RG 1994. Diário da Justiça 1996; 22 nov. <ext-link ext-link-type="uri" xlink:href="http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=73066">http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=73066</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Supremo Tribunal Federal</collab>
+					</person-group>
+					<article-title>HC 71373-4/RG 1994</article-title>
+					<source>Diário da Justiça</source>
+					<day>22</day>
+					<month>11</month>
+					<year>1996</year>
+					<ext-link ext-link-type="uri" xlink:href="http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=73066">http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&amp;docID=73066</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B59">
+				<label>59</label>
+				<mixed-citation>59. Supremo Tribunal Federal. RE 363889/DF 2011. Diário da Justiça Eletrônico 2011; 15 dez. <ext-link ext-link-type="uri" xlink:href="http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&amp;docID=1638003">http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&amp;docID=1638003</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Supremo Tribunal Federal</collab>
+					</person-group>
+					<article-title>RE 363889/DF 2011</article-title>
+					<source>Diário da Justiça Eletrônico</source>
+					<day>15</day>
+					<month>12</month>
+					<year>2011</year>
+					<ext-link ext-link-type="uri" xlink:href="http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&amp;docID=1638003">http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&amp;docID=1638003</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B60">
+				<label>60</label>
+				<mixed-citation>60. Brasil. Lei nº 10.406, de 10 de janeiro de 2002. Institui o Código Civil. Diário Oficial da União 2002; 11 jan.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<person-group person-group-type="author">
+						<collab>Brasil</collab>
+					</person-group>
+					<article-title>Lei nº 10.406, de 10 de janeiro de 2002. Institui o Código Civil.</article-title>
+					<source>Diário Oficial da União</source>
+					<day>11</day>
+					<month>01</month>
+					<year>2002</year>
+				</element-citation>
+			</ref>
+			<ref id="B61">
+				<label>61</label>
+				<mixed-citation>61. Lôbo PLN. Paternidade socioafetiva e o retrocesso da Súmula no 301 do STJ. Revista Jus Navigandi 2006; 11(1036).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lôbo</surname>
+							<given-names>PLN</given-names>
+						</name>
+					</person-group>
+					<article-title>Paternidade socioafetiva e o retrocesso da Súmula no 301 do STJ.</article-title>
+					<source>Revista Jus Navigandi</source>
+					<year>2006</year>
+					<volume>11</volume>
+					<fpage>1036</fpage>
+					<lpage>1036</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B62">
+				<label>62</label>
+				<mixed-citation>62. Superior Tribunal de Justiça. REsp 1.115.428-SP. Informativo de Jurisprudência 2013; 20 nov. <ext-link ext-link-type="uri" xlink:href="http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270530%27">http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270530%27</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Superior Tribunal de Justiça</collab>
+					</person-group>
+					<source>REsp 1.115.428-SP. Informativo de Jurisprudência</source>
+					<day>20</day>
+					<month>11</month>
+					<year>2013</year>
+					<ext-link ext-link-type="uri" xlink:href="http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270530%27">http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270530%27</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B63">
+				<label>63</label>
+				<mixed-citation>63. Fonseca C. Paternidade brasileira na era do DNA: a certeza que pariu a dúvida. Cuadernos de Antropologia Social 2005; (22):27-51.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fonseca</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Paternidade brasileira na era do DNA: a certeza que pariu a dúvida.</article-title>
+					<source>Cuadernos de Antropologia Social</source>
+					<year>2005</year>
+					<volume>22</volume>
+					<fpage>27</fpage>
+					<lpage>51</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B64">
+				<label>64</label>
+				<mixed-citation>64. Milanich N. Blood will sell. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://medium.com/@NaraMilanich/blood-will-sell-add5cd8179c5#.g91tldn34">https://medium.com/@NaraMilanich/blood-will-sell-add5cd8179c5#.g91tldn34</ext-link>
+					</comment> (accessed on 15/Oct/2016).</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Milanich</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<source>Blood will sell</source>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://medium.com/@NaraMilanich/blood-will-sell-add5cd8179c5#.g91tldn34">https://medium.com/@NaraMilanich/blood-will-sell-add5cd8179c5#.g91tldn34</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2016-10-15">15/Oct/2016</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B65">
+				<label>65</label>
+				<mixed-citation>65. Draper H, Ives J. Paternity testing: a poor test of fatherhood. J Soc Welf Fam Law 2009; 31:407-18.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Draper</surname>
+							<given-names>H</given-names>
+						</name>
+						<name>
+							<surname>Ives</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Paternity testing a poor test of fatherhood</article-title>
+					<source>J Soc Welf Fam Law</source>
+					<year>2009</year>
+					<volume>31</volume>
+					<fpage>407</fpage>
+					<lpage>418</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B66">
+				<label>66</label>
+				<mixed-citation>66. Madaleno R. A sacralização da presunção na investigação de paternidade. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.rolfmadaleno.com.br/novosite/conteudo.php?id=30">http://www.rolfmadaleno.com.br/novosite/conteudo.php?id=30</ext-link>
+					</comment> (accessed on 21/Jun/2016).</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Madaleno</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<source>A sacralização da presunção na investigação de paternidade</source>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.rolfmadaleno.com.br/novosite/conteudo.php?id=30">http://www.rolfmadaleno.com.br/novosite/conteudo.php?id=30</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2016-06-21">21/Jun/2016</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B67">
+				<label>67</label>
+				<mixed-citation>67. Rodrigues CS. O exame de DNA e sua influência nas ações de investigação de paternidade. Direito &amp; Justiça 2005; 31(2). <ext-link ext-link-type="uri" xlink:href="http://revistaseletronicas.pucrs.br/ojs/index.php/fadir/article/view/570">http://revistaseletronicas.pucrs.br/ojs/index.php/fadir/article/view/570</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rodrigues</surname>
+							<given-names>CS</given-names>
+						</name>
+					</person-group>
+					<article-title>O exame de DNA e sua influência nas ações de investigação de paternidade</article-title>
+					<source>Direito &amp; Justiça</source>
+					<year>2005</year>
+					<volume>31</volume>
+					<issue>2</issue>
+					<ext-link ext-link-type="uri" xlink:href="http://revistaseletronicas.pucrs.br/ojs/index.php/fadir/article/view/570">http://revistaseletronicas.pucrs.br/ojs/index.php/fadir/article/view/570</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B68">
+				<label>68</label>
+				<mixed-citation>68. Lôbo PLN. Socioafetividade em família e a orientação do STJ. Revista Jus Navigandi 2013; 18(3760).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lôbo</surname>
+							<given-names>PLN</given-names>
+						</name>
+					</person-group>
+					<article-title>Socioafetividade em família e a orientação do STJ</article-title>
+					<source>Revista Jus Navigandi</source>
+					<year>2013</year>
+					<volume>18</volume>
+					<fpage>3760</fpage>
+					<lpage>3760</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B69">
+				<label>69</label>
+				<mixed-citation>69. Caulfield S. From liberalism to human dignity: the transformation of marriage and family rights in Brazil. In: Moses J, editor. Ties that bind: global histories of marriage and modernity. London: Bloomsbury; in press.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Caulfield</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<chapter-title>From liberalism to human dignity: the transformation of marriage and family rights in Brazil</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Moses</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<source>Ties that bind: global histories of marriage and modernity</source>
+					<publisher-loc>London</publisher-loc>
+					<publisher-name>Bloomsbury</publisher-name>
+					<comment>in press</comment>
+				</element-citation>
+			</ref>
+			<ref id="B70">
+				<label>70</label>
+				<mixed-citation>70. Gallus N. Le droit de la filiation rôle de la vérité socio-affective et de la volonté en droit belge. Brussels: Larcier; 2009.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gallus</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<source>Le droit de la filiation rôle de la vérité socio-affective et de la volonté en droit belge</source>
+					<year>2009</year>
+					<publisher-loc>Brussels</publisher-loc>
+					<publisher-name>Larcier</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B71">
+				<label>71</label>
+				<mixed-citation>71. Boeira JBR. Investigação de paternidade. Posse de estado de filho. Paternidade socioafetiva. Porto Alegre: Livraria do Advogado; 1999.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boeira</surname>
+							<given-names>JBR</given-names>
+						</name>
+					</person-group>
+					<source>Investigação de paternidade. Posse de estado de filho. Paternidade socioafetiva</source>
+					<publisher-loc>Porto Alegre</publisher-loc>
+					<publisher-name>Livraria do Advogado</publisher-name>
+					<year>1999</year>
+				</element-citation>
+			</ref>
+			<ref id="B72">
+				<label>72</label>
+				<mixed-citation>72. Cardoso RCL. Creating kinship: the fostering of children in favela families in Brazil. In: Smith RT, editor. Kinship ideology and practice in Latin America. Chapel Hill: University of North Carolina Press; 1984. p. 196-203.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cardoso</surname>
+							<given-names>RCL</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Smith</surname>
+							<given-names>RT</given-names>
+						</name>
+					</person-group>
+					<source>Kinship ideology and practice in Latin America</source>
+					<chapter-title>Creating kinship: the fostering of children in favela families in Brazil</chapter-title>
+					<year>1984</year>
+					<publisher-loc>Chapel Hill</publisher-loc>
+					<publisher-name>University of North Carolina Press</publisher-name>
+					<fpage>196</fpage>
+					<lpage>203</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B73">
+				<label>73</label>
+				<mixed-citation>73. Moreno AZ. Vivendo em lares alheios: filhos de criação e adoção em São Paulo colonial e em Portugal, 1765-1822. São Paulo: Annablume; 2013.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moreno</surname>
+							<given-names>AZ</given-names>
+						</name>
+					</person-group>
+					<source>Vivendo em lares alheios: filhos de criação e adoção em São Paulo colonial e em Portugal, 1765-1822</source>
+					<year>2013</year>
+					<publisher-loc>São Paulo</publisher-loc>
+					<publisher-name>Annablume</publisher-name>
+				</element-citation>
+			</ref>
+			<ref id="B74">
+				<label>74</label>
+				<mixed-citation>74. Leinaweaver J. Introduction: cultural and political economies of adoption in Latin America. J Lat Am Caribb Anthropol 2009; 14:1-19.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Leinaweaver</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Introduction cultural and political economies of adoption in Latin America</article-title>
+					<source>J Lat Am Caribb Anthropol</source>
+					<year>2009</year>
+					<volume>14</volume>
+					<fpage>1</fpage>
+					<lpage>19</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B75">
+				<label>75</label>
+				<mixed-citation>75. Milanich N. Latin American childhoods and the concept of modernity. In: Fass P, editor. The Routledge history of childhood in the Western world. New York: Routledge; 2013. p. 491-508.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Milanich</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fass</surname>
+							<given-names>P</given-names>
+						</name>
+					</person-group>
+					<source>The Routledge history of childhood in the Western world</source>
+					<chapter-title>Latin American childhoods and the concept of modernity</chapter-title>
+					<year>2013</year>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Routledge</publisher-name>
+					<fpage>491</fpage>
+					<lpage>508</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B76">
+				<label>76</label>
+				<mixed-citation>76. Projeto de Lei nº 4.946. Diário da Câmara dos Deputados 2005; 2 abr.</mixed-citation>
+				<element-citation publication-type="legal-doc">
+					<article-title>Projeto de Lei nº 4.946</article-title>
+					<source>Diário da Câmara dos Deputados</source>
+					<day>02</day>
+					<month>04</month>
+					<year>2005</year>
+				</element-citation>
+			</ref>
+			<ref id="B77">
+				<label>77</label>
+				<mixed-citation>77. Superior Tribunal de Justiça. REsp 884.560/MS 2006. Diário da Justiça Eletrônico 2008; 12 set. <ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=MON&amp;sequencial=4205009&amp;num_registro=200601935691&amp;data=20080912">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=MON&amp;sequencial=4205009&amp;num_registro=200601935691&amp;data=20080912</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Superior Tribunal de Justiça</collab>
+					</person-group>
+					<article-title>REsp 884.560/MS 2006</article-title>
+					<source>Diário da Justiça Eletrônico</source>
+					<day>12</day>
+					<month>09</month>
+					<year>2008</year>
+					<ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=MON&amp;sequencial=4205009&amp;num_registro=200601935691&amp;data=20080912">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=MON&amp;sequencial=4205009&amp;num_registro=200601935691&amp;data=20080912</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B78">
+				<label>78</label>
+				<mixed-citation>78. Superior Tribunal de Justiça. REsp 1088157/PB 2008. Diário da Justiça Eletrônico 2009; 4 ago. <ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=896969&amp;num_registro=200801995643&amp;data=20090804&amp;formato=PDF">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=896969&amp;num_registro=200801995643&amp;data=20090804&amp;formato=PDF</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Superior Tribunal de Justiça</collab>
+					</person-group>
+					<article-title>REsp 1088157/PB 2008.</article-title>
+					<source>Diário da Justiça Eletrônico</source>
+					<day>04</day>
+					<month>08</month>
+					<year>2009</year>
+					<ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=896969&amp;num_registro=200801995643&amp;data=20090804&amp;formato=PDF">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=896969&amp;num_registro=200801995643&amp;data=20090804&amp;formato=PDF</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B79">
+				<label>79</label>
+				<mixed-citation>79. Superior Tribunal de Justiça. REsp 1098036/GO 2008. Diário da Justiça Eletrônico 2012; 1 mar. <ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=1083493&amp;num_registro=200802396702&amp;data=20120301&amp;formato=PDF">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=1083493&amp;num_registro=200802396702&amp;data=20120301&amp;formato=PDF</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Superior Tribunal de Justiça</collab>
+					</person-group>
+					<article-title>REsp 1098036/GO 2008.</article-title>
+					<source>Diário da Justiça Eletrônico</source>
+					<day>01</day>
+					<month>03</month>
+					<year>2012</year>
+					<ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=1083493&amp;num_registro=200802396702&amp;data=20120301&amp;formato=PDF">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=1083493&amp;num_registro=200802396702&amp;data=20120301&amp;formato=PDF</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B80">
+				<label>80</label>
+				<mixed-citation>80. Superior Tribunal de Justiça. REsp 1167993/RS. Informativo de Jurisprudência 2013; (512), 20 fev. <ext-link ext-link-type="uri" xlink:href="http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270512%27">http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270512%27</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Superior Tribunal de Justiça</collab>
+					</person-group>
+					<article-title>REsp 1167993/RS</article-title>
+					<source>Informativo de Jurisprudência</source>
+					<year>2013</year>
+					<comment>512</comment>
+					<ext-link ext-link-type="uri" xlink:href="http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270512%27">http://www.stj.jus.br/SCON/SearchBRS?b=INFJ&amp;tipo=informativo&amp;livre=@COD=%270512%27</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B81">
+				<label>81</label>
+				<mixed-citation>81. Superior Tribunal de Justiça. REsp 878.954/RS, 2007. Diário da Justiça Eletrônico 2007; 28 mai. <ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=689273&amp;num_registro=200601823490&amp;data=20070528&amp;formato=PDF">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=689273&amp;num_registro=200601823490&amp;data=20070528&amp;formato=PDF</ext-link>.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Superior Tribunal de Justiça</collab>
+					</person-group>
+					<article-title>REsp 878.954/RS, 2007</article-title>
+					<source>Diário da Justiça Eletrônico</source>
+					<day>28</day>
+					<month>05</month>
+					<year>2007</year>
+					<ext-link ext-link-type="uri" xlink:href="https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=689273&amp;num_registro=200601823490&amp;data=20070528&amp;formato=PDF">https://ww2.stj.jus.br/processo/revista/documento/mediado/?componente=ITA&amp;sequencial=689273&amp;num_registro=200601823490&amp;data=20070528&amp;formato=PDF</ext-link>
+				</element-citation>
+			</ref>
+			<ref id="B82">
+				<label>82</label>
+				<mixed-citation>82. Couto C. Famílias paralelas e poliafetivas. Revista Jus Navigandi 2015; 20(4409).</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Couto</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Famílias paralelas e poliafetivas</article-title>
+					<source>Revista Jus Navigandi</source>
+					<year>2015</year>
+					<volume>20</volume>
+					<comment>4409</comment>
+				</element-citation>
+			</ref>
+			<ref id="B83">
+				<label>83</label>
+				<mixed-citation>83. Gozzo D. A controversa norma do CNJ sobre registro em caso de reprodução assistida. O Estado de S. Paulo 2016; 12 out.</mixed-citation>
+				<element-citation publication-type="newspaper">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gozzo</surname>
+							<given-names>D</given-names>
+						</name>
+					</person-group>
+					<article-title>A controversa norma do CNJ sobre registro em caso de reprodução assistida</article-title>
+					<source>O Estado de S. Paulo</source>
+					<day>12</day>
+					<month>11</month>
+					<year>2016</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

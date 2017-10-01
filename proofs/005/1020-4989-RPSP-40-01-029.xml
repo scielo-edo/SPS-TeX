@@ -1,0 +1,2975 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="other" dtd-version="1.0" specific-use="sps-1.3" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">rpsp</journal-id>
+			<journal-title-group>
+				<journal-title>Revista Panamericana de Salud Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev Panam Salud Publica</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">1680-5348</issn>
+			<issn pub-type="ppub">1020-4989</issn>
+			<publisher>
+				<publisher-name>Organización Panamericana de la Salud</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">40-029</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Informe especial</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>La eco-epidemiología retrospectiva como herramienta aplicada a la vigilancia de la leishmaniasis en Misiones, Argentina, 1920-2014</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Retrospective eco-epidemiology as a tool for the surveillance of leishmaniasis in Misiones, Argentina, 1920–2014</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Salomón</surname>
+						<given-names>Oscar Daniel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Mastrángelo</surname>
+						<given-names>Andrea Verónica</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>2</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Santini</surname>
+						<given-names>María Soledad</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff3"><sup>3</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Liotta</surname>
+						<given-names>Domingo Javier</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Yadón</surname>
+						<given-names>Zaida Estela</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>4</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="original">Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Instituto Nacional de Medicina Tropical, Puerto Iguazú, Misiones, Argentina</institution>
+				<institution content-type="orgname">Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)</institution>
+				<institution content-type="orgdiv1">Instituto Nacional de Medicina Tropical</institution>
+				<addr-line>
+					<named-content content-type="city">Puerto Iguazú</named-content>
+					<named-content content-type="state">Misiones</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+			</aff>
+			<aff id="aff2">
+				<label>2</label>
+				<institution content-type="original">Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Universidad Nacional de San Martín (UNSAM), Buenos Aires, Argentina</institution>
+				<institution content-type="orgname">Universidad Nacional de San Martín (UNSAM)</institution>
+				<institution content-type="orgdiv1">Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)</institution>
+				<addr-line>
+					<named-content content-type="state">Buenos Aires</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+			</aff>
+			<aff id="aff3">
+				<label>3</label>
+				<institution content-type="original">Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Centro Nacional de Diagnóstico e Investigación en Endemoepidemias (CeNDIE), Administración Nacional de Laboratorios e Institutos de Salud (ANLIS), Buenos Aires, Argentina</institution>
+				<institution content-type="orgname">Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET)</institution>
+				<institution content-type="orgdiv1">Centro Nacional de Diagnóstico e Investigación en Endemoepidemias (CeNDIE)</institution>
+				<institution content-type="orgdiv2">Administración Nacional de Laboratorios e Institutos de Salud (ANLIS)</institution>
+				<addr-line>
+					<named-content content-type="state">Buenos Aires</named-content>
+				</addr-line>
+				<country country="AR">Argentina</country>
+			</aff>
+			<aff id="aff4">
+				<label>4</label>
+				<institution content-type="original">Doenças Transmissíveis e Análises de Saúde, Organização Pan-Americana da Saúde, Rio de Janeiro, Brasil</institution>
+				<institution content-type="orgname">Organização Pan-Americana da Saúde</institution>
+				<institution content-type="orgdiv1">Doenças Transmissíveis e Análises de Saúde</institution>
+				<addr-line>
+					<named-content content-type="state">Rio de Janeiro</named-content>
+				</addr-line>
+				<country country="BR">Brasil</country>
+			</aff>
+			<author-notes>
+				<corresp id="cor1">La correspondencia se debe dirigir a <email>odanielsalomon@gmail.com</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<month>07</month>
+				<year>2016</year>
+			</pub-date>
+			<volume>40</volume>
+			<issue>1</issue>
+			<fpage>29</fpage>
+			<lpage>39</lpage>
+			<history>
+				<date date-type="received">
+					<day>31</day>
+					<month>07</month>
+					<year>2015</year>
+				</date>
+				<date date-type="accepted">
+					<day>29</day>
+					<month>01</month>
+					<year>2016</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/" xml:lang="es">
+					<license-p>Este es un artículo publicado en acceso abierto bajo una licencia Creative Commons</license-p>
+				</license>
+			</permissions>
+			<abstract>
+				<title>RESUMEN</title>
+				<p>Se presenta una metodología analítica retrospectiva, basada en el marco teórico de la eco-epidemiología, anclada en una escala espacial subnacional. Esta metodología, aplicada aquí a la caracterización de escenarios de transmisión de la leishmaniasis en la provincia argentina de Misiones —fronteriza con Brasil y Paraguay— permitió fundamentar recomendaciones de vigilancia y control apropiadas a dicha escala. Se realizó una búsqueda exhaustiva de la literatura sobre leishmaniasis en esa provincia y se determinaron tres escenarios de transmisión de leishmaniasis cutánea (LC) y visceral (LV), correspondientes a tres períodos: 1920-1997, en el que se constató la transmisión de LC, dispersa en el tiempo y el espacio; 1998-2005, en el que hubo brotes focales de LC; y 2006-2014 en el que, además, se registraron brotes y se documentó la dispersión geográfica de la LV. Para caracterizar los escenarios de riesgo y los procesos antrópicos que los producen, los resultados se sintetizaron e integraron en el contexto socio-histórico y bio-ecológico de cada período analizado. Se fundamentan recomendaciones de vigilancia y control en el territorio estudiado, entre ellas, establecer una vigilancia activa para monitorear posibles tendencias al incremento de la circulación parasitaria y vectorial y, ante la aparición de un foco, realizar estudios para verificar la transmisión autóctona y la intensidad del evento. Además, se debe establecer la obligación legal de tomar medidas adicionales de control por los responsables de los proyectos que impliquen modificación ambiental, como la realización de estudios de evaluación del riesgo de transmisión, y acciones de mitigación del riesgo, detección temprana y tratamiento oportuno de los casos.</p>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>ABSTRACT</title>
+				<p>A retrospective analytical method is presented, based on theoretical eco-epidemiology, applied on a subnational spatial scale. This method was used here to describe scenarios for the transmission of leishmaniasis in the Argentine province of Misiones— bordering Brazil and Paraguay—and formed the basis for recommendations for surveillance and control appropriate to the subnational scale. An exhaustive search of the literature on leishmaniasis in the province was carried out. Three scenarios for the transmission of cutaneous leishmaniasis (CL) and visceral leishmaniasis (VL) were found, corresponding to three periods: from 1920 to 1997, during which the transmission of CL distributed over time and space was confirmed; 1998 to 2005, during which there were focal outbreaks of CL; and 2006 to 2014, during which outbreaks were also reported and the geographical dispersion of VL was documented. To describe the risk scenarios and the anthropic processes that produce them, the results were summarized and integrated into the social, historical, and bio-ecological context of each period. Surveillance and control recommendations are based on the territory studied. They include establishing active surveillance to monitor possible rising trends in parasitic and vector circulation, conducting studies of any focal outbreak in order to confirm indigenous transmission and severity. Also, it should be a legal requirement for persons responsible for projects that alter the environment to adopt additional control measures, such as studies assessing transmission risk, risk mitigation, early detection, and timely case management.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave</title>
+				<kwd>Leishmaniasis cutánea</kwd>
+				<kwd>leishmaniasis visceral</kwd>
+				<kwd>fenómenos ecológicos y ambientales</kwd>
+				<kwd>Argentina</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Key words</title>
+				<kwd>Leishmaniasis, cutaneous</kwd>
+				<kwd>leishmaniasis, visceral</kwd>
+				<kwd>ecological and environmental phenomena</kwd>
+				<kwd>Argentina</kwd>
+			</kwd-group>
+		</article-meta>
+	</front>
+	<body>
+		<p>La leishmaniasis es la tercera de las enfermedades de transmisión vectorial a humanos en importancia por el número de casos y la población en riesgo, y la novena con mayor carga de enfermedad (<xref ref-type="bibr" rid="r1">1</xref>, <xref ref-type="bibr" rid="r2">2</xref>). Se estima que el número anual de casos de leishmaniasis cutánea (LC) en el mundo es de 0,7-1,2 millones, mientras que de leishmaniasis visceral (LV) se registran 0,2-0,4 millones de casos (<xref ref-type="bibr" rid="r2">2</xref>). En las Américas, entre 2001 y 2011, la notificación de LC osciló entre 47 000 y 68 000 casos al año, mientras que de LV se registraron 39 000 casos al año, con una letalidad promedio de 8,4%; en los países del Cono Sur se observó una tendencia al incremento de casos en áreas urbanas (<xref ref-type="bibr" rid="r3">3</xref>).</p>
+		<p>En Argentina, la LC ha estado presente posiblemente desde tiempos precolombinos (<xref ref-type="bibr" rid="r4">4</xref>), aunque los primeros casos esporádicos registrados formalmente datan de las primeras décadas del siglo XX. Esos casos se localizaron en 10 provincias del norte y se asociaron con la entrada de personas a áreas silvestres para la deforestación extractiva y la pesca (<xref ref-type="bibr" rid="r5">5</xref>, <xref ref-type="bibr" rid="r6">6</xref>). En la década de 1980 se registró el primer brote de LC en el noroeste del país y desde entonces se registran focos epidémicos en el área de transmisión, que comprende 500 000 km<sup>2</sup> (<xref ref-type="bibr" rid="r7">7</xref>). Por su parte, la LV, de la que hasta 2006 se habían registrado 14 casos dispersos en zonas rurales (<xref ref-type="bibr" rid="r8">8</xref>), comenzó a dispersarse a partir de un foco registrado en la ciudad de Posadas, capital de la provincia de Misiones. A inicios de 2015 se habían registrado 140 casos en humanos en cuatro provincias, y la presencia del vector ya se había detectado en seis provincias (<xref ref-type="bibr" rid="r9">9</xref>, <xref ref-type="bibr" rid="r10">10</xref>).</p>
+		<p>El análisis de la dinámica de la leishmaniasis a escala global, continental o nacional contribuye a elaborar políticas de salud. Sin embargo, para el diseño de acciones programáticas adecuadas a las escalas espaciales inferiores a la nacional se deben contemplar también estudios en el marco teórico de la eco-epidemiología, que integran el conocimiento multidisciplinario y la causalidad multinivel (<xref ref-type="bibr" rid="r11">11</xref>). De esta manera, el uso de una perspectiva socio-histórica de esta enfermedad en escalas intermedias —entre la global de larga duración y el estudio focal o de casos que analiza usualmente períodos de días a meses— puede ayudar a identificar procesos sociales asociados con brotes epidémicos, tales como obras de desarrollo (gasoductos, carreteras, represas), deforestación, migración y urbanización no planificada, entre otros (<xref ref-type="bibr" rid="r12">12</xref>-<xref ref-type="bibr" rid="r14">14</xref>).</p>
+		<p>No obstante, pocas veces se ha utilizado la información del contexto socio-histórico y bio-ecológico en una escala intermedia (provincia o departamento) para fundamentar estrategias de vigilancia. Con vistas a explorar esta perspectiva, se seleccionó la provincia de Misiones, por su localización subtropical y por las transformaciones socio-ambientales que se sucedieron en ella durante el siglo XX. En relación con ambas leishmaniasis, estas transformaciones han generado dos tipos de “fronteras”: una al interior de su territorio por los frentes de deforestación y otra en el límite externo de su territorio con otras regiones endemo-epidémicas con las que tiene un intenso tránsito vecinal fronterizo.</p>
+		<p>El objetivo de este trabajo fue ejemplificar la aplicación de una metodología analítica retrospectiva, basada en el marco teórico de la eco-epidemiología, anclada en una escala espacial subnacional. Esta metodología, aplicada aquí a la caracterización de escenarios de transmisión de la leishmaniasis en la provincia argentina de Misiones, permitió fundamentar recomendaciones de vigilancia y control apropiadas a dicha escala.</p>
+		<sec id="s1">
+			<title>FUENTES DE INFORMACIÓN Y PROCEDIMIENTOS</title>
+			<p>La provincia de Misiones, en el noreste de Argentina, posee un área de 29 801 km² y en 2012 contaba aproximadamente con 1 100 000 habitantes. Comparte 90% de su frontera con Paraguay y Brasil (1 080 km), mientras al suroeste limita con la provincia argentina de Corrientes (110 km). Su clima es subtropical templado sin estación seca; la temperatura promedio invernal es de 19 °C y la estival es de 29 °C. La flora y la fauna son típicas de la zona subtropical de dominio amazónico, conservada en mosaicos selváticos protegidos. No obstante, 65% de su territorio se encuentra intensamente modificado, principalmente por la agroindustria forestal y cultivos como yerba mate, té y tabaco. La capital estatal, Posadas (27º 22’ S, 55º 53’ W), es la ciudad más poblada, mientras que Puerto Iguazú (25º 36’ S, 54º 34’ W), a 304 km al norte de Posadas y fronteriza con Brasil y Paraguay, es el sitio de mayor flujo turístico nacional e internacional (&gt; 1 000 000 personas/año), con numerosos ambientes protegidos (<xref ref-type="bibr" rid="r15">15</xref>).</p>
+			<p>Se realizó una búsqueda exhaustiva de la literatura sobre leishmaniasis, que permitió describir y analizar los eventos y procesos eco-epidemiológicos asociados con la leishmaniasis, así como los cambios en el uso de la tierra, en la provincia de Misiones, Argentina, en el período entre 1920 y 2014. Estos resultados, provenientes de diferentes enfoques disciplinarios, se integraron luego para caracterizar los escenarios eco-epidemiológicos de transmisión de la LC y la LV.</p>
+			<p>Para analizar retrospectivamente la información restringida a la provincia de Misiones, se utilizó el método narrativo cronológico ajustado a tres etapas: 1920-1997, 1998-2005 y 2006-2014. Esta división se fundamenta en el patrón de incidencia histórico a partir del registro del primer brote de LC en 1998 y el registro del caso índice de LV en 2006 (<xref ref-type="bibr" rid="r16">16</xref>, <xref ref-type="bibr" rid="r17">17</xref>).</p>
+			<p>Para la determinación de los tipos sociales expuestos a riesgo y la indagación del proceso salud-enfermedad-atención (<xref ref-type="bibr" rid="r18">18</xref>) se aplicaron sucesivamente entrevistas en profundidad y semiestructuradas a informantes clave: agricultores a escala familiar de las áreas de muestreo entomológico, agentes del sistema asistencial y pacientes con leishmaniasis (para reconstruir sus itinerarios terapéuticos). Estos actores sociales se consideraron informantes clave por ser constitutivos del proceso salud-enfermedad-atención-cuidado.</p>
+			<p>En las publicaciones entomológicas analizadas, para la captura de Phlebotominae se utilizaron minitrampas de luz del tipo CDC, activadas durante toda la noche, mediante trampeos transversales y longitudinales, en paisajes clasificados según la cobertura vegetal y el uso de la tierra.</p>
+			<p>En las publicaciones consultadas sobre reservorios de leishmaniasis se utilizaron dos enfoques: para reservorios silvestres se emplearon muestreos con trampas Sherman y trampas jaula en sitios asociados con las capturas de vectores; mientras que para reservorios domésticos, se realizaron estudios de foco en sitios asociados con casos de LV o se realizaron muestreos transversales. Los vectores y los reservorios se identificaron hasta el nivel de especie, y se procesaron muestras para estudios parasitológicos y de biología molecular.</p>
+			<p>Para la detección de la infección y la identificación del parásito en los vectores, los posibles reservorios y las muestras clínicas de pacientes, en los trabajos publicados se utilizó la técnica de la reacción en cadena de la polimerasa combinada con el análisis de polimorfismo de fragmentos de ADN obtenidos por enzimas de restricción (PCR-RFLP, por sus siglas en inglés), con la subsiguiente secuenciación.</p>
+			<p>Dada la diversidad de métodos y objetivos encontrados en la literatura revisada, para una descripción detallada de los procedimientos utilizados en cada caso se deben consultar los artículos originales citados en esta y las siguientes secciones.</p>
+		</sec>
+		<sec id="s2">
+			<title>SITUACIÓN EPIDEMIOLÓGICA DE LA LEISHMANIASIS</title>
+			<sec id="s2a">
+				<title>Período 1920-1997</title>
+				<p>En 1930, el primer censo sobre LC en Argentina no registró casos en el territorio de la provincia de Misiones (<xref ref-type="bibr" rid="r5">5</xref>). Sin embargo, Bertoni describió en 1927 la LC como una de las enfermedades que afectaba a las comunidades nativas de la frontera argentino-paraguaya (<xref ref-type="bibr" rid="r19">19</xref>). En 1964 se reglamentó la notificación obligatoria de la leishmaniasis (<xref ref-type="bibr" rid="r20">20</xref>). En el período 1954-1974, en Misiones se informaron como promedio 7,2 casos al año, mientras que entre 1975 y 1995 se notificaron 0,25 casos/año y de 1996 a 1997 se registraron 5,5 casos/año, en promedio (<xref ref-type="bibr" rid="r16">16</xref>, <xref ref-type="bibr" rid="r21">21</xref>) (<xref ref-type="fig" rid="f1">figura 1</xref>). Entre 1959 y 1970, se observó un incremento no significativo de casos de LC en algunos años, sin que se pudiera encontrar alguna otra información en los registros sanitarios o la prensa escrita. Los agentes sanitarios entrevistados refirieron casos aislados en la zona norte, específicamente en los departamentos Iguazú y General Manuel Belgrano (GM Belgrano), sin mencionar brotes.</p>
+				<fig id="f1" orientation="portrait" position="float">
+					<label>FIGURA 1</label>
+					<caption>
+						<title>Casos registrados de leishmaniasis cutánea (LC) y leishmaniasis visceral (LV) en la provincia de Misiones, Argentina, 1954-2014</title>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="1020-4989-RPSP-40-01-029-g001.tif"/>
+					<attrib><bold><italic>Fuente:</italic></bold> Elaboración propia a partir de datos publicados (<xref ref-type="bibr" rid="r10">10</xref>, <xref ref-type="bibr" rid="r20">20</xref>).</attrib>
+				</fig>
+				<p>Por otra parte, de los 14 casos de leishmaniasis con manifestaciones clínicas viscerales notificados en Argentina hasta 1997 —aunque sin identificación del agente etiológico—, ninguno ocurrió en Misiones (<xref ref-type="bibr" rid="r8">8</xref>).</p>
+				<p>Hasta 1950, la información sobre los vectores de <italic>Leishmania</italic> spp. proviene de campañas descriptivas de la fauna, en las que se registró una gran riqueza de especies de Phlebotominae en zonas silvestres, incluidos vectores de LC (<xref ref-type="bibr" rid="r6">6</xref>, <xref ref-type="bibr" rid="r22">22</xref>) (<xref ref-type="fig" rid="f2">figura 2</xref>). Los muestreos recomenzaron más de 40 años después con capturas mensuales a orillas del río Paraná entre 1993 y 1998, con el objetivo de evaluar el impacto de la represa hidroeléctrica de Yacyretá y, en el mismo año 1998, en localidades con casos recientes de LC. Los resultados mostraron el predominio de <italic>Nyssomyia neivai</italic> en los ambientes modificados (98,7%) y de <italic>Ny. whitmani</italic> en ambientes con menos intervención antrópica pero con antecedentes de casos esporádicos de LC; ambas especies se consideran vectores de <italic>L. braziliensis</italic> (<xref ref-type="bibr" rid="r23">23</xref>).</p>
+				<fig id="f2" orientation="portrait" position="float">
+					<label>FIGURA 2</label>
+					<caption>
+						<title>Registros por departamento de <italic>Nyssomyia neivai, Ny whitmani</italic> y <italic>Migonemyia migonei</italic> (vectores de leishmaniasis cutánea) y <italic>Lutzomyia longipalpis</italic> (vector de leishmaniasis visceral) en la provincia de Misiones, Argentina, hasta 1951 (color azul) y desde 1993 hasta 2014 (color rojo)</title>
+					</caption>
+					<graphic orientation="portrait" position="float" xlink:href="1020-4989-RPSP-40-01-029-g002.tif"/>
+					<attrib><bold><italic>Fuente:</italic></bold> Elaboración propia a partir de datos de captura publicados (<xref ref-type="bibr" rid="r8">8</xref>, <xref ref-type="bibr" rid="r9">9</xref>,<xref ref-type="bibr" rid="r15">15</xref>, <xref ref-type="bibr" rid="r21">21</xref>, <xref ref-type="bibr" rid="r22">22</xref>, <xref ref-type="bibr" rid="r24">24</xref>, <xref ref-type="bibr" rid="r31">31</xref>).</attrib>
+				</fig>
+				<p>En cuanto a <italic>Lutzomyia longipalpis</italic>—vector de <italic>L. infantum</italic>, agente de la LV—, en 1951 se encontró un ejemplar hembra en el ambiente selvático de Candelaria, Misiones; en el año 2000 se capturaron seis ejemplares en Corpus, también en paisajes poco modificados (<xref ref-type="bibr" rid="r8">8</xref>) (<xref ref-type="fig" rid="f2">figura 2</xref>).</p>
+			</sec>
+			<sec id="s2b">
+				<title>Período 1998-2005</title>
+				<sec>
+					<title>Residentes en el borde de deforestación</title>
+					<p>El patrón epidémico de LC, que empezó a extenderse desde el noroeste de Argentina en la década de 1980, alcanzó Misiones en 1998 (<xref ref-type="fig" rid="f2">figuras 2</xref> y <xref ref-type="fig" rid="f3">3</xref>) (<xref ref-type="bibr" rid="r7">7</xref>). El primer brote registrado ocurrió en la localidad de Puerto Esperanza (departamento de Iguazú), donde más de 80% de los casos (64% en hombres; edad de los casos entre 1 y 87 años) se concentró en un barrio periférico de 30 viviendas que no tenía continuidad urbana con el centro de la ciudad. La distribución y la abundancia relativa de los vectores (<italic>Ny. neivai:</italic> 79,7%; <italic>Ny. whitmani:</italic> 10,9%) sugieren el riesgo de transmisión peridoméstico, especialmente en las viviendas localizadas en el margen limítrofe con un parche de selva residual y en los límites de un barrio situado en el borde de deforestación; en ambos sitios se registraron los primeros casos en humanos (<xref ref-type="bibr" rid="r16">16</xref>).</p>
+					<fig id="f3" orientation="portrait" position="float">
+						<label>FIGURA 3</label>
+						<caption>
+							<title>Sitios donde ocurrieron brotes epidémicos de leishmaniasis cutánea (LC) o leishmaniasis visceral (LV) en la provincia de Misiones, Argentina, 1998-2014</title>
+						</caption>
+						<graphic orientation="portrait" position="float" xlink:href="1020-4989-RPSP-40-01-029-g003.tif"/>
+						<attrib><bold><italic>Fuente:</italic></bold> Elaboración propia (<xref ref-type="bibr" rid="r15">15</xref>).</attrib>
+					</fig>
+				</sec>
+				<sec>
+					<title>Trabajadores en el borde de deforestación</title>
+					<p>En 2004 se registró otro brote de LC en personas residentes en localidades próximas a la laguna artificial Urugua-í. El estudio se basó en 20 casos, todos hombres adultos, de los cuales 18 trabajaban en la reforestación de coníferas en zonas contiguas a esa laguna artificial; no se observaron síntomas clínicos en sus convivientes. La especie más abundante en los remanentes de vegetación primaria intercalados con monocultivos de coníferas fue <italic>Ny. whitmani</italic>; no se encontraron vectores en los domicilios de los casos detectados (localidades de Libertad y Wanda) ni en los rodales de pinos asociados en tiempo y espacio con la infección (<xref ref-type="bibr" rid="r16">16</xref>). Los trabajadores ingresaban a los remanentes de vegetación en momentos de descanso o permanecían allí al comienzo y al final de la jornada mientras esperaban el traslado hacia sus viviendas (<xref ref-type="bibr" rid="r24">24</xref>).</p>
+				</sec>
+				<sec>
+					<title>Residentes que generan bordes de deforestación</title>
+					<p>En 2004-2005, en el hospital de Puerto Iguazú, aproximadamente a 50 km al norte del brote anterior, se notificaron 36 casos de LC, 75% de los cuales eran hombres. De ellos, 86% refirió haber estado en una zona conocida como Dos Mil Hectáreas, que tiene remanentes de selva paranaense secundaria y está habitada por ocupantes recientes de tierras para uso agrícola de subsistencia o producción familiar. En el muestreo realizado entre 2005 y 2006 en esta misma área, se encontró que <italic>Ny. whitmani</italic> (87,4%) era la especie más abundante en los sitios de deforestación reciente (roza, tumba y quema) para parcelas agrícolas, con presencia de corrales para cerdos y gallinas, próximos al borde de deforestación (<xref ref-type="bibr" rid="r25">25</xref>, <xref ref-type="bibr" rid="r26">26</xref>). Los casos clínicos y los ejemplares colectados de <italic>Ny. whitmani</italic> resultaron positivos a la presencia de ADN de <italic>Leishmania</italic>. Se encontraron lesiones compatibles con la infestación de este parásito en roedores <italic>Akodon</italic> spp. y <italic>Rattus rattus</italic> y en el marsupial <italic>Didelphis albiventris</italic>, aunque resultaron negativas a la PCR-RFLP para especies de <italic>Leishmania</italic>; asimismo, se constató una asociación significativa entre la distribución espacio-temporal de este parásito, la presencia de micromamíferos y la abundancia de vectores (<xref ref-type="bibr" rid="r25">25</xref>).</p>
+				</sec>
+			</sec>
+			<sec id="s2c">
+				<title>Período 2006-2014</title>
+				<p>En 2006, se notificó en Posadas el primer caso humano autóctono urbano de LV en Argentina (<xref ref-type="fig" rid="f3">figura 3</xref>). En los registros hospitalarios no se encontraron casos previos con sintomatología compatible y sin diagnóstico etiológico (<xref ref-type="bibr" rid="r17">17</xref>). Se identificó la especie <italic>L. infantum</italic> mediante PCR-RFLP con secuenciación de ADN, a partir de muestras de canes sintomáticos y de <italic>Lu. longipalpis</italic> (<xref ref-type="bibr" rid="r27">27</xref>) (<xref ref-type="fig" rid="f2">figura 2</xref>). De los canes de una muestra obtenida por conveniencia en Posadas, 57,3% dio resultados positivos a <italic>L. infantum</italic> mediante pruebas serológicas o de ADN (<xref ref-type="bibr" rid="r28">28</xref>); los genotipos circulantes eran LiA1 y LiA2 (<xref ref-type="bibr" rid="r29">29</xref>).</p>
+				<p>La feromona sexual de las poblaciones de <italic>Lu. longipalpis</italic> encontradas en Posadas es idéntica a la de las de Brasil, asociada a poblaciones con tendencia a la dispersión de la LV en zonas urbanas, aunque el gen <italic>per</italic> muestra diferenciación con las poblaciones del noreste y sudeste de Brasil (<xref ref-type="bibr" rid="r30">30</xref>). La distribución espacial de <italic>Lu. longipalpis</italic> en la ciudad presentó “islas” de alta abundancia, con una autocorrelación espacial de 590-700 m, coherente con una dinámica de población fuente metapoblacional, en la que estas islas de alta abundancia tienen la posibilidad de colonizar por migración poblaciones locales extinguibles en áreas urbanas con abundancia media o baja. En 2007, en el momento en que se habían registrado 4 casos de LV en humanos, se realizó un muestreo de vectores según una grilla que dividía la ciudad de Posadas en áreas de 400 x 400 m, y se encontró el vector en 4% de los sitios muestreados. En 2009, en el momento en que ya se había registrado un acumulado de 32 casos de LV, se encontró mediante la misma metodología de muestreo el vector en 31% de los sitios, con un promedio por trampa tres veces mayor que en el estudio anterior (<xref ref-type="bibr" rid="r31">31</xref>). La abundancia de <italic>Lu. longipalpis</italic> se asoció positivamente con las superficies cubiertas por árboles y arbustos en un radio de 50 m y con el número de macetas con plantas. El vector se concentró preferentemente en lugares con densidad urbana intermedia y espacios verdes intercalados, y menos en áreas con densidades extremas, como la zona periférica ruralizada y el centro de la ciudad (<xref ref-type="bibr" rid="r32">32</xref>). Las hembras, aunque presentes desde las primeras horas de la tarde, registran su mayor actividad en el período entre 7:00 pm y 9:00 pm, y continúan luego ingresando a la trampa, con menor frecuencia, hasta el período comprendido entre 1:00 am y 3.00 am (verano y otoño). Entre perros y humanos, el vector solo optó por alimentarse de humanos cuando estos estaban a una distancia de 1,5 m o menos del perro. Así, los espacios domésticos de esparcimiento fuera de la vivienda y la proximidad física entre los perros y las personas constituyen los sitios y las prácticas de mayor riesgo para la transmisión de la LV en las zonas urbanas (<xref ref-type="bibr" rid="r33">33</xref>).</p>
+				<p>A partir de Posadas, ubicada en el límite sur de Misiones, los casos de LV comenzaron a dispersarse progresivamente por el resto de la provincia (<xref ref-type="bibr" rid="r9">9</xref>) hasta llegar a Puerto Iguazú, en el extremo norte (<xref ref-type="table" rid="t1">cuadro 1</xref>), donde en 2010 se encontró <italic>Lu. longipalpis</italic> y se detectaron canes infectados en el perímetro urbano. Entre 2006 y 2008, las capturas en las áreas de transición rural-silvestre de Puerto Iguazú mostraron el predominio de <italic>Ny. whitmani</italic> y la ausencia de <italic>Lu. longipalpis</italic>. Pero ya en 2011, luego de la aparición de perros infectados, se colectó <italic>Lu. longipalpis</italic> (26,7%) en 31% de las unidades domésticas, exclusivamente en zonas urbanas, mientras que <italic>Ny. whitmani</italic> (67,5%) se encontró en 21% de los sitios ubicados principalmente en zonas rurales y periurbanas (<xref ref-type="bibr" rid="r34">34</xref>); esto implicó una segregación espacio-ambiental del riesgo de transmisión de la LC y la LV. Sin embargo, en el área próxima a la frontera con Brasil y Paraguay, las zonas de riesgo de LV y LC tienden a superponerse, tanto por el tránsito de personas y canes entre las áreas rurales y urbanas, como por el gradiente continuo de paisajes. Así, la colonización del vector en el sentido del área rural a la urbana, <italic>Ny. whitmani</italic> comenzó a estar presente en unidades domésticas urbanas en la periferia de Puerto Iguazú; mientras, en el sentido contrario (urbano a rural), <italic>Lu. longipalpis</italic> comenzó a aparecer gradualmente (0,4% de 38 277 casos de Phlebotominae estudiados) en viviendas rurales con al menos 10 años de intervención humana, en las que nunca se colectó el vector antes del año 2013 a pesar de los muestreos regulares (<xref ref-type="bibr" rid="r35">35</xref>).</p>
+				<table-wrap id="t1" orientation="portrait" position="float">
+					<label>CUADRO 1</label>
+					<caption>
+						<title>Casos de leishmaniasis cutánea y visceral notificados por departamento de origen, provincia de Misiones, Argentina, 2004-2014<sup><xref ref-type="table-fn" rid="t1n1">a</xref></sup></title>
+					</caption>
+					<table frame="border" rules="groups">
+						<thead valign="bottom">
+							<tr>
+								<th align="left" rowspan="3" valign="bottom">Departamento<sup><xref ref-type="table-fn" rid="t1n2">b</xref></sup></th>
+								<th align="center" colspan="11">Año</th>
+							</tr>
+							<tr>
+								<th align="center" colspan="11">
+									<hr/>
+								</th>
+							</tr>
+							<tr>
+								<th align="center">2004</th>
+								<th align="center">2005</th>
+								<th align="center">2006</th>
+								<th align="center">2007</th>
+								<th align="center">2008</th>
+								<th align="center">2009</th>
+								<th align="center">2010</th>
+								<th align="center">2011</th>
+								<th align="center">2012</th>
+								<th align="center">2013</th>
+								<th align="center">2014</th>
+							</tr>
+						</thead>
+						<tbody valign="bottom">
+							<tr>
+								<td align="left" colspan="4">Leishmaniasis cutánea</td>
+								<td align="left"/>
+								<td align="left"/>
+								<td align="left"/>
+								<td align="left"/>
+								<td align="left"/>
+								<td align="left"/>
+								<td align="left"/>
+								<td align="left"/>
+							</tr>
+							<tr>
+								<td align="left">Iguazú</td>
+								<td align="center">38</td>
+								<td align="center">36</td>
+								<td align="center">12</td>
+								<td align="center">8</td>
+								<td align="center">2</td>
+								<td align="center">23</td>
+								<td align="center">8</td>
+								<td align="center">5</td>
+								<td align="center"/>
+								<td align="center">7</td>
+								<td align="center">9</td>
+							</tr>
+							<tr>
+								<td align="left">GM Belgrano</td>
+								<td align="center">12</td>
+								<td align="center">1</td>
+								<td align="center">3</td>
+								<td align="center">6</td>
+								<td align="center">2</td>
+								<td align="center"/>
+								<td align="center">6</td>
+								<td align="center">13</td>
+								<td align="center"/>
+								<td align="center">11</td>
+								<td align="center">8</td>
+							</tr>
+							<tr>
+								<td align="left">Eldorado</td>
+								<td align="center">8</td>
+								<td align="center">3</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Pedro</td>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Montecarlo</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">1</td>
+							</tr>
+							<tr>
+								<td align="left">Guaraní</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+							</tr>
+							<tr>
+								<td align="left">San Martín</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Cainguás</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">25 de Mayo</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+							</tr>
+							<tr>
+								<td align="left">San Ignacio</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center">2</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center">1</td>
+							</tr>
+							<tr>
+								<td align="left">Oberá</td>
+								<td align="center">3</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">3</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">3</td>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">1</td>
+							</tr>
+							<tr>
+								<td align="left">Candelaria</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Alem</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Javier</td>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">5</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Concepción</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">3</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Posadas (capital)</td>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">4</td>
+								<td align="center">4</td>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center">4</td>
+								<td align="center">1</td>
+							</tr>
+							<tr>
+								<td align="left">Apóstoles</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">3</td>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left" colspan="4">Leishmaniasis visceral</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Iguazú</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+							</tr>
+							<tr>
+								<td align="left">GM Belgrano</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Eldorado</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Pedro</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Montecarlo</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Guaraní</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Martín</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Cainguás</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">25 de Mayo</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Ignacio</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center">3</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Oberá</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">4</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Candelaria</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center">2</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Alem</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">2</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Javier</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Concepción</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center"/>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Posadas (capital)</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">2</td>
+								<td align="center">14</td>
+								<td align="center">10</td>
+								<td align="center">11</td>
+								<td align="center">8</td>
+								<td align="center">3</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Apóstoles</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">0</td>
+								<td align="center">0</td>
+								<td align="center">2</td>
+								<td align="center">0</td>
+								<td align="center">1</td>
+								<td align="center">1</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn>
+							<p><bold><italic>Fuente:</italic></bold> Elaboración propia a partir de datos suministrados por J. Estévez y J. Gutiérrez, (comunicación personal, julio de 2015).</p>
+						</fn>
+						<fn id="t1n1">
+							<label>a</label>
+							<p>Las celdas en blanco indican que no hubo notificaciones.</p>
+						</fn>
+						<fn id="t1n2">
+							<label>b</label>
+							<p>Los departamentos se han ordenado de norte a sur.</p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+				<p>En 2013, se encontró que 7,17% de los perros de Puerto Iguazú resultó positivo al diagnóstico serológico de LV y se tipificó el agente como <italic>L. infantum</italic> (<xref ref-type="bibr" rid="r36">36</xref>); por su parte, a comienzos de 2014 se registraron en Iguazú dos casos de LV en personas adultas con enfermedades previas asociadas con deficiencias inmunológicas; además, se detectó ADN de <italic>L. infantum</italic> en individuos de <italic>Ny. whitmani</italic> y <italic>Migonemyia migonei</italic> capturados en esa localidad (<xref ref-type="bibr" rid="r37">37</xref>).</p>
+				<p>Los casos detectados de LC, aunque luego de los brotes de 2004 disminuyeron con canales endémicos más elevados que la media histórica, se concentraron en los departamentos del norte de la provincia (<xref ref-type="table" rid="t1">cuadro 1</xref>). En relación con los vectores, las capturas sistemáticas mostraron que en la región norte también había una mayor diversidad de especies de Phlebotominae (<xref ref-type="table" rid="t2">cuadro 2</xref>).</p>
+				<table-wrap id="t2" orientation="portrait" position="float">
+					<label>CUADRO 2</label>
+					<caption>
+						<title>Registros por departamento de Phlebotominae diferentes a <italic>Nyssomyia neivai, Ny. whitmani, Migonemyia migonei</italic> y <italic>Lutzomyia longipalpis</italic> en la provincia de Misiones, Argentina, antes de 1950 (A) y de 1993 a 2014 (B)<sup><xref ref-type="table-fn" rid="t2n1">a</xref></sup></title>
+					</caption>
+					<table frame="border" rules="groups">
+						<thead valign="bottom">
+							<tr>
+								<th align="left" rowspan="3" valign="bottom">Departamento<sup><xref ref-type="table-fn" rid="t2n2">b</xref></sup></th>
+								<th align="center" colspan="14">Especies de Phlebotominae<sup><xref ref-type="table-fn" rid="t2n3">c</xref></sup></th>
+							</tr>
+							<tr>
+								<th align="center" colspan="14">
+									<hr/>
+								</th>
+							</tr>
+							<tr>
+								<th align="center"><italic>Ec</italic></th>
+								<th align="center"><italic>Ps</italic></th>
+								<th align="center"><italic>Pmi</italic></th>
+								<th align="center"><italic>Mq</italic></th>
+								<th align="center"><italic>Pf</italic></th>
+								<th align="center"><italic>Ma</italic></th>
+								<th align="center"><italic>Pmo</italic></th>
+								<th align="center"><italic>Ppe</italic></th>
+								<th align="center"><italic>Ppa</italic></th>
+								<th align="center"><italic>Ee</italic></th>
+								<th align="center"><italic>Pl</italic></th>
+								<th align="center"><italic>Ba</italic></th>
+								<th align="center"><italic>Bg</italic></th>
+								<th align="center"><italic>Xx</italic></th>
+							</tr>
+						</thead>
+						<tbody valign="bottom">
+							<tr>
+								<td align="left">Iguazú</td>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center">A, B</td>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center">A, B</td>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center">B</td>
+							</tr>
+							<tr>
+								<td align="left">GM Belgrano</td>
+								<td align="center"/>
+								<td align="center">A, B</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Eldorado</td>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Pedro</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Montecarlo</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Guaraní</td>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Martín</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Cainguás</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">25 de Mayo</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Ignacio</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Oberá</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Candelaria</td>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center">A</td>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A, B</td>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Alem</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">San Javier</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">A</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Montecarlo</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Posadas (capital)</td>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center">B</td>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+							<tr>
+								<td align="left">Apóstoles</td>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+								<td align="center"/>
+							</tr>
+						</tbody>
+					</table>
+					<table-wrap-foot>
+						<fn>
+							<p><bold><italic>Fuente:</italic></bold> Elaboración propia a partir de capturas (<xref ref-type="bibr" rid="r8">8</xref>, <xref ref-type="bibr" rid="r9">9</xref>, <xref ref-type="bibr" rid="r21">21</xref>, <xref ref-type="bibr" rid="r22">22</xref>, <xref ref-type="bibr" rid="r24">24</xref>, <xref ref-type="bibr" rid="r31">31</xref>).</p>
+						</fn>
+						<fn id="t2n1">
+							<label>a</label>
+							<p>Las celdas en blanco indican que no hubo notificaciones.</p>
+						</fn>
+						<fn id="t2n2">
+							<label>b</label>
+							<p>Los departamentos se han ordenado de norte a sur.</p>
+						</fn>
+						<fn id="t2n3">
+							<label>c</label>
+							<p><italic>Ec: Evandromyia cortelezzii/sallesi; Ps: Psathyromyia shannoni; Pmi: Pintomyia misionensis; Mq: Micropygomyia quinquefer</italic>; <italic>Pf: Pintomyia fischeri; Ma: Martinsmyia alphabetica; Pmo: Pintomyia montícola; Ppe: Pintomyia pessoai; Ppa: Psathyromyia pascalei</italic>; <italic>Ee: Evandromyia evandroi; Pl: Psathyromyia lanei</italic>; <italic>Ba: Brumptomyia avellari; Bg: Brumptomyia guimaraesi</italic>; <italic>Xx: Micropygomyia oswaldoi, Pintomyia bianchigalatiae, Pintomyia damascenoi, Psathyromyia punctigeniculata Expapillata firmatoi, Micropygomyia capixaba, Evandromyia correalimai, Evandromyia edwardsi, Evandromyia bourrouli, Brumptomyia brumpti</italic> y <italic>Brumptomyia pintoi.</italic></p>
+						</fn>
+					</table-wrap-foot>
+				</table-wrap>
+			</sec>
+			<sec id="s2d">
+				<title>PERSPECTIVA ECO-EPIDEMIOLÓGICA</title>
+				<p>En Misiones, los estudios realizados muestran diferentes escenarios de transmisión y riesgo de leishmaniasis durante las décadas analizadas. Para generar recomendaciones en la escala de análisis utilizada mediante la perspectiva eco-epidemiológica, es necesario reinterpretar los resultados en el contexto de los procesos socioeconómicos de construcción del territorio.</p>
+			</sec>
+			<sec id="s2e">
+				<title>Leishmaniasis cutánea</title>
+				<p>Hasta la década de 1930, la selva de Misiones era un espacio ocupado por poblaciones dispersas y nómadas de nativos, fugitivos, contrabandistas y trabajadores que se internaban temporalmente en ella. Desde la percepción social, era una frontera a conquistar para la extracción forestal y la recolección de yerba mate silvestre (<italic>Hylex</italic> sp.) González y Arce Queirolo, al analizar un brote de LC registrado en 1934, durante la Guerra del Chaco, describen la enfermedad como endémica del oriente de Paraguay (<xref ref-type="bibr" rid="r38">38</xref>), donde ya era conocida desde comienzos del siglo XX (<xref ref-type="bibr" rid="r39">39</xref>). Sin embargo, aunque se sabe que la LC estaba presente (<xref ref-type="bibr" rid="r19">19</xref>), los registros —de baja calidad— no aportan evidencias suficientes para conocer su incidencia.</p>
+				<p>Entre 1930 y 1960, la Selva Misionera se percibía como una fuente de materia prima a muy bajo costo y se caracterizaba por su colonización por migrantes, la deforestación por concesiones y la instalación de aserraderos de bajo nivel de capitalización. En esta etapa, previa al brote de LC en Puerto Esperanza, el registro de casos incidentes de esta enfermedad mantuvo variaciones (<xref ref-type="fig" rid="f1">figura 1</xref>), aunque esto pudo deberse a cambios en la capacidad diagnóstica. Los colonos tendían a concentrarse en centros urbanos de nueva creación, con estancias esporádicas en el borde de deforestación, lo que provocó brotes epidémicos aislados de fuente común, tanto en hombres ocupados en la deforestación como en grupos familiares dedicados al cultivo de la yerba mate. De esta forma, estos bordes de deforestación, que no se originaron necesariamente para la creación de espacios domésticos, pudieron generar también un incremento microfocal de la abundancia de vectores y el consecuente riesgo de transmisión (<xref ref-type="bibr" rid="r40">40</xref>).</p>
+				<p>El desarrollo y el avance de tres nuevas fronteras relacionadas con la deforestación y los cambios asociados al uso y la ocupación de la tierra pueden explicar la secuencia y la localización de los brotes epidémicos de LC registrados en la provincia de Misiones a partir de 1970.</p>
+				<sec>
+					<title>La frontera biológica</title>
+					<p>En la década de 1980, después de haber disminuido por la deforestación masiva, la incidencia de LC reemergió y comenzó su expansión desde el centro-sur de Brasil y desde el noroeste en Argentina. Esta “onda epidémica” se asoció con la adaptación de vectores al ámbito doméstico en áreas de asentamientos con décadas de intervención antrópica (<xref ref-type="bibr" rid="r41">41</xref>, <xref ref-type="bibr" rid="r42">42</xref>), como se constató durante el brote con <italic>Ny. neivai</italic> en Puerto Esperanza en 1998 (<xref ref-type="bibr" rid="r16">16</xref>) y en ciudades fronterizas con Misiones desde el año 2000 (<xref ref-type="bibr" rid="r43">43</xref>). Sin embargo, en Misiones estos vectores aún no han colonizado con éxito el ambiente modificado o al menos la tasa de infección permanece baja, pues los brotes siguen siendo de incidencia baja y localización limitada, situación diferente a la encontrada en la zona hiperendémica del noroeste argentino (<xref ref-type="bibr" rid="r7">7</xref>).</p>
+				</sec>
+				<sec>
+					<title>La frontera interna</title>
+					<p>El agotamiento de tierras plausibles de ser deforestadas y el comienzo de la explotación agroforestal industrial, con tercerización del trabajo, creó nuevos y extensos bordes no lineales, pero permanentes, de exposición laboral, puesto de manifiesto en el brote registrado en las inmediaciones de la represa Urugua-í. A su vez, tras la crisis financiera de 2001 en Argentina, la migración interna (<xref ref-type="bibr" rid="r44">44</xref>), junto con la expulsión del mercado de pequeños agricultores, generó la búsqueda de tierras en el norte de Misiones para la explotación o la radicación familiar. Cercados por territorios ya urbanizados —propiedad de las empresas agroforestales— o áreas conservadas intangibles, los nuevos pobladores no tuvieron otra opción que desplazarse hacia los bordes y ocupar tierras fiscales en un marco de conflicto social. Este fue el escenario del brote registrado en la zona denominada Dos Mil Hectáreas.</p>
+					<p>Las prácticas empleadas por las granjas familiares producen un patrón de deforestación irregular en el espacio y dinámico en el tiempo, donde la proximidad del borde de deforestación y las viviendas generan un área de riesgo permanente de exposición a los vectores (<xref ref-type="bibr" rid="r40">40</xref>). Por ello, los casos de LC se concentran en Iguazú y GM Belgrano, dos departamentos del norte de Misiones (<xref ref-type="table" rid="t1">cuadro 1</xref>), donde se encuentran las áreas de reservas naturales. Así, la determinación social de riesgo que implica desplazamiento a zonas de borde de bajo valor de mercado o tierras fiscales (brote de Dos Mil Hectáreas) o condiciones laborales precarizadas (brote de Urugua-í), en acción sinérgica con el riesgo biológico generado por la relación del borde de deforestación y el ambiente doméstico o la actividad laboral, aumentó el riesgo de transmisión asociado a las nuevas fronteras internas de la deforestación.</p>
+				</sec>
+				<sec>
+					<title>Fronteras externas</title>
+					<p>Diversos fenómenos confluyentes pueden haber contribuido al aumento de la circulación parasitaria. La deforestación extensiva (<xref ref-type="bibr" rid="r45">45</xref>) y la construcción de la represa de Itaipú —en la triple frontera entre Argentina, Paraguay y Brasil— generaron un impacto demográfico, ambiental y climático extraordinario (<xref ref-type="bibr" rid="r46">46</xref>, <xref ref-type="bibr" rid="r47">47</xref>). En el estado de Paraná, Brasil, en el período 1980-2007 se registraron 13 976 casos de LC, y el riesgo de transmisión se asoció con la proximidad de grupos de población a los bordes de selva residual (<xref ref-type="bibr" rid="r48">48</xref>).</p>
+					<p>La superficie cubierta de bosques de la región oriental de Paraguay se redujo de 55% en 1945 a 5% en el año 2000, debido al uso de sus árboles para leña y el avance de la agricultura (<xref ref-type="bibr" rid="r49">49</xref>). En los últimos años, el cambio del uso de la tierra se debió a las plantaciones de soja a gran escala (<xref ref-type="bibr" rid="r45">45</xref>), lo que ha provocado la migración de agricultores minifundistas hacia centros urbanos (<xref ref-type="bibr" rid="r50">50</xref>). El departamento de Canindeyú, uno de los más afectados por este desarrollo agroindustrial, presentó la mayor incidencia de LC, con una tasa de 90,73 por 100 000 habitantes en el período 2007–2009, mientras el departamento de Alto Paraná presentó una tasa de 8,4 por 100 000 habitantes en ese mismo período (<xref ref-type="bibr" rid="r51">51</xref>).</p>
+					<p>De esta manera, en el territorio de Misiones, a la presión selectiva de la deforestación sobre los vectores para su adaptación al ambiente modificado (frontera biológica) y a la creación de bordes dinámicos de deforestación que aumentó el contacto de los vectores con la población expuesta (frontera interna), se agregó la relocalización y la migración masiva de la población en los países vecinos (frontera externa). Estas transformaciones externas se caracterizaron por cambios en el uso de la tierra, que elevaron el riesgo de transmisión de la LC en el espacio de la unidad doméstica —domicilio y peridomicilio— y el incremento de la circulación parasitaria en un escenario de tránsito vecinal fronterizo intenso (<xref ref-type="bibr" rid="r52">52</xref>). La persistencia de estos procesos de fronteras podría indicar que la situación reciente de baja incidencia debe considerarse como un período interepidémico y no una tendencia a la reducción de la transmisión.</p>
+					<p>Este escenario de riesgo se puede extrapolar a diversos sitios de América Latina y explicar los brotes de LC ocurridos por la mayor proximidad de las personas a los bordes de deforestación, la migración de personas susceptibles, la colonización rural y la incorporación de nuevas áreas para el cultivo (<xref ref-type="bibr" rid="r53">53</xref>, <xref ref-type="bibr" rid="r54">54</xref>). Estos escenarios se han registrado en Bolivia (<xref ref-type="bibr" rid="r55">55</xref>), Brasil (<xref ref-type="bibr" rid="r56">56</xref>), Ecuador (<xref ref-type="bibr" rid="r57">57</xref>), Guayana Francesa (<xref ref-type="bibr" rid="r58">58</xref>), Perú (<xref ref-type="bibr" rid="r59">59</xref>) y Surinam (<xref ref-type="bibr" rid="r13">13</xref>).</p>
+				</sec>
+			</sec>
+			<sec id="s2f">
+				<title>Leishmaniasis visceral</title>
+				<p>El incremento de la migración, el turismo y el flujo comercial a partir de la década de 1970 favorecieron la aparición de los eventos epidémicos de LV en el sur de Brasil y Paraguay. A partir de 2006, la dispersión por contigüidad en el sur de Misiones y la aparición discontinua en el norte (<xref ref-type="table" rid="t1">cuadro 1</xref>) sugieren la presencia de mecanismos de progresión espacial por las rutas más transitadas y por la migración generada por la demanda de servicios para el turismo en Iguazú. Asimismo, se deben considerar los cambios en la interacción entre las personas y los perros y, en consecuencia, los conflictos multisectoriales asociados con las acciones programáticas, que favorecieron la dispersión de la enfermedad (<xref ref-type="bibr" rid="r60">60</xref>).</p>
+				<p>En los focos registrados, la urbanización no planificada está caracterizada por la intercalación de áreas verdes y de uso doméstico, que aumenta las fuentes de sangre para los parásitos, la cantidad de material orgánico y el pobre escurrimiento hídrico que favorece la colonización y la persistencia de <italic>Lu. longipalpis</italic> (<xref ref-type="bibr" rid="r61">61</xref>). Estas características ambientales se asocian por lo general, tal como ocurre con la LC, con la ocupación de tierras fiscales y de bajo valor de mercado —con deficientes servicios sanitarios y dificultades de acceso al sistema de salud—, lo que a su vez resulta en la determinación social del riesgo de la LV.</p>
+				<p>La LV urbana en Argentina muestra una tendencia a la reducción de la incidencia de casos clínicos en los primeros focos y su dispersión hacia nuevos sitios; sin embargo, esa tendencia se debe interpretar con precaución, dado el corto período considerado y la posibilidad de reactivación de focos.</p>
+				<p>Como fenómeno regional, la LV en Brasil también se asoció con la urbanización no planificada y las migraciones de personas y perros acompañantes infectados. En los estados de São Paulo y Mato Grosso do Sul, desde donde habría ingresado la enfermedad a Paraguay y luego a Argentina, esta dispersión se asoció —en tiempo y espacio— con la construcción de autopistas federales y el gasoducto entre Bolivia y Brasil (<xref ref-type="bibr" rid="r12">12</xref>, <xref ref-type="bibr" rid="r14">14</xref>). Como en el caso de la LC, la deforestación, unida a la migración masiva, se relaciona con procesos socioeconómicos que se pueden regular y monitorear a diferentes escalas.</p>
+			</sec>
+		</sec>
+		<sec id="s3" sec-type="conclusions">
+			<title>CONCLUSIONES</title>
+			<p>El enfoque retrospectivo aplicado a la eco-epidemiología de la LC y la LV permitió integrar los contextos sociales y biológicos, que explican la modulación del riesgo de transmisión de la leishmaniasis en Misiones, Argentina, entre 1920 y 2014. Esta metodología, aplicada en la escala de primera jurisdicción subnacional a fin de caracterizar los escenarios de riesgo y los procesos antrópicos que los producen, generó evidencias que permiten fundamentar recomendaciones de vigilancia y control en dicha escala. Se resumen a continuación las recomendaciones derivadas de este estudio de caso.</p>
+		</sec>
+		<sec id="s4">
+			<title>RECOMENDACIONES</title>
+			<sec id="s4a">
+				<title>Leishmaniasis cutánea</title>
+				<sec>
+					<title>En focos de transmisión histórica</title>
+					<p>Establecer una vigilancia activa para monitorear posibles tendencias al incremento de la circulación parasitaria (riesgo de foco epidémico).</p>
+				</sec>
+				<sec>
+					<title>En bordes de vegetación estables</title>
+					<p>Establecer la vigilancia vectorial para monitorear la colonización doméstica (riesgo de incremento de casos) debido al cambio de comportamiento vectorial o la aparición de nuevas especies de vectores (riesgo de foco epidémico).</p>
+				</sec>
+				<sec>
+					<title>En áreas de bordes de deforestación nuevos</title>
+					<p>Sensibilizar al personal de salud para lograr la detección temprana, el correcto diagnóstico y el tratamiento oportuno de los casos, así como establecer el monitoreo vectorial para evaluar y prever la aparición de casos (riesgo de brote de fuente común).</p>
+				</sec>
+				<sec>
+					<title>En áreas endémicas</title>
+					<p>Establecer la obligación legal de los responsables de los proyectos que impliquen la modificación ambiental o la generación de bordes de deforestación —como la tala de árboles, el anegamiento de terrenos y el crecimiento periférico urbano, entre otros— de tomar medidas adicionales de control. Entre esas medidas están la realización de estudios de evaluación del riesgo de transmisión de LC —tanto antes como después de la intervención—, así como acciones de mitigación del riesgo, detección temprana y tratamiento oportuno de los casos. Estas medidas y acciones adicionales pueden ejecutarse directamente en el marco de los proyectos o mediante la financiación de las investigaciones correspondientes, según sea más factible.</p>
+				</sec>
+				<sec>
+					<title>Acciones complementarias a escala nacional</title>
+					<p>Establecer legalmente la responsabilidad de las empresas en el establecimiento del monitoreo del riesgo, la cobertura médica apropiada y la protección de los trabajadores (riesgo laboral), así como en la mitigación del impacto ambiental.</p>
+				</sec>
+			</sec>
+			<sec id="s4b">
+				<title>Leishmaniasis visceral</title>
+				<sec>
+					<title>Ante el primer caso humano o canino</title>
+					<p>Emprender el estudio del foco para verificar la transmisión autóctona y la intensidad del evento (estratificación del riesgo) y aplicar las medidas y acciones de intervención programática que correspondan.</p>
+				</sec>
+				<sec>
+					<title>Ante el riesgo de dispersión</title>
+					<p>Establecer la vigilancia vectorial y hacer las estimaciones pertinentes de la prevalencia en perros de las localidades contiguas a las que presentan transmisión autóctona; para ello, se debe tener en cuenta la conectividad y la intensidad del tránsito de personas y el intercambio de bienes y servicios (estratificación del riesgo), y aplicar las medidas y las acciones de intervención programática que correspondan.</p>
+				</sec>
+				<sec>
+					<title>Ante procesos que eleven el riesgo de transmisión</title>
+					<p>Establecer la obligación legal de los responsables de los proyectos o los desarrollos que impliquen la migración masiva de personas en áreas con riesgo de transmisión o con transmisión endémica de LV, de tomar medidas y acciones específicas para evitar o reducir la transmisión de esta enfermedad. Entre esas medidas y acciones se pueden mencionar la realización de evaluaciones epidemiológicas y el mantenimiento del monitoreo del riesgo de transmisión de LV mediante estudios socio-ambientales, vectoriales y de reservorios, tanto antes como después de la intervención y según los escenarios de tránsito fronterizo. Además, deben actuar para mitigar el riesgo y lograr la detección temprana de los casos y su tratamiento oportuno.</p>
+				</sec>
+			</sec>
+			<sec id="s4c">
+				<title>Acciones complementarias a escala nacional y local</title>
+				<sec>
+					<title>Riesgo de transmisión transfronterizo</title>
+					<p>Generar marcos legales y órganos de aplicación para la regulación sanitaria del tránsito de perros, tanto entre países como entre zonas con y sin transmisión.</p>
+				</sec>
+				<sec>
+					<title>Prevención sostenible de la leishmaniasis</title>
+					<p>Promover el ordenamiento territorial en áreas de recepción de migrantes y el manejo ambiental responsable de las áreas públicas y privadas con población residente, tanto a nivel provincial como comunal, barrial e individual.</p>
+				</sec>
+				<sec>
+					<title>Reducción del riesgo intra- e interurbano</title>
+					<p>Establecer regulaciones consensuadas entre los diferentes actores y sectores involucrados sobre la tenencia y la reproducción responsables de perros y gatos, requisitos sanitarios para el tránsito de animales de estimación y el manejo de poblaciones de perros callejeros.</p>
+				</sec>
+				<sec>
+					<title>Acciones complementarias en diferentes escalas y jurisdicciones</title>
+					<p>Promover activamente —tanto a nivel nacional y provincial como comunal, barrial e individual— una gestión intersectorial que incluya la leishmaniasis entre las enfermedades de transmisión vectorial asociadas al ambiente y los animales domésticos. Esta gestión, dirigida a apoyar la reducción sostenible de la transmisión de la leishmaniasis, deberá considerar la determinación social de riesgo, por lo que deberá contemplar entre sus objetivos una mayor equidad en el acceso a los servicios de salud de calidad, y a viviendas y espacios laborales saludables.</p>
+				</sec>
+			</sec>
+		</sec>
+	</body>
+	<back>
+		<ack>
+			<title>Agradecimientos</title>
+			<p>A Julio Estévez, director de Epidemiología, y Jorge Gutiérrez, Jefe del Departamento de Vigilancia Epidemiológica, ambos del Ministerio de Salud Pública de la Provincia de Misiones, Argentina, por la información sobre los casos de leishmaniasis por departamentos. Al Centro Internacional de Investigaciones para el Desarrollo (IDRC) y la Organización Panamericana de la Salud por contribuir con un proyecto de investigación en la zona de la frontera entre Argentina, Brasil y Paraguay, que permitirá integrar los resultados del presente análisis.</p>
+		</ack>
+		<sec>
+			<title>Conflicto de intereses</title>
+			<p>Ninguno.</p>
+		</sec>
+		<sec>
+			<title>Declaración</title>
+			<p>Las opiniones expresadas en este manuscrito son responsabilidad del autor y no reflejan necesariamente los criterios ni la política de la RPSP/PAJPH y/o de la OPS.</p>
+		</sec>
+		<ref-list id="references">
+			<title>REFERENCIAS</title>
+			<ref id="r1">
+				<label>1</label>
+				<mixed-citation>1 Maudlin I, Eisler MC, Welburn SC. Neglected and endemic zoonoses. Philos Trans R Soc Lond B Biol Sci. 2009;364(1530):2777–87.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Maudlin</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Eisler</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Welburn</surname>
+							<given-names>SC</given-names>
+						</name>
+					</person-group>
+					<article-title>Neglected and endemic zoonoses</article-title>
+					<source>Philos Trans R Soc Lond B Biol Sci</source>
+					<year>2009</year>
+					<volume>364</volume>
+					<issue>1530</issue>
+					<fpage>2777</fpage>
+					<lpage>87</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r2">
+				<label>2</label>
+				<mixed-citation>2 Alvar J, Vélez ID, Bern C, Herrero M, Desjeux P, Cano J, et al. Leishmaniasis worldwide and global estimates of its incidence. PLoS One. 2012;7(5):e35671.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alvar</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Vélez</surname>
+							<given-names>ID</given-names>
+						</name>
+						<name>
+							<surname>Bern</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Herrero</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Desjeux</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Cano</surname>
+							<given-names>J</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Leishmaniasis worldwide and global estimates of its incidence</article-title>
+					<source>PLoS One</source><bold>.</bold><year>2012</year>
+					<volume>7</volume>
+					<issue>5</issue>
+					<fpage>e35671</fpage>
+				</element-citation>
+			</ref>
+			<ref id="r3">
+				<label>3</label>
+				<mixed-citation>3 Organización Panamericana de la Salud. Leishmaniasis, informe epidemiológico de las Américas. Informe Leishmaniasis N.° 1. Washington, D.C.: OPS; 2013.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Organización Panamericana de la Salud</collab>
+					</person-group>
+					<source>Leishmaniasis, informe epidemiológico de las Américas. Informe Leishmaniasis N.° 1</source>
+					<publisher-loc>Washington, D.C.</publisher-loc>
+					<publisher-name>OPS</publisher-name>
+					<year>2013</year>
+				</element-citation>
+			</ref>
+			<ref id="r4">
+				<label>4</label>
+				<mixed-citation>4 Costa MA, Llagostera A. Leishmaniasis en Coyo Oriente: migrantes trasandinos en San Pedro de Atacama. Estud Atacameños (Atacama). 2014;47:5–18.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Costa</surname>
+							<given-names>MA</given-names>
+						</name>
+						<name>
+							<surname>Llagostera</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Leishmaniasis en Coyo Oriente: migrantes trasandinos en San Pedro de Atacama</article-title>
+					<source>Estud Atacameños (Atacama)</source>
+					<year>2014</year>
+					<volume>47</volume>
+					<fpage>5</fpage>
+					<lpage>18</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r5">
+				<label>5</label>
+				<mixed-citation>5 Bernasconi VE. Consideraciones sobre el censo de leishmaniosis. Rev Soc Patol Reg Norte. 1930;5:590–602.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bernasconi</surname>
+							<given-names>VE</given-names>
+						</name>
+					</person-group>
+					<article-title>Consideraciones sobre el censo de leishmaniosis</article-title>
+					<source>Rev Soc Patol Reg Norte</source>
+					<year>1930</year>
+					<volume>5</volume>
+					<fpage>590</fpage>
+					<lpage>602</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r6">
+				<label>6</label>
+				<mixed-citation>6 Bejarano JRF, Duret JP. Contribución al conocimiento de los flebótomos argentinos (Diptera: Psychodidae). Rev Sanid Mil Arg. 1950;49:327–36.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bejarano</surname>
+							<given-names>JRF</given-names>
+						</name>
+						<name>
+							<surname>Duret</surname>
+							<given-names>JP</given-names>
+						</name>
+					</person-group>
+					<article-title>Contribución al conocimiento de los flebótomos argentinos (Diptera: Psychodidae)</article-title>
+					<source>Rev Sanid Mil Arg</source>
+					<year>1950</year>
+					<volume>49</volume>
+					<fpage>327</fpage>
+					<lpage>36</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r7">
+				<label>7</label>
+				<mixed-citation>7 Quintana MG, Fernández MS, Salomón OD. Distribution and abundance of Phlebotominae, vectors of leishmaniasis, in Argentina: spatial and temporal analysis at different scales. J Trop Med. 2012;2012. doi: 10.1155/2012/652803.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Quintana</surname>
+							<given-names>MG</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+					</person-group>
+					<article-title>Distribution and abundance of Phlebotominae, vectors of leishmaniasis, in Argentina: spatial and temporal analysis at different scales</article-title>
+					<source>J Trop Med</source>
+					<year>2012</year>
+					<fpage>2012</fpage>
+					<pub-id pub-id-type="doi">10.1155/2012/652803</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="r8">
+				<label>8</label>
+				<mixed-citation>8 Salomón OD, Rossi G, Sosa Estani S, Spinelli G. Presencia de Lutzomyia longipalpis y situación de la leishmaniosis visceral en Argentina. Medicina (Buenos Aires). 2001;61:174–8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Rossi</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Sosa Estani</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Spinelli</surname>
+							<given-names>G</given-names>
+						</name>
+					</person-group>
+					<article-title>Presencia de <italic>Lutzomyia longipalpis</italic>y situación de la leishmaniosis visceral en Argentina</article-title>
+					<source>Medicina (Buenos Aires)</source>
+					<year>2001</year>
+					<volume>61</volume>
+					<fpage>174</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r9">
+				<label>9</label>
+				<mixed-citation>9 Gould TI, Perner MS, Santini MS, Saavedra SB, Bezzi G, Maglianese MI, et al. Leishmaniasis visceral en la Argentina: notificación y situación vectorial (2006-2012). Medicina (Buenos Aires). 2013;73: 104–10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gould</surname>
+							<given-names>TI</given-names>
+						</name>
+						<name>
+							<surname>Perner</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Saavedra</surname>
+							<given-names>SB</given-names>
+						</name>
+						<name>
+							<surname>Bezzi</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Maglianese</surname>
+							<given-names>MI</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Leishmaniasis visceral en la Argentina: notificación y situación vectorial (2006-2012)</article-title>
+					<source>Medicina (Buenos Aires)</source>
+					<year>2013</year>
+					<volume>73</volume>
+					<fpage>104</fpage>
+					<lpage>10</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r10">
+				<label>10</label>
+				<mixed-citation>10 Argentina, Ministerio de Salud de la Nación. Boletín Integrado de Vigilancia. SNVS. Buenos Aires: Ministerio de Salud; 2013-2014. Hallado en: <ext-link ext-link-type="uri" xlink:href="http://www.msal.gov.ar/index.php/home/boletin-integrado-de-vigilancia">http://www.msal.gov.ar/index.php/home/boletin-integrado-de-vigilancia</ext-link>. Acceso el 15 de abril de 2016.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Argentina, Ministerio de Salud de la Nación</collab>
+					</person-group>
+					<source>Boletín Integrado de Vigilancia. SNVS</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Ministerio de Salud</publisher-name>
+					<year>2013-2014</year>
+					<comment>Hallado en: <ext-link ext-link-type="uri" xlink:href="http://www.msal.gov.ar/index.php/home/boletin-integrado-de-vigilancia">http://www.msal.gov.ar/index.php/home/boletin-integrado-de-vigilancia</ext-link>. Acceso el 15 de abril de 2016</comment>
+				</element-citation>
+			</ref>
+			<ref id="r11">
+				<label>11</label>
+				<mixed-citation>11 Susser M, Susser E. Choosing a future for epidemiology: II. From black box to Chinese boxes and eco-epidemiology. Am J Public Health. 1996;86:674–7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Susser</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Susser</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<article-title>Choosing a future for epidemiology: II. From black box to Chinese boxes and eco-epidemiology</article-title>
+					<source>Am J Public Health</source>
+					<year>1996</year>
+					<volume>86</volume>
+					<fpage>674</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r12">
+				<label>12</label>
+				<mixed-citation>12 Cardim MF, Rodas LA, Dibo MR, Guirado MM, Oliveira AM, Chiaravalloti-Neto F. Introduction and expansion of human American visceral leishmaniasis in the state of Sao Paulo, Brazil, 1999-2011. Rev Saude Publica. 2013;47:691–700.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cardim</surname>
+							<given-names>MF</given-names>
+						</name>
+						<name>
+							<surname>Rodas</surname>
+							<given-names>LA</given-names>
+						</name>
+						<name>
+							<surname>Dibo</surname>
+							<given-names>MR</given-names>
+						</name>
+						<name>
+							<surname>Guirado</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>Oliveira</surname>
+							<given-names>AM</given-names>
+						</name>
+					</person-group>
+					<article-title>Chiaravalloti-Neto F. Introduction and expansion of human American visceral leishmaniasis in the state of Sao Paulo, Brazil, 1999-2011</article-title>
+					<source>Rev Saude Publica</source>
+					<year>2013</year>
+					<volume>47</volume>
+					<fpage>691</fpage>
+					<lpage>700</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r13">
+				<label>13</label>
+				<mixed-citation>13 Kent AD, Dos Santos TV, Gangadin A, Samjhawan A, Mans DR, Schallig HD. Studies on the sand fly fauna (Diptera: Psychodidae) in high-transmission areas of cutaneous leishmaniasis in the Republic of Suriname. Parasit Vectors. 2013;6:318.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kent</surname>
+							<given-names>AD</given-names>
+						</name>
+						<name>
+							<surname>Dos Santos</surname>
+							<given-names>TV</given-names>
+						</name>
+						<name>
+							<surname>Gangadin</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Samjhawan</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Mans</surname>
+							<given-names>DR</given-names>
+						</name>
+						<name>
+							<surname>Schallig</surname>
+							<given-names>HD</given-names>
+						</name>
+					</person-group>
+					<article-title>Studies on the sand fly fauna (Diptera: Psychodidae) in high-transmission areas of cutaneous leishmaniasis in the Republic of Suriname</article-title>
+					<source>Parasit Vectors</source>
+					<year>2013</year>
+					<volume>6</volume>
+					<fpage>318</fpage>
+				</element-citation>
+			</ref>
+			<ref id="r14">
+				<label>14</label>
+				<mixed-citation>14 Correa Antonialli SA, Torres TG, Paranhos Filho AC, Tolezano JE. Spatial analysis of American visceral leishmaniasis in Mato Grosso do Sul state, Central Brazil. J Infect. 2007;54:509–14.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Correa Antonialli</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>TG</given-names>
+						</name>
+						<name>
+							<surname>Paranhos</surname>
+							<given-names>Filho AC</given-names>
+						</name>
+						<name>
+							<surname>Tolezano</surname>
+							<given-names>JE</given-names>
+						</name>
+					</person-group>
+					<article-title>Spatial analysis of American visceral leishmaniasis in Mato Grosso do Sul state, Central Brazil</article-title>
+					<source>J Infect</source>
+					<year>2007</year>
+					<volume>54</volume>
+					<fpage>509</fpage>
+					<lpage>14</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r15">
+				<label>15</label>
+				<mixed-citation>15 Argentina, Instituto Provincial de Estadística y Censos. Gran atlas de Misiones. Posadas: IPEC; 2012.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Argentina, Instituto Provincial de Estadística y Censos</collab>
+					</person-group>
+					<source>Gran atlas de Misiones</source>
+					<publisher-loc>Posadas</publisher-loc>
+					<publisher-name>IPEC</publisher-name>
+					<year>2012</year>
+				</element-citation>
+			</ref>
+			<ref id="r16">
+				<label>16</label>
+				<mixed-citation>16 Salomón OD, Orellano PW, Quintana MG, Pérez S, Sosa Estani S, Acardi S, et al. Transmisión de la leishmaniasis tegumentaria en Argentina. Medicina (Buenos Aires). 2006;66:211–9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Orellano</surname>
+							<given-names>PW</given-names>
+						</name>
+						<name>
+							<surname>Quintana</surname>
+							<given-names>MG</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Sosa Estani</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Acardi</surname>
+							<given-names>S</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Transmisión de la leishmaniasis tegumentaria en Argentina</article-title>
+					<source>Medicina (Buenos Aires)</source>
+					<year>2006</year>
+					<volume>66</volume>
+					<fpage>211</fpage>
+					<lpage>9</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r17">
+				<label>17</label>
+				<mixed-citation>17 Salomón OD, Sinagra A, Nevot MC, Barberian G, Paulin P, Estevez JO, et al. First visceral leishmaniasis focus in Argentina. Mem Inst Oswaldo Cruz. 2008;103:109–11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Sinagra</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Nevot</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Barberian</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Paulin</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Estevez</surname>
+							<given-names>JO</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>First visceral leishmaniasis focus in Argentina</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2008</year>
+					<volume>103</volume>
+					<fpage>109</fpage>
+					<lpage>11</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r18">
+				<label>18</label>
+				<mixed-citation>18 Menéndez E. Modelos de atención de los padecimientos: de exclusiones teóricas y articulaciones prácticas. Cienc Saude Colet. 2003;8(1):185–207.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Menéndez</surname>
+							<given-names>E</given-names>
+						</name>
+					</person-group>
+					<article-title>Modelos de atención de los padecimientos: de exclusiones teóricas y articulaciones prácticas</article-title>
+					<source>Cienc Saude Colet</source>
+					<year>2003</year>
+					<volume>8</volume>
+					<issue>1</issue>
+					<fpage>185</fpage>
+					<lpage>207</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r19">
+				<label>19</label>
+				<mixed-citation>19 Bertoni MS. La civilización guaraní: descripción física, económica y social del Paraguay. Parte 3: Etnografía. Alto Paraná: Editorial Ex Sylvis; 1927.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bertoni</surname>
+							<given-names>MS</given-names>
+						</name>
+					</person-group>
+					<article-title>La civilización guaraní: descripción física, económica y social del Paraguay. Parte 3: Etnografía</article-title>
+					<source>Alto Paraná: Editorial Ex Sylvis</source>
+					<year>1927</year>
+				</element-citation>
+			</ref>
+			<ref id="r20">
+				<label>20</label>
+				<mixed-citation>20 Poder Ejecutivo Nacional. Ley N° 15.465 sobre notificación obligatoria en todo el país de los casos de enfermedades transmisibles, su reglamentación. Boletín Oficial de la República Argentina, mayo 23 de 1964. Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.boletinoficial.gob.ar/">https://www.boletinoficial.gob.ar/</ext-link>. Acceso el 30 de mayo de 2016.</mixed-citation>
+				<element-citation publication-type="webpage">
+					<person-group person-group-type="author">
+						<collab>Poder Ejecutivo Nacional</collab>
+					</person-group>
+					<source>Ley N° 15.465 sobre notificación obligatoria en todo el país de los casos de enfermedades transmisibles, su reglamentación</source>
+					<publisher-name>Boletín Oficial de la República Argentina</publisher-name>
+					<comment>mayo 23 de 1964. Disponible en: <ext-link ext-link-type="uri" xlink:href="https://www.boletinoficial.gob.ar/">https://www.boletinoficial.gob.ar/</ext-link>. Acceso el 30 de mayo de 2016</comment>
+				</element-citation>
+			</ref>
+			<ref id="r21">
+				<label>21</label>
+				<mixed-citation>21 Cedillos RA, Walton BC. Leishmaniosis: special situations in other areas of the Americas. En: International Development Research Centre. Research on control strategies for the leishmaniosis. Ottawa: IDRC; 1988. Pp. 156–61. (Manuscript Report 184e).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cedillos</surname>
+							<given-names>RA</given-names>
+						</name>
+						<name>
+							<surname>Walton</surname>
+							<given-names>BC</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Leishmaniosis: special situations in other areas of the Americas</chapter-title>
+					<source>International Development Research Centre. Research on control strategies for the leishmaniosis</source>
+					<publisher-loc>Ottawa</publisher-loc>
+					<publisher-name>IDRC</publisher-name>
+					<year>1988</year>
+					<fpage>156</fpage>
+					<lpage>61</lpage>
+					<comment>Manuscript Report 184e</comment>
+				</element-citation>
+			</ref>
+			<ref id="r22">
+				<label>22</label>
+				<mixed-citation>22 Castro M. Diptera: Psychodidae–Flebotominae. En: Bejarano JRF, del Ponte E, Orfila RN, eds. Primeras Jornadas Entoepidemiológicas Argentinas. Prens Med Argent. 1959. Pp. 545–6.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Castro</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Diptera: Psychodidae–Flebotominae</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Bejarano</surname>
+							<given-names>JRF</given-names>
+						</name>
+						<name>
+							<surname>del Ponte</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Orfila</surname>
+							<given-names>RN</given-names>
+						</name>
+					</person-group>
+					<source>Primeras Jornadas Entoepidemiológicas Argentinas. Prens Med Argent</source>
+					<year>1959</year>
+					<fpage>545</fpage>
+					<lpage>6</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r23">
+				<label>23</label>
+				<mixed-citation>23 Salomón OD, Rossi GC, Spinelli GR. Ecological aspects of Phelobotomine (Diptera: Psychodidae) in an endemic area of tegumentary leishmaniasis in the Northeastern Argentina, 1993-1998. Mem Inst Oswaldo Cruz. 2002;97:163–8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Rossi</surname>
+							<given-names>GC</given-names>
+						</name>
+						<name>
+							<surname>Spinelli</surname>
+							<given-names>GR</given-names>
+						</name>
+					</person-group>
+					<article-title>Ecological aspects of Phelobotomine (Diptera: Psychodidae) in an endemic area of tegumentary leishmaniasis in the Northeastern Argentina, 1993-1998</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2002</year>
+					<volume>97</volume>
+					<fpage>163</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r24">
+				<label>24</label>
+				<mixed-citation>24 Mastrángelo AV, Salomón OD. Trabajo forestal y leishmaniasis cutánea: un análisis social centrado en el riesgo para el N de Misiones (Argentina). Talleres ULA-Inst Experimental JW Torrealba. 2009;12:60–8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mastrángelo</surname>
+							<given-names>AV</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+					</person-group>
+					<article-title>Trabajo forestal y leishmaniasis cutánea: un análisis social centrado en el riesgo para el N de Misiones (Argentina)</article-title>
+					<source>Talleres ULA-Inst Experimental JW Torrealba</source>
+					<year>2009</year>
+					<volume>12</volume>
+					<fpage>60</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r25">
+				<label>25</label>
+				<mixed-citation>25 Salomón OD, Acardi SA, Liotta DJ, Fernández MS, Lestani E, López D, et al. Epidemiological aspects of cutaneous leishmaniasis in the Iguazú falls area of Argentina. Acta Trop. 2009;109:5–11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Acardi</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Liotta</surname>
+							<given-names>DJ</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Lestani</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>López</surname>
+							<given-names>D</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Epidemiological aspects of cutaneous leishmaniasis in the Iguazú falls area of Argentina</article-title>
+					<source>Acta Trop</source>
+					<year>2009</year>
+					<volume>109</volume>
+					<fpage>5</fpage>
+					<lpage>11</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r26">
+				<label>26</label>
+				<mixed-citation>26 Mastrángelo AV, Salomón OD. Contribución de la antropología a la comprensión ecoepidemiológica de la leishmaniasis tegumentaria americana en las “2000 hectáreas”, Puerto Iguazú, Misiones, Argentina. Rev Arg Salud Publica. 2010;1:6–13.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mastrángelo</surname>
+							<given-names>AV</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+					</person-group>
+					<article-title>Contribución de la antropología a la comprensión ecoepidemiológica de la leishmaniasis tegumentaria americana en las “2000 hectáreas”, Puerto Iguazú, Misiones, Argentina</article-title>
+					<source>Rev Arg Salud Publica</source>
+					<year>2010</year>
+					<volume>1</volume>
+					<fpage>6</fpage>
+					<lpage>13</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r27">
+				<label>27</label>
+				<mixed-citation>27 Acardi SA, Liotta DJ, Santini MS, Romagosa CM, Salomón OD. Detection of Leishmania infantum in naturally infected Lutzomyia longipalpis (Diptera: Psychodidae: Phlebotominae) and Canis familiaris in Misiones, Argentina: The first report of PCR-RFLP and sequencing-based confirmation assay. Mem Inst Oswaldo Cruz. 2010;105:796–9.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Acardi</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Liotta</surname>
+							<given-names>DJ</given-names>
+						</name>
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Romagosa</surname>
+							<given-names>CM</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+					</person-group>
+					<article-title>Detection of <italic>Leishmania infantum</italic>in naturally infected <italic>Lutzomyia longipalpis</italic>Diptera: Psychodidae: Phlebotominae) and <italic>Canis familiaris</italic>in Misiones, Argentina: The first report of PCR-RFLP and sequencing-based confirmation assay</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2010</year>
+					<volume>105</volume>
+					<fpage>796</fpage>
+					<lpage>9</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r28">
+				<label>28</label>
+				<mixed-citation>28 Cruz I, Acosta L, Gutiérrez MN, Nieto J, Cañavate C, Deschutter J, et al. A canine leishmaniasis pilot survey in an emerging focus of visceral leishmaniasis: Posadas (Misiones, Argentina). BMC Infect Dis. 2010;10:342.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cruz</surname>
+							<given-names>I</given-names>
+						</name>
+						<name>
+							<surname>Acosta</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Gutiérrez</surname>
+							<given-names>MN</given-names>
+						</name>
+						<name>
+							<surname>Nieto</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Cañavate</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Deschutter</surname>
+							<given-names>J</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>A canine leishmaniasis pilot survey in an emerging focus of visceral leishmaniasis: Posadas (Misiones, Argentina)</article-title>
+					<source>BMC Infect Dis</source>
+					<year>2010</year>
+					<volume>10</volume>
+					<fpage>342</fpage>
+				</element-citation>
+			</ref>
+			<ref id="r29">
+				<label>29</label>
+				<mixed-citation>29 Barroso PA, Nevot MC, Hoyos CL, Locatelli FM, Lauthier JJ, Ruybal P, et al. Genetic and clinical characterization of canine leishmaniasis caused by Leishmania (Leishmania infantum) in northeastern Argentina. Acta Trop. 2015;150:218–23.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barroso</surname>
+							<given-names>PA</given-names>
+						</name>
+						<name>
+							<surname>Nevot</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Hoyos</surname>
+							<given-names>CL</given-names>
+						</name>
+						<name>
+							<surname>Locatelli</surname>
+							<given-names>FM</given-names>
+						</name>
+						<name>
+							<surname>Lauthier</surname>
+							<given-names>JJ</given-names>
+						</name>
+						<name>
+							<surname>Ruybal</surname>
+							<given-names>P</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Genetic and clinical characterization of canine leishmaniasis caused by <italic>Leishmania Leishmania infantum</italic>in northeastern Argentina</article-title>
+					<source>Acta Trop</source>
+					<year>2015</year>
+					<volume>150</volume>
+					<fpage>218</fpage>
+					<lpage>23</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r30">
+				<label>30</label>
+				<mixed-citation>30 Salomón OD, Araki AS, Hamilton JGC, Acardi AS, Peixoto AA. Sex pheromone and period gene characterization of Lutzomyia longipalpis (Lutz &amp; Neiva) (Diptera: Psychodidae) from Posadas, Argentina. Mem Inst Oswaldo Cruz. 2010;105:928–30.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Araki</surname>
+							<given-names>AS</given-names>
+						</name>
+						<name>
+							<surname>Hamilton</surname>
+							<given-names>JGC</given-names>
+						</name>
+						<name>
+							<surname>Acardi</surname>
+							<given-names>AS</given-names>
+						</name>
+						<name>
+							<surname>Peixoto</surname>
+							<given-names>AA</given-names>
+						</name>
+					</person-group>
+					<article-title>Sex pheromone and period gene characterization of <italic>Lutzomyia longipalpis</italic>Lutz &amp; Neiva) (Diptera: Psychodidae) from Posadas, Argentina</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2010</year>
+					<volume>105</volume>
+					<fpage>928</fpage>
+					<lpage>30</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r31">
+				<label>31</label>
+				<mixed-citation>31 Fernández MS, Salomón OD, Cavia R, Pérez AA, Guccione JD. Lutzomyia longipalpis spatial distribution and association with environmental variables in an urban focus of visceral leishmaniasis, Misiones, Argentina. Acta Trop. 2010;114:81–7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Cavia</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>AA</given-names>
+						</name>
+						<name>
+							<surname>Guccione</surname>
+							<given-names>JD</given-names>
+						</name>
+					</person-group>
+					<article-title><italic>Lutzomyia longipalpis</italic>spatial distribution and association with environmental variables in an urban focus of visceral leishmaniasis, Misiones, Argentina</article-title>
+					<source>Acta Trop</source>
+					<year>2010</year>
+					<volume>114</volume>
+					<fpage>81</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r32">
+				<label>32</label>
+				<mixed-citation>32 Santini MS, Fernández MS, Pérez AA, Sandoval EA, Salomón OD. Lutzomyia longipalpis abundance in the city of Posadas, northeastern Argentina: variation at different spatial scales. Mem Inst Oswaldo Cruz. 2012;107:767–71.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>AA</given-names>
+						</name>
+						<name>
+							<surname>Sandoval</surname>
+							<given-names>EA</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+					</person-group>
+					<article-title><italic>Lutzomyia longipalpis</italic>abundance in the city of Posadas, northeastern Argentina: variation at different spatial scales</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2012</year>
+					<volume>107</volume>
+					<fpage>767</fpage>
+					<lpage>71</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r33">
+				<label>33</label>
+				<mixed-citation>33 Santini MS, Salomón OD, Acardi SA, Sandoval EA, Tartaglino LC. Lutzomyia longipalpis behavior at an urban visceral leishmaniasis focus in Argentina. Rev Inst Med Trop Sao Paulo. 2010;52:187–92.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Acardi</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Sandoval</surname>
+							<given-names>EA</given-names>
+						</name>
+						<name>
+							<surname>Tartaglino</surname>
+							<given-names>LC</given-names>
+						</name>
+					</person-group>
+					<article-title><italic>Lutzomyia longipalpis</italic>behavior at an urban visceral leishmaniasis focus in Argentina</article-title>
+					<source>Rev Inst Med Trop Sao Paulo</source>
+					<year>2010</year>
+					<volume>52</volume>
+					<fpage>187</fpage>
+					<lpage>92</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r34">
+				<label>34</label>
+				<mixed-citation>34 Santini MS, Gould IT, Manteca Acosta M, Acardi SA, Fernández MS, Gómez A, et al. Phlebotominae of sanitary interest in the Argentina-Brazil-Paraguay border area. Rev Inst Med Trop Sao Paulo. 2013;55:239–43.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Gould</surname>
+							<given-names>IT</given-names>
+						</name>
+						<name>
+							<surname>Manteca Acosta</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Acardi</surname>
+							<given-names>SA</given-names>
+						</name>
+						<name>
+							<surname>Fernández</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Gómez</surname>
+							<given-names>A</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Phlebotominae of sanitary interest in the Argentina-Brazil-Paraguay border area</article-title>
+					<source>Rev Inst Med Trop Sao Paulo</source>
+					<year>2013</year>
+					<volume>55</volume>
+					<fpage>239</fpage>
+					<lpage>43</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r35">
+				<label>35</label>
+				<mixed-citation>35 Manteca M, Molina J, Utgés ME, Mastrangelo AV, Pérez AA, Santini MS, et al. Efficacy of impregnated bednets and species composition in experimental henhouses. Bol Soc Entomol Argentina. 2015;26(1S):28.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Manteca</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Molina</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Utgés</surname>
+							<given-names>ME</given-names>
+						</name>
+						<name>
+							<surname>Mastrangelo</surname>
+							<given-names>AV</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>AA</given-names>
+						</name>
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Efficacy of impregnated bednets and species composition in experimental henhouses</article-title>
+					<source>Bol Soc Entomol Argentina</source>
+					<year>2015</year>
+					<volume>26</volume>
+					<issue>1S</issue>
+					<fpage>28</fpage>
+				</element-citation>
+			</ref>
+			<ref id="r36">
+				<label>36</label>
+				<mixed-citation>36 Acosta L, Díaz R, Torres P, Silva G, Ramos M, Fattore G, et al. Identification of Leishmania infantum in Puerto Iguazú, Misiones, Argentina. Rev Inst Med Trop Sao Paulo. 2015;57:175–6.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Acosta</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Díaz</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Ramos</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Fattore</surname>
+							<given-names>G</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Identification of <italic>Leishmania infantum</italic>in Puerto Iguazú, Misiones, Argentina</article-title>
+					<source>Rev Inst Med Trop Sao Paulo</source>
+					<year>2015</year>
+					<volume>57</volume>
+					<fpage>175</fpage>
+					<lpage>6</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r37">
+				<label>37</label>
+				<mixed-citation>37 Moya SL, Giuliani MG, Acosta MM, Salomón OD, Liotta DJ. First description of Migonemyia migonei (França) and Nyssomyia whitmani (Antunes &amp; Coutinho) (Psychodidae: Phlebotominae) naturally infected by Leishmania infantum in Argentina. Acta Trop. 2015;152:181–84.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Moya</surname>
+							<given-names>SL</given-names>
+						</name>
+						<name>
+							<surname>Giuliani</surname>
+							<given-names>MG</given-names>
+						</name>
+						<name>
+							<surname>Acosta</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Liotta</surname>
+							<given-names>DJ</given-names>
+						</name>
+					</person-group>
+					<article-title>First description of <italic>Migonemyia migonei</italic>França) and <italic>Nyssomyia whitmani</italic>Antunes &amp; Coutinho) (Psychodidae: Phlebotominae) naturally infected by <italic>Leishmania infantum</italic>in Argentina</article-title>
+					<source>Acta Trop</source>
+					<year>2015</year>
+					<volume>152</volume>
+					<fpage>181</fpage>
+					<lpage>84</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r38">
+				<label>38</label>
+				<mixed-citation>38 González G, Arce Queirolo A. Leishmaniosis II. Leishmaniosis cutáneomucosa y guerra en el bosque. Rev Med Paraguay. 1955;1:69–74.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>González</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Arce Queirolo</surname>
+							<given-names>A</given-names>
+						</name>
+					</person-group>
+					<article-title>Leishmaniosis II. Leishmaniosis cutáneo-mucosa y guerra en el bosque</article-title>
+					<source>Rev Med Paraguay</source>
+					<year>1955</year>
+					<volume>1</volume>
+					<fpage>69</fpage>
+					<lpage>74</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r39">
+				<label>39</label>
+				<mixed-citation>39 Migone LE. La buba du Paraguay, leishmaniose americaine. Bull Soc Pathol Exot. 1913;6:210–8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Migone</surname>
+							<given-names>LE</given-names>
+						</name>
+					</person-group>
+					<article-title>La buba du Paraguay, leishmaniose americaine</article-title>
+					<source>Bull Soc Pathol Exot</source>
+					<year>1913</year>
+					<volume>6</volume>
+					<fpage>210</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r40">
+				<label>40</label>
+				<mixed-citation>40 Quintana MG, Salomón OD, Lizarralde de Grosso MS. Distribution of Phlebotominae in primary forest-crop interface, Salta, Argentina. J Med Entomol. 2010;47:1003–10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Quintana</surname>
+							<given-names>MG</given-names>
+						</name>
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Lizarralde de Grosso</surname>
+							<given-names>MS</given-names>
+						</name>
+					</person-group>
+					<article-title>Distribution of Phlebotominae in primary forest-crop interface, Salta, Argentina</article-title>
+					<source>J Med Entomol</source>
+					<year>2010</year>
+					<volume>47</volume>
+					<fpage>1003</fpage>
+					<lpage>10</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r41">
+				<label>41</label>
+				<mixed-citation>41 Shaw J. The leishmaniasis-survival and expansion in a changing world. Mem Inst Oswaldo Cruz. 2007;102:541–7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Shaw</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>The leishmaniasis-survival and expansion in a changing world</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2007</year>
+					<volume>102</volume>
+					<fpage>541</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r42">
+				<label>42</label>
+				<mixed-citation>42 Rangel EF, Lainson R. Ecologia das leishmanioses. En: Rangel EF, Lainson R, eds. Flebotomíneos do Brasil. Rio de Janeiro: Editora Fiocruz; 2003. Pp. 291–310.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rangel</surname>
+							<given-names>EF</given-names>
+						</name>
+						<name>
+							<surname>Lainson</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Ecologia das leishmanioses</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Rangel</surname>
+							<given-names>EF</given-names>
+						</name>
+						<name>
+							<surname>Lainson</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<source>Flebotomíneos do Brasil</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Editora Fiocruz</publisher-name>
+					<year>2003</year>
+					<fpage>291</fpage>
+					<lpage>310</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r43">
+				<label>43</label>
+				<mixed-citation>43 Cruz CF, Cruz MF, Galati EA. Sandflies (Diptera: Psychodidae) in rural and urban environments in an endemic area of cutaneous leishmaniasis in southern Brazil. Mem Inst Oswaldo Cruz. 2013;108:303–11.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cruz</surname>
+							<given-names>CF</given-names>
+						</name>
+						<name>
+							<surname>Cruz</surname>
+							<given-names>MF</given-names>
+						</name>
+						<name>
+							<surname>Galati</surname>
+							<given-names>EA</given-names>
+						</name>
+					</person-group>
+					<article-title>Sandflies (Diptera: Psychodidae) in rural and urban environments in an endemic area of cutaneous leishmaniasis in southern Brazil</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2013</year>
+					<volume>108</volume>
+					<fpage>303</fpage>
+					<lpage>11</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r44">
+				<label>44</label>
+				<mixed-citation>44 Zeballos JL. Argentina: efectos sociosanitarios de la crisis 2001-2003. Buenos Aires: Organización Panamericana de la Salud; 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Zeballos</surname>
+							<given-names>JL</given-names>
+						</name>
+					</person-group>
+					<source>Argentina: efectos sociosanitarios de la crisis 2001-2003</source>
+					<publisher-loc>Buenos Aires</publisher-loc>
+					<publisher-name>Organización Panamericana de la Salud</publisher-name>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+			<ref id="r45">
+				<label>45</label>
+				<mixed-citation>45 Di Bitetti MS, Placci G, Dietz LA. Una visión de biodiversidad para la ecorregión del bosque atlántico del Alto Paraná: Diseño de un paisaje para la conservación de la biodiversidad y prioridades para las acciones de conservación. Washington, D.C.: World Wildlife Fund; 2003.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Di Bitetti</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Placci</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Dietz</surname>
+							<given-names>LA</given-names>
+						</name>
+					</person-group>
+					<source>Una visión de biodiversidad para la ecorregión del bosque atlántico del Alto Paraná: Diseño de un paisaje para la conservación de la biodiversidad y prioridades para las acciones de conservación</source>
+					<publisher-loc>Washington, D.C.</publisher-loc>
+					<publisher-name>World Wildlife Fund</publisher-name>
+					<year>2003</year>
+				</element-citation>
+			</ref>
+			<ref id="r46">
+				<label>46</label>
+				<mixed-citation>46 Limberger L, Cecchin J. Percepção climática de moradores lindeiros ao reservatorio da usina hidrelétrica de Itaipu. Acta Geogr (Boa Vista). 2012:11–29.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Limberger</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>Cecchin</surname>
+							<given-names>J</given-names>
+						</name>
+					</person-group>
+					<article-title>Percepção climática de moradores lindeiros ao reservatorio da usina hidrelétrica de Itaipu</article-title>
+					<source>Acta Geogr (Boa Vista)</source>
+					<year>2012</year>
+					<fpage>11</fpage>
+					<lpage>29</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r47">
+				<label>47</label>
+				<mixed-citation>47 Conte CH. Do milagre econômico á construção de Itaipu: configurando a cidade de Foz do Iguaçu/PR. Econ Desenvolvimento. 2013;12:166–92.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Conte</surname>
+							<given-names>CH</given-names>
+						</name>
+					</person-group>
+					<article-title>Do milagre econômico á construção de Itaipu: configurando a cidade de Foz do Iguaçu/PR</article-title>
+					<source>Econ Desenvolvimento</source>
+					<year>2013</year>
+					<volume>12</volume>
+					<fpage>166</fpage>
+					<lpage>92</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r48">
+				<label>48</label>
+				<mixed-citation>48 Monteiro WM, Neitzke-Abreu HC, Ferreira ME, Melo GC, Barbosa MD, Lonardoni MV, et al. Mobilidade populacional e produção da leishmaniose tegumentar americana no estado do Paraná, sul do Brasil. Rev Soc Bras Med Trop. 2009;42:509–14.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Monteiro</surname>
+							<given-names>WM</given-names>
+						</name>
+						<name>
+							<surname>Neitzke-Abreu</surname>
+							<given-names>HC</given-names>
+						</name>
+						<name>
+							<surname>Ferreira</surname>
+							<given-names>ME</given-names>
+						</name>
+						<name>
+							<surname>Melo</surname>
+							<given-names>GC</given-names>
+						</name>
+						<name>
+							<surname>Barbosa</surname>
+							<given-names>MD</given-names>
+						</name>
+						<name>
+							<surname>Lonardoni</surname>
+							<given-names>MV</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Mobilidade populacional e produção da leishmaniose tegumentar americana no estado do Paraná, sul do Brasil</article-title>
+					<source>Rev Soc Bras Med Trop</source>
+					<year>2009</year>
+					<volume>42</volume>
+					<fpage>509</fpage>
+					<lpage>14</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r49">
+				<label>49</label>
+				<mixed-citation>49 Organización Panamericana de la Salud. Salud en las Américas. Panorama regional y perfiles de país. Washington, D.C.: OPS; 2012. (Publicación Científica y Técnica N.° 636).</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<collab>Organización Panamericana de la Salud</collab>
+					</person-group>
+					<source>Salud en las Américas. Panorama regional y perfiles de país</source>
+					<publisher-loc>Washington, D.C.</publisher-loc>
+					<publisher-name>OPS</publisher-name>
+					<year>2012</year>
+					<comment>Publicación Científica y Técnica N.° 636</comment>
+				</element-citation>
+			</ref>
+			<ref id="r50">
+				<label>50</label>
+				<mixed-citation>50 Albuquerque JLC. Campesinos paraguayos y “brasiguayos” en la frontera este del Paraguay. En: Fogel R, Riquelme M, eds. Enclave sojero: merma de soberanía y pobreza. Asunción: Centro de Estudios Rurales Interdisciplinares; 2005. Pp. 157–90.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Albuquerque</surname>
+							<given-names>JLC</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Campesinos paraguayos y “brasiguayos” en la frontera este del Paraguay</chapter-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Fogel</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Riquelme</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<source>Enclave sojero: merma de soberanía y pobreza</source>
+					<publisher-loc>Asunción</publisher-loc>
+					<publisher-name>Centro de Estudios Rurales Interdisciplinares</publisher-name>
+					<year>2005</year>
+					<fpage>157</fpage>
+					<lpage>90</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r51">
+				<label>51</label>
+				<mixed-citation>51 Canese A, Oddone R, Maciel JD. Manual de diagnóstico y tratamiento de las leishmaniosis. Ministerio de Salud Pública y Bienestar Social, Programa Nacional de Control de Leishmaniosis. Asunción: Organización Panamericana de la Salud/Organización Mundial de la Salud; 2011.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Canese</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Oddone</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Maciel</surname>
+							<given-names>JD</given-names>
+						</name>
+					</person-group>
+					<chapter-title>Manual de diagnóstico y tratamiento de las leishmaniosis</chapter-title>
+					<source>Ministerio de Salud Pública y Bienestar Social, Programa Nacional de Control de Leishmaniosis</source>
+					<publisher-loc>Asunción</publisher-loc>
+					<publisher-name>Organización Panamericana de la Salud/Organización Mundial de la Salud</publisher-name>
+					<year>2011</year>
+				</element-citation>
+			</ref>
+			<ref id="r52">
+				<label>52</label>
+				<mixed-citation>52 Fogel R. La región de la triple frontera: territorios de integración y desintegración. Sociologias (Porto Alegre). 2008;10: 270–90.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fogel</surname>
+							<given-names>R</given-names>
+						</name>
+					</person-group>
+					<article-title>La región de la triple frontera: territorios de integración y desintegración</article-title>
+					<source>Sociologias (Porto Alegre)</source>
+					<year>2008</year>
+					<volume>10</volume>
+					<fpage>270</fpage>
+					<lpage>90</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r53">
+				<label>53</label>
+				<mixed-citation>53 Weil C. Health problems associated with agricultural colonization in Latin America. Soc Sci Med D. 1981;15:449–61.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Weil</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<article-title>Health problems associated with agricultural colonization in Latin America</article-title>
+					<source>Soc Sci Med D</source>
+					<year>1981</year>
+					<volume>15</volume>
+					<fpage>449</fpage>
+					<lpage>61</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r54">
+				<label>54</label>
+				<mixed-citation>54 Davies CR, Reithinger R, Campbell-Lendrum D, Feliciangeli D, Borges R, Rodriguez N. The epidemiology and control of leishmaniasis in Andean countries. Cad Saude Publica. 2000;16: 925–50.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Davies</surname>
+							<given-names>CR</given-names>
+						</name>
+						<name>
+							<surname>Reithinger</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Campbell-Lendrum</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Feliciangeli</surname>
+							<given-names>D</given-names>
+						</name>
+						<name>
+							<surname>Borges</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Rodriguez</surname>
+							<given-names>N</given-names>
+						</name>
+					</person-group>
+					<article-title>The epidemiology and control of leishmaniasis in Andean countries</article-title>
+					<source>Cad Saude Publica</source>
+					<year>2000</year>
+					<volume>16</volume>
+					<fpage>925</fpage>
+					<lpage>50</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r55">
+				<label>55</label>
+				<mixed-citation>55 Alcais A, Abel L, David C, Torrez ME, Flandre P, Dedet JP. Risk factors for onset of cutaneous and mucocutaneous leishmaniasis in Bolivia. Am J Trop Med Hyg. 1997;57:79–84.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Alcais</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Abel</surname>
+							<given-names>L</given-names>
+						</name>
+						<name>
+							<surname>David</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Torrez</surname>
+							<given-names>ME</given-names>
+						</name>
+						<name>
+							<surname>Flandre</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Dedet</surname>
+							<given-names>JP</given-names>
+						</name>
+					</person-group>
+					<article-title>Risk factors for onset of cutaneous and mucocutaneous leishmaniasis in Bolivia</article-title>
+					<source>Am J Trop Med Hyg</source>
+					<year>1997</year>
+					<volume>57</volume>
+					<fpage>79</fpage>
+					<lpage>84</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r56">
+				<label>56</label>
+				<mixed-citation>56 Dourado MI, Noronha CV, Alcantara N, Ichihara MY, Loureiro S. Epidemiologia da leishmaniose tegumentar americana e suas relações com a lavoura e o garimpo, em localidade do estado da Bahia (Brasil). Rev Saude Publica. 1989;23:2–8.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Dourado</surname>
+							<given-names>MI</given-names>
+						</name>
+						<name>
+							<surname>Noronha</surname>
+							<given-names>CV</given-names>
+						</name>
+						<name>
+							<surname>Alcantara</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Ichihara</surname>
+							<given-names>MY</given-names>
+						</name>
+						<name>
+							<surname>Loureiro</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Epidemiologia da leishmaniose tegumentar americana e suas relações com a lavoura e o garimpo, em localidade do estado da Bahia (Brasil)</article-title>
+					<source>Rev Saude Publica</source>
+					<year>1989</year>
+					<volume>23</volume>
+					<fpage>2</fpage>
+					<lpage>8</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r57">
+				<label>57</label>
+				<mixed-citation>57 Barrera C, Herrera M, Martinez F, León R, Richard A, Guderian RH, et al. Leishmaniose en Equateur: 1. Incidence de la leishmaniose tégumentaire sur la façade pacifique. Ann Soc Belg Med Trop. 1994;74:1–12.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Barrera</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Herrera</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Martinez</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>León</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Richard</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Guderian</surname>
+							<given-names>RH</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Leishmaniose en Equateur: 1. Incidence de la leishmaniose tégumentaire sur la façade pacifique</article-title>
+					<source>Ann Soc Belg Med Trop</source>
+					<year>1994</year>
+					<volume>74</volume>
+					<fpage>1</fpage>
+					<lpage>12</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r58">
+				<label>58</label>
+				<mixed-citation>58 Rotureau B, Joubert M, Clyti E, Djossou F, Carme B. Leishmaniasis among gold miners, French Guiana. Emerg Infect Dis. 2006;12:1169–70.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rotureau</surname>
+							<given-names>B</given-names>
+						</name>
+						<name>
+							<surname>Joubert</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Clyti</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Djossou</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Carme</surname>
+							<given-names>B</given-names>
+						</name>
+					</person-group>
+					<article-title>Leishmaniasis among gold miners, French Guiana</article-title>
+					<source>Emerg Infect Dis</source>
+					<year>2006</year>
+					<volume>12</volume>
+					<fpage>1169</fpage>
+					<lpage>70</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r59">
+				<label>59</label>
+				<mixed-citation>59 Guthmann JP, Calmet J, Rosales E, Cruz M, Chang J, Dedet JP. Patients’ associations and the control of leishmaniasis in Peru. Bull World Health Organ. 1997;75:39–44.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Guthmann</surname>
+							<given-names>JP</given-names>
+						</name>
+						<name>
+							<surname>Calmet</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Rosales</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Cruz</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Chang</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Dedet</surname>
+							<given-names>JP</given-names>
+						</name>
+					</person-group>
+					<article-title>Patients’ associations and the control of leishmaniasis in Peru</article-title>
+					<source>Bull World Health Organ</source>
+					<year>1997</year>
+					<volume>75</volume>
+					<fpage>39</fpage>
+					<lpage>44</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r60">
+				<label>60</label>
+				<mixed-citation>60 Salomón OD, Mastrángelo AV, Santini MS, Ruvinsky S, Orduna T, Sinagra A, et al. Leishmaniasis visceral: senderos que confluyen, se bifurcan. Salud Colectiva (Buenos Aires). 2012;8(S1):49–63.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Salomón</surname>
+							<given-names>OD</given-names>
+						</name>
+						<name>
+							<surname>Mastrángelo</surname>
+							<given-names>AV</given-names>
+						</name>
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Ruvinsky</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Orduna</surname>
+							<given-names>T</given-names>
+						</name>
+						<name>
+							<surname>Sinagra</surname>
+							<given-names>A</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Leishmaniasis visceral: senderos que confluyen, se bifurcan</article-title>
+					<source>Salud Colectiva (Buenos Aires)</source>
+					<year>2012</year>
+					<volume>8</volume>
+					<issue>S1</issue>
+					<fpage>49</fpage>
+					<lpage>63</lpage>
+				</element-citation>
+			</ref>
+			<ref id="r61">
+				<label>61</label>
+				<mixed-citation>61 Fernández MS, Santini MS, Cavia R, Sandoval AE, Pérez AA, Acardi S, et al. Spatial and temporal changes in Lutzomyia longipalpis abundance, a Leishmania infantum vector in an urban area in northeastern Argentina. Mem Inst Oswaldo Cruz. 2013;108:817–24.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fernández</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Santini</surname>
+							<given-names>MS</given-names>
+						</name>
+						<name>
+							<surname>Cavia</surname>
+							<given-names>R</given-names>
+						</name>
+						<name>
+							<surname>Sandoval</surname>
+							<given-names>AE</given-names>
+						</name>
+						<name>
+							<surname>Pérez</surname>
+							<given-names>AA</given-names>
+						</name>
+						<name>
+							<surname>Acardi</surname>
+							<given-names>S</given-names>
+						</name>
+						<etal/>
+					</person-group>
+					<article-title>Spatial and temporal changes in <italic>Lutzomyia longipalpis</italic>abundance, a <italic>Leishmania infantum</italic>vector in an urban area in northeastern Argentina</article-title>
+					<source>Mem Inst Oswaldo Cruz</source>
+					<year>2013</year>
+					<volume>108</volume>
+					<fpage>817</fpage>
+					<lpage>24</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "journalpublishing3.dtd">
+<article article-type="discussion" dtd-version="3.0" xml:lang="en"
+	xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Bull World Health Organ</journal-id>
+			<journal-title-group>
+				<journal-title>Bulletin of the World Health Organization</journal-title>
+				<abbrev-journal-title abbrev-type="pubmed">Bull. World Health
+					Organ.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0042-9686</issn>
+			<publisher>
+				<publisher-name>World Health Organization</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="publisher-id">BLT.13.126656</article-id>
+			<article-id pub-id-type="doi">10.2471/BLT.13.126656</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Round table</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Health workforce indicators: let's get real</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Boerma</surname>
+						<given-names>Ties</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Siyam</surname>
+						<given-names>Amani</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<label>a</label>
+					<institution content-type="orgname">World Health Organization</institution>
+					<addr-line>
+						<named-content content-type="city">Geneva</named-content>
+					</addr-line>
+					<country>Switzerland</country>
+					<institution content-type="original">World Health Organization, avenue Appia 20,
+						1211 Geneva 27, Switzerland</institution>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="cor1">Correspondence to Ties Boerma (e-mail: <email
+						xlink:href="boermat@who.int">boermat@who.int</email>).</corresp>
+			</author-notes>
+			<pub-date pub-type="ppub">
+				<month>11</month>
+				<year>2013</year>
+			</pub-date>
+			<volume>91</volume>
+			<issue>11</issue>
+			<fpage>886</fpage>
+			<lpage>887</lpage>
+			<permissions>
+				<copyright-statement>(c) World Health Organization (WHO) 2013. All rights
+					reserved.</copyright-statement>
+				<copyright-year>2013</copyright-year>
+			</permissions>
+		</article-meta>
+	</front>
+	<body>
+		<p>Health workforce indicators?<xref ref-type="bibr" rid="R1">
+				<sup>1</sup>
+			</xref> Those should be easy. We just need to count the numbers entering from training
+			institutions or through re-entry, the numbers working, and the numbers exiting. If we
+			know where these people work, we have the distribution of health workers within a
+			country, and if we also have information on their competencies, responsiveness and
+			productivity, we can know about their performance.</p>
+		<p>Sound health workforce statistics enable countries to develop policies that ensure the
+			equitable and effective distribution of the workforce. They can be used to forecast
+			needs by making projections and to plan accordingly. They can also be the basis for
+			implementing policies to improve performance and the regulation of the public and
+			private sectors. These statistics would also allow for reliable global monitoring of
+			progress, including progress towards achieving benchmark targets,<xref ref-type="bibr"
+				rid="R2">
+				<sup>2</sup>
+			</xref> and for monitoring the implementation of the WHO Global Code of Practice on the
+			International Recruitment of Health Personnel.<xref ref-type="bibr" rid="R3">
+				<sup>3</sup>
+			</xref>
+		</p>
+		<p>And yet, health workforce statistics are fraught with measurement problems. This is not
+			for lack of agreement on core indicators or because we do not know what needs to be
+			monitored. And it is not because measuring indicators is complicated or costly, as is
+			true in other areas of health. For some indicators, such as those that capture
+			productivity, more work is needed, but many indicators are well established.<xref
+				ref-type="bibr" rid="R4">
+				<sup>4</sup>
+			</xref>
+			<sup>,</sup>
+			<xref ref-type="bibr" rid="R5">
+				<sup>5</sup>
+			</xref>
+		</p>
+		<p>Health workforce information systems fail to deliver comprehensive, reliable and timely
+			data in many countries. As a consequence, planning and policy-making are often based on
+			very limited evidence and global monitoring in areas such as the implementation of the
+			Global Code and the setting of benchmarks is conducted with inadequate country
+			statistics.</p>
+		<p>The challenges begin at the very basis: with the definition and classification of health
+			workers. Indicators are intended for tracking progress over time, so country-specific
+			definitions make it difficult to assess trends and conduct comparative analyses. The
+			International Standard Classification of Occupations of the International Labour
+			Organization facilitates the mapping of country health labour data, but it does little
+			to take the statistical dimension into account, as is done, for example, for the
+			International Classification of Diseases (ICD).<xref ref-type="bibr" rid="R6">
+				<sup>6</sup>
+			</xref> Some solvable issues are not well addressed, among them the classification of
+			non-physician clinicians and community health workers.<xref ref-type="bibr" rid="R7">
+				<sup>7</sup>
+			</xref>
+		</p>
+		<p>Measuring the size and distribution of the health workforce involves drawing data from
+			several sources, including sources outside the health sector.<xref ref-type="bibr"
+				rid="R4">
+				<sup>4</sup>
+			</xref> Currently too little is done to make use of these multiple, imperfect sources,
+			reconcile the numbers and develop a best estimate. Human resources for health
+			observatories aim to improve the information base,<xref ref-type="bibr" rid="R8">
+				<sup>8</sup>
+			</xref> yet to date they have had little impact on the quality of health workforce data
+			and statistics.</p>
+		<p>It's time to get real. Reliable and comparable health workforce statistics are
+			essential and global partners and countries simply have not invested enough. It is
+			necessary to invest in health workforce registries. Carefully designed, these become
+			timely and consistent sources of data on the health workforce. Creating such registries
+			will take time. In addition, a census of health facilities should be conducted to update
+			a database of the public and private sector workforce and lay the groundwork for a
+			continuous health workforce registry. Such a census could also be used to collect
+			information on characteristics such as infrastructure, medicines, diagnostic readiness
+			and the observance of universal precautions for the prevention of nosocomial infections,
+			and could therefore provide a comprehensive picture of service availability and
+				readiness.<xref ref-type="bibr" rid="R9">
+				<sup>9</sup>
+			</xref> Finally, investments in strengthening country analytical capacity are crucial
+			for improving the quality of health workforce statistics.</p>
+	</body>
+	<back>
+		<fn-group>
+			<title>Competing interests:</title>
+			<fn fn-type="financial-disclosure">
+				<p>None declared.</p>
+			</fn>
+		</fn-group>
+		<ref-list>
+			<title>References</title>
+			<ref id="R1">
+				<label>1</label>
+				<mixed-citation>Cometto G, Witter S. Tackling health workforce challenges to
+					universal health coverage: setting targets and measuring progress. <italic>Bull
+						World Health Organ</italic> 2013;91:881–5.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cometto</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Witter</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Tackling health workforce challenges to universal health
+						coverage: setting targets and measuring progress.</article-title>
+					<source>Bull World Health Organ</source>
+					<year>2013</year>
+					<volume>91</volume>
+					<fpage>881</fpage>
+					<lpage>5</lpage>
+					<comment>.</comment>
+				</element-citation>
+			</ref>
+			<ref id="R2">
+				<label>2</label>
+				<mixed-citation><italic>The world health report 2006: working together for
+						health</italic>. Geneva: World Health Organization; 2006. Available from:
+					http://www.who.int/whr/2006. [accessed 16 August 2013].</mixed-citation>
+				<element-citation publication-type="web">
+					<source>The world health report 2006: working together for health</source>
+					<date-in-citation content-type="access-date">accessed 16 August
+						2013</date-in-citation>
+					<publisher-loc>Geneva</publisher-loc>
+					<publisher-name>World Health Organization</publisher-name>
+					<year>2006</year>
+					<comment>Available from: <ext-link ext-link-type="uri"
+							xlink:href="http://www.who.int/whr/2006"
+							>http://www.who.int/whr/2006</ext-link></comment>
+				</element-citation>
+			</ref>
+			<ref id="R3">
+				<label>3</label>
+				<mixed-citation><italic>WHO Global Code of Practice on the International Recruitment
+						of Health Personnel</italic>. Geneva: World Health Organization; 2010.
+					Available from: http://www.who.int/hrh/migration/code/code_en.pdf [accessed 16
+					August 2013].</mixed-citation>
+				<element-citation publication-type="web">
+					<source>WHO Global Code of Practice on the International Recruitment of Health
+						Personnel</source>
+					<date-in-citation content-type="access-date">accessed 16 August
+						2013</date-in-citation>
+					<publisher-loc>Geneva</publisher-loc>
+					<publisher-name>World Health Organization</publisher-name>
+					<year>2010</year>
+					<comment>Available from: <ext-link ext-link-type="uri"
+							xlink:href="http://www.who.int/hrh/migration/code/code_en.pdf"
+							>http://www.who.int/hrh/migration/code/code_en.pdf</ext-link></comment>
+				</element-citation>
+			</ref>
+			<ref id="R4">
+				<label>4</label>
+				<mixed-citation>Dal Poz MR, Gupta N, Quain E, Soucat ALB, editors. <italic>Handbook
+						on monitoring and evaluation of human resources for health with special
+						applications for low- and middle-income countries</italic>. Geneva: World
+					Health Organization; 2009. Available from:
+					http://www.who.int/hrh/resources/handbook/en/index.html [accessed 16 August
+					2013].</mixed-citation>
+				<element-citation publication-type="web">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Dal Poz</surname>
+							<given-names>MR</given-names>
+						</name>
+						<name>
+							<surname>Gupta</surname>
+							<given-names>N</given-names>
+						</name>
+						<name>
+							<surname>Quain</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Soucat</surname>
+							<given-names>ALB</given-names>
+						</name>
+					</person-group>
+					<source>Handbook on monitoring and evaluation of human resources for health with
+						special applications for low- and middle-income countries</source>
+					<date-in-citation content-type="access-date">accessed 16 August
+						2013</date-in-citation>
+					<publisher-loc>Geneva</publisher-loc>
+					<publisher-name>World Health Organization</publisher-name>
+					<year>2009</year>
+				</element-citation>
+			</ref>
+			<ref id="R5">
+				<label>5</label>
+				<mixed-citation>Pacqué-Margolis S, Ng C, Kauffman S. Human resources for health
+					(HRH) indicator compendium. Washington: United States Agency for International
+					Development; 2011. Available from:
+					http://capacityplus.org/files/resources/HRH_Indicator_Compendium.pdf [accessed
+					16 August 2013].</mixed-citation>
+				<element-citation publication-type="web">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pacqué-Margolis</surname>
+							<given-names>S</given-names>
+						</name>
+						<name>
+							<surname>Ng</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Kauffman</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<source>Human resources for health (HRH) indicator compendium</source>
+					<date-in-citation content-type="access-date">accessed 16 August
+						2013</date-in-citation>
+					<publisher-loc>Washington</publisher-loc>
+					<publisher-name>United States Agency for International
+						Development</publisher-name>
+					<year>2011</year>
+					<comment>Available from: <ext-link ext-link-type="uri"
+							xlink:href="http://capacityplus.org/files/resources/HRH_Indicator_Compendium.pdf"
+							>http://capacityplus.org/files/resources/HRH_Indicator_Compendium.pdf
+						</ext-link></comment>
+				</element-citation>
+			</ref>
+			<ref id="R6">
+				<label>6</label>
+				<mixed-citation>International classification of diseases and related health
+					problems, 10th revision. Geneva: World Health Organization; 2010. Available
+					from: http://apps.who.int/classifications/icd10/browse/2010/en [accessed 16
+					August 2013].</mixed-citation>
+				<element-citation publication-type="web">
+					<source>International classification of diseases and related health problems,
+						10th revision</source>
+					<date-in-citation content-type="access-date">accessed 16 August
+						2013</date-in-citation>
+					<publisher-loc>Geneva</publisher-loc>
+					<publisher-name>World Health Organization</publisher-name>
+					<year>2010</year>
+					<comment>Available from: <ext-link ext-link-type="uri"
+							xlink:href="http://apps.who.int/classifications/icd10/browse/2010/en"
+							>http://apps.who.int/classifications/icd10/browse/2010/en</ext-link></comment>
+				</element-citation>
+			</ref>
+			<ref id="R7">
+				<label>7</label>
+				<mixed-citation>Mullan F, Frehywoth S. Non-physician clinicians in 47 sub-Saharan
+					African countries. <italic>Lancet</italic> 2007;370:2158–63. doi:
+					http://dx.doi.org/10.1016/S0140-6736(07)60785-5 PMID:17574662</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mullan</surname>
+							<given-names>F</given-names>
+						</name>
+						<name>
+							<surname>Frehywoth</surname>
+							<given-names>S</given-names>
+						</name>
+					</person-group>
+					<article-title>Non-physician clinicians in 47 sub-Saharan African
+						countries.</article-title>
+					<source>Lancet</source>
+					<year>2007</year>
+					<volume>370</volume>
+					<fpage>2158</fpage>
+					<lpage>63</lpage>
+					<pub-id pub-id-type="doi">10.1016/S0140-6736(07)60785-5</pub-id>
+					<pub-id pub-id-type="pmid">17574662</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="R8">
+				<label>8</label>
+				<mixed-citation>Gedik G, Dal Poz M. Human Resources for Health Observatories:
+					contributing to evidence-based policy decisions. <italic>Hum Res Health
+						Obs</italic> 2012;10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Gedik</surname>
+							<given-names>G</given-names>
+						</name>
+						<name>
+							<surname>Dal Poz</surname>
+							<given-names>M</given-names>
+						</name>
+					</person-group>
+					<article-title>Human Resources for Health Observatories: contributing to
+						evidence-based policy decisions.</article-title>
+					<source>Hum Res Health Obs</source>
+					<year>2012</year>
+					<volume>10</volume>
+				</element-citation>
+			</ref>
+			<ref id="R9">
+				<label>9</label>
+				<mixed-citation>O’Neill K, Takane M, Sheffel A, Abouzahr C, Boerma T. Monitoring
+					service delivery for universal health coverage: service availability and
+					readiness assessment (SARA). <italic>Bull World Health Organ</italic> 2013.
+					Forthcoming.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>O’Neill</surname>
+							<given-names>K</given-names>
+						</name>
+						<name>
+							<surname>Takane</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Sheffel</surname>
+							<given-names>A</given-names>
+						</name>
+						<name>
+							<surname>Abouzahr</surname>
+							<given-names>C</given-names>
+						</name>
+						<name>
+							<surname>Boerma</surname>
+							<given-names>T</given-names>
+						</name>
+					</person-group>
+					<article-title>Monitoring service delivery for universal health coverage:
+						service availability and readiness assessment (SARA).</article-title>
+					<source>Bull World Health Organ</source>
+					<year>2013</year>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article xml:lang="en" article-type="discussion" id="S01">
+		<front-stub>
+			<title-group>
+				<article-title>Towards universal health coverage: a health workforce fit for purpose
+					and practice</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Campbell</surname>
+						<given-names>James</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>a</sup></xref>
+				</contrib>
+				<aff id="aff2">
+					<label>a</label>
+					<institution content-type="orgname">Instituto de Cooperaci&#x00F3;n Social
+						Integrare</institution>
+					<addr-line>
+						<named-content content-type="city">Barcelona</named-content>
+						<named-content content-type="zipcode">08007</named-content>
+					</addr-line>
+					<country>Spain</country>
+					<institution content-type="original">Instituto de Cooperaci&#x00F3;n Social
+						Integrare, Calle Balmes 30, 3&#x00B0;-1, 08007 Barcelona,
+						Spain</institution>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="cor2">Correspondence to James Campbell (e-mail: <email
+					xlink:href="jim.campbell@integrare.es">jim.campbell@integrare.es</email>).</corresp>
+			</author-notes>
+		</front-stub>
+		<body>
+			<p>The finality of universal health coverage (UHC) is to ensure that
+					<italic>all</italic> people are able to access the <italic>quality</italic>
+				health services they <italic>need</italic> without suffering undue financial
+				hardship. Margaret Chan describes it as the ultimate expression of
+					<italic>fairness</italic>.<xref ref-type="bibr" rid="R10"><sup>1</sup></xref> The
+				italicized words above should therefore frame the starting point for a contemporary
+				discourse on human resources for health in the post-2015 development agenda for
+				health (2015&#x2013;2030).</p>
+			<p>UHC is an aspirational concept. It establishes what is to be achieved but says little
+				on how to get there.<xref ref-type="bibr" rid="R11"><sup>2</sup></xref> However, the
+				first step in accelerating progress towards UHC &#x2013; building a health workforce
+				that is both fit for purpose and fit to practice &#x2013; is relatively simple. How
+				does one go about it? By developing the competencies and regulatory frameworks
+				needed to deliver quality care in accordance with the burden of disease and health
+				priorities. The planning and implementation lens is <italic>ex ante</italic>: What
+				health workforce do we need by 2030 to attain &#x201C;effective
+					coverage&#x201D;<xref ref-type="bibr" rid="R12"
+					><sup>3</sup></xref><sup>&#x2013;</sup><xref ref-type="bibr" rid="R16"
+						><sup>7</sup></xref> of an agreed package of care that meets the needs of
+				all people, be they rich or poor? This line of questioning, which is increasingly
+					evident,<xref ref-type="bibr" rid="R17"><sup>8</sup></xref> generates the
+				strategic intelligence to inform evidence-based decisions on human resources for
+				health. Once need is quantified, a secondary but important policy consideration is
+				pragmatism surrounding the available human and capital resources and fiscal space
+				within national settings. Such pragmatism can inform the pace of acceleration
+				towards UHC but should not undermine the initial workforce visioning process or the
+				obligation of governments to deliver on the right to health.<xref ref-type="bibr"
+					rid="R18"><sup>9</sup></xref></p>
+			<p>Existing thresholds for the required number of professional health workers (midwives,
+				nurses and physicians) per 1000 population &#x2013; 2.28 and 3.45 according to the
+				World Health Organization (WHO) and the International Labour Organization,
+					respectively<xref ref-type="bibr" rid="R19"
+					><sup>10</sup></xref><sup>&#x2013;</sup><xref ref-type="bibr" rid="R21"
+						><sup>12</sup></xref> &#x2013; provide valuable references for translating
+				need into indicative workforce requirements, but they should be considered part of
+				the process of planning the workforce to meet the needs of the population rather
+				than an absolute target in countries currently below these thresholds. To promote
+				effective coverage and deliver services closer to the client, it is essential to
+				further analyse the availability or supply of the workforce; its accessibility in
+				spatial, temporal and financial terms; its acceptability to clients; and its
+				quality, in terms of performance. This entails using internationally recognized
+				standards to classify the different occupations in the health workforce; gaining a
+				better understanding of the health labour market within a country; moving beyond
+				counting health workers to assessing their full-time equivalent and available
+				working time; and being more cognisant of the skill mix &#x2013; and educational
+				pathways &#x2013; required for the workforce to become fit for purpose.</p>
+			<p>To an extent, <italic>The Kampala declaration and agenda for global action</italic>
+				and the <italic>WHO Global Code of Practice on the International Recruitment of
+					Health Personnel</italic> offer existing global benchmarks.<xref ref-type="bibr"
+					rid="R22"><sup>13</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R23"
+						><sup>14</sup></xref> The accountability report from the meeting of the G8
+				held in June 2013 in Lough Erne, Northern Ireland, provides evidence that some
+				countries are monitoring their recommended actions.<xref ref-type="bibr" rid="R24"
+						><sup>15</sup></xref> However, the international community has yet to fully
+				grasp the inherent value of these documents in fostering accountability. The 2013
+				progress report on the Global Code of Practice, for example, is a sober reminder
+				that existing health workforce recommendations are not being implemented at scale in
+				all WHO regions.<xref ref-type="bibr" rid="R25"><sup>16</sup></xref></p>
+			<p>A contemporary strategy on human resources for health, embedded within the post-2015
+				development agenda for health, is needed to accelerate progress towards UHC. Such a
+				strategy should promote effective coverage with health services staffed by a
+				workforce that is both fit for purpose and fit to practice. This requires an
+				accompanying accountability and reporting mechanism not only for tracking the stock
+				or density of the health workforce or the coverage of health interventions, but for
+				collating disaggregated data on the availability, accessibility, acceptability and
+				quality of the workforce to meet population needs, ensure the delivery of quality
+				care and achieve fairness for all.</p>
+		</body>
+		<back>
+			<fn-group>
+				<title>Competing interests:</title>
+				<fn fn-type="financial-disclosure">
+					<p>None declared.</p>
+				</fn>
+			</fn-group>
+			<ref-list>
+				<title>References</title>
+				<ref id="R10">
+					<label>1</label>
+					<mixed-citation>World Health Organization [Internet]. Chan M. Universal coverage
+						is the ultimate expression of fairness. Geneva: WHO; 2012. Available from:
+						http://www.who.int/dg/speeches/2012/wha_20120523/en/index.html# [accessed 16
+						August 2013].</mixed-citation>
+					<element-citation publication-type="web">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chan</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<collab>World Health Organization [Internet]</collab>
+						<source>Universal coverage is the ultimate expression of fairness</source>
+						<date-in-citation content-type="access-date">accessed 16 August
+							2013</date-in-citation>
+						<publisher-loc>Geneva</publisher-loc>
+						<publisher-name>WHO</publisher-name>
+						<year>2012</year>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://www.who.int/dg/speeches/2012/wha_20120523/en/index.html#"
+								>http://www.who.int/dg/speeches/2012/wha_20120523/en/index.html#
+							</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R11">
+					<label>2</label>
+					<mixed-citation>Giedion U, Alfonso EA, Díaz Y. <italic>The impact of universal
+							coverage schemes in the developing world: a review of the existing
+							evidence</italic>. Washington: The World Bank; 2013 (UNICO Studies
+						Series No. 25). Available from:
+						http://siteresources.worldbank.org/HEALTHNUTRITIONANDPOPULATION/Images/IMPACTofUHCSchemesinDevelopingCountries-AReviewofExistingEvidence.pdf
+						[accessed 20 August 2013].</mixed-citation>
+					<element-citation publication-type="web">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Giedion</surname>
+								<given-names>U</given-names>
+							</name>
+							<name>
+								<surname>Alfonso</surname>
+								<given-names>EA</given-names>
+							</name>
+							<name>
+								<surname>Díaz</surname>
+								<given-names>Y</given-names>
+							</name>
+						</person-group>
+						<source>The impact of universal coverage schemes in the developing world: a
+							review of the existing evidence</source>
+						<date-in-citation content-type="access-date">accessed 20 August
+							2013</date-in-citation>
+						<publisher-loc>Washington</publisher-loc>
+						<publisher-name>The World Bank</publisher-name>
+						<year>2013</year>
+						<comment>UNICO Studies Series No. 25</comment>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://siteresources.worldbank.org/HEALTHNUTRITIONANDPOPULATION/Images/IMPACTofUHCSchemesinDevelopingCountries-AReviewofExistingEvidence.pdf"
+								>http://siteresources.worldbank.org/HEALTHNUTRITIONANDPOPULATION/Images/IMPACTofUHCSchemesinDevelopingCountries-AReviewofExistingEvidence.pdf
+							</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R12">
+					<label>3</label>
+					<mixed-citation>Shengelia B, Tandon A, Adams OB, Murray CJL. Access,
+						utilization, quality, and effective coverage: an integrated conceptual
+						framework and measurement strategy. <italic>Soc Sci Med</italic>
+						2005;61:97–109. doi: http://dx.doi.org/10.1016/j.socscimed.2004.11.055
+						PMID:15847965</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Shengelia</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Tandon</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Adams</surname>
+								<given-names>OB</given-names>
+							</name>
+							<name>
+								<surname>Murray</surname>
+								<given-names>CJL</given-names>
+							</name>
+						</person-group>
+						<article-title>Access, utilization, quality, and effective coverage: an
+							integrated conceptual framework and measurement
+							strategy.</article-title>
+						<source>Soc Sci Med</source>
+						<year>2005</year>
+						<volume>61</volume>
+						<fpage>97</fpage>
+						<lpage>109</lpage>
+						<pub-id pub-id-type="doi">10.1016/j.socscimed.2004.11.055</pub-id>
+						<pub-id pub-id-type="pmid">15847965</pub-id>
+					</element-citation>
+				</ref>
+				<ref id="R13">
+					<label>4</label>
+					<mixed-citation>Tanahashi T. Health service coverage and its evaluation.
+							<italic>Bull World Health Organ</italic> 1978;56:295–303.
+						PMID:96953</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Tanahashi</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title>Health service coverage and its evaluation.</article-title>
+						<source>Bull World Health Organ</source>
+						<year>1978</year>
+						<volume>56</volume>
+						<fpage>295</fpage>
+						<lpage>303</lpage>
+						<pub-id pub-id-type="pmid">96953</pub-id>
+					</element-citation>
+				</ref>
+				<ref id="R14">
+					<label>5</label>
+					<mixed-citation>Campbell J. The route to effective coverage is through the
+						health worker: there are no shortcuts. <italic>Lancet</italic> 2013;381:725.
+						doi: http://dx.doi.org/10.1016/S0140-6736(13)60579-6
+						PMID:23472917</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Campbell</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title>The route to effective coverage is through the health worker:
+							there are no shortcuts.</article-title>
+						<source>Lancet</source>
+						<year>2013</year>
+						<volume>381</volume>
+						<fpage>725</fpage>
+						<pub-id pub-id-type="doi">10.1016/S0140-6736(13)60579-6</pub-id>
+						<pub-id pub-id-type="pmid">23472917</pub-id>
+					</element-citation>
+				</ref>
+				<ref id="R15">
+					<label>6</label>
+					<mixed-citation><italic>Background paper for the Technical Consultation on
+							Effective Coverage of Health Systems</italic>. Geneva: World Health
+						Organization; 2001. Available from:
+						http://www.who.int/health-systems-performance/technical_consultations/effcov_background.pdf
+						[accessed 16 August 2013].</mixed-citation>
+					<element-citation publication-type="web">
+						<source>Background paper for the Technical Consultation on Effective
+							Coverage of Health Systems</source>
+						<date-in-citation content-type="access-date">accessed 16 August
+							2013</date-in-citation>
+						<publisher-loc>Geneva</publisher-loc>
+						<publisher-name>World Health Organization</publisher-name>
+						<year>2001</year>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://www.who.int/health-systems-performance/technical_consultations/effcov_background.pdf"
+								>http://www.who.int/health-systems-performance/technical_consultations/effcov_background.pdf</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R16">
+					<label>7</label>
+					<mixed-citation>Graham WJ, McCaw-Binns A, Munjanja S. Translating coverage gains
+						into health gains for all women and children: the quality care opportunity.
+							<italic>PLoS Med</italic> 2013;10:e1001368. doi:
+						http://dx.doi.org/10.1371/journal.pmed.1001368
+						PMID:23335862</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Graham</surname>
+								<given-names>WJ</given-names>
+							</name>
+							<name>
+								<surname>McCaw-Binns</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Munjanja</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title>Translating coverage gains into health gains for all women
+							and children: the quality care opportunity.</article-title>
+						<source>PLoS Med</source>
+						<year>2013</year>
+						<volume>10</volume>
+						<fpage>e1001368</fpage>
+						<pub-id pub-id-type="doi">10.1371/journal.pmed.1001368</pub-id>
+						<pub-id pub-id-type="pmid">23335862</pub-id>
+					</element-citation>
+				</ref>
+				<ref id="R17">
+					<label>8</label>
+					<mixed-citation>Ono T, Lafortune G, Schoenstein M. <italic>Health workforce
+							planning in OECD countries: a review of 26 projection models from 18
+							countries</italic>. Ferney-Voltaire: OECD; 2013. Available from:
+						http://www.oecd-ilibrary.org/content/workingpaper/5k44t787zcwb-en [accessed
+						16 August 2013].</mixed-citation>
+					<element-citation publication-type="web">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ono</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Lafortune</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Schoenstein</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<source>Health workforce planning in OECD countries: a review of 26
+							projection models from 18 countries</source>
+						<date-in-citation content-type="access-date">accessed 16 August
+							2013</date-in-citation>
+						<publisher-loc>Ferney-Voltaire</publisher-loc>
+						<publisher-name>OECD</publisher-name>
+						<year>2013</year>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://www.oecd-ilibrary.org/content/workingpaper/5k44t787zcwb-en"
+								>http://www.oecd-ilibrary.org/content/workingpaper/5k44t787zcwb-en</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R18">
+					<label>9</label>
+					<mixed-citation>Ooms G, Brolan C, Eggermont N, Eide A, Flores W, Forman L et al.
+						Universal health coverage anchored in the right to health. <italic>Bull
+							World Health Organ</italic> 2013;91:2–2A. doi:
+						http://dx.doi.org/10.2471/BLT.12.115808 PMID:23397341</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ooms</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Brolan</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Eggermont</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Eide</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Flores</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Forman</surname>
+								<given-names>L</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title>Universal health coverage anchored in the right to
+							health.</article-title>
+						<source>Bull World Health Organ</source>
+						<year>2013</year>
+						<volume>91</volume>
+						<fpage>2</fpage>
+						<lpage>2A</lpage>
+						<pub-id pub-id-type="doi">10.2471/BLT.12.115808</pub-id>
+						<pub-id pub-id-type="pmid">23397341</pub-id>
+					</element-citation>
+				</ref>
+				<ref id="R19">
+					<label>10</label>
+					<mixed-citation><italic>The world health report 2006: working together for
+							health</italic>. Geneva: World Health Organization; 2006. Available
+						from: http://www.who.int/whr/2006/en/ [accessed 24 August
+						2013].</mixed-citation>
+					<element-citation publication-type="web">
+						<source>The world health report 2006: working together for health</source>
+						<date-in-citation content-type="access-date">accessed 24 August
+							2013</date-in-citation>
+						<publisher-loc>Geneva</publisher-loc>
+						<publisher-name>World Health Organization</publisher-name>
+						<year>2006</year>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://www.who.int/whr/2006/en/"
+								>http://www.who.int/whr/2006/en/</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R20">
+					<label>11</label>
+					<mixed-citation>Scheil-Adlung X. Health workforce benchmarks for universal
+						health coverage and sustainable development. <italic>Bull World Health
+							Organ</italic> 2013;91:888–9.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Scheil-Adlung</surname>
+								<given-names>X</given-names>
+							</name>
+						</person-group>
+						<article-title>Health workforce benchmarks for universal health coverage and
+							sustainable development.</article-title>
+						<source>Bull World Health Organ</source>
+						<year>2013</year>
+						<volume>91</volume>
+						<fpage>888</fpage>
+					</element-citation>
+				</ref>
+				<ref id="R21">
+					<label>12</label>
+					<mixed-citation>Cometto G, Witter S. Tackling health workforce challenges to
+						universal health coverage: setting targets and measuring progress.
+							<italic>Bull World Health Organ</italic>
+						2013;91:881–885.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Cometto</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Witter</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title>Tackling health workforce challenges to universal health
+							coverage: setting targets and measuring progress.</article-title>
+						<source>Bull World Health Organ</source>
+						<year>2013</year>
+						<volume>91</volume>
+						<fpage>881</fpage>
+						<lpage>885</lpage>
+						<comment>.</comment>
+					</element-citation>
+				</ref>
+				<ref id="R22">
+					<label>13</label>
+					<mixed-citation>Global Health Workforce Alliance. <italic>The Kampala
+							declaration and agenda for global action</italic>. Geneva: World Health
+						Organization; 2008. Available from:
+						http://www.who.int/workforcealliance/knowledge/resources/kampala_declaration/en/
+						[accessed 16 August 2013].</mixed-citation>
+					<element-citation publication-type="web">
+						<collab>Global Health Workforce Alliance</collab>
+						<source>The Kampala declaration and agenda for global action</source>
+						<date-in-citation content-type="access-date">accessed 16 August
+							2013</date-in-citation>
+						<publisher-loc>Geneva</publisher-loc>
+						<publisher-name>World Health Organization</publisher-name>
+						<year>2008</year>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://www.who.int/workforcealliance/knowledge/resources/kampala_declaration/en/"
+								>http://www.who.int/workforcealliance/knowledge/resources/kampala_declaration/en/</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R23">
+					<label>14</label>
+					<mixed-citation>Resolution WHA63.16. WHO Global Code of Practice on the
+						International Recruitment of Health Personnel. In: <italic>Sixty-third World
+							Health Assembly, Geneva, 17–21 May 2010. Resolutions and
+							decisions</italic>. Geneva: World Health Organization; 2013. Available
+						from: http://apps.who.int/gb/ebwha/pdf_files/WHA63-REC1/WHA63_REC1-P2-en.pdf
+						[accessed 16 August 2013].</mixed-citation>
+					<element-citation publication-type="confproc">
+						<source>Resolution WHA63.16. WHO Global Code of Practice on the
+							International Recruitment of Health Personnel</source>
+						<conf-name>Sixty-third World Health Assembly</conf-name>
+						<conf-date>17–21 May 2010</conf-date>
+						<conf-loc>Geneva</conf-loc>
+						<publisher-loc>Geneva</publisher-loc>
+						<publisher-name>World Health Organization</publisher-name>
+						<year>2013</year>
+						<date-in-citation content-type="access-date">accessed 16 August
+							2013</date-in-citation>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://apps.who.int/gb/ebwha/pdf_files/WHA63-REC1/WHA63_REC1-P2-en.pdf"
+								>http://apps.who.int/gb/ebwha/pdf_files/WHA63-REC1/WHA63_REC1-P2-en.pdf</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R24">
+					<label>15</label>
+					<mixed-citation>Gov.UK [Internet]. Lough Erne accountability report: keeping our
+						promises. London: G8 UK; 2013. Available from:
+						https://www.gov.uk/government/publications/lough-erne-accountability-report
+						[accessed 16 August 2013].</mixed-citation>
+					<element-citation publication-type="web">
+						<collab>Gov.UK [Internet]</collab>
+						<source>Lough Erne accountability report: keeping our promises</source>
+						<date-in-citation content-type="access-date">accessed 16 August
+							2013</date-in-citation>
+						<publisher-loc>London</publisher-loc>
+						<publisher-name>G8 UK</publisher-name>
+						<year>2013</year>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="https://www.gov.uk/government/publications/lough-erne-accountability-report"
+								>https://www.gov.uk/government/publications/lough-erne-accountability-report</ext-link></comment>
+					</element-citation>
+				</ref>
+				<ref id="R25">
+					<label>16</label>
+					<mixed-citation>A 66/25. The health workforce: advances in responding to
+						shortages and migration, and in preparing for emerging needs: report by the
+						Secretariat. In: <italic>Sixty-sixth World Health Assembly, Geneva, 20–28
+							May 2013</italic>. Geneva: World Health Organization; 2013. Available
+						from: http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_25-en.pdf [accessed
+						16 August 2013].</mixed-citation>
+					<element-citation publication-type="confproc">
+						<source>A 66/25. The health workforce: advances in responding to shortages
+							and migration, and in preparing for emerging needs: report by the
+							Secretariat</source>
+						<conf-name>Sixty-sixth World Health Assembly</conf-name>
+						<conf-date>20–28 May 2013</conf-date>
+						<conf-loc>Geneva</conf-loc>
+						<publisher-loc>Geneva</publisher-loc>
+						<publisher-name>World Health Organization</publisher-name>
+						<year>2013</year>
+						<date-in-citation content-type="access-date">accessed 16 August
+							2013</date-in-citation>
+						<comment>Available from: <ext-link ext-link-type="uri"
+								xlink:href="http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_25-en.pdf"
+								>http://apps.who.int/gb/ebwha/pdf_files/WHA66/A66_25-en.pdf</ext-link></comment>
+					</element-citation>
+				</ref>
+			</ref-list>
+		</back>
+	</sub-article>
+</article>

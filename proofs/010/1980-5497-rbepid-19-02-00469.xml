@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="correction" dtd-version="1.0" specific-use="sps-1.3" xml:lang="pt" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Rev Bras Epidemiol</journal-id>
+			<journal-id journal-id-type="publisher-id">rbepid</journal-id>
+			<journal-title-group>
+				<journal-title>Revista Brasileira de Epidemiologia</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Rev. bras. epidemiol.</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">1415-790X</issn>
+			<issn pub-type="epub">1980-5497</issn>
+			<publisher>
+				<publisher-name>Associação Brasileira de Pós -Graduação em Saúde Coletiva</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.1590/1980-5497201600002000</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>ERRATA</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>ERRATA</article-title>
+			</title-group>
+			<pub-date pub-type="epub-ppub">
+				<season>Apr-Jun</season>
+				<year>2016</year>
+			</pub-date>
+			<volume>19</volume>
+			<issue>02</issue>
+			<fpage>469</fpage>
+			<lpage>470</lpage>
+			<permissions>
+				<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/" xml:lang="pt">
+					<license-p>Este é um artigo publicado em acesso aberto sob uma licença Creative Commons</license-p>
+				</license>
+			</permissions>
+			<related-article ext-link-type="doi" id="ra1" related-article-type="corrected-article" xlink:href="10.1590/1980-5497201500060006"/>
+			<counts>
+				<fig-count count="4"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="0"/>
+				<page-count count="02"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>No artigo &quot;Frequência do uso de narguilé em adultos e sua distribuição conforme características sociodemográficas, moradia urbana ou rural e unidades federativas: Pesquisa Nacional de Saúde (PNS), 2013&quot;, com número de DOI: 10.1590/1980-5497201500060006, publicado no periódico Rev. bras. epidemiol., 18(supl.2):57-67, nas páginas 62 e 63:</p>
+		<p>Onde se lia:</p>
+		<p>
+			<fig id="f1">
+				<label>Figura 2:</label>
+				<caption>
+					<title>Distribuição da faixa etária de acordo com a frequência do uso de narguilé dentre os usuários de tabaco. Pesquisa Nacional de Saúde, 2013.</title>
+				</caption>
+				<graphic xlink:href="1980-5497-rbepid-19-02-00469-gf1.png"/>
+			</fig>
+		</p>
+		<p>Leia-se:</p>
+		<p>
+			<fig id="f2">
+				<label>Figura 2:</label>
+				<caption>
+					<title>Distribuição da faixa etária de acordo com a frequência do uso de narguilé dentre os usuários de tabaco. Pesquisa Nacional de Saúde, 2013.</title>
+				</caption>
+				<graphic xlink:href="1980-5497-rbepid-19-02-00469-gf2.png"/>
+			</fig>
+		</p>
+		<p>Onde se lia:</p>
+		<p>
+			<fig id="f3">
+				<label>Figura 3:</label>
+				<caption>
+					<title>Distribuição da escolaridade de acordo com a frequência do uso de narguilé dentre os usuários de tabaco. Pesquisa Nacional de Saúde, 2013.</title>
+				</caption>
+				<graphic xlink:href="1980-5497-rbepid-19-02-00469-gf3.png"/>
+			</fig>
+		</p>
+		<p>Leia-se:</p>
+		<p>
+			<fig id="f4">
+				<label>Figura 3:</label>
+				<caption>
+					<title>Distribuição da escolaridade de acordo com a frequência do uso de narguilé dentre os usuários de tabaco. Pesquisa Nacional de Saúde, 2013.</title>
+				</caption>
+				<graphic xlink:href="1980-5497-rbepid-19-02-00469-gf4.png"/>
+			</fig>
+		</p>
+	</body>
+</article>

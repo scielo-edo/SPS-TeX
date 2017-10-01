@@ -1,0 +1,1503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article SYSTEM "journalpublishing3.dtd">
+<article article-type="discussion" dtd-version="3.0" xml:lang="en"
+xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+<front>
+<journal-meta>
+<journal-id journal-id-type="nlm-ta">Bull World Health Organ</journal-id>
+<journal-title-group>
+<journal-title>Bulletin of the World Health Organization</journal-title>
+<abbrev-journal-title abbrev-type="pubmed">Bull. World Health Organ.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">0042-9686</issn>
+<publisher>
+<publisher-name>World Health Organization</publisher-name>
+</publisher>
+</journal-meta>
+<article-meta>
+<article-id pub-id-type="publisher-id">BLT.13.118810</article-id>
+<article-id pub-id-type="doi">10.2471/BLT.13.118810</article-id>
+<article-categories>
+<subj-group subj-group-type="heading">
+<subject>Round table</subject>
+</subj-group>
+</article-categories>
+<title-group>
+<article-title>Tackling health workforce challenges to universal health coverage: setting targets
+and measuring progress</article-title>
+<trans-title-group xml:lang="fr">
+<trans-title xml:lang="fr">Relever les d&#x00E9;fis des effectifs de sant&#x00E9; pour
+r&#x00E9;aliser la couverture sanitaire universelle: &#x00E9;tablir les objectifs et mesurer les
+progr&#x00E8;s</trans-title>
+</trans-title-group>
+<trans-title-group xml:lang="es">
+<trans-title xml:lang="es">Abordar los desafíos del personal sanitario para alcanzar la cobertura
+universal de la salud: fijaci&#x00F3;n de objetivos y evaluaci&#x00F3;n del progreso</trans-title>
+</trans-title-group>
+<trans-title-group xml:lang="ar">
+<trans-title xml:lang="ar">&#x0627;&#x0644;&#x062A;&#x0635;&#x062F;&#x064A;
+&#x0644;&#x062A;&#x062D;&#x062F;&#x064A;&#x0627;&#x062A; &#x0627;&#x0644;&#x0642;&#x0648;&#x0649;
+&#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0644;&#x0644;&#x062A;&#x063A;&#x0637;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0634;&#x0627;&#x0645;&#x0644;&#x0629;: &#x0648;&#x0636;&#x0639;
+&#x0627;&#x0644;&#x0623;&#x0647;&#x062F;&#x0627;&#x0641; &#x0648;&#x0642;&#x064A;&#x0627;&#x0633;
+&#x0627;&#x0644;&#x062A;&#x0642;&#x062F;&#x0645;</trans-title>
+</trans-title-group>
+<trans-title-group xml:lang="zh">
+<trans-title xml:lang="zh"
+>&#x5E94;&#x5BF9;&#x5168;&#x6C11;&#x533B;&#x7597;&#x4FDD;&#x969C;&#x7684;&#x536B;&#x751F;&#x52B3;&#x52A8;&#x529B;&#x6311;&#x6218;:&#x8BBE;&#x5B9A;&#x76EE;&#x6807;,&#x8861;&#x91CF;&#x53D1;&#x5C55;</trans-title>
+</trans-title-group>
+<trans-title-group xml:lang="ru">
+<trans-title xml:lang="ru"
+>&#x0423;&#x0441;&#x0442;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x0435;
+&#x043F;&#x0440;&#x043E;&#x0431;&#x043B;&#x0435;&#x043C;,
+&#x0441;&#x0432;&#x044F;&#x0437;&#x0430;&#x043D;&#x043D;&#x044B;&#x0445; &#x0441;
+&#x043A;&#x0430;&#x0434;&#x0440;&#x043E;&#x0432;&#x044B;&#x043C;&#x0438;
+&#x0440;&#x0435;&#x0441;&#x0443;&#x0440;&#x0441;&#x0430;&#x043C;&#x0438;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;
+&#x043F;&#x0440;&#x0438; &#x0432;&#x043D;&#x0435;&#x0434;&#x0440;&#x0435;&#x043D;&#x0438;&#x0438;
+&#x0432;&#x0441;&#x0435;&#x043E;&#x0431;&#x0449;&#x0435;&#x0433;&#x043E;
+&#x043E;&#x0445;&#x0432;&#x0430;&#x0442;&#x0430;
+&#x043C;&#x0435;&#x0434;&#x0438;&#x043A;&#x043E;-&#x0441;&#x0430;&#x043D;&#x0438;&#x0442;&#x0430;&#x0440;&#x043D;&#x043E;&#x0439;
+&#x043F;&#x043E;&#x043C;&#x043E;&#x0449;&#x044C;&#x044E;:
+&#x043F;&#x043E;&#x0441;&#x0442;&#x0430;&#x043D;&#x043E;&#x0432;&#x043A;&#x0430;
+&#x0446;&#x0435;&#x043B;&#x0435;&#x0439; &#x0438;
+&#x043E;&#x0442;&#x0441;&#x043B;&#x0435;&#x0436;&#x0438;&#x0432;&#x0430;&#x043D;&#x0438;&#x0435;
+&#x0432;&#x044B;&#x043F;&#x043E;&#x043B;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;</trans-title>
+</trans-title-group>
+<alt-title alt-title-type="author-running-head">Giorgio Cometto &#x26; Sophie Witter</alt-title>
+<alt-title alt-title-type="title-running-head">Tackling workforce challenges to achieve
+UHC</alt-title>
+</title-group>
+<contrib-group>
+<contrib contrib-type="author">
+<name>
+<surname>Cometto</surname>
+<given-names>Giorgio</given-names>
+</name>
+<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+</contrib>
+<contrib contrib-type="author">
+<name>
+<surname>Witter</surname>
+<given-names>Sophie</given-names>
+</name>
+<xref ref-type="aff" rid="aff2"><sup>b</sup></xref>
+</contrib>
+<aff id="aff1">
+<label>a</label>
+<institution content-type="orgdiv1">Global Health Workforce Alliance</institution>
+<institution content-type="orgname">World Health Organization</institution>
+<addr-line>
+<named-content content-type="city">Geneva</named-content>
+</addr-line>
+<country>Switzerland</country>
+<institution content-type="original">Global Health Workforce Alliance, World Health Organization,
+avenue Appia 20, 1211 Geneva 27, Switzerland</institution>
+</aff>
+<aff id="aff2">
+<label>b</label>
+<institution content-type="orgdiv1">ReBUILD</institution>
+<institution content-type="orgname">Queen Margaret University</institution>
+<addr-line>
+<named-content content-type="city">Edinburgh</named-content>
+</addr-line>
+<country>Scotland</country>
+<institution content-type="original">ReBUILD, Queen Margaret University, Edinburgh,
+Scotland</institution>
+</aff>
+</contrib-group>
+<author-notes>
+<corresp id="cor1">Correspondence to Giorgio Cometto (e-mail: <email
+xlink:href="giorgiocometto@hotmail.com">giorgiocometto@hotmail.com</email>).</corresp>
+</author-notes>
+<pub-date pub-type="ppub">
+<month>11</month>
+<year>2013</year>
+</pub-date>
+<volume>91</volume>
+<issue>11</issue>
+<fpage>881</fpage>
+<lpage>885</lpage>
+<history>
+<date date-type="received">
+<day>07</day>
+<month>03</month>
+<year>2013</year>
+</date>
+<date date-type="rev-recd">
+<day>25</day>
+<month>06</month>
+<year>2013</year>
+</date>
+<date date-type="accepted">
+<day>26</day>
+<month>06</month>
+<year>2013</year>
+</date>
+</history>
+<permissions>
+<copyright-statement>(c) World Health Organization (WHO) 2013. All rights
+reserved.</copyright-statement>
+<copyright-year>2013</copyright-year>
+</permissions>
+<abstract xml:lang="en">
+<p>Human resources for health (HRH) will have to be strengthened if universal health coverage (UHC)
+is to be achieved. Existing health workforce benchmarks focus exclusively on the density of
+physicians, nurses and midwives and were developed with the objective of attaining relatively high
+coverage of skilled birth attendance and other essential health services of relevance to the health
+Millennium Development Goals (MDGs). However, the attainment of UHC will depend not only on the
+availability of adequate numbers of health workers, but also on the distribution, quality and
+performance of the available health workforce. In addition, as noncommunicable diseases grow in
+relative importance, the inputs required from health workers are changing. New, broader
+health-workforce benchmarks &#x2013; and a corresponding monitoring framework &#x2013; therefore
+need to be developed and included in the agenda for UHC to catalyse attention and investment in this
+critical area of health systems. The new benchmarks need to reflect the more diverse composition of
+the health workforce and the participation of community health workers and mid-level health workers,
+and they must capture the multifaceted nature and complexities of HRH development, including equity
+in accessibility, sex composition and quality.</p>
+</abstract>
+<trans-abstract xml:lang="fr">
+<title>R&#x00E9;sum&#x00E9;</title>
+<p>Les ressources humaines de la sant&#x00E9; devront &#x00EA;tre renforc&#x00E9;es pour pouvoir
+r&#x00E9;aliser la couverture sanitaire universelle. Les points de r&#x00E9;f&#x00E9;rence existants
+des effectifs de sant&#x00E9; se concentrent exclusivement sur la densit&#x00E9; des
+m&#x00E9;decins, infirmiers et sages-femmes, et ils ont &#x00E9;t&#x00E9; d&#x00E9;velopp&#x00E9;s
+avec l'objectif d'atteindre une couverture relativement &#x00E9;lev&#x00E9;e des accouchements
+m&#x00E9;dicalis&#x00E9;s et des autres services de sant&#x00E9; essentiels qui sont importants pour
+la r&#x00E9;alisation des objectifs du Mill&#x00E9;naire pour le d&#x00E9;veloppement (OMD) de la
+sant&#x00E9;. Cependant, la r&#x00E9;alisation de la couverture sanitaire universelle ne
+d&#x00E9;pendra pas seulement de la disponibilit&#x00E9; d'un nombre appropri&#x00E9; de
+professionnels de la sant&#x00E9;, mais &#x00E9;galement de la distribution, de la qualit&#x00E9; et
+de la performance des effectifs de sant&#x00E9; disponibles. En outre, comme le nombre des maladies
+non transmissibles ne cesse de cro&#x00EE;tre, les contributions requises de la part des
+professionnels de la sant&#x00E9; sont en train de changer. Des points de r&#x00E9;f&#x00E9;rence
+nouveaux et plus larges des effectifs de sant&#x00E9; &#x2013; et un cadre de suivi correspondant
+&#x2013; doivent donc &#x00EA;tre d&#x00E9;velopp&#x00E9;s et inclus dans l'agenda pour la
+couverture sanitaire universelle afin de catalyser l'attention et les investissements dans ce
+domaine critique des syst&#x00E8;mes de sant&#x00E9;. Les nouveaux points de r&#x00E9;f&#x00E9;rence
+doivent refl&#x00E9;ter la composition plus diverse des effectifs de sant&#x00E9; et la
+participation des agents sanitaires des collectivit&#x00E9;s et des agents sanitaires de niveau
+interm&#x00E9;diaire, et ils doivent saisir la nature polymorphe et la complexit&#x00E9; du
+d&#x00E9;veloppement des ressources humaines de la sant&#x00E9;, y compris en ce qui concerne
+l'&#x00E9;quit&#x00E9; dans l'accessibilit&#x00E9;, la composition sexosp&#x00E9;cifique et la
+qualit&#x00E9;.</p>
+</trans-abstract>
+<trans-abstract xml:lang="es">
+<title>Resumen</title>
+<p>Es fundamental fortalecer la acci&#x00F3;n de los recursos humanos en sanidad (RHS) para alcanzar
+la cobertura universal de la salud (CUS). Los par&#x00E1;metros de referencia actuales sobre el
+personal sanitario se centran exclusivamente en la densidad de m&#x00E9;dicos, enfermeros y
+comadronas, y se desarrollaron con el fin de alcanzar una cobertura relativamente alta de asistencia
+especializada durante el parto y otros servicios de salud esenciales, que fueran para lograr los
+Objetivos de Desarrollo del Milenio (ODM). Sin embargo, la consecuci&#x00F3;n de la cobertura
+universal de la salud no solo depende de la disponibilidad de un n&#x00FA;mero adecuado de personal
+sanitario, sino tambi&#x00E9;n de la distribuci&#x00F3;n, la calidad y el desempe&#x00F1;o del
+personal sanitario disponible. Adem&#x00E1;s, la contribuci&#x00F3;n necesaria por parte del
+personal sanitario cambia a medida que la importancia de las enfermedades no transmisibles crece
+relativamente. Por lo tanto, es necesario desarrollar e incluir en el programa otros
+par&#x00E1;metros de referencia m&#x00E1;s amplios y actuales, así como su marco de seguimiento
+correspondiente, de modo que los trabajadores comunitarios de salud puedan catalizar la
+atenci&#x00F3;n y la inversi&#x00F3;n en esta &#x00E1;rea clave del sistema sanitario. Los nuevos
+puntos de referencia deben reflejar la composici&#x00F3;n m&#x00E1;s plural del personal sanitario y
+la participaci&#x00F3;n de los trabajadores comunitarios de salud, así como de los trabajadores
+sanitarios de nivel medio. De esta manera, deben captar las m&#x00FA;ltiples facetas y complejidades
+del desarrollo de los recursos humanos para sanidad, incluyendo la equidad en la accesibilidad, la
+composici&#x00F3;n por sexo y la calidad.</p>
+</trans-abstract>
+<trans-abstract xml:lang="ar">
+<title>&#x0645;&#x0644;&#x062E;&#x0635;</title>
+<p>&#x0633;&#x0648;&#x0641; &#x064A;&#x062A;&#x0639;&#x064A;&#x0646;
+&#x062A;&#x0639;&#x0632;&#x064A;&#x0632; &#x0627;&#x0644;&#x0645;&#x0648;&#x0627;&#x0631;&#x062F;
+&#x0627;&#x0644;&#x0628;&#x0634;&#x0631;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629; &#x0625;&#x0630;&#x0627;
+&#x0643;&#x0627;&#x0646;&#x062A; &#x0647;&#x0646;&#x0627;&#x0643; &#x0631;&#x063A;&#x0628;&#x0629;
+&#x0641;&#x064A; &#x062A;&#x062D;&#x0642;&#x064A;&#x0642;
+&#x0627;&#x0644;&#x062A;&#x063A;&#x0637;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0634;&#x0627;&#x0645;&#x0644;&#x0629;. &#x0648;&#x062A;&#x0631;&#x0643;&#x0632;
+&#x0627;&#x0644;&#x0623;&#x0633;&#x0633;
+&#x0627;&#x0644;&#x0645;&#x0631;&#x062C;&#x0639;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0642;&#x0627;&#x0626;&#x0645;&#x0629; &#x0644;&#x0644;&#x0642;&#x0648;&#x0649;
+&#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629; &#x0628;&#x0634;&#x0643;&#x0644;
+&#x062D;&#x0635;&#x0631;&#x064A; &#x0639;&#x0644;&#x0649; &#x0643;&#x062B;&#x0627;&#x0641;&#x0629;
+&#x0627;&#x0644;&#x0623;&#x0637;&#x0628;&#x0627;&#x0621;
+&#x0648;&#x0627;&#x0644;&#x0645;&#x0645;&#x0631;&#x0636;&#x0627;&#x062A;
+&#x0648;&#x0627;&#x0644;&#x0642;&#x0627;&#x0628;&#x0644;&#x0627;&#x062A;&#x060C;
+&#x0648;&#x062A;&#x0645; &#x062A;&#x0637;&#x0648;&#x064A;&#x0631;&#x0647;&#x0627;
+&#x0628;&#x0647;&#x062F;&#x0641; &#x0628;&#x0644;&#x0648;&#x063A;
+&#x0627;&#x0644;&#x062A;&#x063A;&#x0637;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0645;&#x0631;&#x062A;&#x0641;&#x0639;&#x0629;
+&#x0646;&#x0633;&#x0628;&#x064A;&#x0627;&#x064B; &#x0644;&#x062E;&#x062F;&#x0645;&#x0627;&#x062A;
+&#x0627;&#x0644;&#x062A;&#x0648;&#x0644;&#x064A;&#x062F; &#x0627;&#x0644;&#x062A;&#x064A;
+&#x064A;&#x0642;&#x062F;&#x0645;&#x0647;&#x0627; &#x0623;&#x0634;&#x062E;&#x0627;&#x0635;
+&#x0645;&#x0647;&#x0631;&#x0629; &#x0648;&#x063A;&#x064A;&#x0631;&#x0647;&#x0627; &#x0645;&#x0646;
+&#x0627;&#x0644;&#x062E;&#x062F;&#x0645;&#x0627;&#x062A;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0623;&#x0633;&#x0627;&#x0633;&#x064A;&#x0629; &#x0630;&#x0627;&#x062A;
+&#x0627;&#x0644;&#x0635;&#x0644;&#x0629;
+&#x0628;&#x0627;&#x0644;&#x0623;&#x0647;&#x062F;&#x0627;&#x0641;
+&#x0627;&#x0644;&#x0625;&#x0646;&#x0645;&#x0627;&#x0626;&#x064A;&#x0629;
+&#x0644;&#x0644;&#x0623;&#x0644;&#x0641;&#x064A;&#x0629; &#x0641;&#x064A;
+&#x0645;&#x062C;&#x0627;&#x0644; &#x0627;&#x0644;&#x0635;&#x062D;&#x0629;.
+&#x0648;&#x0639;&#x0644;&#x0649; &#x0627;&#x0644;&#x0631;&#x063A;&#x0645; &#x0645;&#x0646;
+&#x0630;&#x0644;&#x0643;&#x060C; &#x0644;&#x0646; &#x064A;&#x0639;&#x062A;&#x0645;&#x062F;
+&#x0628;&#x0644;&#x0648;&#x063A; &#x0627;&#x0644;&#x062A;&#x063A;&#x0637;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0634;&#x0627;&#x0645;&#x0644;&#x0629; &#x0639;&#x0644;&#x0649;
+&#x0625;&#x062A;&#x0627;&#x062D;&#x0629; &#x0627;&#x0644;&#x0623;&#x0639;&#x062F;&#x0627;&#x062F;
+&#x0627;&#x0644;&#x0643;&#x0627;&#x0641;&#x064A;&#x0629; &#x0645;&#x0646;
+&#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x064A;&#x0646;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x064A;&#x0646; &#x0641;&#x062D;&#x0633;&#x0628;&#x060C;
+&#x0648;&#x0644;&#x0643;&#x0646;&#x0647; &#x0633;&#x064A;&#x0639;&#x062A;&#x0645;&#x062F;
+&#x0643;&#x0630;&#x0644;&#x0643; &#x0639;&#x0644;&#x0649; &#x062A;&#x0648;&#x0632;&#x064A;&#x0639;
+&#x0627;&#x0644;&#x0642;&#x0648;&#x0649; &#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0645;&#x062A;&#x0627;&#x062D;&#x0629;
+&#x0648;&#x0646;&#x0648;&#x0639;&#x064A;&#x062A;&#x0647;&#x0627;
+&#x0648;&#x0623;&#x062F;&#x0627;&#x0621;&#x0647;&#x0627;.
+&#x0628;&#x0627;&#x0644;&#x0625;&#x0636;&#x0627;&#x0641;&#x0629; &#x0625;&#x0644;&#x0649;
+&#x0630;&#x0644;&#x0643;&#x060C; &#x0646;&#x062A;&#x064A;&#x062C;&#x0629;
+&#x0644;&#x0646;&#x0645;&#x0648; &#x0627;&#x0644;&#x0623;&#x0645;&#x0631;&#x0627;&#x0636;
+&#x063A;&#x064A;&#x0631; &#x0627;&#x0644;&#x0633;&#x0627;&#x0631;&#x064A;&#x0629;
+&#x0628;&#x0623;&#x0647;&#x0645;&#x064A;&#x0629; &#x0646;&#x0633;&#x0628;&#x064A;&#x0629;&#x060C;
+&#x0641;&#x0625;&#x0646; &#x0627;&#x0644;&#x0625;&#x0633;&#x0647;&#x0627;&#x0645;&#x0627;&#x062A;
+&#x0627;&#x0644;&#x0645;&#x0637;&#x0644;&#x0648;&#x0628;&#x0629; &#x0645;&#x0646;
+&#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x064A;&#x0646;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x064A;&#x0646; &#x062A;&#x062A;&#x063A;&#x064A;&#x0631;.
+&#x0648;&#x0644;&#x0630;&#x0644;&#x0643;&#x060C; &#x062B;&#x0645;&#x0629;
+&#x062D;&#x0627;&#x062C;&#x0629; &#x0644;&#x0648;&#x0636;&#x0639; &#x0623;&#x0633;&#x0633;
+&#x0645;&#x0631;&#x062C;&#x0639;&#x064A;&#x0629; &#x062C;&#x062F;&#x064A;&#x062F;&#x0629;
+&#x0623;&#x0648;&#x0633;&#x0639; &#x0646;&#x0637;&#x0627;&#x0642;&#x0627;&#x064B;
+&#x0644;&#x0644;&#x0642;&#x0648;&#x0649; &#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629; &#x2013; &#x0648;&#x0625;&#x0637;&#x0627;&#x0631;
+&#x0631;&#x0635;&#x062F; &#x0645;&#x0642;&#x0627;&#x0628;&#x0644; -
+&#x0648;&#x0625;&#x062F;&#x0631;&#x0627;&#x062C;&#x0647;&#x0627; &#x0641;&#x064A;
+&#x062C;&#x062F;&#x0648;&#x0644; &#x0627;&#x0644;&#x0623;&#x0639;&#x0645;&#x0627;&#x0644;
+&#x0644;&#x0644;&#x062A;&#x063A;&#x0637;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0634;&#x0627;&#x0645;&#x0644;&#x0629; &#x0628;&#x063A;&#x064A;&#x0629;
+&#x062A;&#x0633;&#x0631;&#x064A;&#x0639;
+&#x0627;&#x0644;&#x0627;&#x0647;&#x062A;&#x0645;&#x0627;&#x0645;
+&#x0648;&#x0627;&#x0644;&#x0627;&#x0633;&#x062A;&#x062B;&#x0645;&#x0627;&#x0631; &#x0641;&#x064A;
+&#x0647;&#x0630;&#x0627; &#x0627;&#x0644;&#x062C;&#x0627;&#x0646;&#x0628;
+&#x0627;&#x0644;&#x0647;&#x0627;&#x0645; &#x0645;&#x0646; &#x0627;&#x0644;&#x0646;&#x0638;&#x0645;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;. &#x0648;&#x064A;&#x062A;&#x0639;&#x064A;&#x0646;
+&#x0623;&#x0646; &#x062A;&#x0639;&#x0643;&#x0633; &#x0627;&#x0644;&#x0623;&#x0633;&#x0633;
+&#x0627;&#x0644;&#x0645;&#x0631;&#x062C;&#x0639;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x062C;&#x062F;&#x064A;&#x062F;&#x0629;
+&#x0627;&#x0644;&#x062A;&#x0631;&#x0643;&#x064A;&#x0628;&#x0629;
+&#x0627;&#x0644;&#x0623;&#x0643;&#x062B;&#x0631; &#x062A;&#x0646;&#x0648;&#x0639;&#x0627;&#x064B;
+&#x0644;&#x0644;&#x0642;&#x0648;&#x0649; &#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0648;&#x0645;&#x0634;&#x0627;&#x0631;&#x0643;&#x0629;
+&#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x064A;&#x0646; &#x0641;&#x064A;
+&#x0645;&#x062C;&#x0627;&#x0644; &#x0627;&#x0644;&#x0635;&#x062D;&#x0629;
+&#x0627;&#x0644;&#x0645;&#x062C;&#x062A;&#x0645;&#x0639;&#x064A;&#x0629;
+&#x0648;&#x0627;&#x0644;&#x0639;&#x0627;&#x0645;&#x0644;&#x064A;&#x0646;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x064A;&#x0646; &#x0645;&#x0646;
+&#x0627;&#x0644;&#x0645;&#x0633;&#x062A;&#x0648;&#x0649;
+&#x0627;&#x0644;&#x0645;&#x062A;&#x0648;&#x0633;&#x0637;&#x060C; &#x0648;&#x064A;&#x062C;&#x0628;
+&#x0623;&#x0646; &#x062A;&#x0633;&#x062A;&#x0648;&#x0639;&#x0628;
+&#x0627;&#x0644;&#x0637;&#x0628;&#x064A;&#x0639;&#x0629;
+&#x0645;&#x062A;&#x0639;&#x062F;&#x062F;&#x0629; &#x0627;&#x0644;&#x0623;&#x0648;&#x062C;&#x0647;
+&#x0644;&#x062A;&#x0637;&#x0648;&#x064A;&#x0631;
+&#x0627;&#x0644;&#x0645;&#x0648;&#x0627;&#x0631;&#x062F;
+&#x0627;&#x0644;&#x0628;&#x0634;&#x0631;&#x064A;&#x0629;
+&#x0627;&#x0644;&#x0635;&#x062D;&#x064A;&#x0629;
+&#x0648;&#x062A;&#x0639;&#x0642;&#x064A;&#x062F;&#x0627;&#x062A;&#x0647;&#x0627;&#x060C;
+&#x0628;&#x0645;&#x0627; &#x0641;&#x064A; &#x0630;&#x0644;&#x0643;
+&#x0627;&#x0644;&#x0625;&#x0646;&#x0635;&#x0627;&#x0641; &#x0641;&#x064A;
+&#x0627;&#x0644;&#x0625;&#x062A;&#x0627;&#x062D;&#x0629;
+&#x0648;&#x0627;&#x0644;&#x062A;&#x0631;&#x0643;&#x064A;&#x0628;&#x0629; &#x0645;&#x0646;
+&#x0627;&#x0644;&#x062C;&#x0646;&#x0633;&#x064A;&#x0646;
+&#x0648;&#x0627;&#x0644;&#x062C;&#x0648;&#x062F;&#x0629;.</p>
+</trans-abstract>
+<trans-abstract xml:lang="zh">
+<title>&#x6458;&#x8981;</title>
+<p>&#x8981;&#x5B9E;&#x73B0;&#x5168;&#x6C11;&#x533B;&#x4FDD;&#xFF08;UHC&#xFF09;&#xFF0C;&#x5C31;&#x5FC5;&#x987B;&#x5F3A;&#x5316;&#x536B;&#x751F;&#x4EBA;&#x529B;&#x8D44;&#x6E90;&#xFF08;HRH&#xFF09;&#x3002;&#x73B0;&#x6709;&#x536B;&#x751F;&#x4EBA;&#x529B;&#x57FA;&#x51C6;&#x4EC5;&#x4EC5;&#x5173;&#x6CE8;&#x533B;&#x751F;&#x3001;&#x62A4;&#x58EB;&#x548C;&#x52A9;&#x4EA7;&#x58EB;&#x7684;&#x5BC6;&#x5EA6;&#xFF0C;&#x5176;&#x53D1;&#x5C55;&#x76EE;&#x6807;&#x5728;&#x4E8E;&#x5B9E;&#x73B0;&#x719F;&#x7EC3;&#x52A9;&#x4EA7;&#x548C;&#x5176;&#x4ED6;&#x536B;&#x751F;&#x5343;&#x5E74;&#x53D1;&#x5C55;&#x76EE;&#x6807;&#xFF08;MDG&#xFF09;&#x76F8;&#x5173;&#x57FA;&#x672C;&#x536B;&#x751F;&#x670D;&#x52A1;&#x7684;&#x8F83;&#x9AD8;&#x8986;&#x76D6;&#x7387;&#x3002;&#x4F46;&#x662F;&#xFF0C;&#x5B9E;&#x73B0;UHC&#x4E0D;&#x4EC5;&#x4F9D;&#x8D56;&#x4E8E;&#x8DB3;&#x591F;&#x6570;&#x91CF;&#x536B;&#x751F;&#x5DE5;&#x4F5C;&#x8005;&#x7684;&#x53EF;&#x53CA;&#x6027;&#xFF0C;&#x8FD8;&#x5728;&#x4E8E;&#x53EF;&#x7528;&#x536B;&#x751F;&#x52B3;&#x52A8;&#x529B;&#x7684;&#x5206;&#x5E03;&#x3001;&#x8D28;&#x91CF;&#x548C;&#x7EE9;&#x6548;&#x3002;&#x6B64;&#x5916;&#xFF0C;&#x968F;&#x7740;&#x975E;&#x4F20;&#x67D3;&#x6027;&#x75BE;&#x75C5;&#x76F8;&#x5BF9;&#x91CD;&#x8981;&#x6027;&#x7684;&#x63D0;&#x9AD8;&#xFF0C;&#x5BF9;&#x536B;&#x751F;&#x5DE5;&#x4F5C;&#x8005;&#x6240;&#x63D0;&#x4F9B;&#x670D;&#x52A1;&#x7684;&#x8981;&#x6C42;&#x4E5F;&#x5728;&#x53D8;&#x5316;&#x3002;&#x56E0;&#x6B64;&#xFF0C;&#x9700;&#x8981;&#x5236;&#x5B9A;&#x66F4;&#x5E7F;&#x6CDB;&#x7684;&#x536B;&#x751F;&#x52B3;&#x52A8;&#x529B;&#x57FA;&#x51C6;&#x4EE5;&#x53CA;&#x76F8;&#x5E94;&#x7684;&#x76D1;&#x63A7;&#x6846;&#x67B6;&#xFF0C;&#x5E76;&#x5C06;&#x5176;&#x7EB3;&#x5165;UHC&#x65E5;&#x7A0B;&#x4E2D;&#xFF0C;&#x4EE5;&#x4FBF;&#x4FC3;&#x6210;&#x5BF9;&#x536B;&#x751F;&#x7CFB;&#x7EDF;&#x8FD9;&#x4E00;&#x5173;&#x952E;&#x9886;&#x57DF;&#x7684;&#x5173;&#x6CE8;&#x548C;&#x6295;&#x5165;&#x3002;&#x65B0;&#x7684;&#x57FA;&#x51C6;&#x9700;&#x8981;&#x53CD;&#x6620;&#x66F4;&#x52A0;&#x591A;&#x6837;&#x7684;&#x536B;&#x751F;&#x52B3;&#x52A8;&#x529B;&#x7EC4;&#x5408;&#x4EE5;&#x53CA;&#x793E;&#x533A;&#x536B;&#x751F;&#x5DE5;&#x4F5C;&#x8005;&#x548C;&#x4E2D;&#x7EA7;&#x536B;&#x751F;&#x5DE5;&#x4F5C;&#x8005;&#x7684;&#x53C2;&#x4E0E;&#xFF0C;&#x5E76;&#x4E14;&#x5FC5;&#x987B;&#x628A;&#x63E1;HRH&#x53D1;&#x5C55;&#x7684;&#x591A;&#x6837;&#x5316;&#x548C;&#x590D;&#x6742;&#x6027;&#xFF0C;&#x5305;&#x62EC;&#x53EF;&#x53CA;&#x6027;&#x3001;&#x6027;&#x522B;&#x7EC4;&#x6210;&#x548C;&#x8D28;&#x91CF;&#x65B9;&#x9762;&#x7684;&#x516C;&#x5E73;&#x6027;&#x3002;</p>
+</trans-abstract>
+<trans-abstract xml:lang="ru">
+<title>&#x0420;&#x0435;&#x0437;&#x044E;&#x043C;&#x0435;</title>
+<p>&#x0414;&#x043B;&#x044F;
+&#x0434;&#x043E;&#x0441;&#x0442;&#x0438;&#x0436;&#x0435;&#x043D;&#x0438;&#x044F;
+&#x0432;&#x0441;&#x0435;&#x043E;&#x0431;&#x0449;&#x0435;&#x0433;&#x043E;
+&#x043E;&#x0445;&#x0432;&#x0430;&#x0442;&#x0430;
+&#x043C;&#x0435;&#x0434;&#x0438;&#x043A;&#x043E;-&#x0441;&#x0430;&#x043D;&#x0438;&#x0442;&#x0430;&#x0440;&#x043D;&#x043E;&#x0439;
+&#x043F;&#x043E;&#x043C;&#x043E;&#x0449;&#x044C;&#x044E; (&#x0412;&#x041E;&#x041C;&#x0421;&#x041F;),
+&#x043D;&#x0435;&#x043E;&#x0431;&#x0445;&#x043E;&#x0434;&#x0438;&#x043C;&#x043E;
+&#x0443;&#x0441;&#x0438;&#x043B;&#x0438;&#x0442;&#x044C;
+&#x043A;&#x0430;&#x0434;&#x0440;&#x043E;&#x0432;&#x044B;&#x0435;
+&#x0440;&#x0435;&#x0441;&#x0443;&#x0440;&#x0441;&#x044B;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;
+(&#x041A;&#x0420;&#x0417;).
+&#x0421;&#x0443;&#x0449;&#x0435;&#x0441;&#x0442;&#x0432;&#x0443;&#x044E;&#x0449;&#x0438;&#x0435;
+&#x0432; &#x043D;&#x0430;&#x0441;&#x0442;&#x043E;&#x044F;&#x0449;&#x0435;&#x0435;
+&#x0432;&#x0440;&#x0435;&#x043C;&#x044F; &#x043C;&#x0435;&#x0442;&#x043E;&#x0434;&#x044B;
+&#x043E;&#x0446;&#x0435;&#x043D;&#x043A;&#x0438;
+&#x0434;&#x043E;&#x0441;&#x0442;&#x0430;&#x0442;&#x043E;&#x0447;&#x043D;&#x043E;&#x0441;&#x0442;&#x0438;
+&#x043A;&#x0430;&#x0434;&#x0440;&#x043E;&#x0432;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;
+&#x0441;&#x043E;&#x0441;&#x0440;&#x0435;&#x0434;&#x043E;&#x0442;&#x043E;&#x0447;&#x0435;&#x043D;&#x044B;
+&#x0438;&#x0441;&#x043A;&#x043B;&#x044E;&#x0447;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;
+&#x043D;&#x0430;
+&#x043E;&#x0431;&#x0435;&#x0441;&#x043F;&#x0435;&#x0447;&#x0435;&#x043D;&#x043D;&#x043E;&#x0441;&#x0442;&#x0438;
+&#x043D;&#x0430;&#x0441;&#x0435;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F;
+&#x0432;&#x0440;&#x0430;&#x0447;&#x0430;&#x043C;&#x0438;,
+&#x043C;&#x0435;&#x0434;&#x0441;&#x0435;&#x0441;&#x0442;&#x0440;&#x0430;&#x043C;&#x0438; &#x0438;
+&#x0430;&#x043A;&#x0443;&#x0448;&#x0435;&#x0440;&#x043A;&#x0430;&#x043C;&#x0438; &#x0438;
+&#x0431;&#x044B;&#x043B;&#x0438;
+&#x0440;&#x0430;&#x0437;&#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x0430;&#x043D;&#x044B; &#x0441;
+&#x0446;&#x0435;&#x043B;&#x044C;&#x044E;
+&#x0434;&#x043E;&#x0441;&#x0442;&#x0438;&#x0433;&#x043D;&#x0443;&#x0442;&#x044C;
+&#x043E;&#x0442;&#x043D;&#x043E;&#x0441;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;
+&#x0432;&#x044B;&#x0441;&#x043E;&#x043A;&#x0438;&#x0445;
+&#x043F;&#x043E;&#x043A;&#x0430;&#x0437;&#x0430;&#x0442;&#x0435;&#x043B;&#x0435;&#x0439;
+&#x043F;&#x043E; &#x043A;&#x043E;&#x043B;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0443;
+&#x043F;&#x0440;&#x043E;&#x0444;&#x0435;&#x0441;&#x0441;&#x0438;&#x043E;&#x043D;&#x0430;&#x043B;&#x044C;&#x043D;&#x044B;&#x0445;
+&#x0430;&#x043A;&#x0443;&#x0448;&#x0435;&#x0440;&#x043E;&#x0432; &#x0438;
+&#x0434;&#x0440;&#x0443;&#x0433;&#x0438;&#x0445; &#x0432;&#x0430;&#x0436;&#x043D;&#x044B;&#x0445;
+&#x043C;&#x0435;&#x0434;&#x0438;&#x0446;&#x0438;&#x043D;&#x0441;&#x043A;&#x0438;&#x0445;
+&#x0441;&#x043B;&#x0443;&#x0436;&#x0431; &#x0432;
+&#x0441;&#x043E;&#x043E;&#x0442;&#x0432;&#x0435;&#x0442;&#x0441;&#x0442;&#x0432;&#x0438;&#x0438;
+&#x0441; &#x0426;&#x0435;&#x043B;&#x044F;&#x043C;&#x0438;
+&#x0442;&#x044B;&#x0441;&#x044F;&#x0447;&#x0435;&#x043B;&#x0435;&#x0442;&#x0438;&#x044F; &#x0432;
+&#x043E;&#x0431;&#x043B;&#x0430;&#x0441;&#x0442;&#x0438;
+&#x0440;&#x0430;&#x0437;&#x0432;&#x0438;&#x0442;&#x0438;&#x044F;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;.
+&#x0422;&#x0435;&#x043C; &#x043D;&#x0435; &#x043C;&#x0435;&#x043D;&#x0435;&#x0435;,
+&#x0434;&#x043E;&#x0441;&#x0442;&#x0438;&#x0436;&#x0435;&#x043D;&#x0438;&#x0435;
+&#x0432;&#x0441;&#x0435;&#x043E;&#x0431;&#x0449;&#x0435;&#x0433;&#x043E;
+&#x043E;&#x0445;&#x0432;&#x0430;&#x0442;&#x0430;
+&#x0437;&#x0430;&#x0432;&#x0438;&#x0441;&#x0438;&#x0442; &#x043D;&#x0435;
+&#x0442;&#x043E;&#x043B;&#x044C;&#x043A;&#x043E; &#x043E;&#x0442;
+&#x0430;&#x0434;&#x0435;&#x043A;&#x0432;&#x0430;&#x0442;&#x043D;&#x043E;&#x0433;&#x043E;
+&#x043A;&#x043E;&#x043B;&#x0438;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0430;
+&#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x043D;&#x0438;&#x043A;&#x043E;&#x0432;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;,
+&#x043D;&#x043E; &#x0442;&#x0430;&#x043A;&#x0436;&#x0435; &#x043E;&#x0442;
+&#x0440;&#x0430;&#x0441;&#x043F;&#x0440;&#x0435;&#x0434;&#x0435;&#x043B;&#x0435;&#x043D;&#x0438;&#x044F;,
+&#x043A;&#x0430;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x0430; &#x0438;
+&#x043F;&#x0440;&#x043E;&#x0444;&#x0435;&#x0441;&#x0441;&#x0438;&#x043E;&#x043D;&#x0430;&#x043B;&#x044C;&#x043D;&#x044B;&#x0445;
+&#x043F;&#x043E;&#x043A;&#x0430;&#x0437;&#x0430;&#x0442;&#x0435;&#x043B;&#x0435;&#x0439;
+&#x0434;&#x043E;&#x0441;&#x0442;&#x0443;&#x043F;&#x043D;&#x044B;&#x0445;
+&#x043A;&#x0430;&#x0434;&#x0440;&#x043E;&#x0432;&#x044B;&#x0445;
+&#x0440;&#x0435;&#x0441;&#x0443;&#x0440;&#x0441;&#x043E;&#x0432;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;.
+&#x041A;&#x0440;&#x043E;&#x043C;&#x0435; &#x0442;&#x043E;&#x0433;&#x043E;, &#x0441;
+&#x0440;&#x043E;&#x0441;&#x0442;&#x043E;&#x043C;
+&#x043E;&#x0442;&#x043D;&#x043E;&#x0441;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;&#x0439;
+&#x0432;&#x0430;&#x0436;&#x043D;&#x043E;&#x0441;&#x0442;&#x0438;
+&#x043B;&#x0435;&#x0447;&#x0435;&#x043D;&#x0438;&#x044F;
+&#x043D;&#x0435;&#x0438;&#x043D;&#x0444;&#x0435;&#x043A;&#x0446;&#x0438;&#x043E;&#x043D;&#x043D;&#x044B;&#x0445;
+&#x0437;&#x0430;&#x0431;&#x043E;&#x043B;&#x0435;&#x0432;&#x0430;&#x043D;&#x0438;&#x0439;
+&#x043C;&#x0435;&#x043D;&#x044F;&#x044E;&#x0442;&#x0441;&#x044F;
+&#x0442;&#x0440;&#x0435;&#x0431;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x044F; &#x043A;
+&#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x043D;&#x0438;&#x043A;&#x0430;&#x043C;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;.
+&#x041F;&#x043E;&#x044D;&#x0442;&#x043E;&#x043C;&#x0443;
+&#x0434;&#x043E;&#x043B;&#x0436;&#x043D;&#x044B; &#x0431;&#x044B;&#x0442;&#x044C;
+&#x0440;&#x0430;&#x0437;&#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x0430;&#x043D;&#x044B; &#x0438;
+&#x0432;&#x043A;&#x043B;&#x044E;&#x0447;&#x0435;&#x043D;&#x044B; &#x0432;
+&#x043F;&#x0440;&#x043E;&#x0433;&#x0440;&#x0430;&#x043C;&#x043C;&#x0443;
+&#x0434;&#x0435;&#x0439;&#x0441;&#x0442;&#x0432;&#x0438;&#x0439; &#x043F;&#x043E;
+&#x0412;&#x041E;&#x041C;&#x0421;&#x041F; &#x043D;&#x043E;&#x0432;&#x044B;&#x0435;,
+&#x0431;&#x043E;&#x043B;&#x0435;&#x0435; &#x0448;&#x0438;&#x0440;&#x043E;&#x043A;&#x0438;&#x0435;
+&#x043C;&#x0435;&#x0442;&#x043E;&#x0434;&#x044B; &#x043E;&#x0446;&#x0435;&#x043D;&#x043A;&#x0438;
+&#x043A;&#x0430;&#x0434;&#x0440;&#x043E;&#x0432;&#x044B;&#x0445;
+&#x0440;&#x0435;&#x0441;&#x0443;&#x0440;&#x0441;&#x043E;&#x0432;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;,
+&#x0430; &#x0442;&#x0430;&#x043A;&#x0436;&#x0435;
+&#x0441;&#x043E;&#x043E;&#x0442;&#x0432;&#x0435;&#x0442;&#x0441;&#x0442;&#x0432;&#x0443;&#x044E;&#x0449;&#x0430;&#x044F;
+&#x0441;&#x0438;&#x0441;&#x0442;&#x0435;&#x043C;&#x0430;
+&#x043D;&#x0430;&#x0431;&#x043B;&#x044E;&#x0434;&#x0435;&#x043D;&#x0438;&#x044F;.
+&#x042D;&#x0442;&#x043E; &#x043F;&#x043E;&#x043C;&#x043E;&#x0436;&#x0435;&#x0442;
+&#x0430;&#x043A;&#x0442;&#x0438;&#x0432;&#x0438;&#x0437;&#x0438;&#x0440;&#x043E;&#x0432;&#x0430;&#x0442;&#x044C;
+&#x043F;&#x0440;&#x0438;&#x0432;&#x043B;&#x0435;&#x0447;&#x0435;&#x043D;&#x0438;&#x0435;
+&#x0432;&#x043D;&#x0438;&#x043C;&#x0430;&#x043D;&#x0438;&#x044F; &#x0438;
+&#x0438;&#x043D;&#x0432;&#x0435;&#x0441;&#x0442;&#x0438;&#x0446;&#x0438;&#x0439; &#x043A;
+&#x044D;&#x0442;&#x043E;&#x0439;
+&#x0438;&#x0441;&#x043A;&#x043B;&#x044E;&#x0447;&#x0438;&#x0442;&#x0435;&#x043B;&#x044C;&#x043D;&#x043E;
+&#x0432;&#x0430;&#x0436;&#x043D;&#x043E;&#x0439;
+&#x043E;&#x0431;&#x043B;&#x0430;&#x0441;&#x0442;&#x0438;
+&#x0441;&#x0438;&#x0441;&#x0442;&#x0435;&#x043C;&#x044B;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;.
+&#x041D;&#x043E;&#x0432;&#x044B;&#x0435; &#x043C;&#x0435;&#x0442;&#x043E;&#x0434;&#x044B;
+&#x043E;&#x0446;&#x0435;&#x043D;&#x043A;&#x0438; &#x0434;&#x043E;&#x043B;&#x0436;&#x043D;&#x044B;
+&#x043E;&#x0442;&#x0440;&#x0430;&#x0436;&#x0430;&#x0442;&#x044C;
+&#x043C;&#x043D;&#x043E;&#x0433;&#x043E;&#x043E;&#x0431;&#x0440;&#x0430;&#x0437;&#x043D;&#x044B;&#x0439;
+&#x0441;&#x043E;&#x0441;&#x0442;&#x0430;&#x0432;
+&#x043A;&#x0430;&#x0434;&#x0440;&#x043E;&#x0432;&#x044B;&#x0445;
+&#x0440;&#x0435;&#x0441;&#x0443;&#x0440;&#x0441;&#x043E;&#x0432;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;
+&#x0438;
+&#x0437;&#x0430;&#x0434;&#x0435;&#x0439;&#x0441;&#x0442;&#x0432;&#x043E;&#x0432;&#x0430;&#x043D;&#x0438;&#x0435;
+&#x043C;&#x0435;&#x0441;&#x0442;&#x043D;&#x044B;&#x0445;
+&#x043C;&#x0435;&#x0434;&#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x043D;&#x0438;&#x043A;&#x043E;&#x0432;,
+&#x0430; &#x0442;&#x0430;&#x043A;&#x0436;&#x0435;
+&#x0440;&#x0430;&#x0431;&#x043E;&#x0442;&#x043D;&#x0438;&#x043A;&#x043E;&#x0432;
+&#x0437;&#x0434;&#x0440;&#x0430;&#x0432;&#x043E;&#x043E;&#x0445;&#x0440;&#x0430;&#x043D;&#x0435;&#x043D;&#x0438;&#x044F;
+&#x0441;&#x0440;&#x0435;&#x0434;&#x043D;&#x0435;&#x0433;&#x043E;
+&#x0437;&#x0432;&#x0435;&#x043D;&#x0430;. &#x041A;&#x0440;&#x043E;&#x043C;&#x0435;
+&#x0442;&#x043E;&#x0433;&#x043E;, &#x044D;&#x0442;&#x0438;
+&#x043E;&#x0446;&#x0435;&#x043D;&#x043A;&#x0438; &#x0434;&#x043E;&#x043B;&#x0436;&#x043D;&#x044B;
+&#x043E;&#x0442;&#x0440;&#x0430;&#x0436;&#x0430;&#x0442;&#x044C;
+&#x043C;&#x043D;&#x043E;&#x0433;&#x043E;&#x043F;&#x0440;&#x043E;&#x0444;&#x0438;&#x043B;&#x044C;&#x043D;&#x043E;&#x0441;&#x0442;&#x044C;
+&#x0438; &#x0441;&#x043B;&#x043E;&#x0436;&#x043D;&#x043E;&#x0441;&#x0442;&#x044C;
+&#x0440;&#x0430;&#x0437;&#x0432;&#x0438;&#x0442;&#x0438;&#x044F; &#x041A;&#x0420;&#x0417;,
+&#x0432;&#x043A;&#x043B;&#x044E;&#x0447;&#x0430;&#x044F;
+&#x0440;&#x0430;&#x0432;&#x0435;&#x043D;&#x0441;&#x0442;&#x0432;&#x043E; &#x043F;&#x0440;&#x0438;
+&#x043E;&#x0431;&#x0435;&#x0441;&#x043F;&#x0435;&#x0447;&#x0435;&#x043D;&#x0438;&#x0438;
+&#x0434;&#x043E;&#x0441;&#x0442;&#x0443;&#x043F;&#x043D;&#x043E;&#x0441;&#x0442;&#x0438;,
+&#x043F;&#x043E;&#x043B;&#x043E;&#x0432;&#x043E;&#x0439;
+&#x0441;&#x043E;&#x0441;&#x0442;&#x0430;&#x0432; &#x0438;
+&#x043A;&#x0430;&#x0447;&#x0435;&#x0441;&#x0442;&#x0432;&#x043E;
+&#x043F;&#x043E;&#x0434;&#x0433;&#x043E;&#x0442;&#x043E;&#x0432;&#x043A;&#x0438;.</p>
+</trans-abstract>
+</article-meta>
+</front>
+<body>
+<sec sec-type="intro">
+<title>Introduction</title>
+<p>The eight Millennium Development Goals (MDGs)<xref ref-type="bibr" rid="R1"><sup>1</sup></xref>
+have been credited with catalysing a greater focus on the development priorities they targeted
+&#x2013; poverty reduction, gender equality, primary education, maternal and child health, control
+of major diseases, environmental issues, and partnerships for development &#x2013; and with
+mobilizing the relevant resources. With three of the MDGs being health-related, health is awarded a
+high priority in the current framework. The progress being made towards achieving these three goals
+is inequitable within and across countries, but despite this, many countries are recording
+improvements in health outcomes.<xref ref-type="bibr" rid="R2"><sup>2</sup></xref></p>
+<p>However, limitations in the MDG framework &#x2013; and particularly in the health-related MDGs
+&#x2013; are being recognized: a lack of attention to equity,<xref ref-type="bibr" rid="R3"
+><sup>3</sup></xref> the neglect of health issues that were not explicitly included in any of the
+MDGs, and the fragmentation of efforts targeted at the different health priorities (the latter might
+have contributed to a narrowly selective focus on development assistance for health).<xref
+ref-type="bibr" rid="R4"><sup>4</sup></xref> The targets and indicators currently used for the
+health-related MDGs focus on increasing the coverage of some priority health services &#x2013; such
+as skilled birth attendance &#x2013; and on improving health outcomes in relation to maternal
+health, child health and infectious diseases. However, none of the MDG targets refers explicitly to
+the health system actions required to attain such objectives. Yet it has been evident for over a
+decade that only by overcoming the structural deficiencies of health systems &#x2013; including
+those related to governance, the health workforce, information systems, health financing and supply
+chains &#x2013; will it be possible to improve specific outcomes for individual diseases or
+population subgroups.<xref ref-type="bibr" rid="R5"><sup>5</sup></xref></p>
+<p>Although econometric analyses have confirmed that an adequate health workforce is necessary for
+the delivery of essential health services and improvement in health outcomes,<xref ref-type="bibr"
+rid="R6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R7"><sup>7</sup></xref> there
+have been systemic failures in the planning, forecasting, development and management of human
+resources for health (HRH).<xref ref-type="bibr" rid="R8"><sup>8</sup></xref><sup>,</sup><xref
+ref-type="bibr" rid="R9"><sup>9</sup></xref> This has led to unacceptable variations in the
+availability, distribution, capacity and performance of health workers, and these have resulted, in
+turn, in uneven quality and coverage of health services. In many low-income countries, acute
+shortages in the health workforce have been compounded by the emigration of health workers to
+high-income countries that offer better working conditions. The situation has heightened a sense of
+injustice that culminated in the adoption, in 2010, of the WHO Global Code of Practice on the
+International Recruitment of Health Personnel.<xref ref-type="bibr" rid="R10"
+><sup>10</sup></xref></p>
+</sec>
+<sec sec-type="other1">
+<title>Health workforce benchmarks</title>
+<p><italic>The world health report 2006</italic> included an estimate of the minimum density
+threshold of physicians, nurses and midwives deemed generally necessary to attain a high coverage of
+skilled birth attendance: 2.28 per 1000 population.<xref ref-type="bibr" rid="R9"
+><sup>9</sup></xref> According to the statistics available when the report was published, 57
+countries fell below this benchmark and an additional 4.3 million health workers would be required
+to achieve the minimum density globally.</p>
+<p>Thanks to its grounding in evidence, its relative simplicity and the fact that it could be easily
+standardized, the minimum density of physicians, nurses or midwives suggested in <italic>The world
+health report 2006</italic> &#x2013; 2.28 per 1000 population &#x2013; has become the most widely
+used health workforce &#x201C;target&#x201D;. It was adopted in the commitments of the Group of
+Eight (G8) in 2008<xref ref-type="bibr" rid="R11"><sup>11</sup></xref> and has served as a basis for
+several monitoring and accountability processes that were either focused on the health
+workforce<xref ref-type="bibr" rid="R12"><sup>12</sup></xref> or had a different and broader
+focus.<xref ref-type="bibr" rid="R13"><sup>13</sup></xref> However, this benchmark focuses
+exclusively on physicians, nurses and midwives and was developed with the objective of attaining
+relatively high coverage of selected essential health services of relevance to the health MDGs. In
+today's world, it is no longer adequate in the health workforce discourse for at least four
+reasons:</p>
+<list id="L1" list-type="roman-lower">
+<list-item>
+<p>The evidence underpinning the threshold value was based on data on immunization coverage and
+skilled birth attendance. No consideration was given to health workforce requirements with respect
+to a wider range of health services, including the control and treatment of noncommunicable
+diseases.</p>
+</list-item>
+<list-item>
+<p>The benchmark only allows the identification of inadequacies in the numbers of health workers. In
+the attainment of universal health coverage (UHC), many other challenges of equal &#x2013; if not
+greater &#x2013; importance exist, such as issues relating to access to, and the quality and
+performance of, the health workforce that were not captured by the simple density-based benchmark.
+Aspects such as distribution, responsiveness, affordability and productivity were crucially
+missing.</p>
+</list-item>
+<list-item>
+<p>The macroeconomic implications of attaining the density benchmark have not been examined. It has
+been estimated that some low-income countries would have to allocate 50% of their gross domestic
+product to health to be able to reach the benchmark.<xref ref-type="bibr" rid="R14"
+><sup>14</sup></xref></p>
+</list-item>
+<list-item>
+<p>The benchmark only relates to physicians, nurses and midwives. However, community health
+workers<xref ref-type="bibr" rid="R15"><sup>15</sup></xref><sup>,</sup><xref ref-type="bibr"
+rid="R16"><sup>16</sup></xref> and mid-level health workers<xref ref-type="bibr" rid="R17"
+><sup>17</sup></xref> can also improve the availability and accessibility of health services while
+maintaining &#x2013; when appropriately trained and managed &#x2013; quality standards that are
+similar to those of cadres undergoing longer training. Despite a growing evidence base and a
+significant political momentum in support of their role, including through the global One Million
+Community Health Workers Campaign and similar initiatives,<xref ref-type="bibr" rid="R18"
+><sup>18</sup></xref><sup>,</sup><xref ref-type="bibr" rid="R19"><sup>19</sup></xref> these cadres
+are often operating at the margins of health systems and are largely excluded from HRH information
+systems and benchmarks.</p>
+</list-item>
+</list>
+<p>A few other benchmarks have been used, such as the Sphere standards.<xref ref-type="bibr"
+rid="R20"><sup>20</sup></xref> However, these benchmarks &#x2013; which call for at least one
+physician and 50 community health workers for every 50&#x2009;000 population &#x2013; are only of
+primary relevance to humanitarian operations in refugee settings.</p>
+</sec>
+<sec sec-type="other2">
+<title>Evolving health workforce needs</title>
+<p>The renewed focus on UHC in the health policy discourse &#x2013; which culminated in December
+2012 in the adoption of a United Nations General Assembly resolution on global health and foreign
+policy &#x2013; has contributed to a wider recognition of the need for an &#x201C;adequate skilled,
+well-trained and motivated [health] workforce&#x201D;.<xref ref-type="bibr" rid="R21"
+><sup>21</sup></xref></p>
+<p>The progressive realization of the right to health for all people &#x2013; and of UHC &#x2013;
+will entail a wide array of actions to address the specific needs of each country. As national
+health systems in low- and middle-income countries try to broaden the services they provide to cover
+noncommunicable diseases as well, new demands will be made on their health workers. Population
+demands for more equitable access to health care of good quality will also have to be reflected in
+efforts at securing greater accessibility of health workers &#x2013; especially in rural and other
+underserved areas<xref ref-type="bibr" rid="R22"><sup>22</sup></xref> &#x2013; and improving their
+competence and performance. There will also be an increasing demand for greater efficiency: in
+general, the countries that are facing the greatest obstacles to the attainment of UHC are also the
+most fiscally constrained. Affordable approaches to boost the performance of health workers are
+urgently required. There may be trade-offs between the broader HRH needs entailed in the UHC
+paradigm and the financial constraints faced by many countries. It may be possible to increase the
+cost-effectiveness of an expanding health system by awarding more prominent roles to community
+health workers and mid-level health workers. Similarly, the adoption of appropriate management
+systems and incentive structures could help to optimize the performance of existing health workers
+and reduce wasteful spending.<xref ref-type="bibr" rid="R23"><sup>23</sup></xref></p>
+<p>Guaranteeing UHC is a multifaceted endeavour. To approach the issue through the health workforce
+lens, it is necessary to go beyond mere numbers and address gaps in equitable distribution,
+competency, quality, motivation, productivity and performance. Improving access to effective
+coverage will not be possible otherwise (<xref ref-type="fig" rid="F1">Fig.&#x00A0;1</xref>).</p>
+<fig id="F1" position="float" fig-type="figure">
+<label>Fig. 1</label>
+<caption>
+<p>Human resources for health actions required to achieve universal health coverage</p>
+</caption>
+<p>Source: Jim Campbell and Giorgio Cometto (2012), adapted from Tanahashi (1978).</p>
+<graphic xlink:href="0042-9686-bwho-91-11-881-F1"/>
+</fig>
+<p>On the path towards UHC, fundamental changes will have to be adopted by countries and by the
+global health community in relation to how health workers are trained, deployed, managed and
+supported.<xref ref-type="bibr" rid="R24"><sup>24</sup></xref> The role of the public sector in
+shaping health labour market forces will also have to be strengthened. A critical element in this
+endeavour is the inclusion of HRH benchmarks and of a corresponding monitoring framework in the UHC
+agenda.</p>
+</sec>
+<sec sec-type="other3">
+<title>Aiming for universal health coverage</title>
+<p>HRH are not an end in themselves but the indispensable means to achieving improved health
+outcomes. Aware of the importance of measurable targets and linked accountability mechanisms in
+stimulating action, countries and the international community should include a
+health-workforce-specific benchmark in the framework for UHC and the post-2015 development agenda.
+The inclusion of HRH benchmarks in the post-2015 agenda could help to foster collaboration between
+countries and global partners and to focus policy actions and investments where they are most
+required.</p>
+<p>The development of new benchmarks in the field of HRH should take into account several
+interrelated factors, including:</p>
+<list id="L2" list-type="roman-lower">
+<list-item>
+<p>population growth and the demographic transition;</p>
+</list-item>
+<list-item>
+<p>the growing burden of noncommunicable diseases and the corresponding changes in demand for health
+services by citizens;</p>
+</list-item>
+<list-item>
+<p>the need to adapt the skills and competencies of health workers to match these changed
+demands;</p>
+</list-item>
+<list-item>
+<p>an appreciation of health workforce challenges other than numerical shortages, and of the
+potential contributions of cadres other than physicians, nurses and midwives in improving health
+service availability and accessibility &#x2013; especially in those disrupted health systems that
+face the most acute challenges;</p>
+</list-item>
+<list-item>
+<p>the role of non-state actors, which has never been adequately captured in previous benchmarks or
+in the corresponding monitoring frameworks.</p>
+</list-item>
+</list>
+<p>New benchmarks are required that give a better reflection of the diverse composition of the
+health workforce. They should take account of the contributions that are made by social workers who
+are involved in long-term care and by community health workers and mid-level health workers. The
+inclusion of these other cadres could result in targets that are realistically attainable even by
+low-income countries. Recent costing studies suggest that providing care through community health
+workers is affordable.<xref ref-type="bibr" rid="R25"><sup>25</sup></xref> However, any additions to
+the roles and expectations of health workers are likely to increase resource requirements.</p>
+<p>Even adopting a more affordable skills mix and increasing efficiency in HRH spending through a
+renewed emphasis on performance and quality of care, the financial path towards UHC for some
+low-income countries and fragile states will inevitably involve, at least in the short-term, a role
+for official development assistance. Feng Zhao et al. discuss in an editorial in this theme issue
+how to maximize the returns of external financing for HRH.<xref ref-type="bibr" rid="R26"
+><sup>26</sup></xref></p>
+<p>HRH benchmarks should influence the planning, management, support and monitoring of health
+systems. They should also be reflected in the setting of the targets used &#x2013; at the national
+and global level &#x2013; to track progress towards UHC and the health priorities of the post-2015
+development agenda.</p>
+<p>It would also be helpful, besides setting quantitative targets, to introduce an equity lens and
+explore needs in other dimensions, including the geographical distribution and sex composition of
+the health workforce. Minimum standards need to be established for all aspects of health worker
+performance &#x2013; including responsiveness and competency and the associated management,
+financing and information systems. This round table base paper is complemented by four
+discussants,<xref ref-type="bibr" rid="R27"><sup>27</sup></xref><sup>&#x2013;</sup><xref
+ref-type="bibr" rid="R30"><sup>30</sup></xref> on how to strike the right balance between benchmarks
+that are sharp, actionable and measurable while simultaneously capturing the multifaceted nature and
+complexities of health workforce development.</p>
+</sec>
+</body>
+<back>
+<fn-group>
+<title>Competing interests:</title>
+<fn fn-type="financial-disclosure">
+<p>None declared.</p>
+</fn>
+</fn-group>
+<ref-list>
+<title>References</title>
+<ref id="R1">
+<label>1</label>
+<mixed-citation>Waage J, Banerji R, Campbell O, Chirwa E, Collender G, Dieltiens V et al. The
+Millennium Development Goals: a cross-sectoral analysis and principles for goal setting after 2015:
+Lancet and London International Development Centre Commission. Lancet 2010;376:991–1023. doi:
+http://dx.doi.org/10.1016/S0140-6736(10)61196-8 PMID:20833426</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Waage</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Banerji</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Campbell</surname>
+<given-names>O</given-names>
+</name>
+<name>
+<surname>Chirwa</surname>
+<given-names>E</given-names>
+</name>
+<name>
+<surname>Collender</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Dieltiens</surname>
+<given-names>V</given-names>
+</name>
+<etal/>
+</person-group>
+<article-title>The Millennium Development Goals: a cross-sectoral analysis and principles for goal
+setting after 2015: Lancet and London International Development Centre Commission.</article-title>
+<source>Lancet</source>
+<year>2010</year>
+<volume>376</volume>
+<fpage>991</fpage>
+<lpage>1023</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(10)61196-8</pub-id>
+<pub-id pub-id-type="pmid">20833426</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R2">
+<label>2</label>
+<mixed-citation>United Nations Regional Information Centre for Western Europe [Internet]. UN MDG
+report, 2012, stresses need for a true global partnership. Brussels: UNRICWE; 2012. Available from:
+http://www.unric.org/en/latest-un-buzz/27661-un-mdg-report-2012-stresses-need-for-a-true-global-partnership
+[accessed 25 July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<collab>United Nations Regional Information Centre for Western Europe [Internet]</collab>
+<source>UN MDG report, 2012, stresses need for a true global partnership</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Brussels</publisher-loc>
+<publisher-name>UNRICWE</publisher-name>
+<year>2012</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.unric.org/en/latest-un-buzz/27661-un-mdg-report-2012-stresses-need-for-a-true-global-partnership"
+>http://www.unric.org/en/latest-un-buzz/27661-un-mdg-report-2012-stresses-need-for-a-true-global-partnership
+</ext-link>
+</comment>
+</element-citation>
+</ref>
+
+<ref id="R3">
+<label>3</label>
+<mixed-citation>Reidpath DD, Morel CM, Mecaskey JW, Allotey P. The Millennium Development Goals fail
+poor children: the case for equity-adjusted measures. <italic>PLoS Med</italic> 2009;6:e1000062.
+doi: http://dx.doi.org/10.1371/journal.pmed.1000062 PMID:19399155</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Reidpath</surname>
+<given-names>DD</given-names>
+</name>
+<name>
+<surname>Morel</surname>
+<given-names>CM</given-names>
+</name>
+<name>
+<surname>Mecaskey</surname>
+<given-names>JW</given-names>
+</name>
+<name>
+<surname>Allotey</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>The Millennium Development Goals fail poor children: the case for equity-adjusted
+measures.</article-title>
+<source>PLoS Med</source>
+<year>2009</year>
+<volume>6</volume>
+<fpage>e1000062</fpage>
+<pub-id pub-id-type="doi">10.1371/journal.pmed.1000062</pub-id>
+<pub-id pub-id-type="pmid">19399155</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R4">
+<label>4</label>
+<mixed-citation>Samb B, Evans T, Dybul M, Atun R, Moatti JP, Nishtar S et al.; World Health
+Organization Maximizing Positive Synergies Collaborative Group. An assessment of interactions
+between global health initiatives and country health systems. <italic>Lancet</italic>
+2009;373:2137–69. doi: http://dx.doi.org/10.1016/S0140-6736(09)60919-3
+PMID:19541040</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Samb</surname>
+<given-names>B</given-names>
+</name>
+<name>
+<surname>Evans</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Dybul</surname>
+<given-names>M</given-names>
+</name>
+<name>
+<surname>Atun</surname>
+<given-names>R</given-names>
+</name>
+<name>
+<surname>Moatti</surname>
+<given-names>JP</given-names>
+</name>
+<name>
+<surname>Nishtar</surname>
+<given-names>S</given-names>
+</name>
+<etal/>
+<collab>World Health Organization Maximizing Positive Synergies Collaborative Group</collab>
+</person-group>
+<article-title>An assessment of interactions between global health initiatives and country health
+systems.</article-title>
+<source>Lancet</source>
+<year>2009</year>
+<volume>373</volume>
+<fpage>2137</fpage>
+<lpage>69</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(09)60919-3</pub-id>
+<pub-id pub-id-type="pmid">19541040</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R5">
+<label>5</label>
+<mixed-citation>Travis P, Bennett S, Haines A, Pang T, Bhutta Z, Hyder AA et al. Overcoming
+health-systems constraints to achieve the Millennium Development Goals. <italic>Lancet</italic>
+2004;364:900–6. doi: http://dx.doi.org/10.1016/S0140-6736(04)16987-0 PMID:15351199</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Travis</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Bennett</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Haines</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Pang</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Bhutta</surname>
+<given-names>Z</given-names>
+</name>
+<name>
+<surname>Hyder</surname>
+<given-names>AA</given-names>
+</name>
+<etal/>
+</person-group>
+<article-title>Overcoming health-systems constraints to achieve the Millennium Development
+Goals.</article-title>
+<source>Lancet</source>
+<year>2004</year>
+<volume>364</volume>
+<fpage>900</fpage>
+<lpage>6</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(04)16987-0</pub-id>
+<pub-id pub-id-type="pmid">15351199</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R6">
+<label>6</label>
+<mixed-citation>Anand S, Bärnighausen T. Health workers and vaccination coverage in developing
+countries: an econometric analysis. <italic>Lancet</italic> 2007;369:1277–85. doi:
+http://dx.doi.org/10.1016/S0140-6736(07)60599-6 PMID:17434403</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Anand</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>B&#x00E4;rnighausen</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Health workers and vaccination coverage in developing countries: an econometric
+analysis.</article-title>
+<source>Lancet</source>
+<year>2007</year>
+<volume>369</volume>
+<fpage>1277</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(07)60599-6</pub-id>
+<pub-id pub-id-type="pmid">17434403</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R7">
+<label>7</label>
+<mixed-citation>Anand S, Bärnighausen T. Human resources and health outcomes: cross-country
+econometric study. <italic>Lancet</italic> 2004;364:1603–9. doi:
+http://dx.doi.org/10.1016/S0140-6736(04)17313-3 PMID:15519630</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Anand</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>B&#x00E4;rnighausen</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Human resources and health outcomes: cross-country econometric study.</article-title>
+<source>Lancet</source>
+<year>2004</year>
+<volume>364</volume>
+<fpage>1603</fpage>
+<lpage>9</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(04)17313-3</pub-id>
+<pub-id pub-id-type="pmid">15519630</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R8">
+<label>8</label>
+<mixed-citation><italic>Human resources for health – overcoming the crisis</italic>. Cambridge:
+Joint Learning Initiative; 2004. Available from: www.who.int/hrh/documents/JLi_hrh_report.pdf
+[accessed 25 July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<source>Human resources for health – overcoming the crisis</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Cambridge</publisher-loc>
+<publisher-name>Joint Learning Initiative</publisher-name>
+<year>2004</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.who.int/hrh/documents/JLi_hrh_report.pdf"
+>www.who.int/hrh/documents/JLi_hrh_report.pdf</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R9">
+<label>9</label>
+<mixed-citation><italic>The world health report 2006 – working together for health</italic>. Geneva:
+WHO; 2006. Available from: http://www.who.int/whr/2006 [accessed 25 July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<source>The world health report 2006 – working together for health</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>WHO</publisher-name>
+<year>2006</year>
+<comment>Available from: <ext-link ext-link-type="uri" xlink:href="http://www.who.int/whr/2006"
+>http://www.who.int/whr/2006</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R10">
+<label>10</label>
+<mixed-citation>Resolution WHA63.16. WHO Global Code of Practice on the International Recruitment of
+Health Personnel. In: <italic>Sixty-third World Health Assembly, Geneva, 21 May 2010. Resolutions
+and decisions</italic>. Geneva: World Health Organization; 2010. Available from:
+http://apps.who.int/gb/ebwha/pdf_files/WHA63/A63_R16-en.pdf [accessed 25 July
+2013].</mixed-citation>
+<element-citation publication-type="confproc">
+<source>Resolution WHA63.16. WHO Global Code of Practice on the International Recruitment of Health
+Personnel</source>
+<conf-name>Sixty-third World Health Assembly</conf-name>
+<conf-date>21 May 2010</conf-date>
+<conf-loc>Geneva</conf-loc>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>World Health Organization</publisher-name>
+<year>2010</year>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://apps.who.int/gb/ebwha/pdf_files/WHA63/A63_R16-en.pdf"
+>http://apps.who.int/gb/ebwha/pdf_files/WHA63/A63_R16-en.pdf</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R11">
+<label>11</label>
+<mixed-citation><italic>G8 Hokkaido Toyako Summit Leaders Declaration</italic>. Toyako: Group of
+Eight; 2008. Available from: http://www.mofa.go.jp/policy/economy/summit/2008/doc/doc080714__en.html
+[accessed 25 July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<source>G8 Hokkaido Toyako Summit Leaders Declaration</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Toyako</publisher-loc>
+<publisher-name>Group of Eight</publisher-name>
+<year>2008</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.mofa.go.jp/policy/economy/summit/2008/doc/doc080714__en.html"
+>http://www.mofa.go.jp/policy/economy/summit/2008/doc/doc080714__en.html</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R12">
+<label>12</label>
+<mixed-citation>Global Health Workforce Alliance [Internet]. Reviewing progress, renewing
+commitment: launch of the progress report on the Kampala Declaration and Agenda for Global Action.
+Geneva: World Health Organization; 2011. Available from:
+http://www.who.int/workforcealliance/forum/2011/progressreportlaunch [accessed 25 July
+2013].</mixed-citation>
+<element-citation publication-type="web">
+<collab>Global Health Workforce Alliance [Internet]</collab>
+<source>Reviewing progress, renewing commitment: launch of the progress report on the Kampala
+Declaration and Agenda for Global Action</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>World Health Organization</publisher-name>
+<year>2011</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.who.int/workforcealliance/forum/2011/progressreportlaunch"
+>http://www.who.int/workforcealliance/forum/2011/progressreportlaunch</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R13">
+<label>13</label>
+<mixed-citation><italic>Building a future for women and children: the 2012 report</italic>. Geneva:
+World Health Organization; 2012. Available from:
+http://www.countdown2015mnch.org/reports-and-articles/2012-report [accessed 25 July
+2013].</mixed-citation>
+<element-citation publication-type="web">
+<source>Building a future for women and children: the 2012 report</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>World Health Organization</publisher-name>
+<year>2012</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.countdown2015mnch.org/reports-and-articles/2012-report"
+>http://www.countdown2015mnch.org/reports-and-articles/2012-report</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R14">
+<label>14</label>
+<mixed-citation>Bossert TJ, Ono T. Finding affordable health workforce targets in low-income
+nations. <italic>Health Aff (Millwood)</italic> 2010;29:1376–82. doi:
+http://dx.doi.org/10.1377/hlthaff.2009.0443 PMID:20606191</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bossert</surname>
+<given-names>TJ</given-names>
+</name>
+<name>
+<surname>Ono</surname>
+<given-names>T</given-names>
+</name>
+</person-group>
+<article-title>Finding affordable health workforce targets in low-income nations.</article-title>
+<source>Health Aff (Millwood)</source>
+<year>2010</year>
+<volume>29</volume>
+<fpage>1376</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="doi">10.1377/hlthaff.2009.0443</pub-id>
+<pub-id pub-id-type="pmid">20606191</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R15">
+<label>15</label>
+<mixed-citation>Lewin S, Munabi-Babigumira S, Glenton C, Daniels K, Bosch-Capblanch X, van Wyk BE et
+al. Lay health workers in primary and community health care for maternal and child health and the
+management of infectious diseases. <italic>Cochrane Database Syst Rev</italic> 2010;3:CD004015.
+PMID:20238326</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lewin</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Munabi-Babigumira</surname>
+<given-names>S</given-names>
+</name>
+<name>
+<surname>Glenton</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Daniels</surname>
+<given-names>K</given-names>
+</name>
+<name>
+<surname>Bosch-Capblanch</surname>
+<given-names>X</given-names>
+</name>
+<name>
+<surname>van Wyk</surname>
+<given-names>BE</given-names>
+</name>
+<etal/>
+</person-group>
+<article-title>Lay health workers in primary and community health care for maternal and child health
+and the management of infectious diseases.</article-title>
+<source>Cochrane Database Syst Rev</source>
+<year>2010</year>
+<volume>3</volume>
+<fpage>CD004015</fpage>
+<pub-id pub-id-type="pmid">20238326</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R16">
+<label>16</label>
+<mixed-citation>Global Health Workforce Alliance [Internet]. Community health workers. Geneva: GHWA;
+2010. Available from: http://www.who.int/workforcealliance/knowledge/themes/community [accessed 25
+July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<collab>Global Health Workforce Alliance [Internet]</collab>
+<source>Community health workers</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>GHWA</publisher-name>
+<year>2010</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.who.int/workforcealliance/knowledge/themes/community"
+>http://www.who.int/workforcealliance/knowledge/themes/community</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R17">
+<label>17</label>
+<mixed-citation>Lassi ZS, Cometto G, Huicho L, Bhutta ZA. Quality of care provided by mid-level
+health workers: systematic review and meta-analysis. <italic>Bull World Health Organ</italic>
+2013;91:824–33.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Lassi</surname>
+<given-names>ZS</given-names>
+</name>
+<name>
+<surname>Cometto</surname>
+<given-names>G</given-names>
+</name>
+<name>
+<surname>Huicho</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Bhutta</surname>
+<given-names>ZA</given-names>
+</name>
+</person-group>
+<article-title>Quality of care provided by mid-level health workers: systematic review and
+meta-analysis.</article-title>
+<source>Bull World Health Organ</source>
+<year>2013</year>
+<volume>91</volume>
+<fpage>824</fpage>
+<lpage>33</lpage>
+</element-citation>
+</ref>
+
+<ref id="R18">
+<label>18</label>
+<mixed-citation>One million community health workers [Internet]. Grant to help coordinate campaign
+to train one million community health workers in sub-Saharan Africa. New York: One Million Community
+Health Workers Campaign; 2013. Available from: http://www.1millionhealthworkers.org [accessed 25
+July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<collab>One million community health workers [Internet]</collab>
+<source>Grant to help coordinate campaign to train one million community health workers in
+sub-Saharan Africa</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>One Million Community Health Workers Campaign</publisher-name>
+<year>2013</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.1millionhealthworkers.org"
+>http://www.1millionhealthworkers.org</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R19">
+<label>19</label>
+<mixed-citation>Singh P, Sachs JD. 1 million community health workers in sub-Saharan Africa by 2015.
+<italic>Lancet</italic> 2013;382:363–5. doi: http://dx.doi.org/10.1016/S0140-6736(12)62002-9
+PMID:23541538</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Singh</surname>
+<given-names>P</given-names>
+</name>
+<name>
+<surname>Sachs</surname>
+<given-names>JD</given-names>
+</name>
+</person-group>
+<article-title>1 million community health workers in sub-Saharan Africa by 2015.</article-title>
+<source>Lancet</source>
+<year>2013</year>
+<volume>382</volume>
+<fpage>363</fpage>
+<lpage>5</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(12)62002-9</pub-id>
+<pub-id pub-id-type="pmid">23541538</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R20">
+<label>20</label>
+<mixed-citation><italic>Humanitarian charter and minimum standards in humanitarian
+response</italic>. Geneva: The Sphere Project; 2011. Available from:
+http://www.sphereproject.org/resources/download-publications/?search=1&#x26;keywords=&#x26;language=English&#x26;category=22
+[accessed 25 July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<source>Humanitarian charter and minimum standards in humanitarian response</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>The Sphere Project</publisher-name>
+<year>2011</year>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.sphereproject.org/resources/download-publications/?search=1&#x26;keywords=&#x26;language=English&#x26;category=22"
+>http://www.sphereproject.org/resources/download-publications/?search=1&#x26;keywords=&#x26;language=English&#x26;category=22</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R21">
+<label>21</label>
+<mixed-citation>Resolution A. 67/L.36. Resolution on global health and foreign policy. In:
+<italic>Sixty-seventh session of the United Nations General Assembly, New York, 6 December
+2012</italic>. New York: United Nations; 2012. Available from:
+http://www.un.org/ga/search/view_doc.asp?symbol=A/67/L.36 [accessed 25 July 2013].</mixed-citation>
+<element-citation publication-type="confproc">
+<source>Resolution A. 67/L.36. Resolution on global health and foreign policy</source>
+<conf-name>Sixty-seventh session of the United Nations General Assembly</conf-name>
+<conf-date>6 December 2012</conf-date>
+<conf-loc>New York</conf-loc>
+<publisher-loc>New York</publisher-loc>
+<publisher-name>United Nations</publisher-name>
+<year>2012</year>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<comment>Available from: <ext-link ext-link-type="uri"
+xlink:href="http://www.un.org/ga/search/view_doc.asp?symbol=A/67/L.36"
+>http://www.un.org/ga/search/view_doc.asp?symbol=A/67/L.36</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R22">
+<label>22</label>
+<mixed-citation>Dolea C, Stormont L, Braichet JM. Evaluated strategies to increase attraction and
+retention of health workers in remote and rural areas. <italic>Bull World Health Organ</italic>
+2010;88:379–85. doi: http://dx.doi.org/10.2471/BLT.09.070607 PMID:20461133</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Dolea</surname>
+<given-names>C</given-names>
+</name>
+<name>
+<surname>Stormont</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Braichet</surname>
+<given-names>JM</given-names>
+</name>
+</person-group>
+<article-title>Evaluated strategies to increase attraction and retention of health workers in remote
+and rural areas.</article-title>
+<source>Bull World Health Organ</source>
+<year>2010</year>
+<volume>88</volume>
+<fpage>379</fpage>
+<lpage>85</lpage>
+<pub-id pub-id-type="doi">10.2471/BLT.09.070607</pub-id>
+<pub-id pub-id-type="pmid">20461133</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R23">
+<label>23</label>
+<mixed-citation><italic>The world health report 2010 – health systems financing: the path to
+universal coverage</italic>. Geneva: World Health Organization; 2010. Available from:
+http://www.who.int/whr/2010 [accessed 25 July 2013].</mixed-citation>
+<element-citation publication-type="web">
+<source>The world health report 2010 – health systems financing: the path to universal
+coverage</source>
+<date-in-citation content-type="access-date">accessed 25 July 2013</date-in-citation>
+<publisher-loc>Geneva</publisher-loc>
+<publisher-name>World Health Organization</publisher-name>
+<year>2010</year>
+<comment>Available from: <ext-link ext-link-type="uri" xlink:href="http://www.who.int/whr/2010"
+>http://www.who.int/whr/2010</ext-link></comment>
+</element-citation>
+</ref>
+
+<ref id="R24">
+<label>24</label>
+<mixed-citation>Bhutta ZA, Chen L, Cohen J, Crisp N, Evans T, Fineberg H et al. Education of health
+professionals for the 21st century: a global independent commission. <italic>Lancet</italic>
+2010;375:1137–8. doi: http://dx.doi.org/10.1016/S0140-6736(10)60450-3 PMID:20362799</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Bhutta</surname>
+<given-names>ZA</given-names>
+</name>
+<name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</name>
+<name>
+<surname>Cohen</surname>
+<given-names>J</given-names>
+</name>
+<name>
+<surname>Crisp</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Evans</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Fineberg</surname>
+<given-names>H</given-names>
+</name>
+<etal/>
+</person-group>
+<article-title>Education of health professionals for the 21st century: a global independent
+commission.</article-title>
+<source>Lancet</source>
+<year>2010</year>
+<volume>375</volume>
+<fpage>1137</fpage>
+<lpage>8</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(10)60450-3</pub-id>
+<pub-id pub-id-type="pmid">20362799</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R25">
+<label>25</label>
+<mixed-citation>McCord GC, Liu A, Singh P. Deployment of community health workers across rural
+sub-Saharan Africa: financial considerations and operational assumptions. <italic>Bull World Health
+Organ</italic> 2013;91:244–53B. doi: http://dx.doi.org/10.2471/BLT.12.109660
+PMID:23599547</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>McCord</surname>
+<given-names>GC</given-names>
+</name>
+<name>
+<surname>Liu</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Singh</surname>
+<given-names>P</given-names>
+</name>
+</person-group>
+<article-title>Deployment of community health workers across rural sub-Saharan Africa: financial
+considerations and operational assumptions.</article-title>
+<source>Bull World Health Organ</source>
+<year>2013</year>
+<volume>91</volume>
+<fpage>244</fpage>
+<lpage>53B</lpage>
+<pub-id pub-id-type="doi">10.2471/BLT.12.109660</pub-id>
+<pub-id pub-id-type="pmid">23599547</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R26">
+<label>26</label>
+<mixed-citation>Zhao F, Squires N, Weakliam D, Van Lerberghe W, Soucat A, Toure K et al. Investing
+in human resources for health: the need for a paradigm shift for the global health community over
+the next decade. <italic>Bull World Health Organ</italic> 2013;91:799–9A.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Zhao</surname>
+<given-names>F</given-names>
+</name>
+<name>
+<surname>Squires</surname>
+<given-names>N</given-names>
+</name>
+<name>
+<surname>Weakliam</surname>
+<given-names>D</given-names>
+</name>
+<name>
+<surname>Van Lerberghe</surname>
+<given-names>W</given-names>
+</name>
+<name>
+<surname>Soucat</surname>
+<given-names>A</given-names>
+</name>
+<name>
+<surname>Toure</surname>
+<given-names>K</given-names>
+</name>
+<etal/>
+</person-group>
+<article-title>Investing in human resources for health: the need for a paradigm shift for the global
+health community over the next decade.</article-title>
+<source>Bull World Health Organ</source>
+<year>2013</year>
+<volume>91</volume>
+<fpage>799</fpage>
+<comment>-</comment>
+<lpage>9A</lpage>
+<pub-id pub-id-type="pmid">23554522</pub-id>
+</element-citation>
+</ref>
+
+<ref id="R27">
+<label>27</label>
+<mixed-citation>Boerma T, Siyam A. Health workforce indicators: let’s get real. <italic>Bull World
+Health Organ</italic> 2013;91:886.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Boerma</surname>
+<given-names>T</given-names>
+</name>
+<name>
+<surname>Siyam</surname>
+<given-names>A</given-names>
+</name>
+</person-group>
+<article-title>Health workforce indicators: let's get real.</article-title>
+<source>Bull World Health Organ</source>
+<year>2013</year>
+<volume>91</volume>
+<fpage>886</fpage>
+</element-citation>
+</ref>
+
+<ref id="R28">
+<label>28</label>
+<mixed-citation>Campbell J. Towards universal health coverage: a health workforce fit for purpose
+and practice. <italic>Bull World Health Organ</italic> 2013;91:886–7.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Campbell</surname>
+<given-names>J</given-names>
+</name>
+</person-group>
+<article-title>Towards universal health coverage: a health workforce fit for purpose and
+practice.</article-title>
+<source>Bull World Health Organ</source>
+<year>2013</year>
+<volume>91</volume>
+<fpage>886</fpage>
+<comment>-</comment>
+<lpage>7</lpage>
+</element-citation>
+</ref>
+
+<ref id="R29">
+<label>29</label>
+<mixed-citation>Scheil-Adlung X. Health workforce benchmarks for universal health coverage and
+sustainable development. <italic>Bull World Health Organ</italic> 2013;91:888.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Scheil-Adlung</surname>
+<given-names>X</given-names>
+</name>
+</person-group>
+<article-title>Health workforce benchmarks for universal health coverage and sustainable
+development.</article-title>
+<source>Bull World Health Organ</source>
+<year>2013</year>
+<volume>91</volume>
+<fpage>888</fpage>
+</element-citation>
+</ref>
+
+<ref id="R30">
+<label>30</label>
+<mixed-citation>Baker BK. Empowering patients and strengthening communities for real health
+workforce and funding targets. <italic>Bull World Health Organ</italic>
+2013;91:889.</mixed-citation>
+<element-citation publication-type="journal">
+<person-group person-group-type="author">
+<name>
+<surname>Baker</surname>
+<given-names>BK</given-names>
+</name>
+</person-group>
+<article-title>Empowering patients and strengthening communities for real health workforce and
+funding targets.</article-title>
+<source>Bull World Health Organ</source>
+<year>2013</year>
+<volume>91</volume>
+<fpage>889</fpage>
+</element-citation>
+</ref>
+</ref-list>
+</back>
+</article>

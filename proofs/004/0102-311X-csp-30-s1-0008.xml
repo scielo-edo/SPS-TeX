@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML"
+	dtd-version="1.0" article-type="research-article" xml:lang="pt">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="nlm-ta">Cad Saude Publica</journal-id>
+			<journal-title-group>
+				<journal-title>Cadernos de Saúde Pública</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">Cad. Saúde
+					Pública</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="ppub">0102-311X</issn>
+			<issn pub-type="epub">1678-4464</issn>
+			<publisher>
+				<publisher-name>Fundação Oswaldo Cruz</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="other">00002</article-id>
+			<article-id pub-id-type="doi">10.1590/0102-311XPE01S114</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>PERSPECTIVAS</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="pt">Para reinventar o parto e o nascimento no Brasil: de
+					volta ao futuro</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Para reinventar el parto y el nacimiento en Brasil: regreso al
+						futuro</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Aquino</surname>
+						<given-names>Estela M. L.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>1</label>
+				<institution content-type="orgdiv1">Instituto de Saúde Coletiva</institution>
+				<institution content-type="orgname">Universidade Federal da Bahia</institution>
+				<addr-line>
+					<named-content content-type="city">Salvador</named-content>
+				</addr-line>
+				<country>Brasil</country>
+				<institution content-type="original"> Instituto de Saúde Coletiva, Universidade
+					Federal da Bahia, Salvador, Brasil.</institution>
+			</aff>
+			<author-notes>
+				<corresp>
+					<bold>Correspondência</bold> E. M. L. Aquino. Musa – Programa Integrado em
+					Gênero e Saúde, Instituto de Saúde Coletiva, Universidade Federal da Bahia. Rua
+					Basílio da Gama
+							s/n<sup><underline>o</underline></sup>,2<sup><underline>o</underline></sup>
+					andar, Salvador, BA  40110-040, Brasil. <email>estela@ufba.br</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub-ppub">
+				<month>08</month>
+				<year>2014</year>
+			</pub-date>
+			<volume>30</volume>
+			<issue>Suppl 1</issue>
+			<fpage>S8</fpage>
+			<lpage>S10</lpage>
+			<history>
+				<date date-type="received">
+					<day>21</day>
+					<month>01</month>
+					<year>2014</year>
+				</date>
+				<date date-type="accepted">
+					<day>28</day>
+					<month>01</month>
+					<year>2014</year>
+				</date>
+			</history>
+			<permissions>
+				<license license-type="open-access"
+					xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+					<license-p>This is an Open Access article distributed under the terms of the
+						Creative Commons Attribution Non-Commercial License, which permits
+						unrestricted non-commercial use, distribution, and reproduction in any
+						medium, provided the original work is properly cited.</license-p>
+				</license>
+			</permissions>
+			<counts>
+				<ref-count count="13"/>
+				<page-count count="3"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<p>As manifestações populares que tomaram as ruas do Brasil em junho de 2013 trouxeram a
+			saúde para o centro do debate público. Os protestos expuseram limites do Sistema Único
+			de Saúde (SUS), que apesar da grande ampliação da cobertura assistencial, não consegue
+			assegurar serviços de qualidade e padece cronicamente de subfinanciamento e problemas de
+			gestão. Ademais, o modelo de financiamento da saúde acentua desigualdades sociais. A
+			maioria mais pobre enfrenta dificuldades para usufruir o direito universal aos serviços
+			públicos de saúde, previsto na <italic>Constituição Federal</italic> de 1988.
+			Entretanto, 25% dos brasileiros possuem seguros privados de saúde, mas são beneficiados
+			com forte renúncia fiscal pelo Estado que, sustentado pelos tributos de todos, financia
+			o acesso à assistência geralmente de melhor qualidade para um segmento minoritário e
+			privilegiado <xref ref-type="bibr" rid="B1"><sup>1</sup></xref>. O SUS sofre ainda
+			reflexos da (de)formação profissional, especialmente de médicos não preparados para a
+			atenção básica, o que ficou exposto na reação corporativa à importação de profissionais
+			estrangeiros para áreas descobertas no programa Mais Médicos.</p>
+		<p>Esses problemas assumem configurações específicas no modelo tecnocrático de assistência
+			ao parto, caracterizado pela primazia da tecnologia sobre as relações humanas e suposta
+			neutralidade de valores <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>. Nele, subjaz
+			a ideia de passividade das mulheres, imobilizadas durante o parto, enquanto sofrem
+			intervenções por profissionais desconhecidos para abreviar o tempo até o nascimento
+				<xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. O uso sem controle de
+			procedimentos desnecessários e danosos é maximizado pela lógica mercantil e pela
+			(de)formação médica, e assume expressão mais visível na crescente epidemia de cesáreas
+				<xref ref-type="bibr" rid="B4"><sup>4</sup></xref>.</p>
+		<p>Os resultados da pesquisa <italic>Nascer no Brasil</italic> confirmam em âmbito nacional
+			o panorama descrito em estudos locais, e denunciado pelos movimentos de mulheres e de
+			humanização do parto <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>. Constituem
+			evidências contundentes das desigualdades socioeconômicas, raciais e regionais na
+			atenção ao parto <xref ref-type="bibr" rid="B5"><sup>5</sup></xref><sup>,</sup><xref
+				ref-type="bibr" rid="B6"><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr"
+				rid="B7"><sup>7</sup></xref>.</p>
+		<p>O modelo tecnocrático se manifesta distintamente no SUS e na assistência suplementar,
+			acentuando desigualdades na qualidade do parto hospitalar que atingiu cobertura
+			universal <xref ref-type="bibr" rid="B4"><sup>4</sup></xref>. Nos serviços públicos, é
+			frequente a desarticulação entre a atenção pré-natal e ao parto <xref ref-type="bibr"
+				rid="B8"><sup>8</sup></xref>, a peregrinação em busca de internação <xref
+				ref-type="bibr" rid="B8"><sup>8</sup></xref>, e o uso rotineiro de episiotomia e
+			ocitocina <xref ref-type="bibr" rid="B3"><sup>3</sup></xref><sup>,</sup><xref
+				ref-type="bibr" rid="B7"><sup>7</sup></xref>. Nos serviços privados, a cesariana
+			agendada previamente mesmo entre primíparas alcança a maioria dos partos <xref
+				ref-type="bibr" rid="B4"><sup>4</sup></xref><sup>,</sup><xref ref-type="bibr"
+				rid="B9"><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B10"
+					><sup>10</sup></xref>. Em ambos os setores, não se garante o direito à
+			informação nem se respeita a autonomia das mulheres, fere-se a integridade corporal e
+			nega-se o direito previsto em lei ao acompanhante <xref ref-type="bibr" rid="B6"
+					><sup>6</sup></xref>, tornando o parto solitário, inseguro e doloroso <xref
+				ref-type="bibr" rid="B11"><sup>11</sup></xref>.</p>
+		<p>As iniciativas para modificar tal quadro refletem lutas políticas e ideológicas no campo
+			da saúde quanto às alternativas de modelo de atenção, desde a criação do Programa de
+			Assistência Integral à Saúde da Mulher (PAISM), em 1983, resultante da convergência de
+			propostas do movimento sanitário e do feminismo <xref ref-type="bibr" rid="B12"
+					><sup>12</sup></xref>.</p>
+		<p>O feminismo visa superar a perspectiva materno-infantil e incorporar a noção de mulher
+			como sujeito, ultrapassar sua especificidade reprodutiva, e assumir abordagem ampliada
+			de saúde. A humanização do parto se situa no marco mais geral dos direitos sexuais e
+			reprodutivos, os quais incluem a garantia à maternidade segura, à contracepção e ao
+			aborto <xref ref-type="bibr" rid="B12"><sup>12</sup></xref>.</p>
+		<p>A saúde é central na agenda feminista, questionando-se a biomedicina, que fornece as
+			bases para justificar relações hierárquicas de gênero. As lutas têm se concretizado na
+			ocupação de instâncias de controle social e monitoramento de políticas públicas e na
+			atuação militante em postos de gestão <xref ref-type="bibr" rid="B12"
+				><sup>12</sup></xref>.</p>
+		<p>Todavia, registra-se o crescimento da ação organizada de forças conservadoras e
+			religiosas, no Parlamento e sobre o Governo, ameaçando a laicidade do Estado. No
+			Ministério da Saúde, a influência desses grupos tem resultado em recuo político e
+			fortalecimento do chamado materno- infantilismo <xref ref-type="bibr" rid="B13"
+					><sup>13</sup></xref>.</p>
+		<p>A adoção da estratégia de Rede Cegonha representa simbólica e materialmente o
+			encolhimento da agenda feminista e de construção do SUS. Carrega no nome a
+			dessexualização da reprodução, conferindo ênfase ao concepto <xref ref-type="bibr"
+				rid="B13"><sup>13</sup></xref>. Desvincula a atenção ao parto da Política Nacional
+			de Assistência Integral à Saúde das Mulheres (PNAISM) e reforça o materno-infantilismo
+			na definição de prioridades políticas. Obscurece o aborto inseguro em contexto de
+			redução marcante da fecundidade.</p>
+		<p>A dimensão simbólica não é questão menor, se mantido o atual modelo de financiamento
+			público. A redução da pobreza promove a inclusão de segmentos sociais, ansiosos pelo
+			consumo de bens e serviços, a exemplo do parto cesáreo. As distorções podem se acentuar
+			pela incorporação de “novas consumidoras”, que percebem o acesso à tecnologia como sinal
+			de prestígio social e modernidade <xref ref-type="bibr" rid="B11"
+			><sup>11</sup></xref>.</p>
+		<p>Estão em disputa diferentes projetos de sociedade, quanto à construção do SUS e à
+			equidade de gênero em saúde. Em tal cenário se inserem as oportunidades de mudança da
+			atenção ao parto. As soluções não são apenas técnicas, mas essencialmente políticas. Não
+			há como alcançar transformações sem retomar o projeto de SUS democrático e os
+			pressupostos da Reforma Sanitária de universalidade, integralidade e equidade, que a
+				<italic>Constituição</italic> incorporou. É imprescindível defender a laicidade do
+			Estado democrático e plural e ressaltar a intersecção entre gênero, classe social,
+			raça/etnia e sexualidade na produção/reprodução de desigualdades sociais em saúde. É
+			imperativo assegurar a humanização da atenção baseada em evidências científicas, mas
+			também baseada em direitos das mulheres, redefinindo práticas e relações interpessoais
+				<xref ref-type="bibr" rid="B2"><sup>2</sup></xref>.</p>
+		<p>É inspirador revisitarmos os anos 1980 e sua radicalidade, repolitizando as necessidades
+			de saúde e voltando a ampliar a agenda para a elaboração e implementação de políticas
+			públicas voltadas às mulheres.</p>
+	</body>
+	<back>
+		<ref-list>
+			<ref id="B1">
+				<label>1</label>
+				<mixed-citation> Paim J, Almeida-Filho N, Vieira-da-Silva L. Saúde coletiva:
+					futuros possíveis. In:Paim J, Almeida-Filho N, organizadores. Saúde coletiva:
+					teoria e prática. Rio de Janeiro: Medbook Editora Científica; 2013. p.
+					669-86.</mixed-citation>
+				<element-citation publication-type="book">
+					<person-group>
+						<name>
+							<surname>Paim</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>N</given-names>
+							<suffix>Filho</suffix>
+						</name>
+						<name>
+							<surname>Vieira-da-Silva</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<chapter-title xml:lang="pt">Saúde coletiva: futuros possíveis</chapter-title>
+					<person-group>
+						<name>
+							<surname>Paim</surname>
+							<given-names>J</given-names>
+						</name>
+						<name>
+							<surname>Almeida</surname>
+							<given-names>N</given-names>
+							<suffix>Filho</suffix>
+						</name>
+					</person-group>
+					<source xml:lang="pt">Saúde coletiva: teoria e prática</source>
+					<publisher-loc>Rio de Janeiro</publisher-loc>
+					<publisher-name>Medbook Editora Científica</publisher-name>
+					<year>2013</year>
+					<fpage>669</fpage>
+					<lpage>686</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<label>2</label>
+				<mixed-citation> Diniz CSG. Humanização da assistência ao parto no Brasil: os
+					muitos sentidos de um movimento. Ciênc Saúde Coletiva 2005;
+					10:627-37.</mixed-citation>
+				<element-citation publication-type="journal" specific-use="1">
+					<person-group>
+						<name>
+							<surname>Diniz</surname>
+							<given-names>CSG</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Humanização da assistência ao parto no Brasil: os
+						muitos sentidos de um movimento</article-title>
+					<source>Ciênc Saúde Coletiva</source>
+					<year>2005</year>
+					<volume>10</volume>
+					<fpage>627</fpage>
+					<lpage>637</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<label>3</label>
+				<mixed-citation> Diniz SG, Chacham AS. “The cut above” and “the cut below”: the
+					abuse of caesareans and episiotomy in Sao Paulo, Brazil. Reprod Health Matters
+					2004; 12:100-10.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Diniz</surname>
+							<given-names>SG</given-names>
+						</name>
+						<name>
+							<surname>Chacham</surname>
+							<given-names>AS.</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">“The cut above” and “the cut below”: the abuse of
+						caesareans and episiotomy in Sao Paulo, Brazil</article-title>
+					<source>Reprod Health Matters</source>
+					<year>2004</year>
+					<volume>12</volume>
+					<fpage>100</fpage>
+					<lpage>110</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<label>4</label>
+				<mixed-citation> Victora CG, Aquino EM, Leal MC, Monteiro CA, Barros FC, Szwarcwald
+					CL. Maternal and child health in Brazil: progress and challenges. Lancet 2011;
+					377:1863-76.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Victora</surname>
+							<given-names>CG</given-names>
+						</name>
+						<name>
+							<surname>Aquino</surname>
+							<given-names>EM</given-names>
+						</name>
+						<name>
+							<surname>Leal</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Monteiro</surname>
+							<given-names>CA</given-names>
+						</name>
+						<name>
+							<surname>Barros</surname>
+							<given-names>FC</given-names>
+						</name>
+						<name>
+							<surname>Szwarcwald</surname>
+							<given-names>CL.</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Maternal and child health in Brazil: progress and
+						challenges</article-title>
+					<source>Lancet</source>
+					<year>2011</year>
+					<volume>377</volume>
+					<fpage>1863</fpage>
+					<lpage>1876</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<label>5</label>
+				<mixed-citation> d’Orsi E, Brüggemann OM, Diniz SG, Aguiar JM, Gusman CR, Torres
+					JA, et al. Desigualdades sociais e satisfação das mulheres com o atendimento ao
+					parto no Brasil: estudo nacional de base hospitalar. Cad Saúde Pública;
+					submetido.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>d’Orsi</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Brüggemann</surname>
+							<given-names>OM</given-names>
+						</name>
+						<name>
+							<surname>Diniz</surname>
+							<given-names>SG</given-names>
+						</name>
+						<name>
+							<surname>Aguiar</surname>
+							<given-names>JM</given-names>
+						</name>
+						<name>
+							<surname>Gusman</surname>
+							<given-names>CR</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>JA</given-names>
+						</name>
+						<etal>et al.</etal>
+					</person-group>
+					<article-title xml:lang="pt">Desigualdades sociais e satisfação das mulheres com
+						o atendimento ao parto no Brasil: estudo nacional de base
+						hospitalar</article-title>
+					<source>Cad Saúde Pública</source>
+					<comment>submetido</comment>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<label>6</label>
+				<mixed-citation> Diniz CSG, d’Orsi E, Domingues RMSM, Torres JA, Schneck CA, Dias
+					MAB, et al. Implementation of continuous support during labor and childbirth:
+					data from the Born in Brazil National Survey. Cad Saúde Pública;
+					submetido.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Diniz</surname>
+							<given-names>CSG</given-names>
+						</name>
+						<name>
+							<surname>d’Orsi</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Domingues</surname>
+							<given-names>RMSM</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>JA</given-names>
+						</name>
+						<name>
+							<surname>Schneck</surname>
+							<given-names>CA</given-names>
+						</name>
+						<name>
+							<surname>Dias</surname>
+							<given-names>MAB</given-names>
+						</name>
+						<etal>et al.</etal>
+					</person-group>
+					<article-title xml:lang="en">Implementation of continuous support during labor
+						and childbirth: data from the Born in Brazil National Survey</article-title>
+					<source>Cad Saúde Pública</source>
+					<comment>submetido</comment>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<label>7</label>
+				<mixed-citation> Leal MC, Pereira APE, Domingues RMSM, Theme Filha MM, Dias MAB,
+					Nakamura-Pereira M, et al. Intervenções obstétricas durante o trabalho de parto
+					e parto em mulheres brasileiras de risco habitual. Cad Saúde Pública 2014; 30
+					Suppl:17-47.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Leal</surname>
+							<given-names>MC</given-names>
+						</name>
+						<name>
+							<surname>Pereira</surname>
+							<given-names>APE</given-names>
+						</name>
+						<name>
+							<surname>Domingues</surname>
+							<given-names>RMSM</given-names>
+						</name>
+						<name>
+							<surname>Theme Filha</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>Dias</surname>
+							<given-names>MAB</given-names>
+						</name>
+						<name>
+							<surname>Nakamura-Pereira</surname>
+							<given-names>M</given-names>
+						</name>
+						<etal>et al</etal>
+					</person-group>
+					<article-title xml:lang="pt">Intervenções obstétricas durante o trabalho de
+						parto e parto em mulheres brasileiras de risco habitual</article-title>
+					<source>Cad Saúde Pública</source>
+					<year>2014</year>
+					<volume>30 Suppl</volume>
+					<fpage>17</fpage>
+					<lpage>47</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<label>8</label>
+				<mixed-citation> Viellas EF, Domingues RMSM, Dias MAB, Gama SGN, Theme Filha MM,
+					Costa JV, et al. Assistência pré-natal no Brasil: Cad Saúde Pública 2014; 30
+					Suppl:85-100.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Viellas</surname>
+							<given-names>EF</given-names>
+						</name>
+						<name>
+							<surname>Domingues</surname>
+							<given-names>RMSM</given-names>
+						</name>
+						<name>
+							<surname>Dias</surname>
+							<given-names>MAB</given-names>
+						</name>
+						<name>
+							<surname>Gama</surname>
+							<given-names>SGN</given-names>
+						</name>
+						<name>
+							<surname>Theme Filha</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>Costa</surname>
+							<given-names>JV</given-names>
+						</name>
+						<etal>et al.</etal>
+					</person-group>
+					<article-title xml:lang="pt">Assistência pré-natal no Brasil</article-title>
+					<source>Cad Saúde Pública</source>
+					<year>2014</year>
+					<volume>30 Suppl</volume>
+					<fpage>85</fpage>
+					<lpage>100</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<label>9</label>
+				<mixed-citation> Gama SGN, Viellas EF, Schilithz AOC, Theme Filha MM, Carvalho ML,
+					Gomes KRO, et al. Fatores associados à cesariana entre primíparas adolescentes
+					no Brasil, 2011-2012. Cad Saúde Pública 2014; 30 Suppl:117-27.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Gama</surname>
+							<given-names>SGN</given-names>
+						</name>
+						<name>
+							<surname>Viellas</surname>
+							<given-names>EF</given-names>
+						</name>
+						<name>
+							<surname>Schilithz</surname>
+							<given-names>AOC</given-names>
+						</name>
+						<name>
+							<surname>Theme Filha</surname>
+							<given-names>MM</given-names>
+						</name>
+						<name>
+							<surname>Carvalho</surname>
+							<given-names>ML</given-names>
+						</name>
+						<name>
+							<surname>Gomes</surname>
+							<given-names>KRO</given-names>
+						</name>
+						<etal>et al.</etal>
+					</person-group>
+					<article-title xml:lang="pt">Fatores associados à cesariana entre primíparas
+						adolescentes no Brasil, 2011-2012</article-title>
+					<source>Cad Saúde Pública</source>
+					<year>2014</year>
+					<volume>30 Suppl</volume>
+					<fpage>117</fpage>
+					<lpage>127</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<label>10</label>
+				<mixed-citation> Domingues RMSM, Dias MAB, Nakamura-Pereira M, Torres JA, d’Orsi E,
+					Pereira APE, et al. Processo de decisão pelo tipo de parto no Brasil: da
+					preferência inicial das mulheres à via de parto final. Cad Saúde Pública 2014;
+					30 Suppl: 101-16.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Domingues</surname>
+							<given-names>RMSM</given-names>
+						</name>
+						<name>
+							<surname>Dias</surname>
+							<given-names>MAB</given-names>
+						</name>
+						<name>
+							<surname>Nakamura-Pereira</surname>
+							<given-names>M</given-names>
+						</name>
+						<name>
+							<surname>Torres</surname>
+							<given-names>JA</given-names>
+						</name>
+						<name>
+							<surname>d’Orsi</surname>
+							<given-names>E</given-names>
+						</name>
+						<name>
+							<surname>Pereira</surname>
+							<given-names>APE</given-names>
+						</name>
+						<etal>et al.</etal>
+					</person-group>
+					<article-title xml:lang="pt">Processo de decisão pelo tipo de parto no Brasil:
+						da preferência inicial das mulheres à via de parto final</article-title>
+					<source>Cad Saúde Pública</source>
+					<year>2014</year>
+					<volume>30 Suppl</volume>
+					<fpage>101</fpage>
+					<lpage>116</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<label>11</label>
+				<mixed-citation> Diniz SG. Gênero, saúde materna e o paradoxo perinatal. Rev Bras
+					Crescimento Desenvolv Hum 2009; 19:313-26.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Diniz</surname>
+							<given-names>SG.</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Gênero, saúde materna e o paradoxo
+						perinatal</article-title>
+					<source>Rev Bras Crescimento Desenvolv Hum</source>
+					<year>2009</year>
+					<volume>19</volume>
+					<fpage>313</fpage>
+					<lpage>326</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<label>12</label>
+				<mixed-citation> Costa AM. Participação social na conquista das políticas de saúde
+					para mulheres no Brasil. Ciênc Saúde Coletiva 2009; 14:1073-83.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Costa</surname>
+							<given-names>AM.</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="pt">Participação social na conquista das políticas de
+						saúde para mulheres no Brasil</article-title>
+					<source>Ciênc Saúde Coletiva</source>
+					<year>2009</year>
+					<volume>14</volume>
+					<fpage>1073</fpage>
+					<lpage>1083</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<label>13</label>
+				<mixed-citation> Diniz S. Materno-infantilism, feminism and maternal health policy
+					in Brazil. Reprod Health Matters 2012; 20:125-32.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group>
+						<name>
+							<surname>Diniz</surname>
+							<given-names>S.</given-names>
+						</name>
+					</person-group>
+					<article-title xml:lang="en">Materno-infantilism, feminism and maternal health
+						policy in Brazil</article-title>
+					<source>Reprod Health Matters</source>
+					<year>2012</year>
+					<volume>20</volume>
+					<fpage>125</fpage>
+					<lpage>132</lpage>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+	<sub-article article-type="translation" id="TRen" xml:lang="en">
+		<front-stub>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>PERSPECTIVES</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title xml:lang="en">Reinventing delivery and childbirth in Brazil: back to
+					the future</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Aquino</surname>
+						<given-names>Estela M. L.</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1_en">
+						<sup>1</sup>
+					</xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1_en">
+				<label>1</label>
+				<institution content-type="orgdiv1">Instituto de Saúde Coletiva</institution>
+				<institution content-type="orgname">Universidade Federal da Bahia</institution>
+				<addr-line>
+					<named-content content-type="city">Salvador</named-content>
+				</addr-line>
+				<country>Brazil</country>
+				<institution content-type="original">Instituto de Saúde Coletiva, Universidade
+					Federal da Bahia, Salvador, Brazil.</institution>
+			</aff>
+			<author-notes>
+				<corresp>
+					<bold>Correspondence</bold> E. M. L. Aquino. Musa – Programa Integrado em
+					Gênero e Saúde, Instituto de Saúde Coletiva, Universidade Federal da Bahia. Rua
+					Basílio da Gama s/n<sup><underline><italic>o</italic></underline></sup>,
+							2<sup><underline>o</underline></sup> andar, Salvador, BA 40110-040,
+					Brazil <email>estela@ufba.br</email>
+				</corresp>
+			</author-notes>
+		</front-stub>
+		<body>
+			<p>The demonstrations that took the streets in Brazil in June 2013 brought health care
+				to the center of public debate. The protests exposed the limits of the Brazilian
+				Unified National Health System (SUS): despite expanding care coverage enormously, it
+				is unable to assure service quality and suffers from chronic underfunding and
+				management shortcomings. Moreover, the model of health care financing accentuates
+				social inequalities. The poorer majority finds difficulty enjoying the universal
+				right to public health services stipulated in the 1988 <italic>Federal
+					Constitution</italic>. Meanwhile, 25% of Brazilians hold private health
+				insurance, but benefit from substantial tax waivers by the State, which – although
+				sustained by taxes paid by the population at large – finances access to generally
+				better-quality care for a privileged minority <xref ref-type="bibr" rid="B1"
+						><sup>1</sup></xref>. The SUS also suffers the adverse effects of
+				(mis-)trained health professionals, especially physicians unprepared for primary
+				care, as laid bare by the closed-shop reaction to the <italic>Mais Médicos</italic>
+				(More Physicians) program, which imported foreign doctors into underserved areas of
+				Brazil.</p>
+			<p>These problems take on specific configurations in the technocratic model of care at
+				childbirth, which is characterized by the primacy of technology over human relations
+				and a purported value neutrality <xref ref-type="bibr" rid="B2"><sup>2</sup></xref>.
+				The model rests on the idea that women are to remain passive, immobile during
+				childbirth, while they undergo interventions by unknown health personnel to shorten
+				the time to birth <xref ref-type="bibr" rid="B3"><sup>3</sup></xref>. Unnecessary
+				and harmful procedures are used to the maximum, as dictated by the reigning
+				mercantile logic and medical (mis-)training. This is most visible in the growing
+				epidemic of caesarean sections <xref ref-type="bibr" rid="B4"
+				><sup>4</sup></xref>.</p>
+			<p>The results of the <italic>Birth in Brazil </italic>survey have confirmed at the
+				national level the panorama described in local studies and condemned by women’s
+				movements and movements to humanize childbirth <xref ref-type="bibr" rid="B2"
+						><sup>2</sup></xref>. They constitute compelling evidence of socioeconomic,
+				racial and regional inequalities in care at childbirth <xref ref-type="bibr"
+					rid="B5"><sup>5</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B6"
+						><sup>6</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B7"
+					><sup>7</sup></xref>.</p>
+			<p>The technocratic model figures differently in the SUS and in private ‘supplementary
+				care’, accentuating inequalities in the quality of hospital delivery, which has
+				attained universal coverage <xref ref-type="bibr" rid="B4"><sup>4</sup></xref>. In
+				public services, there is often a disconnect between antenatal care and care at
+				childbirth <xref ref-type="bibr" rid="B8"><sup>8</sup></xref>, facilities repeatedly
+				denying admission <xref ref-type="bibr" rid="B8"><sup>8</sup></xref>, and routine
+				use of episiotomy and oxytocin <xref ref-type="bibr" rid="B3"
+					><sup>3</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B7"
+					><sup>7</sup></xref>. In private services, most deliveries are by scheduled
+				caesarean, even among first-time mothers <xref ref-type="bibr" rid="B4"
+					><sup>4</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B9"
+					><sup>9</sup></xref><sup>,</sup><xref ref-type="bibr" rid="B10"
+					><sup>10</sup></xref>. In both sectors, the right to information is not assured
+				nor is women’s autonomy respected, their bodily integrity is violated and their
+				legally-assured right to a companion is denied <xref ref-type="bibr" rid="B6"
+						><sup>6</sup></xref>, making childbirth lonely, unsafe and painful <xref
+					ref-type="bibr" rid="B11"><sup>11</sup></xref>.</p>
+			<p>Measures to change this situation have reflected political and ideological struggles
+				in the health field over alternative models of care since Brazil introduced the
+				Women’s Comprehensive Health Care Program (PAISM) in 1983, as the outcome of
+				converging proposals by the sanitary and feminist movements <xref ref-type="bibr"
+					rid="B12"><sup>12</sup></xref>.</p>
+			<p>Feminism aspires to overcome the ‘mother-and-child’ approach and incorporate the
+				notion of women as subjects, going beyond their specific reproductive role and
+				assuring a broader approach to health care. The humanization of childbirth is framed
+				by the broader umbrella of sexual and reproductive rights, which include the
+				guarantee of safe maternity, contraception and abortion <xref ref-type="bibr"
+					rid="B12"><sup>12</sup></xref>.</p>
+			<p>Health is central to the feminist agenda, which criticizes the biomedicine that
+				provides grounds on which to justify hierarchical gender relations. Concretely,
+				feminists have worked to occupy monitoring and social control instances of public
+				policy and militant activism in management positions <xref ref-type="bibr" rid="B12"
+						><sup>12</sup></xref>.</p>
+			<p>However, organized action by conservative and religious forces is growing in
+				parliament and government, and threatening the lay State. In the Ministry of Health,
+				these groups’ influence has resulted in policy back-pedaling and a strengthening of
+				the ‘mother-and-child’ approach <xref ref-type="bibr" rid="B13"
+				><sup>13</sup></xref>.</p>
+			<p>Introduction of the <italic>Rede Cegonha</italic> (Stork Network) strategy
+				represents, symbolically and materially, a downgrading of both the feminist agenda
+				and construction of the SUS. Its very name desexualizes reproduction, placing the
+				emphasis on the conceptus <xref ref-type="bibr" rid="B13"><sup>13</sup></xref>. It
+				disconnects care at childbirth from the national Policy of Women’s Comprehensive
+				Health Care (PNAISM) and reinforces the “mother-and-child” approach in policy
+				priority-setting. It obscures unsafe abortion in a context of strongly declining
+				fertility.</p>
+			<p>The symbolic dimension is no minor issue if the present model of public financing is
+				maintained. Poverty reduction is fostering inclusion for social groups anxious to
+				consume goods and services, for instance, childbirth by cesarean section. The
+				distortions may be heightened by the induction of “new consumers”, who perceive
+				access to technology as a sign of social prestige and modernity <xref
+					ref-type="bibr" rid="B11"><sup>11</sup></xref>.</p>
+			<p>What are in dispute are different projects of society, as regards construction of the
+				SUS and gender equity in health. It is in this scenario that the opportunities to
+				change care at childbirth emerge. The solutions are not purely technical, but
+				essentially political. Changes cannot be achieved without reinstating the project of
+				a democratic SUS and the health sector reform’s guiding principles of universality,
+				comprehensiveness and equity, as written into the Constitution. It is essential to
+				defend the lay, democratic and plural State and to emphasize the intersection among
+				gender, social class, race/ethnicity and sexuality in producing/reproducing social
+				inequalities in health. It is imperative to assure that care is humanized on the
+				basis of scientific evidence, but also on the basis of women’s rights, in order to
+				redefine care practices and interpersonal relations <xref ref-type="bibr" rid="B2"
+						><sup>2</sup></xref>.</p>
+			<p>It is inspiring to revisit the 1980s and their radicalness, so as to re-politicize
+				health needs and once again broaden the agenda for formulation and implementation of
+				public policies directed to women.</p>
+		</body>
+	</sub-article>
+</article>

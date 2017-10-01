@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" xml:lang="pt" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<front>
+			<journal-meta>
+				<journal-id journal-id-type="nlm-ta">Cien Saude Colet</journal-id>
+				<journal-title-group>
+					<journal-title>Ciência &amp; Saúde Coletiva</journal-title>
+					<abbrev-journal-title abbrev-type="publisher">Ciênc. saúde coletiva</abbrev-journal-title>
+				</journal-title-group>
+				<issn pub-type="ppub">1413-8123</issn>
+				<issn pub-type="epub">1678-4561</issn>
+				<publisher>
+					<publisher-name>ABRASCO - Associação Brasileira de Saúde Coletiva</publisher-name>
+				</publisher>
+			</journal-meta>
+			<article-meta>
+				<article-id pub-id-type="publisher-id">S1413-81232014000100026</article-id>
+				<article-id pub-id-type="doi">10.1590/1413-81232014191.2007</article-id>
+				<article-categories>
+					<subj-group subj-group-type="heading">
+						<subject>Article</subject>
+					</subj-group>
+				</article-categories>
+				<title-group>
+					<article-title xml:lang="pt">Fatores que influenciam a adoção de ferramentas de TIC nos experimentos de bioinformática de organizações biofarmacêuticas</article-title>
+					<subtitle>um estudo de caso no Instituto Nacional do Câncer</subtitle>
+					<trans-title-group xml:lang="en">
+						<trans-title>Factors affecting the adoption of ICT tools in experiments with bioinformatics in biopharmaceutical organizations</trans-title>
+						<trans-subtitle>a case study in the Brazilian Cancer Institute</trans-subtitle>
+					</trans-title-group>
+				</title-group>
+				<contrib-group>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Pitassi</surname>
+							<given-names>Claudio</given-names>
+						</name>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Gonçalves</surname>
+							<given-names>Antonio Augusto</given-names>
+						</name>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Moreno</surname>
+							<given-names>Valter de Assis</given-names>
+							<suffix>Júnior</suffix>
+						</name>
+					</contrib>
+				</contrib-group>
+				<aff id="aff1">
+					<institution content-type="original">Universidade Estácio de Sá (Unesa), Mestrado em Administração e Desenvolvimento Empresarial (MADE). Av. Presidente Vargas 642/22º, Centro. 20.071-001 Rio de Janeiro RJ Brasil claudio.pitassi@gmail.com</institution>
+					<institution content-type="orgname">Universidade Estácio de Sá</institution>
+					<addr-line>
+						<named-content content-type="zipcode">20.071-001</named-content>
+						<named-content content-type="city">Rio de Janeiro</named-content>
+						<named-content content-type="state">RJ</named-content>
+					</addr-line>
+					<country>Brasil</country>
+					<email>claudio.pitassi@gmail.com</email>
+				</aff>
+				<aff id="aff2">
+					<institution content-type="original">Instituto Nacional do Câncer (Inca)</institution>
+					<institution content-type="orgname">Instituto Nacional do Câncer</institution>
+				<aff>
+				<aff id="aff3">
+					<institution content-type="original">Faculdades Ibmec-RJ</institution>
+					<institution content-type="orgname">Faculdades Ibmec</institution>
+					<addr-line>
+						<named-content content-type="state">RJ</named-content>
+					</addr-line>
+				</aff>
+				<pub-date pub-type="epub-ppub">
+					<month>01</month>
+					<year>2014</year>
+				</pub-date>
+				<volume>19</volume>
+				<issue>01</issue>
+				<fpage>257</fpage>
+				<lpage>268</lpage>
+				<history>
+					<date date-type="received">
+						<day>08</day>
+						<month>08</month>
+						<year>2012</year>
+					</date>
+					<date date-type="accepted">
+						<day>16</day>
+						<month>10</month>
+						<year>2012</year>
+					</date>
+				</history>
+				<permissions>
+					<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/">
+						<license-p><bold>All the contents of this journal, except where otherwise noted, is licensed under a</bold> Creative Commons Attribution License</license-p>
+					</license>
+				</permissions>
+				<abstract xml:lang="pt">
+					<p>O objetivo deste artigo é identificar e analisar os fatores que influenciaram a adoção de ferramentas de Tecnologias de Informação e de Comunicação (TIC) nos experimentos de Bioinformática do Instituto Nacional do Câncer (Inca). Trata-se de um estudo de campo único descritivo e exploratório, dentro da tradição qualitativa. As evidências foram coletadas principalmente em entrevistas de fundo com os gestores de áreas da Coordenação Geral Técnico-Científica e da Divisão de Tecnologia da Informação do Inca. As respostas foram tratadas pelo método de análise de conteúdo do tipo categorial. As categorias de análise foram definidas a partir da revisão da literatura e consolidadas nos sete fatores do Modelo Tecnologia-Organização-Ambiente (TOE) adaptado para este estudo. O modelo proposto permitiu demonstrar como atuam no caso do Inca os fatores que impactam a adoção das complexas TIC usadas nos experimentos de Bioinformática, contribuindo para investigações em duas áreas de importância crescente para o Complexo Econômico-Industrial de Saúde brasileiro: a inovação tecnológica e a Biotecnologia. Com base nas evidências coletadas, uma questão é formulada: em que medida o alinhamento dos fatores pertinentes à adoção das TIC nos experimentos de Bioinformática pode aumentar a capacidade de inovar de uma organização biofarmacêutica brasileira? </p>
+				</abstract>
+				<trans-abstract xml:lang="en">
+					<p>The scope of this article is to identify and analyze the factors that influence the adoption of ICT tools in experiments with bioinformatics at the Brazilian Cancer Institute (INCA). It involves a descriptive and exploratory qualitative field study. Evidence was collected mainly based on in-depth interviews with the management team at the Research Center and the IT Division. The answers were analyzed using the categorical content method. The categories were selected from the scientific literature and consolidated in the Technology-Organization-Environment (TOE) framework created for this study. The model proposed made it possible to demonstrate how the factors selected impacted INCA´s adoption of bioinformatics systems and tools, contributing to the investigation of two critical areas for the development of the health industry in Brazil, namely technological innovation and bioinformatics. Based on the evidence collected, a research question was posed: to what extent can the alignment of the factors related to the adoption of ICT tools in experiments with bioinformatics increase the innovation capacity of a Brazilian biopharmaceutical organization? </p>
+				</trans-abstract>
+				<kwd-group xml:lang="pt">
+					<kwd>TIC</kwd>
+					<kwd>Inovação tecnológica</kwd>
+					<kwd>Biologia molecular</kwd>
+					<kwd>Bioinformática</kwd>
+					<kwd>Biofarmacêutica</kwd>
+				</kwd-group>
+				<kwd-group xml:lang="en">
+					<kwd>ICT</kwd>
+					<kwd>Technological innovation</kwd>
+					<kwd>Molecular biology</kwd>
+					<kwd>Bioinformatics</kwd>
+					<kwd>Biopharmaceuticals</kwd>
+				</kwd-group>
+				<counts>
+					<ref-count count="43"/>
+					<page-count count="12"/>
+				</counts>
+			</article-meta>
+		</front>
+		<body>
+			<sec sec-type="intro">
+				<title>Introdução</title>
+				<p>Os estudos em Genômica, Proteômica e Dinâmica Molecular geraram uma imensa quantidade de dados relativos a mapas genéticos e estruturas de proteínas<sup>1</sup>. A complexidade crescente dos estudos em Biologia fez emergir a disciplina de Bioinformática, campo de conhecimento que foi se conformando ao longo das últimas décadas como resultado da interdependência entre a evolução das Tecnologias de Informação e de Comunicação (TIC) e da Biologia Molecular<sup>2</sup>.</p>
+				<p>Grande parte das pesquisas sobre a difusão e o uso das TIC tem por foco aplicativos mais simples e estáveis, tipicamente concebidos para dar suporte aos processos operacionais básicos nas organizações. No que diz respeito à P&amp;D em organizações biofarmacêuticas, a literatura examinada não deixa claro se há aspectos específicos que influenciam a adoção das complexas TIC que se desenvolveram em apoio à Biologia Molecular. O presente estudo está centrado na seguinte questão de pesquisa: <italic>como se dá o processo de adoção de TIC em contextos voltados para o desenvolvimento de drogas em organizações biofarmacêuticas?</italic> Esta pesquisa amplia o conhecimento científico ao identificar e analisar os fatores que influenciaram a adoção de TIC nos experimentos de Bioinformática do Instituto Nacional do Câncer (Inca).</p>
+			</sec>
+			<sec>
+				<title>Referencial teórico</title>
+				<sec>
+					<title>Bioinformática</title>
+					<p>Há na literatura diferentes interpretações do conceito de Bioinformática<sup>3</sup>. Na sua definição ampla, a Bioinformática envolve a aplicação de TIC nas análises de qualquer área da Biologia<sup>3</sup>. De forma mais restrita, a Bioinformática é a aplicação de informática aos experimentos de Biologia Molecular, ou mais especificamente, de Genômica<sup>4</sup>. Também se advoga que Bioinformática aplica os princípios da Ciência da Informação para interpretar dados biológicos, enquanto a Biologia Computacional aplica os algoritmos matemáticos e computacionais aos experimentos biológicos<sup>5</sup>. Como este artigo foca uma organização biofarmacêutica voltada à pesquisa em câncer, define-se Bioinformática como os experimentos de Genômica, Proteômica e Dinâmica Molecular que se apoiam em ferramentas de TIC para conduzir suas análises.</p>
+					<p>As características geograficamente dispersas e cada vez mais colaborativas<sup>6</sup> e abertas<sup>7</sup> das pesquisas em ciências da vida alavancaram o potencial de utilização de modelos de <italic>e.sciences<sup>8</sup></italic>. Uma infraestrutura computacional de <italic>grid information technology</italic> (GIT) permite o compartilhamento das capacidades de TI de cada parceiro nos experimentos de Bioinformática, de modo a construir uma estrutura virtual e não centralizada de P&amp;D<sup>9</sup>. Um sistema de gerenciamento de fluxo de trabalho (<italic>workflow</italic>) científico define a sequência de tarefas e os parâmetros de execução dos experimentos de Bioinformática entre as áreas internas da P&amp;D de uma empresa, assim como entre estas e os parceiros externos, contornando as dificuldades impostas por informações de baixa qualidade e pela diversidade de plataformas e conceitos<sup>8</sup>.</p>
+					<p>Os softwares usados em Bioinformática envolvem a construção de armazéns de dados, apoiando-se em web semântica, ontologias e inteligência artificial para capturar e tratar dados distribuídos por inúmeras fontes<sup>10-12</sup>. A existência de base dados clínicos permite a aplicação de poderosas técnicas de mineração em análises epidemiológicas, testes clínicos e Genômica, permitindo estabelecer associações entre doenças e novos tratamentos para grupo de pacientes com padrões genéticos específicos<sup>13</sup>. Experimentos em Genômica, Proteômica e Dinâmica Molecular estão constantemente produzindo novos dados, correlacionando-os, por meio de análise, aos dados já existentes, o que requer sofisticadas ferramentas de busca e <italic>screening<sup>11</sup>.</italic></p>
+					<p>Estudos de Bioinformática requerem a análise de múltiplos sequenciamentos genéticos, tornando a manipulação manual de dados praticamente impossível<sup>14</sup>. O uso no ramo biofarmacêutico de sistemas computadorizados acoplados à modelagem matemática permitiu a realização de experimentos que processam uma grande quantidade de dados em curto espaço de tempo<sup>1</sup>. Ferramentas de <italic>High Throughtput Screening (HTS)</italic> são consideradas habilitadoras importantes na descoberta de novas drogas e são definidas como uma coleção de tecnologias, geralmente envolvendo softwares matemáticos, banco de dados, robótica, ótica, instrumentos para manipulação de líquidos e técnicas de visualização<sup>15</sup>, aplicadas nas fases &quot;hit-to-lead&quot; das pesquisas <italic>in vitro<sup>16</sup></italic>.</p>
+					<p>Como argumenta Lenoir<sup>17</sup>, o desenvolvimento das técnicas de simulação e prototipação de estruturas moleculares permitem a realização virtual de experimentos em Biotecnologia. Estas TIC fazem com que as empresas reduzam os custos com as técnicas laboratoriais tradicionais, já que compostos provados inócuos &quot;in silico&quot; podem ser de antemão descartados, o que amplia consideravelmente as oportunidades de inovação pela melhor utilização dos recursos disponíveis na empresa.</p>
+					<p>Recorrer às comunidades de código aberto na Web é o comportamento usual nos experimentos em ramos das ciências da vida<sup>18</sup>. Estes portais são utilizados para padronização de conceitos, para depósito de informações sobre sequenciamento genético e para disponibilização de aplicativos usados em apoio aos experimentos de Genômica, de Proteômica e de Dinâmica Molecular. A criação de equipes virtuais de P&amp;D, incluindo parceiros externos, facilitada por aplicativos baseados na Internet é utilizada por grandes farmacêuticas globais, tais como Roche e Schering (hoje Bayer)<sup>19</sup>. Por fim, as organizações também podem se valer de empresas especializadas na condução de etapas de P&amp;D sob contrato, tais como as <italic>Contract Research Organizations</italic> (CROs), para acessar capacidades complementares ou acelerar os experimentos. Estes infomediarios se apóiam fortemente em tecnologias baseadas na WEB para a obtenção, em escala global, de conhecimentos voltados à inovação<sup>14</sup>.</p>
+					<p>O <xref ref-type="fig" rid="f01">Quadro 1</xref> resume as ferramentas de TIC que suportam a troca de informações e conhecimento, a comunicação, a organização de fluxos de trabalho, além das próprias análises realizadas pelos pesquisadores nos experimentos de Bioinformática.</p>
+					<fig-group>
+						<fig id="f01">
+							<graphic xlink:href="1413-8123-csc-19-01-00257-gf01"/>
+						</fig>
+					</fig-group>
+				</sec>
+				<sec>
+					<title>Fatores que influenciam na adoção de TIC</title>
+					<p>Diferentes níveis de análise e tradições teóricas vêm sendo aplicados aos estudos dos fatores que influenciam a adoção de TIC pelas organizações<sup>20</sup>. Dado o caráter multifacetado e colaborativo do processo de inovação tecnológica em Bio logia, o estudo dos fatores que influenciam a adoção de TIC em experimentos de Bioinformática deve ter por base uma abordagem capaz de integrar diferentes níveis de análise e considerar diferentes dimensões. Tal requisito é atendido pelo arcabouço proposto por Tornatzky e Fleischer<sup>21</sup>, retratado na <xref ref-type="fig" rid="f02">Figura 1</xref>, denominado de Modelo Tecnologia-Organização-Ambiente (TOE).</p>
+					<fig-group>
+						<fig id="f02">
+							<graphic xlink:href="1413-8123-csc-19-01-00257-gf02"/>
+						</fig>
+					</fig-group>
+					<p>O ambiente delimita o contexto externo no qual as decisões de P&amp;D de uma organização são tomadas. Devem ser consideradas as características do ramo, com destaque para a intensidade da competição, a estrutura de apoio ao desenvolvimento tecnológico e o arcabouço jurídico-institucional. O contexto organizacional investiga como as características da própria organização influenciam o processo de adoção da tecnologia. Envolve, entre outros aspectos, o tamanho e o tipo de organização, a posse de recursos, o modelo de gestão e os mecanismos de governança. A dimensão da tecnologia estuda como característi cas inerentes às TIC podem influenciar a sua adoção pela organização. A tecnologia envolve produtos, processos e SI e considera o grau em que estas tecnologias estão acessíveis à organização.</p>
+				</sec>
+			</sec>
+			<sec>
+				<title>Método</title>
+				<p>Dada à natureza do que se quer estudar, optou-se por realizar um estudo de campo descritivo e exploratório, dentro da tradição qualitativa<sup>22</sup>. Descritivo porque procura apresentar como o Inca está usando as TIC em seus experimentos de Bioinformática. Exploratório porque examina fenômenos institucionais, organizacionais e tecnológicos subjacentes à P&amp;D em câncer, ainda sem contornos definidos. A opção pelo estudo de caso como método justifica-se pelo fato de os pesquisadores quererem, deliberadamente, considerar as condições contextuais em que ele está circunscrito<sup>23</sup>. A escolha do Inca como caso único<sup>23</sup> deve-se ao fato da organização ser a melhor capacitada no Brasil para realizar todas as etapas da pesquisa na classe terapêutica de Oncologia e aos esforços de incorporação das ferramentas de TIC usadas na Bioinformática. A escolha de casos emblemáticos é um procedimento científico adequado na medida em que permite entender dinâmicas específicas, mas que podem trazer importantes lições para outras organizações<sup>23</sup>.</p>
+				<p>A <xref ref-type="fig" rid="f03">Figura 2</xref> apresenta uma estrutura simplificada do Inca, demarcando em negrito as áreas em foco neste artigo. As unidades centrais de análise são as ferramentas de TIC usadas nos experimentos de Bioinformática conduzidos por um laboratório da Coordenação de Pesquisa Clínica e Incorporação Tecnológica. A inclusão de pesquisadores da Coordenação de Pesquisa Básica e Translacional permitiu entender melhor a interdependência entre os experimentos ali conduzidos e as pesquisas clínicas, avaliando o papel da Bioinformática nessa integração. A inclusão da DTI permitiu avaliar como a organização estava lidando com a adoção das TIC aqui analisadas sob a ótica dos gestores dos recursos de TI do Inca.</p>
+				<fig-group>
+					<fig id="f03">
+						<graphic xlink:href="1413-8123-csc-19-01-00257-gf03"/>
+					</fig>
+				</fig-group>
+				<p>As evidências foram coletadas por meio da análise documental, das pesquisas em sítios especializados e, principalmente, da observação direta e das entrevistas de fundo com os gestores. Os sujeitos da pesquisa alinham-se ao grupo de pesquisadores que lideravam as transformações em curso nos últimos anos na P&amp;D do Inca, não refletindo, portanto, a opinião de todos os pesquisadores da CGTC do Inca. A <xref ref-type="table" rid="t01">Tabela 1</xref> traz informações sobre as entrevistas realizadas na sede do Inca entre os meses de março a outubro de 2011.</p>
+				<p>
+					<table-wrap id="t01">
+						<graphic xlink:href="1413-8123-csc-19-01-00257-gt01"/>
+					</table-wrap>
+				</p>
+				<p>As entrevistas foram gravadas e as respostas obtidas foram tratadas pelo método de análise de conteúdo do tipo temático ou categorial<sup>34</sup>. As categorias de análise foram consolidadas nos sete fatores do Modelo TOE adaptado para os objetivos desta pesquisa. Essas categorias foram definidas a partir da triangulação das evidências coletadas da pesquisa bibliográfica, da análise documental e das entrevistas de campo.</p>
+				<sec>
+					<title>Apresentação e discussão dos resultados: o estudo de caso do Inca</title>
+				</sec>
+				<sec>
+					<title>Modelo analítico proposto</title>
+					<p>A <xref ref-type="fig" rid="f04">Figura 3</xref> apresenta o modelo TOE adaptado para o estudo da adoção de ferramentas TIC utilizadas em experimentos de Bioinformática no Inca. Os próximos parágrafos apresentam e discutem os resultados do estudo de caso.</p>
+					<fig-group>
+						<fig id="f04">
+							<graphic xlink:href="1413-8123-csc-19-01-00257-gf04"/>
+						</fig>
+					</fig-group>
+				</sec>
+				<sec>
+					<title>O ambiente externo</title>
+					<p>A dinâmica evolutiva do <italic>ramo biofarmacêutico</italic> é direcionada pela P&amp;D<sup>35</sup>. A pressão permanente para a descoberta de novos princípios ativos e a velocidade com que as C&amp;T evoluem geram alta volatilidade no que tange às terminologias, às bases de dados e aos aplicativos. Como atesta um gestor <italic>Em biotecnologia você não pode ficar preso a uma rota tecnológica. Se você não acompanhar o mercado, está fora</italic> . Quanto maior o nível de competição na indústria, maior será, como argumentam Chau e Tam<sup>36</sup>, o estímulo para a adoção de TIC complexas, ou seja, aquelas que implicam o redesenho das práticas administrativas e acarretam profundas mudanças de infraestrutura e de governança de TI. No caso do Inca, as evidencias indicam que esse fator influenciou a decisão da CGTC de comprar equipamentos de bioinformática no estado da arte.</p>
+					<p>A Biotecnologia alterou significativamente o peso relativo dos ativos da cadeia produtiva farmacêutica que determinam o sucesso do lançamento de uma nova droga. Nas condições atuais, o domínio das grandes farmacêuticas sobre a propriedade intelectual (PI) à montante (<italic>upstream)</italic> não é condição de sucesso para o desenvolvimento de uma nova droga por métodos de biotecnologia. Por outro lado<italic>,</italic> o valor estratégico dos ativos complementares a jusante que estas empresas ainda detêm, tais como testes clínicos, plantas de produção e canais de distribuição<sup>37</sup>, foi fortalecido em comparação aos ativos de conhecimento detidos pelas pequenas empresas de Biotecnologia.</p>
+					<p>As particularidades do <italic>arcabouço jurídico-institucional</italic> brasileiro têm forte impacto na P&amp;D das organizações biofarmacêutica do país<sup>38</sup>. Historicamente, os projetos de pesquisa das grandes farmacêuticas globais, realizados nos países-sede, focam o desenvolvimento de fármacos destinados às necessidades das populações dos países avançados, como é caso de medicamentos para doenças crônico-degenerativas<sup>39</sup>. Isto faz com que as economias em desenvolvimento sofram com a ausência de medicamentos destinados às necessidades epidemiológicas típicas destas sociedades, as chamadas doenças negligenciadas. No Brasil, as farmacêuticas nacionais ainda apresentam baixas capacidades tecnológicas para suprir esta lacuna por meio da inovação<sup>38</sup>. Logo, uma característica marcante do Sistema Nacional de Inovação (SNI) do país é a presença de um parque público de laboratórios voltados para suprir por meio da P&amp;D uma parcela das necessidades dos programas de saúde pública<sup>39</sup>. No entanto, as severas restrições a que são submetidas estas organizações as impede de cumprir este papel na velocidade exigida no ramo biofarmacêutico: <italic>Como o Inca vai levar a frente um projeto desta envergaduracom as restrições institucionais impostas?</italic></p>
+					<p>Outra característica marcante da SNI brasileiro diz respeito à relação precária entre a Universidade e as empresas. Ainda que a literatura de inovação aponte para a necessidade de mudanças comportamentais nos pesquisadores brasileiros no sentido de valorizar as pesquisas voltadas para a necessidade do mercado, ainda incidem sobre estes profissionais estímulos contraditórios, advindos de diferentes instituições que influenciam o rumo das suas pesquisas: <italic>Tem esta esquizofrenia, estimular a geração de patentes, mas ter a valorização do trabalho do pesquisador pelos órgãos de fomento ainda vinculada à produção de papers</italic> .</p>
+				</sec>
+				<sec>
+					<title>O contexto organizacional - O Inca</title>
+					<p>O <italic>posicionamento tecnológico</italic> de uma organização reflete-se na intensidade dos seus esforços de inovação<sup>40</sup>. Na época deste trabalho, o Inca era um órgão auxiliar do Ministério da Saúde que tinha como foco principal formular e executar as políticas públicas de combate ao câncer visando atender, prioritariamente, o Sistema Único de Saúde (SUS). Embora ainda pudesse ser considerada uma organização que mantinha fortes traços assistencialistas e acadêmicos, o papel da P&amp;D vinha, desde meados da década passada, ganhando corpo na instituição. As evidências coletadas sugerem que a possível configuração da CGTC como um centro de desenvolvimento tecnológico é um processo em construção, que depende: : i) por um lado, de um novo arcabouço jurídico-institucional para as atividades de P&amp;D dos institutos de pesquisa no Brasil; ii) por outro, de uma definição estratégica interna, cujos delineamentos estavam sendo discutidos na instituição.</p>
+					<p>O Inca era a referência na América Latina na realização de testes clínicos nas fases 1, 2 e 3 para a classe terapêutica de oncologia. No momento em que a pesquisa de campo foi realizada, cerca de 80% destes estudos eram patrocinados pelas grandes farmacêuticas globais, que os utilizam em testes multicêntricos de novas drogas. Os demais 20% eram demandados pelos pesquisadores do próprio Inca ou pela Rede Nacional de Pesquisa Clinica. Há cerca de cinco anos, a CGTC do Inca criou um laboratório de Bioinformática para conduzir análises relacionadas aos experimentos da pesquisa básica em genômica e em proteômica. Também contava com um pesquisador em nível de pós-doutorado realizando experimentos de Dinâmica Molecular. A criação da área de pesquisa translacional era considerada um passo crítico para a busca de maior integração entre a pesquisa básica e os testes clínicos no Inca. Embora esta integração ainda estivesse fragmentada e não se constituísse, na visão da bioinformática, <italic>no dia-a-dia da instituição</italic>, já havia experimentos em curso tanto nos laboratórios físicos da pesquisa básica quanto em Dinâmica Molecular propostos pela pesquisa translacional, gerados de levantamentos epidemiológicos da incidência de determinadas lesões moleculares observadas em pacientes do Instituto.</p>
+					<p>Na construção deste novo posicionamento, os gestores entrevistados viam a CGTC do Inca concentrada nas atividades <italic>à montante</italic> do contínuo de inovação<italic>: O interesse do Inca não é produzir mercadoria. O interesse do Inca é produzir conhecimento.</italic> Durante a execução desta pesquisa, o Inca estava em vias de concluir, com o apoio do BNDES e outras instituições de pesquisa, tais como a Fundação Oswaldo Cruz (Fio cruz) e o Laboratório Nacional de Biociências (LNBIO), as negociações para a criação da Rede Nacional de Desenvolvimento de Fármacos Anti-Câncer (Redefac). A construção deste arranjo colaborativo era visto pelos gestores entrevistados como um passo decisivo para a reconfiguração da CGTC do Inca:</p>
+					<p><italic>Temos de favorecer a posição do Inca como um articulador das competências necessárias ao desenvolvimento de fármacos em câncer. O Inca monta a cadeia com parceiros, contando com uma estrutura de inovação dentro do Inca.</italic></p>
+					<p>Neste arranjo, as empresas farmacêuticas poderiam assumir, via licenciamento do composto desenvolvido pela Inca ou pela Redefac, o papel de produção do fármaco<italic>.</italic> Mas os executivos entrevistados reconheceram que um posicionamento tecnológico inovador exigirá uma melhor gestão da PI:</p>
+					<p><italic>O Inca ainda não tem um escritório dedicado para isto (PI), que eu acho que seria uma coisa fundamental para que a gente começasse a fazer esta parte de desenvolvimento próprio de novas drogas. Se você não tem isso, você a princípio já não está em condição de negociar com as grandes indústrias.</italic></p>
+					<p>Para Bell e Pavitt<sup>41</sup>, as <italic>capacidades tecnológicas</italic> (CT) dividem-se em capacidades de produção e as capacidades para gerar e gerir inovações tecnológicas. Estas últimas, as verdadeiras fontes de vantagem competitiva em indústrias dinâmicas, são fundamentalmente diferentes das primeiras, exigindo uma estratégia distinta da organização, já que não podem ser alcançadas pela simples experiência acumulada em operar tecnologias compradas. Embora o Inca realizasse experimentos nos segmentos <italic>a montante</italic>, de maior complexidade tecnológica, os gestores entrevistados reconheceram que a CGTC ainda não tinha acumulado CT para gerar novas moléculas em seus experimentos de Bioinformática.</p>
+					<p>A existência de recursos acima das necessidades usuais (<italic>slack resources</italic>) desempenha um papel crucial na gestão da inovação tecnológica, pois permite que a empresa realize projetos que não seriam feitos em contextos organizacionais marcados por restrições de recursos<sup>21</sup>. Houve um amplo consenso entre os entrevistados de que a falta destes recursos constituía-se em um dos maiores entraves para que a CGTC do Inca se transformasse em um centro de desenvolvimento tecnológico:</p>
+					<p><italic>Um projeto para fazer o screening de novas moléculas é caro. Eu acredito que o Inca vai se tornar um centro de referência em Biotecnologia, mas precisa ter um aporte de recursos muito grande.</italic></p>
+					<p>Outro limitador importante identificado no campo era o número de pesquisadores, fortemente contingenciado pelos critérios atuais de contratação. Na época da realização desta pesquisa, o laboratório de Bioinformática contava com oito pesquisadores, sendo que seis deles eram alunos de programas de mestrado e doutorado em ciências da vida realizando seus projetos de pesquisa no Instituto: <italic>Não é só comprar equipamento, precisa ter pessoal. E isso eu acho que via ser um grande desafio para o Inca.</italic></p>
+					<p>Os ativos reputacionais de uma organização são vistos como chave para a mobilização dos recursos institucionais necessários à inovação tecnológica<sup>42</sup>. A legitimidade alcançada pelo Inca, reconhecidamente uma organização de excelência em saúde, era vista pelos gestores entrevistados como um elemento importante para a construção de um novo arcabouço jurídico em apoio à inovação na classe terapêutica de oncologia no Brasil:</p>
+					<p><italic>Nós somos uma instituição de pesquisa clínica em Oncologia que temos capacidade de fato de fazer e coordenar estudos clínicos não só multi-institucionais em todo o Brasil, mas até multinacionais, vamos dizer assim.</italic></p>
+					<p>Nos últimos anos, a DTI tinha direcionado seus esforços para a implantação de uma infraestrutura de TI, padronizando equipamentos e <italic>softwares</italic> em apoio aos processos de gestão e de assistência médica. O laboratório de Bioinformática do Inca, criado durante este periodo, construiu uma área de Informática própria, usando a maior autonomia que os financiamentos oriundos dos orgãos de fomento à pesquisa lhe conferia para a compra de <italic>hardware e software</italic>. A importância de um parque computacional para a independência nos experimentos de Bioinformática foi recorrentemente destacada pelo gestor do laboratório de Bionformática:</p>
+					<p><italic>Quando você tem um hardware dedicado para uma instituição, e isto eu não digo só para o Inca, qual que é a finalidade disso? É estimular a pesquisa que é feita dentro da sua Instituição. Quando você precisa, ela tá lá.</italic></p>
+					<p>Uma vez atendidas as necessidades das camadas de gestão e de informática médica, os gestores da DTI indicaram que o grande potencial de contribuição dos SI para o Inca nos próximos anos poderia estar na CGTC: <italic>Eu sinto que a pesquisatem um potencial muito grande de oportunidades. A gente vai entrar fortemente agora na pesquisa com um ambiente de gestão de conhecimento.</italic></p>
+					<p>Para Weill e Ross<sup>43</sup>, os modelos de governança de TI definem os direitos e deveres entre as áreas fim e a área de TI da organização no sentido de encorajar o uso efetivo das TIC. Segundo estes autores, modelos descentralizados são mais recomendados quando se busca a inovação. No Inca, as ferramentas de Bioinformática ficavam sob a responsabilidade da CGTC e os sistemas administrativos, de informática médica e de tele-medicina, com a DTI. Esta última posicionava-se como um prestador de serviços à CGTC, o que era amplamente reconhecido pelos pesquisadores entrevistados. A pesquisa de campo indicou que o conflito potencial entre o laboratório de Bioinformática e a Informática Corporativa era contornado pela postura das duas áreas:</p>
+					<p><italic>Eu dei muita sorte, porque eu conheço outros exemplos, outras instituições em que a TI da instituição não vê com bons olhos, porque acha que alguém vai roubar o cargo de alguém, não entende que são coisas... Não é toda a instituição que tem profissionais que entendem isto</italic> .</p>
+					<p>A DTI, ao ser indagada sobre a existência desta área de Informática fora dos seus domínios diretos, explicou:</p>
+					<p><italic>Até por não ser a nossa praia, e isto para mim está muito claro, a minha equipe não domina este tipo de tecnologia, ela é muito específica. Open source, geralmente focado em genética. Então a gente atua só na parte de apoio.</italic></p>
+				</sec>
+				<sec>
+					<title>Ferramentas TIC nos experimentos de Bioinformática</title>
+					<p>A natureza das informações tratadas pelas ferramentas TIC usadas nos experimentos de Bioinformática requer que os pesquisadores desenvolvam alta competência tanto em Biologia Molecular quanto em Informática. Por esse motivo, entende-se que estas ferramentas não valem muito sem os recursos humanos capacitados adequadamente nas técnicas de tratamento e análise das informações, como atesta a fala de um entrevistado: <italic>Existiu assim um grande boom na utilização deste tipo de ferramenta sem que a gente tivesse uma comunidade preparada para analisar os dados que são gerados com elas.</italic></p>
+					<p>A padronização dos parâmetros e das interfaces, bem como a garantia da origem das informações são críticos nos experimentos de Bioinformática<sup>24</sup>, o que favorece o uso de sistemas <italic>open source</italic>. Vale lembrar que uma parte expressiva das informações geradas em experimentos de sequenciamento genético não é passível de apropria ção<sup>6</sup>. De fato, a inclusão dos dados gerados em experimentos de Bioinformática - e dos aplicativos desenvolvidos em apoio a eles - nas bases de dados públicas é praticamente mandatória para a publicação de artigos científicos em periódicos de renome nesta área de conhecimento<sup>18</sup>.</p>
+				</sec>
+				<sec>
+					<title>A adoção de ferramentas TIC nos experimentos de Bioinformática do Inca</title>
+					<p>A dinâmica do ramo biofarmacêutico foi voz corrente entre os entrevistados quando justificaram a necessidade de mudanças na CGTC do Inca. Entre as preocupações manifestadas, destaca-se a competitividade do Complexo Econômico e Industrial de Saúde brasileiro frente aos grandes grupos farmacêuticos globais:</p>
+					<p><italic>Como é que o pessoal de Farma está fazendo, a Indústria? O cara tem um time de 50 pessoas, onde 2 são administrativos, ou seja, 48 são cientistas. Destes 48, 10 são químicos. Cada químico produz por semana uma biblioteca de 2000 compostos, e uma plataforma robotizada testa... Então assim, não tem como competir</italic> .</p>
+					<p>Os entrevistados concordaram que o posicionamento tecnológico que o Inca adotava à época, junto com a escassez de recursos para realizar estas análises, explicava o ainda baixo envolvimento do laboratório de Bioinformática em estudos derivados das pesquisas clínicas. <italic>Um projeto para fazer o screening de novas moléculas são milhões de reais. Você pega um edital do CNPQ, o teto de um projeto que você pode mandar são 100 mil reais.</italic> Explica também em parte a não utilização de GIT e de workflows científicos pela organização, já que: <italic>o que falta ao Inca é ser mais aberto</italic> . Porém, os entrevistados concordaram que o uso de GIT em estratégias de <italic>e.science</italic> futuras poderia ser adotado:</p>
+					<p><italic>Se realmente o interesse institucional do Inca é o desenvolvimento de novas drogas, e isto vai ser feito em uma parceria, compartilharemos a capacidade computacional que a gente tem, inclusive usando a deles</italic>. <italic>Acho que isto é bem possível.</italic></p>
+					<p>Como a CGTC ainda não detinha CT para a descoberta de novos compostos, não havia na Bioinformática do Inca a utilização de ferramentas de mineração de dados para a realização de experimentos de reconhecimento de padrões, pois: <italic>... para fazer data minning, você precisa ter geração de dados, e a gente ainda está gerando os dados.</italic> Mas, com um posicionamento tecnológico mais agressivo, <italic>... com certeza a gente vai fazer mineração de dados no futuro.</italic> Pelos mesmos motivos apontados acima, a CGTC do Inca ainda não havia investido na compra de ferramentas de HTS. É importante frisar que as redes de codesenvolvimento, tais como a Redefac, eram vistas como um mecanismo mais efetivo de acesso a estas ferramentas.</p>
+					<p>Os sistemas computacionais de experimentação usados nas análises em Genômica são desenvolvidos em plataformas abertas. Perguntado sobre a razão desta preferência, o entrevistado explicou porque este é um comportamento dominante: .<italic>..isto porque a bioinformática foi desenvolvida no ambiente acadêmico, os sistemas estão publicados em revistas científicas, com ampla aceitação. Não faz sentido desenvolver de novo.</italic></p>
+					<p>Para a análise de dados em Proteômica, o laboratório de Bioinformática desenvolveu o Sistema de Gestão de Informações de Laboratório (pLIMS). Além das informações básicas do laboratório, o sistema armazenava imagens dos experimentos de análises bidimensionais de proteínas em electroforese em gel (<italic>2D/1D protein gel electrophoresis</italic>). Embora existissem inúmeros softwares disponíveis na Internet, a Bioinformática do Inca optou por desenvolver seu próprio sistema. Ao ser indagado, o entrevistado da BION concordou que a DTI poderia ter ajudado, dado o escopo do sistema, embora a ajuda não tenha sido solicitada. Seguindo o comportamento dominante já descrito anteriormente, o software foi disponibilizado gratuitamente no sítio do Instituto (http://lbbc.Inca.gov.br/proteo mics). A CGTC também utilizava aplicativos de <italic>open source</italic> para os experimentos de simulação da Dinâmica Molecular (Ex.: Gromacs) e para o <italic>docking</italic> (Ex.: Auto-Docking).</p>
+					<p>Durante a realização desta pesquisa, o Inca havia acabado de receber um novo sequenciador de DNA e estava finalizando a aquisição de uma solução de <italic>High Performance Computing</italic> (HPC). Tais equipamentos iriam colocar o Instituto no estado da arte em ferramentas de genômica, Proteômica e modelagem e simulação de proteínas. Há indícios de que uma boa governança parece ter influenciado a decisão, tomada no decorrer dessa pesquisa, de passar estes equipamentos para a DTI, reconhecida pela BION como melhor capacitada para a gestão da nova infraestrutura. Porém, as limitações institucionais para a contratação de pesquisadores eram vistas como um sério obstáculo para a realização de experimentos voltados à descoberta de novas moléculas, ainda que o hardware permitisse:</p>
+					<p><italic>É um circulo vicioso. Ele só vai ter dinheiro para fazer isso, para me cobrar, para ter uma estrutura que permita a ele fazer este serviço, o dia em que ele puder contratar um técnico.</italic></p>
+					<p>Dadas às características predominantes no ramo biofarmacêutico, observou-se uma busca permanente no Inca pela padronização dos conceitos trabalhados em seus experimentos, visto que isso auxiliaria o compartilhamento de informações com outras Instituições. Para tal, o laboratório de Bioinformática e a área de Dinâmica Molecular recorriam sistematicamente ao <italic>Gene Ontology</italic>, um consórcio estabelecido para a padronização de atributos dos genes, e ao <italic>Protein Data Bank</italic>, sítio na web que deposita, processa e distribui gratuitamente dados de estruturas macromoleculares.</p>
+					<p>Quanto ao uso de CROs, ficaram evidentes nos depoimentos as limitações que as fontes de financiamento à pesquisa impunham à contratação destes prestadores de serviço. No caso da realização de pesquisas clínicas financiadas pelas grandes farmacêuticas, esta limitação não estava presente. A preocupação com a relação ao custo-benefício, ou mesmos os riscos, de se tentar obter a PI das informações geradas nos sistemas que apoiam os experimentos de Bioinformática foi recorrentemente ressaltada:</p>
+					<p><italic>Apesar de eu ser favorável ao depósito de patentes de proteção do conhecimento, mas também eu entendo que tem algumas questões que se você ponderar vale mais a pena você deixar ter livre acesso para que as pessoas usem e abusem do conhecimento do que fazer uma proteção patentária.</italic></p>
+				</sec>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>Conclusões</title>
+				<p>Os autores deste artigo entendem que a questão colocada nesta pesquisa foi respondida na medida em que a aplicação do Modelo TOE, adaptado aos objetivos do estudo aqui empreendido, ajudou a demostrar, dentro das limitações de espaço do artigo, como atuaram no caso do Inca os fatores que impactam a adoção de ferramentas TIC usadas em experimentos de Bionformática.</p>
+				<p>No nível acadêmico, o modelo proposto contribuiu para investigações em duas áreas de importância crescente para o Complexo Econômico-Industrial de Saúde brasileiro, a inovação tecnológica e a biotecnologia. Com base nas evidências coletadas, uma questão é formulada para aprofundamento em pesquisas futuras: em que medida o alinhamento dos fatores pertinentes à adoção das TIC nos experimentos de Bioinformática pode aumentar a capacidade de inovar de uma organização biofarmacêutica brasileira?</p>
+				<p>O estudo mostrou a importância crescente da Ciência da Informação para a Bioinformática do Inca, mas também trouxe evidências da possibilidade de uma substancial melhora no que diz respeito: i) ao uso de data mining para reconhecimento de padrões, estruturas e regras; ii) à integração dos sistemas de gestão de laboratório aos demais aplicativos de uma organização de saúde; iii) às estratégias <italic>e.science</italic>. No caso do Inca, nem todas as áreas da CGTC mostraram o mesmo conhecimento de informática e tinham a mesma proximidade à DTI que o laboratório de Bioinformática. Mesmo nesta última, há evidencias de que técnicas de gestão da informação mais sofisticadas poderiam ter sido adotadas. Um exemplo do potencial de contribuição da TI foi o desenvolvimento, a pedido da CGTC, do SISBNT, sistema que gerencia o Banco Nacional de Tumores, um biobanco que ajudou a mudar o patamar das pesquisas na instituição<italic>.</italic></p>
+				<p>Do ponto de vista da prática gerencial, considerando o fato de que muitas organizações brasileiras em ciências da vida, especialmente os institutos de pesquisa públicos em busca de CT inovadoras, enfrentam desafios semelhantes aos identificados na CGTC do Inca, podem-se extrair lições relevantes das discussões aqui realizadas. O caso trouxe evidências de que a opção do Inca pela criação de uma área de Bioinformática, quando mediada por mecanismos de governança efetivos, contribuiu decisivamente para a adoção das ferramentas em foco neste estudo. A criação da Redefac, dentro da qual o Inca espera desempenhar um papel central, indicou caminhos alternativos interessantes para o enfrentamento do desafio da produção nacional de fármacos em câncer. Mas as evidências obtidas mostram que a conversão da CGTC do Inca em um centro de desenvolvimento tecnológico exigirá profundas mudanças organizacionais e institucionais. Dentre os pontos mais destacados pelos entrevistados estão uma maior coesão interna em torno da visão do Inca como um centro de C&amp;T&amp;I e a necessidade de aumentar o número e a senioridade dos pesquisadores envolvidos nesta tarefa.</p>
+				<p>Por fim, o caráter multidisciplinar dos experimentos em Bioinformática examinados no contexto do Inca deixou evidente o risco de perspectivas reducionistas ou reificantes das ferramentas de TIC aqui discutidas. Por conseguinte, defende-se neste estudo que o uso adequado destas ferramentas é parte indissociável das competências que um pesquisador em Bioinformática deve possuir para fazer avançar o conhecimento científico em Biologia Molecular, particularmente nas organizações que lidam com pesquisa de ponta em câncer.</p>
+			</sec>
+			<sec>
+				<title>Colaboradores</title>
+				<p>C Pitassi participou da concepção e estruturação da pesquisa, na escolha do referencial teórico, na metodologia, na coleta e análise dos dados e na redação final do artigo. VA Moreno participou da estruturação da pesquisa, na revisão crítica dos resultados e na redação final do artigo. AA Gonçalves participou na estruturação da pesquisa, na coleta e análise de dados e na redação final do artigo.</p>
+			</sec>
+		</body>
+		<back>
+			<ref-list>
+				<title>Referências</title>
+				<ref id="B01">
+					<label>1</label>
+					<mixed-citation>1. Macmullen WJ, Denn S. Information problems in molecular biology and Bioinformatics. J of the Amer Soc for Info Sci &amp; Tech 2005; 56(5):447-456.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Macmullen</surname>
+								<given-names>WJ</given-names>
+							</name>
+							<name>
+								<surname>Denn</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Information problems in molecular biology and Bioinformatics</article-title>
+						<source>J of the Amer Soc for Info Sci &amp; Tech</source>
+						<year>2005</year>
+						<volume>56</volume>
+						<issue>5</issue>
+						<fpage>447</fpage>
+						<lpage>456</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B02">
+					<label>2</label>
+					<mixed-citation>2. Attwood TK, Gisel A, Eriksson N-E, Bongcam-Rudloff E. Concepts, historical milestones and the central place of bioinformatics in modern biology: a European perspective. In: Mahdavi MA, editor. Bioinformatics-Trends and Methodologies. Rijeka: Intech Online Publishers; 2011.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Attwood</surname>
+								<given-names>TK</given-names>
+							</name>
+							<name>
+								<surname>Gisel</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Eriksson</surname>
+								<given-names>N-E</given-names>
+							</name>
+							<name>
+								<surname>Bongcam-Rudloff</surname>
+								<given-names>E</given-names>
+							</name>
+						</person-group>
+						<chapter-title>Concepts, historical milestones and the central place of bioinformatics in modern biologya European perspective</chapter-title>
+						<person-group person-group-type="editor">
+							<name>
+								<surname>Mahdavi</surname>
+								<given-names>MA</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Bioinformatics-Trends and Methodologies</source>
+						<publisher-loc>Rijeka</publisher-loc>
+						<publisher-name>Intech Online Publishers</publisher-name>
+						<year>2011</year>
+					</element-citation>
+				</ref>
+				<ref id="B03">
+					<label>3</label>
+					<mixed-citation>3. Costa LF. Bioinformatics: perspectives for the future. Gen Mol Res 2004; 3(4):564-574.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Costa</surname>
+								<given-names>LF</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Bioinformaticsperspectives for the future</article-title>
+						<source>Gen Mol Res</source>
+						<year>2004</year>
+						<volume>3</volume>
+						<issue>4</issue>
+						<fpage>564</fpage>
+						<lpage>574</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B04">
+					<label>4</label>
+					<mixed-citation>4. Vogt C. Bioinformática, genes e inovação. R ComCiência 2003; 46.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Vogt</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Bioinformática, genes e inovação</article-title>
+						<source>R ComCiência</source>
+						<year>2003</year>
+						<fpage>46</fpage>
+						<lpage>46</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B05">
+					<label>5</label>
+					<mixed-citation>5. Catanho M, De Miranda AB, Degrave W. Comparando genomas: bancos de dados e ferramentas computacionais para a análise comparativa de genomas procarióticos. R Eletr de Com Infor &amp; Inov 2007; 1(2):335-358.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Catanho</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>De Miranda</surname>
+								<given-names>AB</given-names>
+							</name>
+							<name>
+								<surname>Degrave</surname>
+								<given-names>W</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Comparando genomasbancos de dados e ferramentas computacionais para a análise comparativa de genomas procarióticos</article-title>
+						<source>R Eletr de Com Infor &amp; Inov</source>
+						<year>2007</year>
+						<volume>1</volume>
+						<issue>2</issue>
+						<fpage>335</fpage>
+						<lpage>358</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B06">
+					<label>6</label>
+					<mixed-citation>6. Powell W, White D, Koput K, Owen-Smith J. Network Dynamics and field evolution: the growth of interorganizational collaboration in the life sciences. AJS 2005; 110(4):1132-1205.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Powell</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>White</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Koput</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Owen-Smith</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Network Dynamics and field evolutionthe growth of interorganizational collaboration in the life sciences</article-title>
+						<source>AJS</source>
+						<year>2005</year>
+						<volume>110</volume>
+						<issue>4</issue>
+						<fpage>1132</fpage>
+						<lpage>1205</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B07">
+					<label>7</label>
+					<mixed-citation>7. Chiaroni D, Chiesa V, Frattini F. Patterns of collaboration along the Bio-Pharmaceutical innovation process. J of Bus Chem 2008; 5(1):7-22.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chiaroni</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Chiesa</surname>
+								<given-names>V</given-names>
+							</name>
+							<name>
+								<surname>Frattini</surname>
+								<given-names>F</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Patterns of collaboration along the Bio-Pharmaceutical innovation process</article-title><italic>.</italic><source>J of Bus Chem</source>
+						<year>2008</year>
+						<volume>5</volume>
+						<issue>1</issue>
+						<fpage>7</fpage>
+						<lpage>22</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B08">
+					<label>8</label>
+					<mixed-citation>8. Curcin V, Ghanem M. Scientific workflow systems - can one size fit all? Proceedings of the Cairo Biomedical Engineering Conference. Cairo: 2008; 1-9.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Curcin</surname>
+								<given-names>V</given-names>
+							</name>
+							<name>
+								<surname>Ghanem</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Scientific workflow systemscan one size fit all?</article-title>
+						<source>Proceedings of the Cairo Biomedical Engineering Conference</source>
+						<publisher-loc>Cairo</publisher-loc>
+						<year>2008</year>
+						<fpage>1</fpage>
+						<lpage>9</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B09">
+					<label>9</label>
+					<mixed-citation>9. Maqueira JM, Bruque S. Grid information technology as a new technological tool for e.science, healthcare and life science. J of Tech Mangt &amp; Innov 2007; 2(2):95-113.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Maqueira</surname>
+								<given-names>JM</given-names>
+							</name>
+							<name>
+								<surname>Bruque</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Grid information technology as a new technological tool for e.science, healthcare and life science</article-title>
+						<source>J of Tech Mangt &amp; Innov</source>
+						<year>2007</year>
+						<volume>2</volume>
+						<issue>2</issue>
+						<fpage>95</fpage>
+						<lpage>113</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B10">
+					<label>10</label>
+					<mixed-citation>10. Critchlow T, Musick R, Slezak T. Experience applying meta-data to Bioinformatics. Info Sci 2001; 139(1-2):3-17.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Critchlow</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Musick</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Slezak</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Experience applying meta-data to Bioinformatics</article-title>
+						<source>Info Sci</source>
+						<year>2001</year>
+						<volume>139</volume>
+						<issue>1-2</issue>
+						<fpage>3</fpage>
+						<lpage>17</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B11">
+					<label>11</label>
+					<mixed-citation>11. Heath SL, Ramakrishnan N. The emerging landscape of Bioinformatics software systems. IEEE C 2005; 35(7):41-45.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Heath</surname>
+								<given-names>SL</given-names>
+							</name>
+							<name>
+								<surname>Ramakrishnan</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The emerging landscape of Bioinformatics software systems</article-title>
+						<source>IEEE C</source>
+						<year>2005</year>
+						<volume>35</volume>
+						<issue>7</issue>
+						<fpage>41</fpage>
+						<lpage>45</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B12">
+					<label>12</label>
+					<mixed-citation>12. Stevens R, Goble CA, Bechhofer S. Ontology-based knowledge representation for bioinformatics. B in Bioinf 2000; 1(4):398-414.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Stevens</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Goble</surname>
+								<given-names>CA</given-names>
+							</name>
+							<name>
+								<surname>Bechhofer</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Ontology-based knowledge representation for bioinformatics</article-title>
+						<source>B in Bioinf</source>
+						<year>2000</year>
+						<volume>1</volume>
+						<issue>4</issue>
+						<fpage>398</fpage>
+						<lpage>414</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B13">
+					<label>13</label>
+					<mixed-citation>13. Febles Rodriguez JP, Gonzalez Perez A. Aplicación de la minería de datos en la Bioinformática. ACIMED 2002; 10(2):69-76.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Febles Rodriguez</surname>
+								<given-names>JP</given-names>
+							</name>
+							<name>
+								<surname>Gonzalez Perez</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="es">Aplicación de la minería de datos en la Bioinformática</article-title>
+						<source>ACIMED</source>
+						<year>2002</year>
+						<volume>10</volume>
+						<issue>2</issue>
+						<fpage>69</fpage>
+						<lpage>76</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B14">
+					<label>14</label>
+					<mixed-citation>14. Verona G, Prandelli E, Sawhney M. Innovation and virtual environment: toward virtual knowledge brokers. Org Studies 2006; 27(6):765-788.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Verona</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Prandelli</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Sawhney</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Innovation and virtual environmenttoward virtual knowledge brokers</article-title>
+						<source>Org Studies</source>
+						<year>2006</year>
+						<volume>27</volume>
+						<issue>6</issue>
+						<fpage>765</fpage>
+						<lpage>788</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B15">
+					<label>15</label>
+					<mixed-citation>15. Persidis A. High-throughput screening. Nat Biotech 1998; 16(5):488-489.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Persidis</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">High-throughput screening</article-title>
+						<source>Nat Biotech</source>
+						<year>1998</year>
+						<volume>16</volume>
+						<issue>5</issue>
+						<fpage>488</fpage>
+						<lpage>489</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B16">
+					<mixed-citation>16 Bleicher KH, Böhm H-J, Müller K, Alanine AI. Hit and lead generation: beyond high-throughput screening. Nat R Drug Disc 2003; 2(5):369-378.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>16 Bleicher</surname>
+								<given-names>KH</given-names>
+							</name>
+							<name>
+								<surname>Böhm</surname>
+								<given-names>H-J</given-names>
+							</name>
+							<name>
+								<surname>Müller</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Alanine</surname>
+								<given-names>AI</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Hit and lead generationbeyond high-throughput screening</article-title>
+						<source>Nat R Drug Disc</source>
+						<year>2003</year>
+						<volume>2</volume>
+						<issue>5</issue>
+						<fpage>369</fpage>
+						<lpage>378</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B17">
+					<label>17</label>
+					<mixed-citation>17. Lenoir T. Shaping biomedicine as an information science. In: Bowden ME, Hahn TB, Willians RV, editors. Proceedings of the 1998 Conference on the History and Heritage of Science Information Systems. ASIS Monograph Series. Medford: Information Today; 1998. p. 27-45.</mixed-citation>
+					<element-citation publication-type="confproc">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Lenoir</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<chapter-title>Shaping biomedicine as an information science</chapter-title>
+						<person-group person-group-type="editor">
+							<name>
+								<surname>Bowden</surname>
+								<given-names>ME</given-names>
+							</name>
+							<name>
+								<surname>Hahn</surname>
+								<given-names>TB</given-names>
+							</name>
+							<name>
+								<surname>Willians</surname>
+								<given-names>RV</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Proceedings</source><italic>of the</italic><conf-date>1998</conf-date>
+						<conf-name>Conference on the History and Heritage of Science Information Systems </conf-name>
+						<series>ASIS Monograph Series</series>
+						<publisher-loc>Medford</publisher-loc>
+						<publisher-name>Information Today</publisher-name>
+						<year>1998</year>
+						<fpage>27</fpage>
+						<lpage>45</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B18">
+					<label>18</label>
+					<mixed-citation>18. Brown C. The changing face of scientific discourse: analysis of Genomic and Proteomic database usage and acceptance, J of the Amer Soct for Info Sci &amp; Tech 2003; 54(10):926-938.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Brown</surname>
+								<given-names>C</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">The changing face of scientific discourseanalysis of Genomic and Proteomic database usage and acceptance</article-title>
+						<source>J of the Amer Soct for Info Sci &amp; Tech</source>
+						<year>2003</year>
+						<volume>54</volume>
+						<issue>10</issue>
+						<fpage>926</fpage>
+						<lpage>938</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B19">
+					<label>19</label>
+					<mixed-citation>19. Gassmann O, von Zedtwitz M. Trends and determinants of managing virtual R &amp; D teams. R &amp; D Mangt 2003; 33(3):243-262.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Gassmann</surname>
+								<given-names>O</given-names>
+							</name>
+							<name>
+								<surname>von Zedtwitz</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Trends and determinants of managing virtual R &amp; D teams</article-title>
+						<source>R &amp; D Mangt</source>
+						<year>2003</year>
+						<volume>33</volume>
+						<issue>3</issue>
+						<fpage>243</fpage>
+						<lpage>262</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B20">
+					<label>20</label>
+					<mixed-citation>20. Venkatesh V, Morris MG, Davis GB, Davis FD. User acceptance of information technology: toward a unified view. MIS Quart 2003; 27(3):425-478.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Venkatesh</surname>
+								<given-names>V</given-names>
+							</name>
+							<name>
+								<surname>Morris</surname>
+								<given-names>MG</given-names>
+							</name>
+							<name>
+								<surname>Davis</surname>
+								<given-names>GB</given-names>
+							</name>
+							<name>
+								<surname>Davis</surname>
+								<given-names>FD</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">User acceptance of information technologytoward a unified view</article-title>
+						<source>MIS Quart</source>
+						<year>2003</year>
+						<volume>27</volume>
+						<issue>3</issue>
+						<fpage>425</fpage>
+						<lpage>478</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B21">
+					<label>21</label>
+					<mixed-citation>21. Tornatzky LG, Fleischer M. The processes of technological innovation. Massachusetts: Lexington Books; 1990.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Tornatzky</surname>
+								<given-names>LG</given-names>
+							</name>
+							<name>
+								<surname>Fleischer</surname>
+								<given-names>M</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">The processes of technological innovation</source>
+						<publisher-loc>Massachusetts</publisher-loc>
+						<publisher-name>Lexington Books</publisher-name>
+						<year>1990</year>
+					</element-citation>
+				</ref>
+				<ref id="B22">
+					<label>22</label>
+					<mixed-citation>22. Denzin NK, Lincoln YS. Handbook of qualitative research. California: Sage Publications; 2000.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Denzin</surname>
+								<given-names>NK</given-names>
+							</name>
+							<name>
+								<surname>Lincoln</surname>
+								<given-names>YS</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Handbook of qualitative research</source>
+						<publisher-loc>California</publisher-loc>
+						<publisher-name>Sage Publications</publisher-name>
+						<year>2000</year>
+					</element-citation>
+				</ref>
+				<ref id="B23">
+					<label>23</label>
+					<mixed-citation>23. Yin RK. Case study research - design and methods. London: SAGE Publications; 1994.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Yin</surname>
+								<given-names>RK</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Case study research</source>
+						<publisher-loc>London</publisher-loc>
+						<publisher-name>SAGE Publications</publisher-name>
+						<year>1994</year>
+					</element-citation>
+				</ref>
+				<ref id="B24">
+					<label>24</label>
+					<mixed-citation>24. Digiampietri LA. Gerenciamento de workflows científicos em Bioinformática [tese]. Campinas: Unicamp; 2007.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Digiampietri</surname>
+								<given-names>LA</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="pt">Gerenciamento de workflows científicos em Bioinformática</source>
+						<publisher-loc>Campinas</publisher-loc>
+						<publisher-name>Unicamp</publisher-name>
+						<year>2007</year>
+					</element-citation>
+				</ref>
+				<ref id="B25">
+					<label>25</label>
+					<mixed-citation>25. Neubauer F, Hoheisel A, Geiler J. Workflow-based grid applications. Fut Gen Comp Syst 2006; 22(1-2):6-15.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Neubauer</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Hoheisel</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Geiler</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Workflow-based grid applications</article-title>
+						<source>Fut Gen Comp Syst</source>
+						<year>2006</year>
+						<volume>22</volume>
+						<issue>1-2</issue>
+						<fpage>6</fpage>
+						<lpage>15</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B26">
+					<label>26</label>
+					<mixed-citation>26. Bose R. Knowledge management-enabled health care management systems: capabilities, infrastructure, and decision-support. Exp Syst with Applic 2003; 24(1):59-71.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bose</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Knowledge management-enabled health care management systemscapabilities, infrastructure, and decision-support</article-title>
+						<source>Exp Syst with Applic</source>
+						<year>2003</year>
+						<volume>24</volume>
+						<issue>1</issue>
+						<fpage>59</fpage>
+						<lpage>71</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B27">
+					<label>27</label>
+					<mixed-citation>27. Naznin F, Sarker R, Essam D. Vertical decomposition with genetic algorithm for multiple sequence alignment. BMC Bioinf 2011; 12:353-379.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Naznin</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Sarker</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Essam</surname>
+								<given-names>D</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Vertical decomposition with genetic algorithm for multiple sequence alignment</article-title>
+						<source>BMC Bioinf</source>
+						<year>2011</year>
+						<volume>12</volume>
+						<fpage>353</fpage>
+						<lpage>379</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B28">
+					<label>28</label>
+					<mixed-citation>28. Thurow K, Göde B, Dingerdissen U, Stoll N. Laboratory information management systems for life science applications. Org Proc Res Develop 2004; 8(6): 970-982.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Thurow</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Göde</surname>
+								<given-names>B</given-names>
+							</name>
+							<name>
+								<surname>Dingerdissen</surname>
+								<given-names>U</given-names>
+							</name>
+							<name>
+								<surname>Stoll</surname>
+								<given-names>N</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Laboratory information management systems for life science applications</article-title>
+						<source>Org Proc Res Develop</source>
+						<year>2004</year>
+						<volume>8</volume>
+						<issue>6</issue>
+						<fpage>970</fpage>
+						<lpage>982</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B29">
+					<label>29</label>
+					<mixed-citation>29. Bare JC, Koide T, Reiss DJ, Tenenbaum D, Baliga NS. Integration and visualization of systems biology data in context of the genome. BMC Bioinf 2010; 11:382-390.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bare</surname>
+								<given-names>JC</given-names>
+							</name>
+							<name>
+								<surname>Koide</surname>
+								<given-names>T</given-names>
+							</name>
+							<name>
+								<surname>Reiss</surname>
+								<given-names>DJ</given-names>
+							</name>
+							<name>
+								<surname>Tenenbaum</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Baliga</surname>
+								<given-names>NS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Integration and visualization of systems biology data in context of the genome</article-title>
+						<source>BMC Bioinf</source>
+						<year>2010</year>
+						<volume>11</volume>
+						<fpage>382</fpage>
+						<lpage>390</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B30">
+					<label>30</label>
+					<mixed-citation>30. Thomke SH. Experimentation matters: unlocking the potential of new technologies for innovation. Boston: HBS Press; 2003.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Thomke</surname>
+								<given-names>SH</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Experimentation matters</source>
+						<publisher-loc>Boston</publisher-loc>
+						<publisher-name>HBS Press</publisher-name>
+						<year>2003</year>
+					</element-citation>
+				</ref>
+				<ref id="B31">
+					<label>31</label>
+					<mixed-citation>31. Pisano GP, Verganti R. Which kind of collaboration is right for you? HBR 2008; 12:78-86.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pisano</surname>
+								<given-names>GP</given-names>
+							</name>
+							<name>
+								<surname>Verganti</surname>
+								<given-names>R</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Which kind of collaboration is right for you?</article-title>
+						<source>HBR</source>
+						<year>2008</year>
+						<volume>12</volume>
+						<fpage>78</fpage>
+						<lpage>86</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B32">
+					<label>32</label>
+					<mixed-citation>32. Stajich JE, Lapp H. Open source tools and toolkits for Bioinformatics: significance, and where are we? B in Bioinformatics 2006; 7(3):287-296.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Stajich</surname>
+								<given-names>JE</given-names>
+							</name>
+							<name>
+								<surname>Lapp</surname>
+								<given-names>H</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Open source tools and toolkits for Bioinformaticssignificance, and where are we?</article-title>
+						<source>B in Bioinformatics</source>
+						<year>2006</year>
+						<volume>7</volume>
+						<issue>3</issue>
+						<fpage>287</fpage>
+						<lpage>296</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B33">
+					<label>33</label>
+					<mixed-citation>33. Hacievliyagil NK. The impact of open innovation on technology transfers at Philips and DSM [thesis]. Delft: Delft University of Technology; 2007.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Hacievliyagil</surname>
+								<given-names>NK</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">The impact of open innovation on technology transfers at Philips and DSM</source>
+						<publisher-loc>Delft</publisher-loc>
+						<publisher-name>Delft University of Technology</publisher-name>
+						<year>2007</year>
+					</element-citation>
+				</ref>
+				<ref id="B34">
+					<label>34</label>
+					<mixed-citation>34. Bardin L. Análise de conteúdo. Lisboa: Edições 70; 1979.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bardin</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="pt">Análise de conteúdo</source>
+						<publisher-loc>Lisboa</publisher-loc>
+						<publisher-name>Edições 70</publisher-name>
+						<year>1979</year>
+					</element-citation>
+				</ref>
+				<ref id="B35">
+					<label>35</label>
+					<mixed-citation>35. Malerba F, Orsenigo L. Innovation and market structure in dynamics of the pharmaceutical industry and Biotechnology: towards a history friendly model. Ind Corp Change 2001; 11(4):667-703.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Malerba</surname>
+								<given-names>F</given-names>
+							</name>
+							<name>
+								<surname>Orsenigo</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Innovation and market structure in dynamics of the pharmaceutical industry and Biotechnologytowards a history friendly model</article-title>
+						<source>Ind Corp Change</source>
+						<year>2001</year>
+						<volume>11</volume>
+						<issue>4</issue>
+						<fpage>667</fpage>
+						<lpage>703</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B36">
+					<label>36</label>
+					<mixed-citation>36. Chau PYK, Tam KY. Factors affecting the adoption of open systems: an exploratory study. MIS Quart 1997; 21(1):1-24.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Chau</surname>
+								<given-names>PYK</given-names>
+							</name>
+							<name>
+								<surname>Tam</surname>
+								<given-names>KY</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Factors affecting the adoption of open systemsan exploratory study</article-title>
+						<source>MIS Quart</source>
+						<year>1997</year>
+						<volume>21</volume>
+						<issue>1</issue>
+						<fpage>1</fpage>
+						<lpage>24</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B37">
+					<label>37</label>
+					<mixed-citation>37. Pisano GP. Profiting from innovation and the intellectual property revolution. R Policy 2006; 35:1122-1130.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Pisano</surname>
+								<given-names>GP</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Profiting from innovation and the intellectual property revolution</article-title>
+						<source>R Policy</source>
+						<year>2006</year>
+						<volume>35</volume>
+						<fpage>1122</fpage>
+						<lpage>1130</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B38">
+					<label>38</label>
+					<mixed-citation>38. Vieira VMM, Ohayon P. Inovação em fármacos e medicamentos: estado-da-arte no Brasil e políticas de P &amp; D. R Econ &amp; Gestão 2007; 6(13):1-23.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Vieira</surname>
+								<given-names>VMM</given-names>
+							</name>
+							<name>
+								<surname>Ohayon</surname>
+								<given-names>P</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Inovação em fármacos e medicamentosestado-da-arte no Brasil e políticas de P &amp; D</article-title>
+						<source>R Econ &amp; Gestão</source>
+						<year>2007</year>
+						<volume>6</volume>
+						<issue>13</issue>
+						<fpage>1</fpage>
+						<lpage>23</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B39">
+					<label>39</label>
+					<mixed-citation>39. Oliveira EA, Labra MA, Bermudez J. A produção pública de medicamento no Brasil: uma visão geral. Cad Saude Publica 2006; 22(11):2379-2389.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Oliveira</surname>
+								<given-names>EA</given-names>
+							</name>
+							<name>
+								<surname>Labra</surname>
+								<given-names>MA</given-names>
+							</name>
+							<name>
+								<surname>Bermudez</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">A produção pública de medicamento no Brasiluma visão geral</article-title>
+						<source>Cad Saude Publica</source>
+						<year>2006</year>
+						<volume>22</volume>
+						<issue>11</issue>
+						<fpage>2379</fpage>
+						<lpage>2389</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B40">
+					<label>40</label>
+					<mixed-citation>40. Freeman C, Soete L. The economics of industrial innovation. London: Frances Pinter; 1997.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Freeman</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Soete</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">The economics of industrial innovation</source>
+						<publisher-loc>London</publisher-loc>
+						<publisher-name>Frances Pinter</publisher-name>
+						<year>1997</year>
+					</element-citation>
+				</ref>
+				<ref id="B41">
+					<label>41</label>
+					<mixed-citation>41. Bell M, Pavitt K. The development of technological capabilities. In: Haque IU, editor. Trade, technology and international competitiveness. Washington: World Bank; 1995.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bell</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Pavitt</surname>
+								<given-names>K</given-names>
+							</name>
+						</person-group>
+						<chapter-title>The development of technological capabilities</chapter-title>
+						<person-group person-group-type="editor">
+							<name>
+								<surname>Haque</surname>
+								<given-names>IU</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Trade, technology and international competitiveness</source>
+						<publisher-loc>Washington</publisher-loc>
+						<publisher-name>World Bank</publisher-name>
+						<year>1995</year>
+					</element-citation>
+				</ref>
+				<ref id="B42">
+					<label>42</label>
+					<mixed-citation>42. Teece D, Pisano G, Shuen A. Dynamic capabilities and strategic management. Strat Mangt J 1997; 18(7): 509-533.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Teece</surname>
+								<given-names>D</given-names>
+							</name>
+							<name>
+								<surname>Pisano</surname>
+								<given-names>G</given-names>
+							</name>
+							<name>
+								<surname>Shuen</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Dynamic capabilities and strategic management</article-title>
+						<source>Strat Mangt J</source>
+						<year>1997</year>
+						<volume>18</volume>
+						<issue>7</issue>
+						<fpage>509</fpage>
+						<lpage>533</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B43">
+					<label>43</label>
+					<mixed-citation>43. Weill P, Ross JW. IT governance. Boston: HBS Press; 2004.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Weill</surname>
+								<given-names>P</given-names>
+							</name>
+							<name>
+								<surname>Ross</surname>
+								<given-names>JW</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">IT governance</source>
+						<publisher-loc>Boston</publisher-loc>
+						<publisher-name>HBS Press</publisher-name>
+						<year>2004</year>
+					</element-citation>
+				</ref>
+			</ref-list>
+		</back>
+	</article>

@@ -1,0 +1,763 @@
+article[@xml:lang="pt"]:
+  head: |
+    \documentclass{article}
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc} %% *
+    \usepackage[portuges,spanish,english,german,italian,russian]{babel} %% *
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+    \usepackage{etoolbox}
+    \usepackage{xtab}
+    \usepackage{enumerate}
+    \usepackage{hyperref}
+    \usepackage{penalidades}
+    \usepackage[footnotesize,bf,hang]{caption}
+    \usepackage[nodayofweek,level]{datetime}
+    \setmainfont{Linux Libertine O}
+    \renewcommand*{\thefootnote}{\alph{footnote}}
+    \makeatletter
+    \newcommand{\fn}{\afterassignment\fn@aux\count0=}
+    \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+    \makeatother
+
+    @@heads
+    
+    \begin{document}
+    \selectlanguage{portuges}
+    \section*{Metadados não aplicados}
+    \begin{itemize}
+    \item[\textbf{língua do artigo}]{Português}
+    \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
+    \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+
+    \ifdef{\journalsubtitle}{\item[\textbf{journalsubtitle}] \journaltitle}{}
+    \ifdef{\transjournaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+    \ifdef{\transjournalsubtitle}{\item[\textbf{journalsubtitle}] \journaltitle}{}
+
+    \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}] \abbrevjournaltitle}{}
+    \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
+    \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
+    \ifdef{\publishername}{\item[\textbf{publishername}] \publishername}{}
+    \ifdef{\publisherid}{\item[\textbf{publisherid}] \publisherid}{}
+    \ifdef{\subject}{\item[\textbf{subject}] \subject}{} 
+    \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
+    \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
+    \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
+    \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
+    \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
+    \ifdef{\lpage}{\item[\textbf{lpage}] \lpage}{}
+    \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
+    \end{itemize}
+    \maketitle
+
+    @@bodies
+
+    \end{document}
+
+article[@xml:lang="en"]: 
+  head:  |
+    \documentclass{article}
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc} %% *
+    \usepackage[portuges,spanish,english,german,italian,russian]{babel} %% *
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+    \usepackage{etoolbox}
+    \usepackage{xtab}
+    \usepackage{enumerate}
+    \usepackage{hyperref}
+    \usepackage{penalidades}
+    \usepackage[footnotesize,bf,hang]{caption}
+    \usepackage[nodayofweek,level]{datetime}
+    \setmainfont{Linux Libertine O}
+    \renewcommand*{\thefootnote}{\alph{footnote}}
+    \makeatletter
+    \newcommand{\fn}{\afterassignment\fn@aux\count0=}
+    \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+    \makeatother
+
+    @@heads
+    
+    \begin{document}
+    \selectlanguage{english}
+    \section*{Metadados não aplicados}
+    \begin{itemize}
+    \item[\textbf{língua do artigo}]{Inglês}
+    \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
+    \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+    \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}] \abbrevjournaltitle}{}
+    \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
+    \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
+    \ifdef{\publishername}{\item[\textbf{publishername}] \publishername}{}
+    \ifdef{\publisherid}{\item[\textbf{publisherid}] \publisherid}{}
+    \ifdef{\subject}{\item[\textbf{subject}] \subject}{} 
+    \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
+    \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
+    \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
+    \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
+    \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
+    \ifdef{\lpage}{\item[\textbf{lpage}] \lpage}{}
+    \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
+    \end{itemize}
+    \maketitle
+
+    @@bodies
+
+    \end{document}
+
+article[@xml:lang="fr"]: 
+  head:  |
+    \documentclass{article}
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc} %% *
+    \usepackage[portuges,spanish,english,german,italian,russian]{babel} %% *
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+    \usepackage{etoolbox}
+    \usepackage{xtab}
+    \usepackage{enumerate}
+    \usepackage{hyperref}
+    \usepackage{penalidades}
+    \usepackage[footnotesize,bf,hang]{caption}
+    \usepackage[nodayofweek,level]{datetime}
+    \setmainfont{Linux Libertine O}
+    \renewcommand*{\thefootnote}{\alph{footnote}}
+    \makeatletter
+    \newcommand{\fn}{\afterassignment\fn@aux\count0=}
+    \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+    \makeatother
+
+    @@heads
+    
+    \begin{document}
+    \selectlanguage{french}
+    \section*{Metadados não aplicados}
+    \begin{itemize}
+    \item[\textbf{língua do artigo}]{Francês}
+    \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
+    \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+    \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}] \abbrevjournaltitle}{}
+    \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
+    \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
+    \ifdef{\publishername}{\item[\textbf{publishername}] \publishername}{}
+    \ifdef{\publisherid}{\item[\textbf{publisherid}] \publisherid}{}
+    \ifdef{\subject}{\item[\textbf{subject}] \subject}{} 
+    \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
+    \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
+    \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
+    \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
+    \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
+    \ifdef{\lpage}{\item[\textbf{lpage}] \lpage}{}
+    \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
+    \end{itemize}
+    \maketitle
+
+    @@bodies
+
+    \end{document}
+
+article[@xml:lang="es"]: 
+  head:  |
+    \documentclass{article}
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc} %% *
+    \usepackage[portuges,spanish,english,german,italian,russian]{babel} %% *
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+    \usepackage{etoolbox}
+    \usepackage{xtab}
+    \usepackage{enumerate}
+    \usepackage{hyperref}
+    \usepackage{penalidades}
+    \usepackage[footnotesize,bf,hang]{caption}
+    \usepackage[nodayofweek,level]{datetime}
+    \setmainfont{Linux Libertine O}
+    \renewcommand*{\thefootnote}{\alph{footnote}}
+    \makeatletter
+    \newcommand{\fn}{\afterassignment\fn@aux\count0=}
+    \newcommand{\fn@aux}{\csname fn\the\count0\endcsname}
+    \makeatother
+
+    @@heads
+    
+    \begin{document}
+    \selectlanguage{spanish}
+    \section*{Metadados não aplicados}
+    \begin{itemize}
+    \item[\textbf{língua do artigo}]{Espanhol}
+    \ifdef{\journalid}{\item[\textbf{journalid}] \journalid}{}
+    \ifdef{\journaltitle}{\item[\textbf{journaltitle}] \journaltitle}{}
+    \ifdef{\abbrevjournaltitle}{\item[\textbf{abbrevjournaltitle}] \abbrevjournaltitle}{}
+    \ifdef{\issnppub}{\item[\textbf{issnppub}] \issnppub}{}
+    \ifdef{\issnepub}{\item[\textbf{issnepub}] \issnepub}{}
+    \ifdef{\publishername}{\item[\textbf{publishername}] \publishername}{}
+    \ifdef{\publisherid}{\item[\textbf{publisherid}] \publisherid}{}
+    \ifdef{\subject}{\item[\textbf{subject}] \subject}{} 
+    \ifdef{\transtitle}{\item[\textbf{transtitle}] \transtitle}{}
+    \ifdef{\authornotes}{\item[\textbf{authornotes}] \authornotes}{}
+    \ifdef{\articleid}{\item[\textbf{articleid}] \articleid}{}
+    \ifdef{\volume}{\item[\textbf{volume}] \volume}{}
+    \ifdef{\issue}{\item[\textbf{issue}] \issue}{}
+    \ifdef{\fpage}{\item[\textbf{fpage}] \fpage}{}
+    \ifdef{\lpage}{\item[\textbf{lpage}] \lpage}{}
+    \ifdef{\permissions}{\item[\textbf{permissions}] \permissions}{}
+    \end{itemize}
+    \maketitle
+
+    @@bodies
+
+    \end{document}
+    
+
+
+sub-article: ""
+
+article-title:
+  head: |
+    \newcommand{\subtitlestyle}[1]{-- \emph{#1}\medskip}
+    \newcommand{\transtitlestyle}[1]{\par\medskip\Large #1}
+    \newcommand{\transsubtitlestyle}[1]{-- \Large\emph{ #1}}
+
+    \newcommand{\titlegroup}{
+        \ifdef{\subtitle}{\subtitlestyle{\subtitle}}{}
+        \ifdef{\transtitle}{\transtitlestyle{\transtitle}}{}
+        \ifdef{\transsubtitle}{\transsubtitlestyle{\transsubtitle}}{}
+        }
+
+    \title{@@children\titlegroup{}} 
+
+subtitle[1]:
+  head: |
+
+      \newcommand{\subtitle}{@@children}
+
+trans-title[1]:
+  head: |
+
+      \newcommand{\transtitle}{@@children}
+
+
+trans-subtitle[1]:
+  head: |
+
+      \newcommand{\transsubtitle}{@@children}
+
+
+issn:
+  head: |
+
+    \newcommand{@@lua(
+    pub_type = attr('pub-type')
+    if pub_type ~= '' then
+      return '\\issn' .. pub_type
+    end
+    return '\\issn'
+    )@@}{@@children}
+    
+journal-id[@journal-id-type="nlm-ta"]: 
+  head: |
+
+    \newcommand{\journalid}{@@children}
+
+journal-id[@journal-id-type="publisher-id"]:
+  head: |
+
+    \newcommand{\publisherid}{@@children}
+    
+
+journal-title: 
+  head: |
+
+    \newcommand{\journaltitle}{@@children}
+
+
+
+
+abbrev-journal-title:
+  head: |
+
+    \newcommand{\abbrevjournaltitle}{@@children}
+    
+publisher-name:
+  head: |
+  
+    \newcommand{\publishername}{@@children}
+
+author-notes:
+  head: |
+
+    \def\authornotes{@@children}
+
+
+article-id[@pub-id-type="other"]: ""
+article-id[@pub-id-type="doi"]:
+  head: |
+
+    \newcommand\articleid{DOI @@children}
+
+article-id[@pub-id-type="publisher-id"]: 
+  head: |
+
+    \newcommand\publisherid{@@children}
+
+
+volume:
+  head: |
+
+    \def\volume{@@children}
+
+issue:
+  head: |
+
+    \def\issue{@@children}
+
+fpage:
+  head: |
+
+    \def\fpage{@@children}
+
+lpage:
+  head: |
+
+    \def\lpage{@@children}
+
+permissions:
+  head: |
+
+    \def\permissions{@@children}
+
+
+
+pub-date: 
+  head: |
+
+    \date{@@lua(return find "//day")@@ @@lua(return find "//month")@@ @@lua(return find "//year")@@}
+
+
+subject:
+  head: |
+
+    \def\subject{@@children}
+
+
+kwd-group:
+  head: |
+  
+    \newcommand{@@lua(
+    lang = attr('xml:lang')
+    if lang ~= 'pt' then
+      return '\\kwdgroup' .. lang
+    end
+    return '\\kwdgroup'
+    )@@}{@@lua(
+    title = find('//title')
+    keyword_list = findAll('//kwd')
+    return title .. table.concat(keyword_list, ', ') 
+    )@@}
+
+list-item: |
+  \item @@children
+
+list[@list-type="bullet"]: |
+   \begin{itemize}
+   @@children \end{itemize}
+   
+   
+list[@list-type="order"]: |
+   \begin{enumerate}
+   @@children \end{enumerate}
+   
+list[@list-type="alpha-lower"]: |
+   \begin{enumerate}[a)]
+   @@children \end{enumerate}
+
+list[@list-type="alpha-upper"]: |
+   \begin{enumerate}[(A)]
+   @@children \end{enumerate}
+      
+list[@list-type="roman-lower"]: |
+   \begin{enumerate}[i.]
+   @@children \end{enumerate}
+ 
+list[@list-type="roman-upper"]: |
+   \begin{enumerate}[(I)]
+   @@children \end{enumerate}
+
+ext-link: "\\href{@@children}"
+
+disp-quote:  |
+    \begin{quote}
+    @@children
+    \end{quote}
+
+codebold:
+  head: |
+    \code{@@children}
+
+
+element-citation: ""
+
+ref-list: |
+
+  \section*{@@lua(return find('//title'))@@}
+  \begin{itemize}
+  @@lua(return find('//ref'))@@ 
+  \end{itemize}
+
+ref: |
+
+    \item[@@lua(return find '//label')@@] @@lua(return find '//mixed-citation')@@  
+
+
+xref[@ref-type="fig"]: |
+    @@children~\ref{fig:@@lua(return attr('rid'))@@}
+
+xref[@ref-type="fn"]:  | 
+    @@lua(return "\\footnote{\\" .. attr 'rid' .."}")@@  
+
+
+xref[@ref-type="bibr"]:  | 
+    \textsuperscript{[}@@children\textsuperscript{]}  
+
+
+fn-group//fn: 
+   head: |
+     
+     %%% Nota @@lua(return attr 'id')@@ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     \expandafter\newcommand\csname @@lua(return attr 'id')@@\endcsname{@@lua(return find ('//p'))@@}
+
+name:  "@@lua(
+  s = find '//surname'
+  g = find '//given-names'
+  return s .. ', ' .. g)@@"
+
+contrib:
+  head: |
+
+    \author[@@lua(
+      return find('//xref[@ref-type="aff"]')
+    )@@]{@@lua(
+      return find('//name')
+    )@@}
+
+aff:
+  head: |
+  
+    \affil[@@lua(
+      return find('//label')
+    )@@]{@@lua(
+      return find('//institution[@content-type="orgname"]')
+    )@@}
+
+break: "\n"
+
+
+p: |
+
+  @@lua(
+    align_to_ragged = {
+      ["center"] = "Center",
+      ["left"] = "FlushLeft",
+      ["right"] = "FlushRight",
+    }
+
+    if attr('align') == nil then
+      return children()
+    end
+
+    env = align_to_ragged[attr('align')]
+    if env == nil then
+      return children()
+    end
+
+    return string.format([[
+      \begin{%s}
+      %s
+      \end{%s}
+    ]], env, children(), env)
+  )@@
+
+
+/abstract: |
+  
+    \begingroup
+    @@lua(
+        abstit = find('abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \iflanguage{portuges}{\medskip\noindent\textbf{Palavras-chave:} \kwdgroup}{}
+    \iflanguage{english}{\medskip\noindent\textbf{Keywords:} \kwdgroupen}{}
+    \iflanguage{spanish}{\medskip\noindent\textbf{Palavras claves:} \kwdgroupes}{}
+    \iflanguage{french}{\medskip\noindent\textbf{Mots clés:} \kwdgroupfr}{}
+    \end{abstract}
+    \endgroup
+
+sec: |
+    @@lua(
+    secs = findAll "//sec/title"
+    ret = ""
+    return "\\newcommand{\\sec}{" .. table.concat(secs, "}\n\\newcommand{\\sec}{") .. "}"
+    )@@
+    @@lua(return find "//p")@@  
+
+
+trans-abstract[@xml:lang="es"]: |
+
+    \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
+    @@lua(return '\\begin{otherlanguage}{spanish}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \ifdef{\kwdgroupes}{\medskip\noindent\textbf{Palavras claves:} \kwdgroupes}{}
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+sup: |
+    \textsuperscript{@@children}
+
+trans-abstract[@xml:lang="en"]: |
+
+    \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
+    @@lua(return '\\begin{otherlanguage}{english}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \ifdef{\kwdgroupen}{\medskip\noindent\textbf{Keywords:} \kwdgroupen}{}
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+trans-abstract[@xml:lang="ru"]: |
+
+    \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}    
+    @@lua(return '\\begin{otherlanguage}{russian}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \end{abstract}
+    \ifdef{\kwdgroupru}{\medskip\noindent\textbf{ключевые слова:} \kwdgroupru}{}
+    \end{otherlanguage}
+    \endgroup
+
+
+trans-abstract[@xml:lang="it"]: |
+
+    \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
+    @@lua(return '\\begin{otherlanguage}{italian}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \end{abstract}
+    \ifdef{\kwdgroupit}{\medskip\noindent\textbf{Parole:} \kwdgroupit}{}
+    \end{otherlanguage}
+    \endgroup
+
+
+trans-abstract[@xml:lang="de"]: |
+
+    \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
+    @@lua(return '\\begin{otherlanguage}{german}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \ifdef{\kwdgroupde}{\medskip\noindent\textbf{Schlüsselwörter:} \kwdgroupde}{}
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+
+trans-abstract[@xml:lang="fr"]: |
+
+    \begingroup
+    \renewcommand{\section}[1]{\subsection*{#1}}
+    @@lua(return '\\begin{otherlanguage}{french}')@@
+    @@lua(
+        abstit = find('trans-abstract/title')
+         if abstit ~= '' then
+         return '\\renewcommand{\\abstractname}{' .. abstit ..'}'
+         end
+    return ''
+    )@@
+    \begin{abstract}
+    @@lua(
+    ss = find "//sec"
+    if ss == '' then
+    return find "//p"
+    end
+    return find "//sec"
+    )@@
+    \ifdef{\kwdgroupfr}{\medskip\noindent\textbf{Mots clés:} \kwdgroupfr}{}
+    \end{abstract}
+    \end{otherlanguage}
+    \endgroup
+
+//fig: |
+  \begin{figure}
+  \includegraphics[width=\textwidth]{@@lua(return find "//graphic")@@}
+  \caption{@@lua(return find "/fig/title")@@}\label{fig:@@lua(return attr('id'))@@}
+  \end{figure}
+
+graphic: "@@lua(return attr 'xlink:href')@@"
+
+
+inline-formula/inline-graphic: "\\includegraphics{@@lua(return attr 'xlink:href')@@}" 
+ 
+inline-graphic: "\\begin{figure}[h] \\includegraphics[width=\\textwidth]{@@lua(return attr 'xlink:href')@@}\\end{figure}"
+
+b: |
+  \textbf{@@children}
+
+
+sec: |
+
+  \section{@@lua(return find('sec/title'))@@}
+  @@lua(return find('//p'))@@
+
+table: |
+
+  \begin{table}
+  \begin{xtabular}{@@heads}
+  \hline
+  @@bodies
+  \end{xtabular}
+  \end{table}
+
+thead/tr:
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('//th'))
+      do
+        ret[i] = 'l'
+      end
+      return ' ' .. table.concat(ret, ' | ') .. ' '
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(findAll('//th'), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+italic: |
+  \textit{@@children}
+
+tbody/tr: |
+  @@lua(
+    return table.concat(findAll('//td'), ' & ') .. '\\\\ \\hline \n'
+  )@@
+
+td: |
+  @@lua(
+    output = children()
+
+    if attr('colspan') ~= "" then
+      output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
+    end
+
+    if attr('rowspan') ~= "" then
+      output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
+    end
+
+    return output
+  )@@
+
+
+date: ""
+
+
+
+
+
+

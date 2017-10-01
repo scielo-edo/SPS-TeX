@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.0 20120330//EN" "JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.0" xml:lang="pt" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<front>
+			<journal-meta>
+				<journal-id journal-id-type="nlm-ta">Rev Bras Epidemiol</journal-id>
+				<journal-id journal-id-type="publisher-id">rbepid</journal-id>
+				<journal-title-group>
+					<journal-title>Revista Brasileira de Epidemiologia</journal-title>
+					<abbrev-journal-title abbrev-type="publisher">Rev. bras. epidemiol.</abbrev-journal-title>
+				</journal-title-group>
+				<issn pub-type="ppub">1415-790X</issn>
+				<issn pub-type="epub">1980-5497</issn>
+				<publisher>
+					<publisher-name>Associação Brasileira de Saúde Coletiva</publisher-name>
+				</publisher>
+			</journal-meta>
+			<article-meta>
+				<article-id pub-id-type="doi">10.1590/1980-5497201500010008</article-id>
+				<article-categories>
+					<subj-group subj-group-type="heading">
+						<subject>Artigos Originais</subject>
+					</subj-group>
+				</article-categories>
+				<title-group>
+					<article-title>Preenchimento da notificação compulsória em serviços de saúde que atendem mulheres que sofrem violência sexual</article-title>
+				</title-group>
+				<contrib-group>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Sousa</surname>
+							<given-names>Maria Helena de</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Bento</surname>
+							<given-names>Silvana Ferreira</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+						<xref ref-type="aff" rid="aff2"><sup>II</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Osis</surname>
+							<given-names>Maria José Duarte</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+						<xref ref-type="aff" rid="aff3"><sup>III</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>Meire de Paula</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Faúndes</surname>
+							<given-names>Anibal</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff1"><sup>I</sup></xref>
+					</contrib>
+				</contrib-group>
+				<aff id="aff1">
+					<label>I</label>
+					<institution content-type="orgname">Centro de Pesquisas em Saúde Reprodutiva de Campinas</institution>
+					<institution content-type="orgdiv1">Departamento de Pesquisa Social</institution>
+					<addr-line>
+						<named-content content-type="city">Campinas</named-content>
+						<named-content content-type="state">SP</named-content>
+					</addr-line>
+					<country>Brasil</country>
+					<institution content-type="original">Departamento de Pesquisa Social, Centro de Pesquisas em Saúde Reprodutiva de Campinas - Campinas (SP), Brasil</institution>
+				</aff>
+				<aff id="aff2">
+					<label>II</label>
+					<institution content-type="orgname">Universidade Estadual de Campinas</institution>
+					<institution content-type="orgdiv1">Centro de Atenção Integral à Saúde da Mulher</institution>
+					<institution content-type="orgdiv2">Hospital da Mulher Professor Doutor José Aristodemo Pinotti</institution>
+					<addr-line>
+						<named-content content-type="city">Campinas</named-content>
+						<named-content content-type="state">SP</named-content>
+					</addr-line>
+					<country>Brasil</country>
+					<institution content-type="original">Hospital da Mulher &quot;Professor Doutor José Aristodemo Pinotti&quot;, Centro de Atenção Integral à Saúde da Mulher da Universidade Estadual de Campinas - Campinas (SP), Brasil</institution>
+				</aff>
+				<aff id="aff3">
+					<label>III</label>
+					<institution content-type="orgname">Universidade Estadual de Campinas</institution>
+					<institution content-type="orgdiv1">Faculdade de Ciências Médicas</institution>
+					<institution content-type="orgdiv2">Departamento de Tocoginecologia</institution>
+					<addr-line>
+						<named-content content-type="city">Campinas</named-content>
+						<named-content content-type="state">SP</named-content>
+					</addr-line>
+					<country>Brasil</country>
+					<institution content-type="original">Departamento de Tocoginecologia da Faculdade de Ciências Médicas, Universidade Estadual de Campinas - Campinas (SP), Brasil</institution>
+				</aff>
+				<author-notes>
+					<corresp id="c01"><bold>Autor correspondente:</bold> Maria Helena de Sousa. Departamento de Pesquisa Social do Centro de Pesquisas em Saúde Reprodutiva de Campinas. Cidade Universitária Zeferino Vaz, 6.181, CEP: 13084-971, Campinas, SP, Brasil. E-mail: <email>mhestat@yahoo.com.br</email>
+					</corresp>
+					<fn fn-type="conflict">
+						<p>Conflito de interesses: nada a declarar</p>
+					</fn>
+				</author-notes>
+				<pub-date pub-type="epub">
+					<season>Jan-Mar</season>
+					<year>2015</year>
+				</pub-date>
+				<volume>18</volume>
+				<issue>1</issue>
+				<fpage>94</fpage>
+				<lpage>107</lpage>
+				<history>
+					<date date-type="received">
+						<day>16</day>
+						<month>09</month>
+						<year>2013</year>
+					</date>
+					<date date-type="rev-recd">
+						<day>03</day>
+						<month>06</month>
+						<year>2014</year>
+					</date>
+					<date date-type="accepted">
+						<day>08</day>
+						<month>08</month>
+						<year>2014</year>
+					</date>
+				</history>
+				<permissions>
+					<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/">
+						<license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p>
+					</license>
+				</permissions>
+				<abstract>
+					<sec>
+						<title>OBJETIVO:</title>
+						<p> Avaliar a proporção de serviços de saúde (SSs) que preenchem a notificação compulsória e quais os principais obstáculos para o preenchimento de tal documento. </p>
+					</sec>
+					<sec>
+						<title>MÉTODOS:</title>
+						<p> Realizou-se um estudo com abordagem mista. Para a abordagem quantitativa, foi realizado um estudo de corte transversal, com coleta de dados por telefone. Foram identificados 291 SSs no Estado de São Paulo que referiam dar atendimento a mulheres que sofrem violência sexual. A amostra foi composta por 172 serviços que referiram prestar atendimento de emergência às mulheres. Na abordagem qualitativa realizaram-se estudos de casos, com amostra intencional e de conveniência. Foram escolhidos seis municípios, nos quais foram entrevistados profissionais de dois SSs. Realizaram-se 45 entrevistas semiestruturadas. Para os dados quantitativos, realizou-se uma análise descritiva simples. Para os dados qualitativos, realizou-se análise temática do conteúdo das entrevistas. </p>
+					</sec>
+					<sec>
+						<title>RESULTADOS:</title>
+						<p> A proporção de serviços que referiram sempre preencher a ficha de notificação em casos de violência sexual foi de 79,1%. Mais da metade (53,5%) referiu dificuldades relativas às mulheres atendidas, um terço referiu motivos referentes à ficha e 29,7% reportaram dificuldades relacionadas aos profissionais. Na etapa qualitativa, as dificuldades mais referidas foram o tamanho da ficha, os problemas para se obter as informações da mulher e a dificuldade do profissional em obter essas informações. </p>
+					</sec>
+					<sec>
+						<title>CONCLUSÃO:</title>
+						<p> Embora a maior parte dos SSs tenha referido preencher a ficha de notificação compulsória, mencionou também várias dificuldades para fazê-lo, especialmente relacionadas à sobrecarga de trabalho dos profissionais e à incompreensão acerca da importância dessa notificação no contexto da atenção integral às mulheres que sofrem violência sexual.</p>
+					</sec>
+				</abstract>
+				<trans-abstract xml:lang="en">
+					<sec>
+						<title>OBJECTIVE:</title>
+						<p> To evaluate the proportion of health services that fill out the compulsory notification and what the main difficulties to fill it out are. </p>
+					</sec>
+					<sec>
+						<title>METHODS:</title>
+						<p> A study was carried out with two different approaches. For the quantitative approach, a cross sectional study was performed, with telephone data collection. In the state of São Paulo, 291 health services that had reported providing care to women who suffer from sexual violence were identified. The sample was composed of 172 services that reported providing emergency care to women. In the qualitative approach, case studies were conducted. Six cities were chosen by intention and convenience. For each of them, professionals from two health services were invited to participate. Forty-five semi-structured interviews were conducted. For quantitative data, a descriptive analysis was carried out. For qualitative data, a thematic analysis of content was performed. </p>
+					</sec>
+					<sec>
+						<title>RESULTS:</title>
+						<p> The proportion of health services which reported always filling out the notification in cases of sexual violence was 79.1%. More than half (53.5%) reported difficulties concerning the assisted women, one third reported reasons related to the form, and 29.7%, to the professionals. In the qualitative approach, the main difficulties were the size of the form, the problems to obtain the information about the woman and the difficulty for the professional to obtain this information. </p>
+					</sec>
+					<sec>
+						<title>CONCLUSION:</title>
+						<p> Although most health services claimed to fill out the compulsory notification, they also mentioned several difficulties to do so, especially with regard to the workload of professionals and the misunderstanding about the importance of the notification in the context of comprehensive care to women who suffer from sexual violence.</p>
+					</sec>
+				</trans-abstract>
+				<kwd-group xml:lang="pt">
+					<kwd>Violência sexual</kwd>
+					<kwd>Mulheres</kwd>
+					<kwd>Serviços de saúde</kwd>
+					<kwd>Atendimento de emergência</kwd>
+					<kwd>Notificação de doenças</kwd>
+					<kwd>Violência contra a mulher</kwd>
+				</kwd-group>
+				<kwd-group xml:lang="en">
+					<kwd>Sexual Violence</kwd>
+					<kwd>Women</kwd>
+					<kwd>Health services</kwd>
+					<kwd>Emergency care</kwd>
+					<kwd>Disease notification</kwd>
+					<kwd>Violence against women</kwd>
+				</kwd-group>
+				<funding-group>
+					<award-group>
+						<funding-source>Fundação de Amparo à Pesquisa do Estado de São Paulo</funding-source>
+						<award-id>2010/50345-6</award-id>
+					</award-group>
+				</funding-group>
+				<counts>
+					<table-count count="2"/>
+					<ref-count count="39"/>
+					<page-count count="28"/>
+				</counts>
+			</article-meta>
+		</front>
+		<body>
+			<sec sec-type="intro">
+				<title>INTRODUÇÃO</title>
+				<p>A violência contra as mulheres é atualmente um dos temas mais relevantes no âmbito da Saúde Pública e dos direitos humanos, pois provoca sérios prejuízos à saúde e ao desenvolvimento psicossocial dessas mulheres<xref ref-type="bibr" rid="B01">1</xref><sup>-</sup><xref ref-type="bibr" rid="B03">3</xref>. Dentre os tipos de violência contra as mulheres, a violência sexual, embora não seja a mais prevalente, em geral é vista como aquela que pode causar consequências tão ou mais impactantes do que os demais tipos<xref ref-type="bibr" rid="B04">4</xref>.</p>
+				<p>A violência sexual contra as mulheres é praticada tanto por parceiros íntimos como por outros homens, conhecidos ou não das mulheres<xref ref-type="bibr" rid="B05">5</xref><sup>,</sup><xref ref-type="bibr" rid="B06">6</xref>.</p>
+				<p>No Brasil, nos últimos anos, vários estudos têm apontado a grande frequência com que as mulheres são agredidas, especialmente no ambiente doméstico e no âmbito das relações afetivas<xref ref-type="bibr" rid="B07">7</xref><sup>-</sup><xref ref-type="bibr" rid="B09">9</xref>. Em recente revisão sistemática sobre a prevalência de violência sexual perpetrada por &quot;não parceiros&quot;, chegou-se a uma estimativa mundial, para 2010, de 7,2%, e, para o Brasil, de 7,6%<xref ref-type="bibr" rid="B10">10</xref>. Ao mesmo tempo, também se evidenciam muitas dificuldades para prover atenção integral às mulheres que sofrem violência, principalmente a violência sexual<xref ref-type="bibr" rid="B11">11</xref><sup>-</sup><xref ref-type="bibr" rid="B15">15</xref>.</p>
+				<p>No âmbito das ações em saúde, têm-se proposto medidas para disponibilizar atendimento efetivo às mulheres que sofrem violência sexual<xref ref-type="bibr" rid="B16">16</xref><sup>-</sup><xref ref-type="bibr" rid="B19">19</xref>. Desde 1999, o Ministério da Saúde estabeleceu a Norma Técnica &quot;Prevenção e tratamento dos agravos resultantes da violência sexual contra mulheres e adolescentes&quot;, que define um protocolo de atendimento para as mulheres que sofrem violência sexual. Apesar disso, não são todos os serviços de emergência que atendem a esses casos de acordo com a norma. Pesquisa realizada em uma amostra representativa de municípios brasileiros identificou 1.395 serviços de saúde (SSs) que referiram atender a mulheres e crianças que sofrem violência sexual, porém apenas 8% tinham um protocolo de atendimento em conformidade com a referida norma do Ministério da Saúde<xref ref-type="bibr" rid="B20">20</xref>.</p>
+				<p>Outra preocupação expressa pelas políticas públicas em relação à violência contra as mulheres é a falta de registro dos casos por parte dos SSs, o que poderia auxiliar o planejamento e a execução de medidas para prevenir as ocorrências de violência, assim como para agilizar o atendimento às vítimas. No sentido de suprir essa falta e permitir traçar estratégias de prevenção, o Governo Federal estabeleceu a exigência de notificação compulsória em casos de violência contra a mulher. De acordo com a Lei n<sup>o</sup> 10.778, de 24 de novembro de 2003<sup>a</sup>, todos os casos de violência contra a mulher - violência física, sexual e psicológica - atendidos em SSs públicos ou privados necessitam ser notificados por meio do preenchimento de uma ficha. Essa lei foi regulamentada pelo Ministério da Saúde em 03 de junho de 2004, por meio do Decreto n<sup>o</sup> 5.099<sup>b</sup>. Em 2011, uma portaria do Ministério da Saúde incluiu as violências doméstica, sexual e/ou outras como parte da Lista de Notificação Compulsória (LNC)<sup>c</sup>. </p>
+				<p>Até o presente, porém, especificamente em relação à violência sexual, não se sabe em que medida a notificação compulsória da violência é realizada, nem como esse procedimento é visto pelos profissionais de saúde. Em vista do exposto, o presente estudo teve como objetivo verificar que proporção dos SSs que dão atendimento de emergência a mulheres que sofrem violência sexual preenche a notificação compulsória e quais são os principais obstáculos para o preenchimento de tal documento. </p>
+			</sec>
+			<sec sec-type="methods">
+				<title>MÉTODOS</title>
+				<p>Realizou-se um estudo com abordagem mista, quantitativa e qualitativa com SSs do Estado de São Paulo que referiram prestar atendimento de emergência a mulheres que sofrem violência sexual. Para a abordagem quantitativa, foi desenvolvido um estudo descritivo, de corte transversal; para a qualitativa, foram realizados estudos de casos<xref ref-type="bibr" rid="B24">24</xref><sup>,</sup><xref ref-type="bibr" rid="B25">25</xref>.</p>
+				<p>Para a etapa quantitativa, considerou-se uma proporção de SSs que preenchem a notificação compulsória estimada em 50%, com uma probabilidade de erro tipo I de 5% e uma diferença absoluta aceitável entre a proporção amostral e a populacional de 7,6%, estabelecendo-se um número mínimo de 166 SSs<xref ref-type="bibr" rid="B26">26</xref>.</p>
+				<p>Foram incluídos na etapa quantitativa 172 SSs que referiram prestar atendimento de emergência em caso de violência sexual. Esses serviços foram identificados e selecionados da seguinte maneira: de todos os 240 SSs do Estado de São Paulo que fizeram parte da pesquisa &quot;Perfil do atendimento à violência sexual no Brasil&quot;<xref ref-type="bibr" rid="B13">13</xref>, foi convidado(a) a participar do estudo o(a) coordenador(a) ou a pessoa responsável pelo atendimento a mulheres que sofrem violência sexual. Além desses, foram contatados outros serviços indicados pelos primeiros; em casos de indicação de mais de um serviço, sorteou-se apenas um dentre os indicados. Um total de 291 SSs foi inicialmente abordado; 40 recusaram de imediato em participar do estudo e 5 foram considerados &quot;perdidos&quot; devido a muitas tentativas fracassadas de contato. Outros 25 serviços responderam não prestar atendimento de emergência a mulheres que sofrem violência em geral, 16 afirmaram não dar atendimento de emergência a mulheres que sofrem violência sexual, 32 não notificavam casos de violência em geral (qualquer tipo), e um serviço não soube informar. </p>
+				<p>Aplicou-se, por telefone, um questionário estruturado e pré-testado ao(à) coordenador(a) ou à pessoa responsável pelo atendimento a mulheres que sofrem violência sexual em cada serviço. As entrevistas foram gravadas mediante autorização prévia.</p>
+				<p>A ficha de notificação compulsória faz parte do Sistema de Informação de Agravos de Notificação (SINAN) e possui diversos campos a serem preenchidos; entre eles, os dados pessoais do paciente, dados complementares sobre a pessoa atendida, dados da ocorrência, tipologia da violência e alguns campos específicos caso a violência seja sexual. Também há dados do provável autor da agressão, e informações sobre evolução e encaminhamento.</p>
+				<p>As variáveis independentes consideradas neste estudo foram: tipo do SS (hospital; Centro de Referência em Saúde da Mulher; pronto-socorro/Unidade de Pronto Atendimento (UPA); Programa de Saúde da Família (PSF); Unidade Básica de Saúde (UBS); ambulatórios/Serviço de Atendimento Especializado (SAE)); e função do respondente (assistente social; enfermeiro(a); médico(a); psicólogo(a); outra função).</p>
+				<p>As variáveis dependentes foram: </p>
+				<disp-quote>
+					<p>1) Frequência de preenchimento da ficha de notificação em casos de violência sexual:</p>
+				</disp-quote>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Sempre;</p>
+						</list-item>
+						<list-item>
+							<p>Na maioria das vezes; </p>
+						</list-item>
+						<list-item>
+							<p>Às vezes; </p>
+						</list-item>
+						<list-item>
+							<p>Nunca; </p>
+						</list-item>
+					</list>
+				</p>
+				<disp-quote>
+					<p>2) Conhecimento sobre a notificação ser compulsória:</p>
+				</disp-quote>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Sim; </p>
+						</list-item>
+						<list-item>
+							<p>Não; </p>
+						</list-item>
+						<list-item>
+							<p>Não sabe; </p>
+						</list-item>
+					</list>
+				</p>
+				<disp-quote>
+					<p>3) Órgão ao qual é feita a notificação de casos de violência:</p>
+				</disp-quote>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Polícia (Delegacia de Polícia/Delegacia da Mulher/Polícia Militar); </p>
+						</list-item>
+						<list-item>
+							<p>Conselhos específicos (Conselho Tutelar/Vara da Infância e Juventude/Conselho da Mulher e Idoso); </p>
+						</list-item>
+						<list-item>
+							<p>Órgãos gestores da Saúde (Ministério da Saúde; Secretaria Municipal de Saúde; Secretaria Estadual de Saúde); </p>
+						</list-item>
+						<list-item>
+							<p>Sistemas de Vigilância/Informação (Vigilância Epidemiológica/Sistemas de Informações do Ministério da Saúde); </p>
+						</list-item>
+						<list-item>
+							<p>Instituições que prestam atendimento a mulheres e adolescentes no município; </p>
+						</list-item>
+						<list-item>
+							<p>Outro; </p>
+						</list-item>
+						<list-item>
+							<p>Não sabe; </p>
+						</list-item>
+					</list>
+				</p>
+				<disp-quote>
+					<p>4) Razões referidas pelos SSs para o preenchimento ou não da ficha de notificação compulsória em casos de violência sexual:</p>
+				</disp-quote>
+				<disp-quote>
+					<p>a. Razões para preencher:</p>
+				</disp-quote>
+				<p>
+					<list list-type="roman-lower">
+						<list-item>
+							<p>Obrigatoriedade (Porque é obrigatório/Ministério da Saúde e/ou município exigem/Protocolo ou rotina da unidade); </p>
+						</list-item>
+						<list-item>
+							<p>Informação ou estatísticas (Ajuda a identificar o número de casos/obter dados estatísticos); </p>
+						</list-item>
+						<list-item>
+							<p>Saúde da mulher que sofre a violência (Para a mulher seguir o protocolo/fazer exames/tomar medicamentos); </p>
+						</list-item>
+						<list-item>
+							<p>Programas de Saúde Pública (Ajuda a traçar estratégias para implantar programas de prevenção da violência sexual/políticas públicas); </p>
+						</list-item>
+						<list-item>
+							<p>Para encaminhar a outra instituição; </p>
+						</list-item>
+					</list>
+				</p>
+				<disp-quote>
+					<p>b. Razões para não preencher:</p>
+				</disp-quote>
+				<p>
+					<list list-type="roman-lower">
+						<list-item>
+							<p>Razões que revelam desinformação do respondente (Nunca receberam informação/Nem sempre a mulher quer denunciar/Tem que partir dela fazer o boletim de ocorrência/Não é encaminhada para o setor interno que faz a notificação); </p>
+						</list-item>
+						<list-item>
+							<p>Razões referentes ao despreparo dos profissionais do serviço (Nem todos os profissionais sabem preencher a ficha/Alguns acham que não é necessário/Falta sensibilização); </p>
+						</list-item>
+						<list-item>
+							<p>Razões do funcionamento do serviço (Nem sempre conseguem todos os dados/Falta de tempo/Falta de profissional); </p>
+						</list-item>
+						<list-item>
+							<p>Outras razões; </p>
+						</list-item>
+						<list-item>
+							<p>Não sabe/Não informou. </p>
+						</list-item>
+					</list>
+				</p>
+				<p>Quanto às características dos SSs que preenchiam a ficha de notificação, foram avaliadas as seguintes variáveis dependentes: </p>
+				<disp-quote>
+					<p>1) Profissional que preenche a notificação: médico(a); enfermeiro(a); assistente social; psicólogo(a); técnico(a) ou auxiliar de enfermagem; outro;</p>
+				</disp-quote>
+				<disp-quote>
+					<p>2) Principais dificuldades enfrentadas durante o preenchimento da ficha de notificação compulsória:</p>
+				</disp-quote>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Razões referentes às mulheres (Dificuldade em obter informação com a paciente/Resistência e/ou medo das mulheres); </p>
+						</list-item>
+						<list-item>
+							<p>Razões referentes às características da ficha (A ficha é difícil/complicada de preencher; A ficha é muito extensa; Demora no preenchimento; Fluxo para fazer a notificação está falho/falta sistematização); </p>
+						</list-item>
+						<list-item>
+							<p>Razões dos profissionais (Falta de tempo/Esquecimento dos profissionais; Falta de vontade/má vontade dos profissionais); </p>
+						</list-item>
+						<list-item>
+							<p>Razões das características do local (Falta de um lugar mais reservado para fazer o atendimento e as perguntas); </p>
+						</list-item>
+						<list-item>
+							<p>Outra razão; </p>
+						</list-item>
+					</list>
+				</p>
+				<disp-quote>
+					<p>3) Opinião sobre a ficha de notificação trazer algum benefício para as mulheres:</p>
+				</disp-quote>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Sim; </p>
+						</list-item>
+						<list-item>
+							<p>Não; </p>
+						</list-item>
+						<list-item>
+							<p>Não sabe; </p>
+						</list-item>
+					</list>
+				</p>
+				<disp-quote>
+					<p>4) Opinião sobre quais benefícios pode trazer às mulheres:</p>
+				</disp-quote>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Informação ou estatísticas (Ajuda a identificar o número de casos de violência sexual/obter dados estatísticos); </p>
+						</list-item>
+						<list-item>
+							<p>Programas de Saúde Pública (Ajuda a traçar estratégias para implantar programas de prevenção da violência); </p>
+						</list-item>
+						<list-item>
+							<p>Saúde da mulher que sofre violência (Ajuda para posterior acompanhamento/tratamento adequado); </p>
+						</list-item>
+						<list-item>
+							<p>Mulher pode falar sobre o assunto; </p>
+						</list-item>
+						<list-item>
+							<p>Processo policial/judicial (Documentos para tomar providências/dar o devido encaminhamento; Forma de conter esse tipo de violência/amedrontar o agressor); </p>
+						</list-item>
+						<list-item>
+							<p>Outra opinião; </p>
+						</list-item>
+						<list-item>
+							<p>Não sabe informar; </p>
+						</list-item>
+					</list>
+				</p>
+				<disp-quote>
+					<p>5) Medidas tomadas para assegurar o sigilo das informações preenchidas na ficha de notificação:</p>
+				</disp-quote>
+				<p>
+					<list list-type="alpha-lower">
+						<list-item>
+							<p>Cuidados no arquivamento das informações (Ficha arquivada em local específico/sala de arquivo; Ficha arquivada no prontuário da paciente; Fica em um arquivo/armário fechado; Arquivada em sala fechada/trancada); </p>
+						</list-item>
+						<list-item>
+							<p>Limitação de quem tem acesso (Funcionários do serviço é que têm acesso à ficha/Apenas um funcionário tem acesso à ficha/Acesso apenas a pessoas com autorização por escrito do diretor, ou judicial); </p>
+						</list-item>
+						<list-item>
+							<p>Encaminhamento a outras instituições/órgãos (Encaminhada para a Vigilância Epidemiológica; Encaminhada para outras instituições/órgãos; Encaminhada para outro serviço/órgão em envelope lacrado); </p>
+						</list-item>
+						<list-item>
+							<p>Ficha arquivada no prontuário da paciente; </p>
+						</list-item>
+						<list-item>
+							<p>O serviço não fica com cópia da ficha; </p>
+						</list-item>
+						<list-item>
+							<p>Arquivada na recepção/no serviço. </p>
+						</list-item>
+					</list>
+				</p>
+				<p>Realizou-se análise descritiva simples<xref ref-type="bibr" rid="B27">27</xref> com o auxílio do pacote estatístico <italic>SPSS for Windows</italic> . </p>
+				<p>Para o componente qualitativo, a partir dos dados obtidos na etapa quantitativa, determinou-se uma amostra intencional<xref ref-type="bibr" rid="B25">25</xref> de seis municípios cuja seleção foi feita de acordo com: a distribuição geográfica no Estado de São Paulo dos municípios participantes na primeira etapa; o tamanho dos mesmos (&lt; 100.000 habitantes e ≥ 100.000 habitantes); a existência de, ao menos, um SS que preenchia sempre a ficha de notificação compulsória em casos de violência sexual e, pelo menos, um SS que preenchia com outra frequência (na maioria das vezes, às vezes ou nunca). Selecionaram-se quatro municípios grandes (≥ 100.000 habitantes) e dois pequenos, com dois SSs em cada um. </p>
+				<p>Duas pesquisadoras visitaram cada SS selecionado para realizar entrevistas semiestruturadas com o coordenador ou com a pessoa responsável pelo atendimento a mulheres que sofrem violência sexual e outros profissionais envolvidos nesse atendimento. Ao todo, foram realizadas 45 entrevistas. A maioria das pessoas entrevistadas era do sexo feminino e trabalhava havia muitos anos nos serviços visitados; 31 eram profissionais que atendiam diretamente às mulheres (16 da área de enfermagem, 8 médicos, quatro assistentes sociais e 3 psicólogas); 14 eram gestores. </p>
+				<p>Para conduzir as entrevistas, utilizou-se um roteiro elaborado a partir dos resultados da primeira etapa do estudo, visando a aprofundar alguns aspectos, especialmente os relacionados às dificuldades para preencher a ficha de notificação. Esse roteiro foi composto de oito perguntas sobre os seguintes tópicos: como ocorria o atendimento de emergência às mulheres que sofrem violência sexual, conhecimento sobre a ficha de notificação compulsória para os casos de violência sexual, como era feito o preenchimento da ficha, as dificuldades enfrentadas durante o preenchimento e qual encaminhamento era dado à ficha preenchida. No caso de serviços que referiam não preencher a ficha ou preencher somente algumas vezes, era perguntado por que isso ocorria. </p>
+				<p>As entrevistas duraram em média 20 minutos, foram gravadas e depois transcritas. A análise temática de conteúdo foi realizada com o auxílio do programa NVivo. Os pesquisadores fizeram uma leitura flutuante<xref ref-type="bibr" rid="B28">28 </xref>dos textos transcritos para identificar as unidades de significado relacionadas aos objetivos do estudo e aos resultados quantitativos. Essas unidades foram agrupadas e classificadas em categorias de análise que, ao serem articuladas, podiam dar resposta aos objetivos propostos<xref ref-type="bibr" rid="B29">29</xref>. Neste artigo são apresentados resultados referentes às seguintes categorias de análise: conhecimento sobre a ficha de notificação compulsória para os casos de violência sexual, seu preenchimento, as dificuldades encontradas para preenchê-la, qual o encaminhamento dado às fichas preenchidas e sugestões para melhorar as condições de preenchimento. </p>
+				<p>O protocolo desta pesquisa foi aprovado sem restrições pelo Comitê de Ética em Pesquisa da Faculdade de Ciências Médicas da Universidade Estadual de Campinas, sob o protocolo nº 144/2009. As diretrizes da Resolução nº 196/96 do Conselho Nacional de Saúde (sobre pesquisas envolvendo seres humanos<xref ref-type="bibr" rid="B30">30</xref>) então vigentes foram respeitadas neste estudo. A participação dos sujeitos foi voluntária e suas identidades foram mantidas em sigilo. Para o componente quantitativo, um primeiro termo de consentimento livre e esclarecido (TCLE) foi lido para cada um dos possíveis entrevistados e eles foram questionados sobre a decisão de participar ou não do estudo; quando a pessoa concordou em participar, tal anuência foi gravada por telefone. Para a etapa qualitativa, antes da entrevista foi fornecido outro TCLE para que o profissional lesse e assinasse, caso concordasse em participar do estudo. </p>
+			</sec>
+			<sec sec-type="results">
+				<title>RESULTADOS</title>
+				<p>Dos 172 SSs que referiram prestar atendimento de emergência a mulheres que sofreram violência sexual, 46,5% eram hospitais, 23,3%, prontos-socorros ou UPAs, 16,9%, UBSs, 10,5%, ambulatórios/SAEs, 1,7%, PSFs, e 1,2%, Centros de Referência em Saúde da Mulher. Mais da metade (58,1%) dos participantes responsáveis pelo atendimento às mulheres que sofrem violência sexual era composta de enfermeiros(as), 19,2% eram médicos(as), 10,5%, assistentes sociais, 4,7%, psicólogos(as), e 7,6% referiram outra função. A maioria (79,1%) desses 172 serviços afirmou preencher sempre a ficha de notificação, 12,8% relataram que preenchiam na maioria das vezes, 5,2% referiram preencher às vezes, 1,2% afirmaram nunca preencher, e 1,7% não souberam informar.</p>
+				<p>Dos 167 SSs que notificavam casos de violência sexual, 95,2% referiram saber que a notificação é compulsória, excetuando-se um SS que não respondeu. </p>
+				<p>A maior parte desses 167 serviços que preenchiam com alguma frequência a ficha de notificação compulsória (excluindo-se um SS que não respondeu) referiu que a notificação de violência sexual era feita aos sistemas de vigilância ou de informações do Ministério da Saúde (65,7%), e 20,5% referiram órgãos gestores da Saúde.</p>
+				<p>As razões mais referidas, espontaneamente, para o preenchimento da ficha de notificação compulsória em casos de violência sexual foram a obrigatoriedade (60,9%) e a obtenção de informações ou estatísticas (27,8%). Dentre as razões para não se preencher a ficha, as mais referidas foram as que revelam desinformação do respondente (8,3%) e as referentes ao despreparo dos profissionais (6,5%). </p>
+				<p>Nos SSs que preenchiam com alguma frequência a ficha de notificação em casos de violência sexual (n = 167), os profissionais mais referidos como sendo os que faziam tal trabalho foram os enfermeiros(as) (78,4%), seguidos dos médicos(as) (46,1%) e dos assistentes sociais (24,0%) (<xref ref-type="table" rid="t01">Tabela 1</xref>). O preenchimento exclusivamente por enfermeiros(as) foi referido por 51 SSs (30,5%), enquanto tal atitude por parte de médicos(as) foi registrada em 14 SSs (8,4%). Em relação às dificuldades enfrentadas durante o preenchimento da ficha, 57 SSs (34,1%) responderam que não tinham nenhuma (dados não apresentados em tabela); dentre os 101 que indicaram alguma dificuldade, 53,5% disseram que a dificuldade era referente às mulheres; 33,7% referiram razões das características da ficha, e 29,7% citaram razões dos profissionais que deveriam preencher (<xref ref-type="table" rid="t01">Tabela 1</xref>). A grande maioria (86,2%) dos(as) respondentes opinou que a ficha de notificação pode trazer algum benefício às mulheres (dado não apresentado em tabela); desses, quase a metade (48,6%) referiu que a ficha pode trazer informações ou estatísticas e contribuir para a implementação de programas de Saúde Pública (38,2%) (<xref ref-type="table" rid="t01">Tabela 1</xref>).</p>
+				<p>
+					<table-wrap id="t01">
+						<label>Tabela 1.</label>
+						<caption>
+							<title>Características dos serviços de saúde que preenchiam a ficha de notificação em casos de violência sexual sempre, na maioria das vezes ou às vezes.</title>
+						</caption>
+						<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+							<thead>
+								<tr>
+									<th>Característica</th>
+									<th>n</th>
+									<th>%</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td colspan="3">Profissional que preenche a notificação (n = 167)</td>
+								</tr>
+								<tr>
+									<td> Enfermeiro(a)</td>
+									<td>131</td>
+									<td> 78,4</td>
+								</tr>
+								<tr>
+									<td> Médico(a)</td>
+									<td>77</td>
+									<td>46,1</td>
+								</tr>
+								<tr>
+									<td> Assistente social</td>
+									<td>40</td>
+									<td>24,0</td>
+								</tr>
+								<tr>
+									<td>Técnico(a)/auxiliar de enfermagem</td>
+									<td>24</td>
+									<td>14,4</td>
+								</tr>
+								<tr>
+									<td> Psicólogo(a)</td>
+									<td>17</td>
+									<td>10,2</td>
+								</tr>
+								<tr>
+									<td> Outro</td>
+									<td>7</td>
+									<td>4,2</td>
+								</tr>
+								<tr>
+									<td colspan="3">Principais dificuldades enfrentadas para o preenchimento da ficha de notificação compulsória (n = 101)</td>
+								</tr>
+								<tr>
+									<td> Razões referentes às mulheres</td>
+									<td>54</td>
+									<td>53,5</td>
+								</tr>
+								<tr>
+									<td> Razões referentes às características da ficha</td>
+									<td>34</td>
+									<td>33,7</td>
+								</tr>
+								<tr>
+									<td> Razões dos profissionais</td>
+									<td>30</td>
+									<td>29,7</td>
+								</tr>
+								<tr>
+									<td> Razões das características do local</td>
+									<td>3</td>
+									<td>3,0</td>
+								</tr>
+								<tr>
+									<td> Outras</td>
+									<td>6</td>
+									<td>5,9</td>
+								</tr>
+								<tr>
+									<td colspan="3">Opinião sobre quais benefícios pode trazer às mulheres (n = 144)</td>
+								</tr>
+								<tr>
+									<td>Informação/estatísticas</td>
+									<td>70</td>
+									<td>48,6</td>
+								</tr>
+								<tr>
+									<td> Programas de Saúde Pública</td>
+									<td>55</td>
+									<td>38,2</td>
+								</tr>
+								<tr>
+									<td> Saúde da mulher que sofre violência </td>
+									<td>36</td>
+									<td>25,0</td>
+								</tr>
+								<tr>
+									<td> Mulher pode falar sobre o assunto</td>
+									<td>18</td>
+									<td>12,5</td>
+								</tr>
+								<tr>
+									<td> Processo policial/judicial</td>
+									<td>17</td>
+									<td>11,8</td>
+								</tr>
+								<tr>
+									<td> Outra</td>
+									<td>12</td>
+									<td>8,3</td>
+								</tr>
+								<tr>
+									<td> Não soube informar</td>
+									<td>3</td>
+									<td>2,1</td>
+								</tr>
+							</tbody>
+						</table>
+					</table-wrap>
+				</p>
+				<p>Como medidas mais frequentemente utilizadas para assegurar o sigilo das informações da ficha de notificação dentro dos SSs foram citadas: cuidados no arquivamento das informações (67,1%); limitação em quem tem acesso à ficha (65,2%); encaminhamento a outras instituições/órgãos (60,9%).</p>
+				<p>Na etapa qualitativa, em todos os municípios (quatro deles grandes e dois pequenos) pelo menos um dos SSs referiu preencher sempre a ficha de notificação compulsória. Em um SS situado em município pequeno houve o relato de que, quando aparecia um caso de violência sexual, a Vigilância Epidemiológica do município (que ficava dentro do outro serviço estudado) era acionada para ir até o SS preencher a ficha e tomar as providências necessárias ao cuidado daquele caso.</p>
+				<p>A grande maioria dos profissionais que faziam o preenchimento era composta de enfermeiros(as). Alguns médicos(as) que aceitaram participar da pesquisa não sabiam da existência da ficha de notificação compulsória, nem quais profissionais eram responsáveis pelo seu preenchimento. </p>
+				<p>Em relação às dificuldades encontradas para o preenchimento da ficha de notificação compulsória, a mais referida foi sobre o tamanho da ficha (&quot;longa&quot;; &quot;extensa&quot;; &quot;muitos detalhes&quot;; &quot;muita informação&quot;). Uma segunda dificuldade foi o problema de se obter informações da mulher (&quot;fragilizada&quot;; &quot;vulnerável&quot;; &quot;às vezes a mulher não fala que sofreu esse tipo de violência&quot;; &quot;receio&quot;; &quot;medo&quot;; &quot;vergonha&quot;). Também houve o relato da dificuldade do profissional em obter as informações (&quot;constrangimento&quot;; &quot;difícil conversar com a mulher nesse momento delicado&quot;; entre outros). As duas últimas dificuldades foram algumas vezes relacionadas também ao fato de não existir um local ou sala no SS onde a mulher e o profissional do serviço pudessem conversar reservadamente. </p>
+				<p>Quase todos os SSs que preencheram a ficha afirmaram manter uma cópia da notificação no próprio serviço, porém poucos funcionários além da pessoa que preenchia tinham conhecimento sobre isso. Em relação ao encaminhamento dado à ficha preenchida, não houve consenso entre os participantes. Diversos referiram o encaminhamento à Vigilância Epidemiológica, mas alguns relataram o envio a outras instituições, entre elas delegacias; muitos não sabiam o destino dado à ficha de notificação. </p>
+				<p>As pessoas entrevistadas deram sugestões para melhorar as condições de preenchimento da ficha de notificação nos serviços, entre elas: treinamento dos profissionais, conscientização sobre a importância do preenchimento, envolvimento dos profissionais, diminuição da quantidade de informações na ficha, melhorar o atendimento à mulher, para que ela não tenha que repetir informações. Porém, a sugestão mais frequente foi a de se fazer treinamentos periódicos para os profissionais de cada SS, em especial devido à rotatividade dos mesmos.</p>
+			</sec>
+			<sec sec-type="discussion">
+				<title>DISCUSSÃO</title>
+				<p>Os resultados apresentados indicam que o preenchimento da ficha de notificação compulsória da violência sexual ainda não está totalmente incorporado às rotinas dos SSs que atendem a esses casos no Estado de São Paulo. Isso se torna mais preocupante quando consideramos que o Estado de São Paulo foi pioneiro no Brasil no estabelecimento de serviços de atendimento a mulheres que sofrem violência sexual. Além disso, também deve-se considerar que a grande maioria dos serviços que participaram do estudo era composta de hospitais ou prontos-socorros, em relação aos quais se poderia supor que tivessem maior familiaridade com a questão da notificação. </p>
+				<p>Embora a grande maioria das pessoas entrevistadas tenha manifestado a opinião de que o preenchimento da ficha pode trazer benefícios às mulheres, apenas pouco mais de um quarto dos serviços referiu como motivo para o preenchimento a possibilidade de obter dados estatísticos/informações sobre as ocorrências. Isso reforça a hipótese de que ainda não está clara para todos os profissionais a importância da notificação como instrumento de gestão para fornecer subsídios a políticas públicas. Por intermédio das notificações é possível mapear as ocorrências e as características da violência, o que possibilitaria traçar intervenções mais efetivas para prevenir e combater tal agressão<xref ref-type="bibr" rid="B31">31</xref>.</p>
+				<p>Essa situação pode estar relacionada tanto à formação dos profissionais de saúde quanto à sua capacitação para desempenhar suas funções nos serviços públicos de saúde. Estudo realizado com professores de faculdades de medicina e de enfermagem<xref ref-type="bibr" rid="B32">32</xref> apontou que, embora os docentes reconhecessem a violência como um problema de saúde, eles tinham dificuldades para inserir o tema em sua prática docente. Ao analisar os currículos dessas faculdades, verificou-se que o tema da violência foi explicitado ou apareceu na forma de outro termo correlato em 23% das disciplinas dos cursos de medicina e em 16,3% das disciplinas de enfermagem. Por outro lado, alguns estudos com profissionais de serviços públicos de saúde têm apontado que eles não se sentem capacitados a dar um atendimento integral às mulheres em situação de violência<xref ref-type="bibr" rid="B15">15</xref><sup>,</sup><xref ref-type="bibr" rid="B33">33</xref><sup>,</sup><xref ref-type="bibr" rid="B34">34</xref>, o que, por certo, também pode comprometer seu entendimento acerca da necessidade da notificação, inclusive da violência contra crianças e adolescentes<xref ref-type="bibr" rid="B35">35</xref>. Vale lembrar que a necessidade de capacitação periódica para esse tipo de atendimento é enfatizada pelo próprio Ministério da Saúde<xref ref-type="bibr" rid="B36">36</xref>, e neste estudo apareceu como uma forte sugestão dos participantes. Contudo, também é preciso considerar que nessa referida dificuldade de preencher a notificação dos casos de violência pode estar implícita certa resistência dos profissionais de tratar essa questão como problema de Saúde Pública, e não como um problema de polícia.</p>
+				<p>Também é preciso considerar que, muitas vezes, a organização do trabalho nos SSs apresenta dificuldades de sobrecarga de alguns profissionais, e a exigência de preencher mais um formulário pode ser considerada excessiva, sobretudo quando não se percebe a razão e a importância dessa exigência. Nesta pesquisa, se observou nas duas etapas que, na maioria dos casos, os profissionais de enfermagem eram os encarregados do preenchimento da notificação. Isso é coerente com o modelo de trabalho que costumeiramente se observa nos serviços, no qual os profissionais de enfermagem costumam ser responsáveis pelo preenchimento de diversos formulários, tarefa que acumulam com a assistência propriamente dita. Sobretudo nos serviços de emergência, isso pode representar uma grande dificuldade a ser superada e uma atitude que pode, inclusive, resultar no não preenchimento ou no preenchimento incompleto da ficha de notificação. Além de ter sido claramente apontado na abordagem quantitativa, tal comportamento se evidenciou mais explicitamente na abordagem qualitativa, quando as pessoas se referiram à extensão da ficha e ao tempo necessário para o seu preenchimento. </p>
+				<p>Outro aspecto que se evidenciou neste estudo, nas duas etapas, foi a referência dos entrevistados à dificuldade de obter as informações necessárias para a notificação de mulheres que sofreram violência sexual. Isso é um fato já verificado em outros estudos não apenas com relação à violência sexual mas também a outros tipos de violência sofrida pelas mulheres<xref ref-type="bibr" rid="B15">15</xref><sup>,</sup><xref ref-type="bibr" rid="B37">37</xref><sup>,</sup><xref ref-type="bibr" rid="B38">38</xref>. É preciso considerar que a mulher que sofreu violência sexual chega ao SS debaixo de forte impacto e, com frequência, desejando esconder-se e falar o menos possível. É necessário que os profissionais de saúde saibam como acolher a mulher que foi agredida, dar espaço às suas queixas e obter com precisão todas as informações necessárias, para evitar a necessidade de a mulher ficar repetindo narrativas, por certo, tão dolorosas<xref ref-type="bibr" rid="B19">19</xref>. Destaca-se que a ficha de notificação não necessitaria ser preenchida de imediato, logo após a chegada da mulher ao serviço, justamente no momento em que muitas vezes ela está emocionalmente fragilizada. Se as informações de prontuário forem bem preenchidas por todos os profissionais de saúde que atendem às mulheres, ele será importante fonte complementar para o preenchimento posterior da ficha.</p>
+				<p>Não se pode deixar de mencionar também que o acolhimento das mulheres que sofrem violência, por parte dos profissionais dos serviços de emergência, depende também da perspectiva desses profissionais sobre o significado da violência contra a mulher e do impacto que essa violência também pode exercer sobre os próprios profissionais, que, por vezes, podem estar vivenciando ou já ter vivenciado situações desse tipo<xref ref-type="bibr" rid="B11">11</xref><sup>,</sup><xref ref-type="bibr" rid="B39">39</xref>.</p>
+				<p>Este estudo apresentou como principais limitações o fato de a amostra não ser probabilística, baseada inicialmente em estudo prévio feito entre 2005 - 2006 em SSs que referiam prestar atendimento de emergência a mulheres que sofriam violência sexual<xref ref-type="bibr" rid="B13">13</xref>, incluindo outros serviços indicados pelos primeiros. Dessa forma, os resultados não podem ser generalizados para o Estado de São Paulo. Além disso, outra limitação se refere ao fato de que não foi possível verificar a qualidade do preenchimento da ficha de notificação pelos serviços. Assim, não é possível afirmar se os SSs que referiram preencher sempre a ficha de notificação o faziam de maneira completa e adequada. Vale lembrar que na etapa qualitativa as pessoas entrevistadas enfatizaram que a extensão da ficha e a necessidade de incluir muitos detalhes sobre a violência sofrida pela mulher se constituíam em dificuldades para o preenchimento.</p>
+				<p>Em que pesem as limitações acima mencionadas, os resultados tornam evidente que o preenchimento da notificação compulsória dos casos de violência sexual contra as mulheres ainda necessita ser mais bem trabalhado com os SSs, tanto para que os profissionais saibam como fazê-lo quanto para que compreendam o seu valor como parte do esforço que toda a sociedade deve seguir fazendo para diminuir a violência contra a mulher. Entretanto, é preciso lembrar que, para que essa compreensão ocorra, os profissionais necessitam perceber a utilidade das informações coletadas em termos de sua prática cotidiana; caso contrário, a ficha de notificação tende a ser vista progressivamente como uma exigência inútil no que se refere a melhorar a atenção dada às mulheres que sofrem violência sexual. </p>
+			</sec>
+			<sec sec-type="conclusions">
+				<title>CONCLUSÃO</title>
+				<p>Embora a maior parte dos SSs tenha referido preencher a ficha de notificação compulsória, mencionou também várias dificuldades para fazê-lo, especialmente relacionadas à sobrecarga de trabalho dos profissionais e à incompreensão acerca da importância dessa notificação no contexto da atenção integral às mulheres que sofrem violência sexual. Percebe-se a necessidade de estratégias que melhorem a formação continuada dos profissionais, para que incorporem a ficha de notificação como parte do atendimento às mulheres, bem como a devida valorização desse atendimento dentre as várias atribuições dos SS. </p>
+			</sec>
+		</body>
+		<back>
+			<ack>
+				<title>AGRADECIMENTOS</title>
+				<p>Os autores agradecem à Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP), que financiou totalmente esta pesquisa (processo n<sup>o</sup> 2010/50345-6).</p>
+			</ack>
+			<ref-list>
+				<title>REFERÊNCIAS</title>
+				<ref id="B01">
+					<label>1</label>
+					<mixed-citation>1. Heise L. Gender-based abuse: The global epidemic. Cad Saúde Pública 1994; 10 (Suppl 1): 135-45.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Heise</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Gender-based abuse: The global epidemic</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>1994</year>
+						<volume>10</volume>
+						<supplement>1</supplement>
+						<fpage>135</fpage>
+						<lpage>145</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B02">
+					<label>2</label>
+					<mixed-citation>2. Heise L, Pitanguy J, German A. Violence against women: the hidden health burden. Washington: The International Bank for Reconstruction and Development/The World Bank; 1994.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Heise</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Pitanguy</surname>
+								<given-names>J</given-names>
+							</name>
+							<name>
+								<surname>German</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Violence against women: the hidden health burden</source>
+						<publisher-loc>Washington</publisher-loc>
+						<publisher-name>The International Bank for Reconstruction and Development/The World Bank</publisher-name>
+						<year>1994</year>
+					</element-citation>
+				</ref>
+				<ref id="B03">
+					<label>3</label>
+					<mixed-citation>3. Garcia-Moreno C, Jansen HA, Ellsberg M, Heise L, Watts CH; WHO Multi-country Study on Women's Health and Domestic Violence against Women Study Team. Prevalence of intimate partner violence: findings from the WHO multi-country study on women's health and domestic violence. Lancet 2006; 368(9543): 1260-9.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Garcia-Moreno</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Jansen</surname>
+								<given-names>HA</given-names>
+							</name>
+							<name>
+								<surname>Ellsberg</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Heise</surname>
+								<given-names>L</given-names>
+							</name>
+							<name>
+								<surname>Watts</surname>
+								<given-names>CH</given-names>
+							</name>
+							<collab>WHO Multi-country Study on Women's Health and Domestic Violence against Women Study Team</collab>
+						</person-group>
+						<article-title xml:lang="en">Prevalence of intimate partner violence: findings from the WHO multi-country study on women's health and domestic violence</article-title>
+						<source>Lancet</source>
+						<year>2006</year>
+						<volume>368</volume>
+						<issue>9543</issue>
+						<fpage>1260</fpage>
+						<lpage>1269</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B04">
+					<label>4</label>
+					<mixed-citation>4. Basile KC, Smith SG. Sexual violence victimization of women: prevalence, characteristics, and the role of public health. A J Lifestyle Med 2011; 5: 407-17.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Basile</surname>
+								<given-names>KC</given-names>
+							</name>
+							<name>
+								<surname>Smith</surname>
+								<given-names>SG</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Sexual violence victimization of women: prevalence, characteristics, and the role of public health</article-title>
+						<source>A J Lifestyle Med</source>
+						<year>2011</year>
+						<volume>5</volume>
+						<fpage>407</fpage>
+						<lpage>417</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B05">
+					<label>5</label>
+					<mixed-citation>5. Guedes A, García-Moreno C, Bott S. Violencia contra las mujeres en Latinoamérica y el Caribe. Foreign Affairs Latinoamérica 2014; 14 (1): 41-8. Disponível em: www.fal.itam.mx3. (Acessado em 27 de maio de 2014). </mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Guedes</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>García-Moreno</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Bott</surname>
+								<given-names>S</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="es">Violencia contra las mujeres en Latinoamérica y el Caribe</article-title>
+						<source>Foreign Affairs Latinoamérica</source>
+						<year>2014</year>
+						<volume>14</volume>
+						<issue>1</issue>
+						<fpage>41</fpage>
+						<lpage>48</lpage>
+						<ext-link ext-link-type="uri" xlink:href="http://www.fal.itam.mx3">www.fal.itam.mx3</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B06">
+					<label>6</label>
+					<mixed-citation>6. Facuri CO, Fernandes AMS, Oliveira KD, Andrade TS, Azevedo RCS. Violência sexual: estudo descritivo sobre as vítimas e o atendimento em um serviço universitário de referência no Estado de São Paulo, Brasil. Cad Saúde Pública 2013; 29(5): 889-98.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Facuri</surname>
+								<given-names>CO</given-names>
+							</name>
+							<name>
+								<surname>Fernandes</surname>
+								<given-names>AMS</given-names>
+							</name>
+							<name>
+								<surname>Oliveira</surname>
+								<given-names>KD</given-names>
+							</name>
+							<name>
+								<surname>Andrade</surname>
+								<given-names>TS</given-names>
+							</name>
+							<name>
+								<surname>Azevedo</surname>
+								<given-names>RCS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Violência sexual: estudo descritivo sobre as vítimas e o atendimento em um serviço universitário de referência no Estado de São Paulo, Brasil</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2013</year>
+						<volume>29</volume>
+						<issue>5</issue>
+						<fpage>889</fpage>
+						<lpage>898</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B07">
+					<label>7</label>
+					<mixed-citation>7. Faúndes A, Hardy E, Osis MJD, Duarte GA. Risco para queixas ginecológicas e disfunções sexuais segundo história de violência sexual. Rev Bras Ginecol Obstet 2000; 22(3): 153-7.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Faúndes</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Hardy</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Osis</surname>
+								<given-names>MJD</given-names>
+							</name>
+							<name>
+								<surname>Duarte</surname>
+								<given-names>GA</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Risco para queixas ginecológicas e disfunções sexuais segundo história de violência sexual</article-title>
+						<source>Rev Bras Ginecol Obstet</source>
+						<year>2000</year>
+						<volume>22</volume>
+						<issue>3</issue>
+						<fpage>153</fpage>
+						<lpage>157</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B08">
+					<label>8</label>
+					<mixed-citation>8. Reichenheim ME, Moraes CL, Szklo A, Hasselmann MH, Souza ER, Lozana JA, et al. The magnitude of intimate partner violence in Brazil: portraits from 15 capital cities and the Federal District. Cad Saúde Pública 2006; 22(2): 425-37.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Reichenheim</surname>
+								<given-names>ME</given-names>
+							</name>
+							<name>
+								<surname>Moraes</surname>
+								<given-names>CL</given-names>
+							</name>
+							<name>
+								<surname>Szklo</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Hasselmann</surname>
+								<given-names>MH</given-names>
+							</name>
+							<name>
+								<surname>Souza</surname>
+								<given-names>ER</given-names>
+							</name>
+							<name>
+								<surname>Lozana</surname>
+								<given-names>JA</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">The magnitude of intimate partner violence in Brazil: portraits from 15 capital cities and the Federal District</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2006</year>
+						<volume>22</volume>
+						<issue>2</issue>
+						<fpage>425</fpage>
+						<lpage>437</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B09">
+					<label>9</label>
+					<mixed-citation>9. Schraiber LB, d'Oliveira AFPL, França-Júnior I, Diniz S, Portella AP, Ludermir AB, et al. Prevalência da violência contra a mulher por parceiro íntimo em regiões do Brasil. Rev Saúde Pública 2007; 41(5): 797-807.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Schraiber</surname>
+								<given-names>LB</given-names>
+							</name>
+							<name>
+								<surname>d'Oliveira</surname>
+								<given-names>AFPL</given-names>
+							</name>
+							<name>
+								<surname>França</surname>
+								<given-names>I</given-names>
+								<suffix>-Júnior</suffix>
+							</name>
+							<name>
+								<surname>Diniz</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>Portella</surname>
+								<given-names>AP</given-names>
+							</name>
+							<name>
+								<surname>Ludermir</surname>
+								<given-names>AB</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="pt">Prevalência da violência contra a mulher por parceiro íntimo em regiões do Brasil</article-title>
+						<source>Rev Saúde Pública</source>
+						<year>2007</year>
+						<volume>41</volume>
+						<issue>5</issue>
+						<fpage>797</fpage>
+						<lpage>807</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B10">
+					<label>10</label>
+					<mixed-citation>10. Abrahams N, Devries K, Watts C, Pallitto C, Petzold M, Shamu S, et al. Worldwide prevalence of non-partner sexual violence: a systematic review. Lancet 2014; 383(9929): 1648-54.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Abrahams</surname>
+								<given-names>N</given-names>
+							</name>
+							<name>
+								<surname>Devries</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Watts</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Pallitto</surname>
+								<given-names>C</given-names>
+							</name>
+							<name>
+								<surname>Petzold</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Shamu</surname>
+								<given-names>S</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="en">Worldwide prevalence of non-partner sexual violence: a systematic review</article-title>
+						<source>Lancet</source>
+						<year>2014</year>
+						<volume>383</volume>
+						<issue>9929</issue>
+						<fpage>1648</fpage>
+						<lpage>1654</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B11">
+					<label>11</label>
+					<mixed-citation>11. Oliveira EM, Barbosa RM, Moura AAVM, Kossel K, Morelli K, Botelho LFF, et al. Atendimento às mulheres vítimas de violência sexual: um estudo qualitativo. Rev Saúde Pública 2005; 39(3): 376-82.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Oliveira</surname>
+								<given-names>EM</given-names>
+							</name>
+							<name>
+								<surname>Barbosa</surname>
+								<given-names>RM</given-names>
+							</name>
+							<name>
+								<surname>Moura</surname>
+								<given-names>AAVM</given-names>
+							</name>
+							<name>
+								<surname>Kossel</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Morelli</surname>
+								<given-names>K</given-names>
+							</name>
+							<name>
+								<surname>Botelho</surname>
+								<given-names>LFF</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="pt">Atendimento às mulheres vítimas de violência sexual: um estudo qualitativo</article-title>
+						<source>Rev Saúde Pública</source>
+						<year>2005</year>
+						<volume>39</volume>
+						<issue>3</issue>
+						<fpage>376</fpage>
+						<lpage>382</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B12">
+					<label>12</label>
+					<mixed-citation>12. Bruschi A, Paula CS, Bordin IAS. Prevalência e procura de ajuda na violência conjugal física ao longo da vida. Rev Saúde Pública 2006; 40(2): 256-64.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Bruschi</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Paula</surname>
+								<given-names>CS</given-names>
+							</name>
+							<name>
+								<surname>Bordin</surname>
+								<given-names>IAS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Prevalência e procura de ajuda na violência conjugal física ao longo da vida</article-title>
+						<source>Rev Saúde Pública</source>
+						<year>2006</year>
+						<volume>40</volume>
+						<issue>2</issue>
+						<fpage>256</fpage>
+						<lpage>264</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B13">
+					<label>13</label>
+					<mixed-citation>13. Faúndes A, Hardy E, Osis MJD, Makuch MY, Duarte GA, Andalaft Neto J. Perfil do atendimento à violência sexual no Brasil. Relatório técnico apresentado ao Ministério da Saúde. Campinas: CEMICAMP; 2006.</mixed-citation>
+					<element-citation publication-type="report">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Faúndes</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Hardy</surname>
+								<given-names>E</given-names>
+							</name>
+							<name>
+								<surname>Osis</surname>
+								<given-names>MJD</given-names>
+							</name>
+							<name>
+								<surname>Makuch</surname>
+								<given-names>MY</given-names>
+							</name>
+							<name>
+								<surname>Duarte</surname>
+								<given-names>GA</given-names>
+							</name>
+							<name>
+								<surname>Andalaft</surname>
+								<given-names>J</given-names>
+								<suffix>Neto</suffix>
+							</name>
+						</person-group>
+						<source xml:lang="en">Perfil do atendimento à violência sexual no Brasil.Relatório técnico apresentado ao Ministério da Saúde</source>
+						<publisher-loc>Campinas</publisher-loc>
+						<publisher-name>CEMICAMP</publisher-name>
+						<year>2006</year>
+					</element-citation>
+				</ref>
+				<ref id="B14">
+					<label>14</label>
+					<mixed-citation>14. Villela W, Lago T. Conquistas e desafios no atendimento às mulheres que sofreram violência sexual. Cad Saúde Pública 2007; 23(2): 471-5.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Villela</surname>
+								<given-names>W</given-names>
+							</name>
+							<name>
+								<surname>Lago</surname>
+								<given-names>T</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Conquistas e desafios no atendimento às mulheres que sofreram violência sexual</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2007</year>
+						<volume>23</volume>
+						<issue>2</issue>
+						<fpage>471</fpage>
+						<lpage>475</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B15">
+					<label>15</label>
+					<mixed-citation>15. Osis MJD, Duarte GA, Faúndes A. Violência entre usuárias de unidades de saúde: prevalência, perspectiva e conduta de gestores e profissionais. Rev Saúde Pública 2012; 46(2): 351-8.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Osis</surname>
+								<given-names>MJD</given-names>
+							</name>
+							<name>
+								<surname>Duarte</surname>
+								<given-names>GA</given-names>
+							</name>
+							<name>
+								<surname>Faúndes</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Violência entre usuárias de unidades de saúde: prevalência, perspectiva e conduta de gestores e profissionais</article-title>
+						<source>Rev Saúde Pública</source>
+						<year>2012</year>
+						<volume>46</volume>
+						<issue>2</issue>
+						<fpage>351</fpage>
+						<lpage>358</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B16">
+					<label>16</label>
+					<mixed-citation>16. Ministério da Saúde. Guia Prático do Programa da Saúde da Família. Brasília: Ministério da Saúde; 2001.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Ministério da Saúde</collab>
+						</person-group>
+						<source xml:lang="en">Guia Prático do Programa da Saúde da Família</source>
+						<publisher-loc>Brasília</publisher-loc>
+						<publisher-name>Ministério da Saúde</publisher-name>
+						<year>2001</year>
+					</element-citation>
+				</ref>
+				<ref id="B17">
+					<label>17</label>
+					<mixed-citation>17. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas. Área Técnica de saúde da Mulher. Política Nacional de Atenção Integral à Saúde da Mulher. Brasília: Ministério da Saúde; 2004.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Ministério da Saúde</collab>
+						</person-group>
+						<source xml:lang="pt">Secretaria de Atenção à Saúde.Departamento de Ações Programáticas Estratégicas. Área Técnica de saúde da Mulher. Política Nacional de Atenção Integral à Saúde da Mulher</source>
+						<publisher-loc>Brasília</publisher-loc>
+						<publisher-name>Ministério da Saúde</publisher-name>
+						<year>2004</year>
+					</element-citation>
+				</ref>
+				<ref id="B18">
+					<label>18</label>
+					<mixed-citation>18. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de análise de Situação de Saúde. Instrutivo Notificação de violência doméstica, sexual e outras violências. Série G - Estatística e Informação em Saúde. Brasília: Ministério da Saúde. Disponível em: http://portal.saude.gov.br/portal/arquivos/pdf/viva_instrutivo_not_viol_domestica_sexual_e_out.pdf. (Acessado em 24 de janeiro de 2013).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de análise de Situação de Saúde</collab>
+						</person-group>
+						<source xml:lang="pt">Instrutivo Notificação de violência doméstica, sexual e outras violências. Série G - Estatística e Informação em Saúde</source>
+						<publisher-loc>Brasília</publisher-loc>
+						<publisher-name>Ministério da Saúde</publisher-name>
+						<ext-link ext-link-type="uri" xlink:href="http://portal.saude.gov.br/portal/arquivos/pdf/viva_instrutivo_not_viol_domestica_sexual_e_out.pdf">http://portal.saude.gov.br/portal/arquivos/pdf/viva_instrutivo_not_viol_domestica_sexual_e_out.pdf</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B19">
+					<label>19</label>
+					<mixed-citation>19. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas. Área Técnica de Saúde da Mulher. Atenção integral para mulheres e adolescentes em situação de violência doméstica e sexual - Matriz pedagógica para formação de redes. Série B - Textos Básicos de Saúde. Brasília: Ministério da Saúde; 2011.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas</collab>
+						</person-group>
+						<source xml:lang="pt">Área Técnica de Saúde da Mulher. Atenção integral para mulheres e adolescentes em situação de violência doméstica e sexual - Matriz pedagógica para formação de redes. Série B - Textos Básicos de Saúde</source>
+						<publisher-loc>Brasília</publisher-loc>
+						<publisher-name>Ministério da Saúde</publisher-name>
+						<year>2011</year>
+					</element-citation>
+				</ref>
+				<ref id="B20">
+					<label>20</label>
+					<mixed-citation>20. Andalaft Neto J, Faúndes A, Osis MJD, Pádua KS. Perfil do atendimento à violência sexual no Brasil. Femina 2012; 40(6): 301-6.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Andalaft</surname>
+								<given-names>J</given-names>
+								<suffix>Neto</suffix>
+							</name>
+							<name>
+								<surname>Faúndes</surname>
+								<given-names>A</given-names>
+							</name>
+							<name>
+								<surname>Osis</surname>
+								<given-names>MJD</given-names>
+							</name>
+							<name>
+								<surname>Pádua</surname>
+								<given-names>KS</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Perfil do atendimento à violência sexual no Brasil</article-title>
+						<source>Femina</source>
+						<year>2012</year>
+						<volume>40</volume>
+						<issue>6</issue>
+						<fpage>301</fpage>
+						<lpage>306</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B21">
+					<label>21</label>
+					<mixed-citation>21. Brasil. Lei no 10.778, de 24 de novembro de 2003. Estabelece a notificação compulsória, no território nacional, de caso de violência contra a mulher que for atendida em serviços de saúde públicos ou privados. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2003/l10.778.htm. (Acessado em 28 de agosto de 2008).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Brasil</collab>
+						</person-group>
+						<source xml:lang="pt">Lei no 10.778, de 24 de novembro de 2003. Estabelece a notificação compulsória, no território nacional, de caso de violência contra a mulher que for atendida em serviços de saúde públicos ou privados</source>
+						<year>2003</year>
+						<ext-link ext-link-type="uri" xlink:href="http://www.planalto.gov.br/ccivil_03/leis/2003/l10.778.htm">http://www.planalto.gov.br/ccivil_03/leis/2003/l10.778.htm</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B22">
+					<label>22</label>
+					<mixed-citation>22. Brasil. Decreto no 5.099, de 3 de junho de 2004. Regulamenta a Lei no. 10.778, de 24 de novembro de 2003, e institui os serviços de referência sentinela. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5099.htm. (Acessado em 28 de agosto de 2008).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Brasil</collab>
+						</person-group>
+						<source xml:lang="pt">Decreto no 5.099, de 3 de junho de 2004. Regulamenta a Lei no. 10.778, de 24 de novembro de 2003, e institui os serviços de referência sentinela</source>
+						<year>2004</year>
+						<ext-link ext-link-type="uri" xlink:href="http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5099.htm">http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5099.htm</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B23">
+					<label>23</label>
+					<mixed-citation>23. Brasil. Portaria no 104, de 25 de janeiro de 2011. Define as terminologias adotadas em legislação nacional, conforme o disposto no Regulamento Sanitário Internacional 2005 (RSI 2005), a relação de doenças, agravos e eventos em saúde pública de notificação compulsória em todo o território nacional e estabelece fluxo, critérios, responsabilidades e atribuições aos profissionais e serviços de saúde. Disponível em: http://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt0104_25_01_2011.html. (Acessado em 8 de maio de 2014).</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Brasil</collab>
+						</person-group>
+						<source xml:lang="pt">Portaria no 104, de 25 de janeiro de 2011. Define as terminologias adotadas em legislação nacional, conforme o disposto no Regulamento Sanitário Internacional 2005 (RSI 2005), a relação de doenças, agravos e eventos em saúde pública de notificação compulsória em todo o território nacional e estabelece fluxo, critérios, responsabilidades e atribuições aos profissionais e serviços de saúde</source>
+						<year>2011</year>
+						<ext-link ext-link-type="uri" xlink:href="http://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt0104_25_01_2011.html">http://bvsms.saude.gov.br/bvs/saudelegis/gm/2011/prt0104_25_01_2011.html</ext-link>
+					</element-citation>
+				</ref>
+				<ref id="B24">
+					<label>24</label>
+					<mixed-citation>24. Gomm R, Hammersley M, Foster P, eds. Case study methods. Thousand Oaks: Sage Publications; 2000.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Gomm</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Hammersley</surname>
+								<given-names>M</given-names>
+							</name>
+							<name>
+								<surname>Foster</surname>
+								<given-names>P</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Case study methods</source>
+						<publisher-loc>Thousand Oaks</publisher-loc>
+						<publisher-name>Sage Publications</publisher-name>
+						<year>2000</year>
+					</element-citation>
+				</ref>
+				<ref id="B25">
+					<label>25</label>
+					<mixed-citation>25. Patton MQ. Qualitative evaluation and research methods. 2nd ed. London: Sage; 1990.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Patton</surname>
+								<given-names>MQ</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Qualitative evaluation and research methods</source>
+						<edition>2</edition>
+						<publisher-loc>London</publisher-loc>
+						<publisher-name>Sage</publisher-name>
+						<year>1990</year>
+					</element-citation>
+				</ref>
+				<ref id="B26">
+					<label>26</label>
+					<mixed-citation>26. Kish L. Survey sampling. New York: John Wiley and Sons; 1965.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Kish</surname>
+								<given-names>L</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Survey sampling</source>
+						<publisher-loc>New York</publisher-loc>
+						<publisher-name>John Wiley and Sons</publisher-name>
+						<year>1965</year>
+					</element-citation>
+				</ref>
+				<ref id="B27">
+					<label>27</label>
+					<mixed-citation>27. Altman DG. Practical statistics for medical research. Boca Raton: Champman &amp; Hall/CRC; 1999.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Altman</surname>
+								<given-names>DG</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">Practical statistics for medical research</source>
+						<publisher-loc>Boca Raton</publisher-loc>
+						<publisher-name>Champman &amp; Hall/CRC</publisher-name>
+						<year>1999</year>
+					</element-citation>
+				</ref>
+				<ref id="B28">
+					<label>28</label>
+					<mixed-citation>28. Minayo MCS. O desafio do conhecimento: Pesquisa qualitativa em saúde. 5ª ed. São Paulo: Hucitec-Abrasco; 1998.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Minayo</surname>
+								<given-names>MCS</given-names>
+							</name>
+						</person-group>
+						<source xml:lang="en">O desafio do conhecimento: Pesquisa qualitativa em saúde</source>
+						<edition>5</edition>
+						<publisher-loc>São Paulo</publisher-loc>
+						<publisher-name>Hucitec-Abrasco</publisher-name>
+						<year>1998</year>
+					</element-citation>
+				</ref>
+				<ref id="B29">
+					<label>29</label>
+					<mixed-citation>29. Ziebland S, McPherson A. Making sense of qualitative data analysis: an introduction with illustrations from DIPEx (personal experiences of health and illness). Med Educ 2006; 40(5): 405-14.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Ziebland</surname>
+								<given-names>S</given-names>
+							</name>
+							<name>
+								<surname>McPherson</surname>
+								<given-names>A</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Making sense of qualitative data analysis: an introduction with illustrations from DIPEx (personal experiences of health and illness)</article-title>
+						<source>Med Educ</source>
+						<year>2006</year>
+						<volume>40</volume>
+						<issue>5</issue>
+						<fpage>405</fpage>
+						<lpage>414</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B30">
+					<label>30</label>
+					<mixed-citation>30. Ministério da Saúde. Conselho Nacional de Saúde. Resolução nº 196/96 sobre pesquisa envolvendo seres humanos. Bioética 1996; 4: 15-25.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<collab>Ministério da Saúde</collab>
+						</person-group>
+						<article-title xml:lang="pt">Conselho Nacional de Saúde. Resolução nº 196/96 sobre pesquisa envolvendo seres humanos</article-title>
+						<source>Bioética</source>
+						<year>1996</year>
+						<volume>4</volume>
+						<fpage>15</fpage>
+						<lpage>25</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B31">
+					<label>31</label>
+					<mixed-citation>31. Saliba O, Garbin CAS, Garbin AJI, Dossi AP. Responsabilidade do profissional de saúde sobre a notificação de casos de violência doméstica. Rev Saúde Pública 2007; 41(3): 472-7.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Saliba</surname>
+								<given-names>O</given-names>
+							</name>
+							<name>
+								<surname>Garbin</surname>
+								<given-names>CAS</given-names>
+							</name>
+							<name>
+								<surname>Garbin</surname>
+								<given-names>AJI</given-names>
+							</name>
+							<name>
+								<surname>Dossi</surname>
+								<given-names>AP</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Responsabilidade do profissional de saúde sobre a notificação de casos de violência doméstica</article-title>
+						<source>Rev Saúde Pública</source>
+						<year>2007</year>
+						<volume>41</volume>
+						<issue>3</issue>
+						<fpage>472</fpage>
+						<lpage>477</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B32">
+					<label>32</label>
+					<mixed-citation>32. Souza ER, Ribeiro AP, Penna LHG, Ferreira AL, Santos NC, Tavares CMM. O tema violência intrafamiliar na concepção dos formadores dos profissionais de saúde. Ciênc Saúde Coletiva 2009; 14(5): 1709-19.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Souza</surname>
+								<given-names>ER</given-names>
+							</name>
+							<name>
+								<surname>Ribeiro</surname>
+								<given-names>AP</given-names>
+							</name>
+							<name>
+								<surname>Penna</surname>
+								<given-names>LHG</given-names>
+							</name>
+							<name>
+								<surname>Ferreira</surname>
+								<given-names>AL</given-names>
+							</name>
+							<name>
+								<surname>Santos</surname>
+								<given-names>NC</given-names>
+							</name>
+							<name>
+								<surname>Tavares</surname>
+								<given-names>CMM</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">O tema violência intrafamiliar na concepção dos formadores dos profissionais de saúde</article-title>
+						<source>Ciênc Saúde Coletiva</source>
+						<year>2009</year>
+						<volume>14</volume>
+						<issue>5</issue>
+						<fpage>1709</fpage>
+						<lpage>1719</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B33">
+					<label>33</label>
+					<mixed-citation>33. d'Oliveira AFPL, Schraiber LB, Hanada H, Durand J. Atenção integral à saúde de mulheres em situação de violência de gênero - uma alternativa para a atenção primária em saúde. Cienc Saúde Coletiva 2009; 14(4): 1037-50.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>d'Oliveira</surname>
+								<given-names>AFPL</given-names>
+							</name>
+							<name>
+								<surname>Schraiber</surname>
+								<given-names>LB</given-names>
+							</name>
+							<name>
+								<surname>Hanada</surname>
+								<given-names>H</given-names>
+							</name>
+							<name>
+								<surname>Durand</surname>
+								<given-names>J</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Atenção integral à saúde de mulheres em situação de violência de gênero - uma alternativa para a atenção primária em saúde</article-title>
+						<source>Cienc Saúde Coletiva</source>
+						<year>2009</year>
+						<volume>14</volume>
+						<issue>4</issue>
+						<fpage>1037</fpage>
+						<lpage>1050</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B34">
+					<label>34</label>
+					<mixed-citation>34. Vieira EM, Perdona GCS, Almeida AM, Nakano MAS, Santos MA, Daltoso D, et al. Conhecimento e atitude dos profissionais de saúde em relação à violência de gênero. Rev Bras Epidemiol 2009; 12(4): 566-77.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Vieira</surname>
+								<given-names>EM</given-names>
+							</name>
+							<name>
+								<surname>Perdona</surname>
+								<given-names>GCS</given-names>
+							</name>
+							<name>
+								<surname>Almeida</surname>
+								<given-names>AM</given-names>
+							</name>
+							<name>
+								<surname>Nakano</surname>
+								<given-names>MAS</given-names>
+							</name>
+							<name>
+								<surname>Santos</surname>
+								<given-names>MA</given-names>
+							</name>
+							<name>
+								<surname>Daltoso</surname>
+								<given-names>D</given-names>
+							</name>
+							<etal/>
+						</person-group>
+						<article-title xml:lang="pt">Conhecimento e atitude dos profissionais de saúde em relação à violência de gênero</article-title>
+						<source>Rev Bras Epidemiol</source>
+						<year>2009</year>
+						<volume>12</volume>
+						<issue>4</issue>
+						<fpage>566</fpage>
+						<lpage>577</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B35">
+					<label>35</label>
+					<mixed-citation>35. Gonçalves HS, Ferreira, AL. A notificação da violência intrafamiliar contra crianças e adolescentes por profissionais de saúde. Cad Saúde Pública 2002; 18(1): 315-9.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Gonçalves</surname>
+								<given-names>HS</given-names>
+							</name>
+							<name>
+								<surname>Ferreira</surname>
+								<given-names>AL</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">A notificação da violência intrafamiliar contra crianças e adolescentes por profissionais de saúde</article-title>
+						<source>Cad Saúde Pública</source>
+						<year>2002</year>
+						<volume>18</volume>
+						<issue>1</issue>
+						<fpage>315</fpage>
+						<lpage>319</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B36">
+					<label>36</label>
+					<mixed-citation>36. Ministério da Saúde. Secretaria de Atenção à Saúde. Departamento de Ações Programáticas Estratégicas. Área Técnica de Saúde da Mulher. Prevenção e tratamento dos agravos resultantes da violência sexual contra mulheres e adolescentes. Série A - Normas e Manuais Técnicos, Série Direitos Sexuais e Direitos Reprodutivos, Caderno n° 6. 3ª ed. Brasília: Ministério da Saúde; 2011.</mixed-citation>
+					<element-citation publication-type="book">
+						<person-group person-group-type="author">
+							<collab>Ministério da Saúde Secretaria de Atenção à Saúde.Departamento de Ações Programáticas Estratégicas.</collab>
+						</person-group>
+						<source xml:lang="pt">Área Técnica de Saúde da Mulher. Prevenção e tratamento dos agravos resultantes da violência sexual contra mulheres e adolescentes. Série A - Normas e Manuais Técnicos, Série Direitos Sexuais e Direitos Reprodutivos, Caderno n° 6</source>
+						<edition>3</edition>
+						<publisher-loc>Brasília</publisher-loc>
+						<publisher-name>Ministério da Saúde</publisher-name>
+						<year>2011</year>
+					</element-citation>
+				</ref>
+				<ref id="B37">
+					<label>37</label>
+					<mixed-citation>37. Schraiber LB, d'Oliveira AFPL. Violence against women and Brazilian health care policies: a proposal for integrated care in primary care services. Int J Gynecol Obstet 2002; 78(Suppl. 1): S21-5.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Schraiber</surname>
+								<given-names>LB</given-names>
+							</name>
+							<name>
+								<surname>d'Oliveira</surname>
+								<given-names>AFPL</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Violence against women and Brazilian health care policies: a proposal for integrated care in primary care services</article-title>
+						<source>Int J Gynecol Obstet</source>
+						<year>2002</year>
+						<volume>78</volume>
+						<issue>Suppl. 1</issue>
+						<fpage>S21</fpage>
+						<lpage>S25</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B38">
+					<label>38</label>
+					<mixed-citation>38. Schraiber LB, d'Oliveira AFPL, França-Júnior I, Pinho AA. Violência contra a mulher: estudo em uma unidade de atenção primária à saúde. Rev Saúde Pública 2002; 36(4): 470-7.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Schraiber</surname>
+								<given-names>LB</given-names>
+							</name>
+							<name>
+								<surname>d'Oliveira</surname>
+								<given-names>AFPL</given-names>
+							</name>
+							<name>
+								<surname>França</surname>
+								<given-names>I</given-names>
+								<suffix>-Júnior</suffix>
+							</name>
+							<name>
+								<surname>Pinho</surname>
+								<given-names>AA</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="pt">Violência contra a mulher: estudo em uma unidade de atenção primária à saúde</article-title>
+						<source>Rev Saúde Pública</source>
+						<year>2002</year>
+						<volume>36</volume>
+						<issue>4</issue>
+						<fpage>470</fpage>
+						<lpage>477</lpage>
+					</element-citation>
+				</ref>
+				<ref id="B39">
+					<label>39</label>
+					<mixed-citation>39. Reis MJ, Lopes MHBM, Higa R, Turato ER, Chvatal VLS, Bedone AJ. Vivências de enfermeiros na assistência à mulher que sofre violência sexual. Rev Saúde Pública 2010; 44(2): 325-31.</mixed-citation>
+					<element-citation publication-type="journal">
+						<person-group person-group-type="author">
+							<name>
+								<surname>Reis</surname>
+								<given-names>MJ</given-names>
+							</name>
+							<name>
+								<surname>Lopes</surname>
+								<given-names>MHBM</given-names>
+							</name>
+							<name>
+								<surname>Higa</surname>
+								<given-names>R</given-names>
+							</name>
+							<name>
+								<surname>Turato</surname>
+								<given-names>ER</given-names>
+							</name>
+							<name>
+								<surname>Chvatal</surname>
+								<given-names>VLS</given-names>
+							</name>
+							<name>
+								<surname>Bedone</surname>
+								<given-names>AJ</given-names>
+							</name>
+						</person-group>
+						<article-title xml:lang="en">Vivências de enfermeiros na assistência à mulher que sofre violência sexual</article-title>
+						<source>Rev Saúde Pública</source>
+						<year>2010</year>
+						<volume>44</volume>
+						<issue>2</issue>
+						<fpage>325</fpage>
+						<lpage>331</lpage>
+					</element-citation>
+				</ref>
+			</ref-list>
+			<fn-group>
+				<fn fn-type="financial-disclosure">
+					<p>Fonte de financiamento: Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP) (processo n<sup>o</sup> 2010/50345-6).</p>
+				</fn>
+				<fn fn-type="other" id="fn01">
+					<label>a</label>
+					<p> Estabelece a notificação compulsória, no território nacional, de caso de violência contra a mulher que for atendida em serviços de saúde públicos ou privados<sup>21</sup>.</p>
+				</fn>
+				<fn fn-type="other" id="fn02">
+					<label>b</label>
+					<p> Regulamenta a Lei no. 10.778, de 24 de novembro de 2003, e institui os serviços de referência sentinela<sup>22</sup>.</p>
+				</fn>
+				<fn fn-type="other" id="fn03">
+					<label>c</label>
+					<p> Define as terminologias adotadas em legislação nacional, conforme o disposto no Regulamento Sanitário Internacional 2005 (RSI 2005), a relação de doenças, agravos e eventos em saúde pública de notificação compulsória em todo o território nacional e estabelece fluxo, critérios, responsabilidades e atribuições aos profissionais e serviços de saúde<sup>23</sup>.</p>
+				</fn>
+			</fn-group>
+		</back>
+		<sub-article article-type="translation" id="S01" xml:lang="en">
+			<front-stub>
+				<article-categories>
+					<subj-group subj-group-type="heading">
+						<subject>Original Articles</subject>
+					</subj-group>
+				</article-categories>
+				<title-group>
+					<article-title xml:lang="en">Filling out the compulsory notification in health services that care for women who suffer from sexual violence</article-title>
+				</title-group>
+				<contrib-group>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Sousa</surname>
+							<given-names>Maria Helena de</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff4"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Bento</surname>
+							<given-names>Silvana Ferreira</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff4"><sup>I</sup></xref>
+						<xref ref-type="aff" rid="aff5"><sup>II</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Osis</surname>
+							<given-names>Maria José Duarte</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff4"><sup>I</sup></xref>
+						<xref ref-type="aff" rid="aff6"><sup>III</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Ribeiro</surname>
+							<given-names>Meire de Paula</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff4"><sup>I</sup></xref>
+					</contrib>
+					<contrib contrib-type="author">
+						<name>
+							<surname>Faúndes</surname>
+							<given-names>Anibal</given-names>
+						</name>
+						<xref ref-type="aff" rid="aff4"><sup>I</sup></xref>
+					</contrib>
+				</contrib-group>
+				<aff id="aff4">
+					<label>I</label>
+					<institution content-type="original">Department of Social Research, Center of Reproductive Health Research of Campinas - Campinas (SP), Brazil</institution>
+				</aff>
+				<aff id="aff5">
+					<label>II</label>
+					<institution content-type="original">Hospital da Mulher &quot;Professor Doutor José Aristodemo Pinotti&quot;, Whole Women's Health Care Center at Universidade Estadual de Campinas - Campinas (SP), Brazil</institution>
+				</aff>
+				<aff id="aff6">
+					<label>III</label>
+					<institution content-type="original">Department of Tocogynecology at the School of Medical Sciences, Universidade Estadual de Campinas - Campinas (SP), Brazil</institution>
+				</aff>
+				<author-notes>
+					<corresp id="c02"><bold>Corresponding author:</bold> Maria Helena de Sousa. Departamento de Pesquisa Social do Centro de Pesquisas em Saúde Reprodutiva de Campinas. Cidade Universitária Zeferino Vaz, 6.181, CEP: 13084-971, Campinas, SP, Brasil. E-mail: <email>mhestat@yahoo.com.br</email>
+					</corresp>
+					<fn fn-type="conflict">
+						<p>Conflict of interests: nothing to declare</p>
+					</fn>
+				</author-notes>
+				<abstract xml:lang="en">
+					<sec>
+						<title>OBJECTIVE:</title>
+						<p> To evaluate the proportion of health services that fill out the compulsory notification and what the main difficulties to fill it out are. </p>
+					</sec>
+					<sec>
+						<title>METHODS:</title>
+						<p> A study was carried out with two different approaches. For the quantitative approach, a cross sectional study was performed, with telephone data collection. In the state of São Paulo, 291 health services that had reported providing care to women who suffer from sexual violence were identified. The sample was composed of 172 services that reported providing emergency care to women. In the qualitative approach, case studies were conducted. Six cities were chosen by intention and convenience. For each of them, professionals from two health services were invited to participate. Forty-five semi-structured interviews were conducted. For quantitative data, a descriptive analysis was carried out. For qualitative data, a thematic analysis of content was performed. </p>
+					</sec>
+					<sec>
+						<title>RESULTS:</title>
+						<p> The proportion of health services which reported always filling out the notification in cases of sexual violence was 79.1%. More than half (53.5%) reported difficulties concerning the assisted women, one third reported reasons related to the form, and 29.7%, to the professionals. In the qualitative approach, the main difficulties were the size of the form, the problems to obtain the information about the woman and the difficulty for the professional to obtain this information. </p>
+					</sec>
+					<sec>
+						<title>CONCLUSION:</title>
+						<p> Although most health services claimed to fill out the compulsory notification, they also mentioned several difficulties to do so, especially with regard to the workload of professionals and the misunderstanding about the importance of the notification in the context of comprehensive care to women who suffer from sexual violence.</p>
+					</sec>
+				</abstract>
+				<kwd-group xml:lang="en">
+					<kwd>Sexual Violence</kwd>
+					<kwd>Women</kwd>
+					<kwd>Health services</kwd>
+					<kwd>Emergency care</kwd>
+					<kwd>Disease notification</kwd>
+					<kwd>Violence against women</kwd>
+				</kwd-group>
+			</front-stub>
+			<body>
+				<sec sec-type="intro">
+					<title>INTRODUCTION</title>
+					<p>Violence against women is currently one of the most relevant subjects in the Public Health and human rights scope, since it causes serious damage to health and to the psychosocial development of these women<xref ref-type="bibr" rid="B01">1</xref><sup>-</sup><xref ref-type="bibr" rid="B03">3</xref>. Among the types of violence against women, sexual violence may not be the most prevalent one, however, it is considered to be the one to cause consequences that are as shocking as - or more shocking than - other types<xref ref-type="bibr" rid="B04">4</xref>.</p>
+					<p>Sexual violence against women is practiced both by intimate partners and by other men, who may or may not be familiar to the women<xref ref-type="bibr" rid="B05">5</xref><sup>,</sup><xref ref-type="bibr" rid="B06">6</xref>.</p>
+					<p>In the past few years, in Brazil, several studies have pointed out to the high frequency with which women are attacked, especially in the household environment and in the scope of intimate relationships<xref ref-type="bibr" rid="B07">7</xref><sup>-</sup><xref ref-type="bibr" rid="B09">9</xref>. In a recent systematic review about the prevalence of sexual violence perpetrated by &quot;non-partners&quot;, a global estimation was calculated, in 2010, in 7.2%, and, in Brazil, in 7.6%<xref ref-type="bibr" rid="B10">10</xref>. At the same time, many difficulties to promote whole care to women who suffer from violence have been demonstrated, especially when it comes to sexual violence<xref ref-type="bibr" rid="B11">11</xref><sup>-</sup><xref ref-type="bibr" rid="B15">15</xref>.</p>
+					<p>In terms of health actions, measures have been proposed to provide effective care to women who suffer from sexual violence<xref ref-type="bibr" rid="B16">16</xref><sup>-</sup><xref ref-type="bibr" rid="B19">19</xref>. Since 1999, the Ministry of Health established the Technical Regulation &quot;Prevention and treatment of conditions resulting from sexual violence against women and adolescents&quot;, which defines a protocol to care for women who suffer from sexual violence. In spite of that, not all emergency services treat these cases according to the regulation. A study conducted in a representative sample of Brazilian cities identified 1,395 health services (HSs) that reported caring for women and children who suffer from sexual violence; however, only 8% used the protocol to care for them in accordance with the aforementioned regulation from the Ministry of Health<xref ref-type="bibr" rid="B20">20</xref>.</p>
+					<p>Another matter of concern expressed by public policies regarding violence against women is the lack of records of the cases in the HSs, which could help the planning and the execution of measures to prevent violent events, as well as to provide faster care to the victims. In order to fill that gap and establish preventive strategies, the Federal Government defined compulsory notification in cases of violence against women. According to Law n. 10,778, from November 24, 2003<sup>a</sup>, all cases of violence against women - physical, sexual and psychological violence - assisted by public or private HSs must be notified by filling out a form. This law was regulated by the Ministry of Health on June 3, 2004, by the decree n. 5,099<sup>b</sup>. In 2011, an ordinance from the Ministry of Health included domestic, sexual and/or other types of violence in the Compulsory Notification List (LNC)<sup>c</sup>.</p>
+					<p>However, up until now, especially with regard to sexual violence, it is not possible to know up to which point the compulsory notification of violence is put in practice, nor how this procedure is seen by health professionals. Facing the exposed, this study aimed at verifying which proportion of HSs that provides emergency care for women who suffer from sexual violence fills out the compulsory notification, and which the main obstacles to fill out such a document are. </p>
+				</sec>
+				<sec sec-type="methods">
+					<title>METHODS</title>
+					<p>A study with mixed, quantitative and qualitative approach was conducted with HSs from the State of São Paulo that reported providing emergency care for women who suffer from sexual violence. For the quantitative approach, a descriptive and cross-sectional study was carried out; for the qualitative approach, case studies were conducted<xref ref-type="bibr" rid="B24">24</xref><sup>,</sup><xref ref-type="bibr" rid="B25">25</xref>.</p>
+					<p>For the quantitative stage, a proportion of HSs who fill out the compulsory notification estimated in 50% was considered, with 5% probability of type I error and acceptable absolute difference between the sample and the population proportion of 7.6%, by establishing a minimum number of 166 HSs<xref ref-type="bibr" rid="B26">26</xref>.</p>
+					<p>The quantitative stage included 172 HSs that reported providing emergency care in cases of sexual violence. These services were identified and selected as follows: from all of the 240 HSs in the State of São Paulo that were part of the research &quot;Profile of care to sexual violence in Brazil&quot;<xref ref-type="bibr" rid="B13">13</xref>, the coordinator or the person in charge of caring for women who suffer from sexual violence was invited to participate in the study. Besides, other services indicated by these people were contacted; when more than one service was indicated, only one of them was raffled. A total of 291 HSs was initially approached; 40 immediately refused to participate in the study, and 5 were considered as &quot;lost&quot; due to several failed attempts of contact. Twenty-five other services claimed not to provide emergency care to women who suffer from violence in general, 16 stated not providing emergency care to women who suffer from sexual violence, 32 did not notify cases of violence in general (any type) and one service could not inform it. </p>
+					<p>By telephone, a structured and pre-tested questionnaire was applied to the coordinator or person in charge of caring for women who suffer from sexual violence in each service. Interviews were recorded after authorization.</p>
+					<p>The compulsory notification form is part of the National Disease Notification System (SINAN) and has several blanks to be filled out; among them, personal data of the patient, complementary data about the assisted person, information about the event, type of violence and some specific blanks for cases of sexual violence. There are also data concerning the probable author of the aggression, and information about evolution and referral.</p>
+					<p>The independent variables considered in this study were: type of HS (hospital, Women's Health reference center; emergency room / emergency unit (UPA); Family Health Program (PSF); Basic Health Unit (UBS); outpatient clinics; Specialized Care (SAE)); and position of the respondent (social worker; nurse; physician; psychologists; another position).</p>
+					<p>Dependent variables were: </p>
+					<disp-quote>
+						<p>1) How often the notification form is filled out in cases of sexual violence:</p>
+					</disp-quote>
+					<p>
+						<list list-type="alpha-lower">
+							<list-item>
+								<p>Always;</p>
+							</list-item>
+							<list-item>
+								<p>Most of the time; </p>
+							</list-item>
+							<list-item>
+								<p>Sometimes; </p>
+							</list-item>
+							<list-item>
+								<p>Never; </p>
+							</list-item>
+						</list>
+					</p>
+					<disp-quote>
+						<p>2) Awareness about the compulsoriness of the notification:</p>
+					</disp-quote>
+					<p>
+						<list list-type="alpha-lower">
+							<list-item>
+								<p>Yes; </p>
+							</list-item>
+							<list-item>
+								<p>No; </p>
+							</list-item>
+							<list-item>
+								<p>Does not know; </p>
+							</list-item>
+						</list>
+					</p>
+					<disp-quote>
+						<p>3) Party to which notification of violence cases are sent:</p>
+					</disp-quote>
+					<p>
+						<list list-type="alpha-lower">
+							<list-item>
+								<p>Police (Police Station/ Women's Police Station/Military Police); </p>
+							</list-item>
+							<list-item>
+								<p>Specific services (child protective services/Child and Youth Courts; Women's and elderly protective services); </p>
+							</list-item>
+							<list-item>
+								<p>Health administrators (Ministry of Health; Municipal Secretariat of Health; State Secretariat of Health); </p>
+							</list-item>
+							<list-item>
+								<p>Surveillance/Information Systems (Epidemiological Surveillance/ Information Systems from the Ministry of Health); </p>
+							</list-item>
+							<list-item>
+								<p>Institutions that provide care to women and adolescents in the city; </p>
+							</list-item>
+							<list-item>
+								<p>Others; </p>
+							</list-item>
+							<list-item>
+								<p>Does not know; </p>
+							</list-item>
+						</list>
+					</p>
+					<disp-quote>
+						<p>4) Reasons reported by HSs to fill or to not fill out the compulsory notification form in cases of sexual violence:</p>
+					</disp-quote>
+					<disp-quote>
+						<p>a. Reasons to fill it out:</p>
+					</disp-quote>
+					<p>
+						<list list-type="roman-lower">
+							<list-item>
+								<p>Compulsoriness (Because it is mandatory/ Ministry of Health and/or city demands it/ Protocol or routine of the unit); </p>
+							</list-item>
+							<list-item>
+								<p>Information or statistics (Helps to identify the number of cases/obtain statistical data; Health of the woman who suffers from the violence/ So the woman can follow the protocol/be tested/take medicines); </p>
+							</list-item>
+							<list-item>
+								<p>Public Health Programs (Helps to define strategies to implement prevention programs addressed to sexual violence/public policies); </p>
+							</list-item>
+							<list-item>
+								<p>To refer the patient to another institution; </p>
+							</list-item>
+						</list>
+					</p>
+					<disp-quote>
+						<p>b. Reasons to not fill it out:</p>
+					</disp-quote>
+					<p>
+						<list list-type="roman-lower">
+							<list-item>
+								<p>Reasons that reveal the lack of information of the respondent (Never received information/ The woman does not always want to accuse/ The woman needs to decide whether or not to file an incident report/ She is not referred to the internal sector that conducts the notification); </p>
+							</list-item>
+							<list-item>
+								<p>Reasons related to the lack of preparation of the professionals (Not all of the professionals know how to fill out the form/ Some of them think it is not necessary / Lack of sensitization); </p>
+							</list-item>
+							<list-item>
+								<p>Reasons for the service functioning (It is not always possible to get all the data/ Lack of time / Lack of professional); </p>
+							</list-item>
+							<list-item>
+								<p>Other reasons; </p>
+							</list-item>
+							<list-item>
+								<p>Does not know/Not informed. </p>
+							</list-item>
+						</list>
+					</p>
+					<p>With regard to the characteristics of HSs that filled out the notification form, the following dependent variables were analyzed: </p>
+					<disp-quote>
+						<p>1) Professional who fills out the notification form:</p>
+					</disp-quote>
+					<disp-quote>
+						<p>a. Physician; nurse; social worker; psychologist; nursing technician or assistant; others;</p>
+					</disp-quote>
+					<disp-quote>
+						<p>2) Main difficulties faced while filling out the compulsory notification form:</p>
+					</disp-quote>
+					<p>
+						<list list-type="alpha-lower">
+							<list-item>
+								<p>Reasons referring to the women (Difficulties to obtain information from the patient/ Resistance and/or fear from the women); </p>
+							</list-item>
+							<list-item>
+								<p>Reasons referring to the form's characteristics (The form is difficult/complicated to fill out; The form is too long; It takes time to fill it out; Work flow concerning the notification is flawed/lack of systematization); </p>
+							</list-item>
+							<list-item>
+								<p>Reasons of the professionals (Lack of time/ Forgetfulness/ Unwillingness from professionals); </p>
+							</list-item>
+							<list-item>
+								<p>Reasons referring to the characteristics of the place (Lack of a more private place for assistance and questions); </p>
+							</list-item>
+							<list-item>
+								<p>Another reason; </p>
+							</list-item>
+						</list>
+					</p>
+					<disp-quote>
+						<p>3) Opinion about whether or not the notification form brings any benefits to the women:</p>
+					</disp-quote>
+					<p>
+						<list list-type="alpha-lower">
+							<list-item>
+								<p>Yes; </p>
+							</list-item>
+							<list-item>
+								<p>No; </p>
+							</list-item>
+							<list-item>
+								<p>Does not know; </p>
+							</list-item>
+						</list>
+					</p>
+					<disp-quote>
+						<p>4) Opinion about which benefits women can get:</p>
+					</disp-quote>
+					<p>
+						<list list-type="alpha-lower">
+							<list-item>
+								<p>Information or statistics (Helps to identify the number of sexual violence cases/ obtaining statistical data); </p>
+							</list-item>
+							<list-item>
+								<p>Public Health Programs (Helps to establish strategies to implement programs of violence prevention); </p>
+							</list-item>
+							<list-item>
+								<p>Health of the Woman who suffers from the violence (Helps posterior follow-up/ proper treatment); </p>
+							</list-item>
+							<list-item>
+								<p>Women can talk about it; </p>
+							</list-item>
+							<list-item>
+								<p>Police/judicial process (Documents to work on/ Provide the proper follow-up; Way of repressing this type of violence/ scaring the aggressor); </p>
+							</list-item>
+							<list-item>
+								<p>Another opinion; </p>
+							</list-item>
+							<list-item>
+								<p>Does not know; </p>
+							</list-item>
+						</list>
+					</p>
+					<disp-quote>
+						<p>5) Measures adopted to ensure the secrecy of information in the notification form:</p>
+					</disp-quote>
+					<p>
+						<list list-type="alpha-lower">
+							<list-item>
+								<p>Being careful to file the information (Form filed in a specific location/file room; Form filed in the patient's medical history; Stored in a filing cabinet/closed cabinet; Filed in a closed/locked room); </p>
+							</list-item>
+							<list-item>
+								<p>Limited access (Employees of the service can access the file/ Only one employee has access to the file/ Accessed only by authorized personnel, with a written judicial consent or from the director); </p>
+							</list-item>
+							<list-item>
+								<p>Referral to other institutions/parties (Referred to Epidemiological Surveillance; Referred to other institutions/parties; Referred to another service/ party in a sealed envelope); </p>
+							</list-item>
+							<list-item>
+								<p>Form filed in the patient's medical history; </p>
+							</list-item>
+							<list-item>
+								<p>The service does not keep a copy of the form; </p>
+							</list-item>
+							<list-item>
+								<p>Filed in the reception/in the service. </p>
+							</list-item>
+						</list>
+					</p>
+					<p>A simple descriptive analysis was conducted<xref ref-type="bibr" rid="B27">27</xref> with the statistical package SPSS for Windows.</p>
+					<p>For the qualitative component, based on data obtained in the quantitative stage, an intentional sample was determined<xref ref-type="bibr" rid="B25">25</xref> from six cities, whose selection was defined according to: geographic distribution in the State of São Paulo of the cities participating in the first stage; their sizes (&lt; 100,000 residents and ≥ 100,000 residents); the existence of at least one HS that always filled out the compulsory notification form in cases of sexual violence, and at least one HS that filled it out with another frequency (most of the time, sometimes or never). Four large cities were selected (≥ 100,000 residents) and 2 small ones, with 2 HSs each.</p>
+					<p>Two researchers visited each selected HS to conduct semi-structured interviews with the coordinator or the person in charge of caring for women who suffer from sexual violence, as well as other professionals involved in this process. In total, 45 interviews were conducted. Most interviewees were female and had worked for years in the visited services; 31 were professionals who directly cared for the women (16 from the nursing field, 8 physicians, 4 social workers and 3 psychologists); 14 were administrators. </p>
+					<p>For the interviews, a script based on the results of the first stage of the study was used, aiming at further analyzing some aspects, especially those related to the difficulties to fill out the notification form. This script was composed of eight questions about the following topics: aspects of the process of emergency care addressed to women who suffer from sexual violence, awareness about the compulsory notification form for cases of sexual violence, how the form was filled out, difficulties found while filling the form out, and which process was adopted after the form was filled out. Institutions that reported not filling out the form or filling it out only sometimes were asked about the reasons for that reality.</p>
+					<p>Interviews lasted 20 minutes, in average; they were recorded and transcribed. The thematic analysis of the content was performed with the software NVivo. Researchers read<xref ref-type="bibr" rid="B28">28</xref> the transcribed texts to identify the significance units related to the objectives of the study and to the quantitative results. These units were grouped and classified in categories of analysis; after being articulated, they could respond to the proposed objectives<xref ref-type="bibr" rid="B29">29</xref>. This article presents results related to the following categories of analysis: awareness about the compulsory notification form for cases of sexual violence, the process of filling it out, the difficulties found to fill it out, which procedure is used for the filled out forms and suggestions to improve the filling out conditions.</p>
+					<p>The protocol of this study was approved without restrictions by the Research Ethics Committee of the School of Medical Sciences at Universidade Estadual de Campinas, protocol n. 144/2009. The valid guidelines of Resolution n. 196/96 from the National Health Council (about studies involving human beings<xref ref-type="bibr" rid="B30">30</xref>) were respected in this study. The participation of subjects was voluntary and their identities were kept in secrecy. For the quantitative component, the first version of the informed consent form was read for each one of the possible interviews, and they were questioned about the decision regarding whether or not they would participate in the study; when the person decided to participate, this decision was recorded by telephone. For the qualitative stage, before the interview another informed consent form was provided so that the professional could read and sign it, in case of participating in the study.</p>
+				</sec>
+				<sec sec-type="results">
+					<title>RESULTS</title>
+					<p>Out of the 172 HSs that reported providing emergency care to women who suffered from sexual violence, 46.5% were hospitals, 23.3% were emergency rooms or UPAs, 16.9% were UBSs, 10.5% were outpatient clinics/SAEs, 1.7% were PSFs, and 1.2% were Women's Health reference centers. More than half (58.1%) of the participants in charge of caring for women who suffer from sexual violence were nurses, 19.2% were physicians, 10.5% were social workers, 4.7% were psychologists, and 7.6% reported having another job. Most (79.1%) of these 172 services claimed to always fill out the notification form, 12.8% mentioned filling it out most of the time, 5.2% reported filling it out sometimes, 1.2% claimed to never fill it out, and 1.7% did not inform it. </p>
+					<p>From the 167 HSs that notified cases of sexual violence, 95.2% reported being aware of the compulsoriness of the notification, except for one HS that did not respond.</p>
+					<p>Most of these 167 services that filled out the compulsory notification form with some frequency (except for one HS that did not answer) claimed that the sexual violence was notified to surveillance or information services from the Ministry of Health (65.7%), and 20.5% mentioned health administration parties. </p>
+					<p>Spontaneously, the most mentioned reasons for filling out the compulsory notification form in cases of sexual violence were compulsoriness (60.9%), and the acquisition of information or statistics (27.8%). Among the reasons for not filling out the form, the ones that were mostly mentioned reveal the lack of information from the respondent (8.3%) and the lack of preparation from professionals (6.5%) (data not shown in the table). In the HSs that filled out the notification form with some frequency in cases of sexual violence (n= 167), professionals who mostly did so were nurses (78.4%), followed by physicians (46.1%) and social workers (24.0%) (<xref ref-type="table" rid="t02">Table 1</xref>). The action of filling out the form being performed exclusively by nurses was reported by 51 HSs (30.5%), while this attitude from the physicians was registered in 14 HSs (8.4%). With regard to the difficulties faced while filling out the form, 57 HSs (34.1%) answered there were not any (data not shown in the table); among the 101 that indicated some difficulty, 53.5% claimed this difficulty was related to the women; 33.7% mentioned reasons related to the characteristics of the form, and 29.7% talked about reasons from the professionals who should fill it out (<xref ref-type="table" rid="t02">Table 1</xref>). Most respondents (86.2%) said that the notification form could bring some benefit to the women (data not shown in the table); out of these, almost half (48.6%) mentioned that the form can contain information or statistics, thus contributing with the implementation of Public Health programs (38.2%) (<xref ref-type="table" rid="t02">Table 1</xref>).</p>
+					<p>
+						<table-wrap id="t02">
+							<label>Table 1.</label>
+							<caption>
+								<title>Characteristics of health services that filled out the notification form in cases of sexual violence always, most of the time or sometimes.</title>
+							</caption>
+							<table frame="hsides" rules="groups" style="border-top: 1px solid black; border-bottom: 1px solid black; width: 100%">
+								<thead>
+									<tr>
+										<th>Characteristic</th>
+										<th>n</th>
+										<th>%</th>
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td colspan="3">Professional who fills out the form (n = 167)</td>
+									</tr>
+									<tr>
+										<td> Nurse</td>
+										<td>131</td>
+										<td>78.4</td>
+									</tr>
+									<tr>
+										<td> Physician</td>
+										<td>77</td>
+										<td>46.1</td>
+									</tr>
+									<tr>
+										<td> Social worker</td>
+										<td>40</td>
+										<td>24.0</td>
+									</tr>
+									<tr>
+										<td> Nursing technician/assistant</td>
+										<td>24</td>
+										<td>14.4</td>
+									</tr>
+									<tr>
+										<td> Psychologist</td>
+										<td>17</td>
+										<td>10.2</td>
+									</tr>
+									<tr>
+										<td> Others</td>
+										<td>7</td>
+										<td>4.2</td>
+									</tr>
+									<tr>
+										<td colspan="3">Main difficulties found to fill out the compulsory notification form (n = 101)</td>
+									</tr>
+									<tr>
+										<td> Reasons referring to women</td>
+										<td>54</td>
+										<td>53.5</td>
+									</tr>
+									<tr>
+										<td> Reasons referring to the form’s characteristics</td>
+										<td>34</td>
+										<td>33.7</td>
+									</tr>
+									<tr>
+										<td> Reasons of the professionals</td>
+										<td>30</td>
+										<td>29.7</td>
+									</tr>
+									<tr>
+										<td> Reasons related to local characteristics</td>
+										<td>3</td>
+										<td>3.0</td>
+									</tr>
+									<tr>
+										<td> Others </td>
+										<td>6</td>
+										<td>5.9</td>
+									</tr>
+									<tr>
+										<td colspan="3">Opinion about which benefits it can bring to women (n = 144)</td>
+									</tr>
+									<tr>
+										<td>Information/statistics</td>
+										<td>70</td>
+										<td>48.6</td>
+									</tr>
+									<tr>
+										<td> Public Health Programs</td>
+										<td>55</td>
+										<td>38.2</td>
+									</tr>
+									<tr>
+										<td> Health of the woman who suffers from violence </td>
+										<td>36</td>
+										<td>25.0</td>
+									</tr>
+									<tr>
+										<td> Women can talk about it</td>
+										<td>18</td>
+										<td>12.5</td>
+									</tr>
+									<tr>
+										<td> Police/judicial process</td>
+										<td>17</td>
+										<td>11.8</td>
+									</tr>
+									<tr>
+										<td> Others</td>
+										<td>12</td>
+										<td>8.3</td>
+									</tr>
+									<tr>
+										<td> Could not inform</td>
+										<td>3</td>
+										<td>2.1</td>
+									</tr>
+								</tbody>
+							</table>
+							<table-wrap-foot>
+								<fn id="t02TFN01">
+									<p>Could not inform 3 2.1</p>
+								</fn>
+							</table-wrap-foot>
+						</table-wrap>
+					</p>
+					<p>The following measures were cited as the most frequently used ones to guarantee the secrecy of the information in the notification form inside the HSs: care for the filing of information (67.1%); limited access to the form (65.2%); referral to other institutions/parties (60.9%).</p>
+					<p>In the qualitative stage, in all of the cities (four large and two small ones), at least one of the HSs reported always filling out the compulsory notification form. In a HS located in a small city, it was reported that whenever there was a case of sexual violence, the Epidemiological Surveillance of the city (which was inside another studied service) was activated to go to the HS and fill out the form, thus taking the necessary action to care for that case. </p>
+					<p>Most professionals who filled out the form were nurses. Some physicians who accepted to participate in the study were not aware of the existence of the compulsory notification form, nor about which professionals were in charge of filling it out. </p>
+					<p>With regard to the difficulties found to fill out the compulsory notification form, the most mentioned one referred to the size of the form (&quot;long&quot;; &quot;extensive&quot;; &quot;too many details&quot;; &quot;too much information&quot;). Another difficulty was the problem of obtaining information from the woman (&quot;weakened&quot;; &quot;vulnerable&quot;; &quot;sometimes the woman does not declare she went through this type of violence&quot;; &quot;apprehension&quot;; &quot;fear&quot;; &quot;shame&quot;). There was also the difficulty of the professional to obtain the information (&quot;embarrassment&quot;; &quot;finding it hard to talk to the woman in such a delicate moment&quot;; among others). The two last difficulties were sometimes related to the fact that there was not a room or a place in the HS where the woman and the professional could talk in private. </p>
+					<p>Almost all HSs that filled out the form stated they kept a copy of the notification in the institution, however, only a few employees, besides the person who filled it out, were aware of that. With regard to the procedures adopted for the filled out form, there was no consensus among the participants. Many of them reported sending it to Epidemiological Surveillance, but some sent it to other institutions, including police stations; many of them did not know what happened to the notification form. </p>
+					<p>The interviewed people gave suggestions to improve the conditions regarding the process of filling out the form in the services, such as: training for the professionals, raising awareness about the importance of the form, involving the professionals, reducing the amount of information in the form, improving women care, so that she would not have to repeat the same information. However, the most frequent suggestion was to perform periodical trainings for professionals in each HS, especially due to employee turnover. </p>
+				</sec>
+				<sec sec-type="discussion">
+					<title>DISCUSSION</title>
+					<p>The results presented here indicate that the action of filling out the compulsory notification form of sexual violence is still not totally incorporated to the routines of the HSs that care for these cases in the State of São Paulo. This becomes a matter of concern when we consider that the State of São Paulo was pioneer in Brazil with the establishment of services that provide care for women who suffer from sexual violence. Besides, it is important to consider that most services that participated in the study were hospitals or emergency rooms, which one could assume would be more familiar with the matter of notification. </p>
+					<p>Even though most interviewed people have manifested the opinion that filling out the form can bring benefits to women, only more than one quarter of the services reported the possibility of obtaining statistical data/information about the occurrences as a reason to do so. This reinforces the hypothesis that not all professionals are aware about the importance of notification as a management instrument to provide subsidies to public policies. With the notifications, it would be possible to map the occurrences and the characteristics of violence, which would lead to more effective interventions to prevent and fight such an aggression<xref ref-type="bibr" rid="B31">31</xref>.</p>
+					<p>This situation may be related both to the education of health professionals and their ability to do their jobs in public health services. A study conducted with professors from medical and nursing schools<xref ref-type="bibr" rid="B32">32</xref> showed that even though professors recognized violence as a health problem, they had difficulties including the theme in their classes. By analyzing the curriculum of these schools, it was possible to observe that the violence subject was demonstrated or shown by a correlative term in 23% of the medical disciplines, and in 16.3 of nursing classes. On the other hand, some studies with professionals from public health services have shown that they do not feel skilled enough to provide whole care to women who suffer from violence<xref ref-type="bibr" rid="B15">15</xref><sup>,</sup><xref ref-type="bibr" rid="B33">33</xref><sup>,</sup><xref ref-type="bibr" rid="B34">34</xref>, which can certainly compromise their understanding about the need for notification, including with regard to violence against children and adolescents<xref ref-type="bibr" rid="B35">35</xref>. It is worth to remember that the need for periodical courses for this type of assistance is emphasized by the Ministry of Health<xref ref-type="bibr" rid="B36">36</xref>, which was strongly suggested by the participants in this study. However, it is also important to consider that this difficulty to fill out the notification of violence cases can imply certain resistance from professionals to treat this matter as a Public Health issue, instead of a police problem.</p>
+					<p>It is also important to consider that the organization of work in the HSs may present workload issues for some professionals, and the requirement of filling out one more form can be considered to be excessive, especially when the importance and the reason of this requirement is not understood. Both stages of this study showed that, in most cases, nursing professionals were in charge of filling out the notification form. This is in accordance with the work model that is usually observed in the services, in which nursing professionals are usually in charge of filling out several forms; therefore, they add this chore to the work of care <italic>per se</italic> . Especially in emergency services, this can represent a major difficulty to be overcome, and an attitude that can even result in the act of not filling out the form, or filling it out incompletely. Besides being clearly indicated in the quantitative approach, this behavior was more explicit in the qualitative approach, when people referred to the length of the form and the time used to fill it out.</p>
+					<p>Another aspect that was shown in both stages of this study was the reference of interviewees about the difficulty to obtain the necessary information for the notification of women who suffered from sexual violence. This fact has been observed in other studies, not only with regard to sexual violence, but also to other types of violence suffered by women<xref ref-type="bibr" rid="B15">15</xref><sup>,</sup><xref ref-type="bibr" rid="B37">37</xref><sup>,</sup><xref ref-type="bibr" rid="B38">38</xref>. It is important to consider that the woman who suffers from sexual violence arrives in the HS in shock, and often wishing to hide and talk as little as possible. Therefore, health professionals must know how to take in the woman who has been assaulted, giving her space to complain and obtain all of the necessary information accurately, so as to avoid the need for her to repeat the story, which is certainly painful<xref ref-type="bibr" rid="B19">19</xref>. It is worth to mention that the notification form does not need to be filled out immediately, as soon as the woman arrives, which is when she is emotionally more fragile. If the information in the medical record is properly filled out by all of the health professionals who care for the woman, it will be an important complementary source to fill out the form afterwards.</p>
+					<p>It is also important to mention that the act of taking in women who suffer from violence, from some of the professionals in emergency services, also depends on the perspective of these professionals regarding the meaning of violence against women and the impact that such violence can have on themselves, who may as well have experienced or be experiencing similar situations<xref ref-type="bibr" rid="B11">11</xref><sup>,</sup><xref ref-type="bibr" rid="B39">39</xref>.</p>
+					<p>The main limitations of this study involve the fact that this is not a probability sample, initially based on a previous study conducted between 2005-2006 in HSs that reported providing emergency care for women who suffered from sexual violence<xref ref-type="bibr" rid="B13">13</xref>, including other services indicated by the former. Therefore, the results cannot be generalized for the State of São Paulo. Besides, another limitation refers to the fact that it is not possible to verify how well the services fill out the form. So, it is not possible to state if the HSs that reported always filling out the notification form did so completely and properly. It is worth to remember that, in the qualitative stage, the interviewed people emphasized that the extension of the form and the need to include many details about the violence suffered by the woman were seen as difficulties.</p>
+					<p>Despite the aforementioned limitations, the results make it clear that the compulsory act of filling out the notification form for cases of sexual violence against women still needs to be elaborated with the HSs, both so that professionals know how to do it and so they can understand its importance as part of the effort that the whole society should keep making in order to reduce violence against women. Therefore, it is important to consider that, in order for such an understanding to occur, professionals need to realize the utility of the collected information in terms of their daily practice; otherwise, the notification form tends to be progressively seen as a useless requirement in terms of improving the care provided to women who suffer from sexual violence.</p>
+				</sec>
+				<sec sec-type="conclusions">
+					<title>CONCLUSION</title>
+					<p>Even though most HSs reported filling out the compulsory notification form, they also mentioned having several difficulties to do so, especially with regard to the workload of professionals and to the lack of understanding about the importance of this notification in the context of whole care to women who suffer from sexual violence. It is possible to see the need for strategies that improve the education of professionals, so that they can incorporate the notification form as part of care provided to women, as well as the due valorization of this care among the several attributions of the HSs.</p>
+				</sec>
+			</body>
+			<back>
+				<ack>
+					<title>ACKNOWLEDGEMENTS</title>
+					<p>The authors would like to thank the São Paulo Research Foundation (FAPESP), for completely financing this study (process n. 2010/50345-6).</p>
+				</ack>
+				<fn-group>
+					<fn fn-type="financial-disclosure">
+						<p>Financing source: São Paulo Research Foundation (FAPESP) (process n. 2010/50345-6).</p>
+					</fn>
+					<fn fn-type="other" id="fn04">
+						<label>a</label>
+						<p> Establishes a compulsory reporting, in the national territory, of the cases of violence against women that are attended in the public or private health services<sup>21</sup>.</p>
+					</fn>
+					<fn fn-type="other" id="fn05">
+						<label>b</label>
+						<p> Regulates the Law 10,778, of November 24, 2003, and establish referral services sentinel<sup>22</sup>.</p>
+					</fn>
+					<fn fn-type="other" id="fn06">
+						<label>c</label>
+						<p> Defines the terminology adopted in national legislation, according to International Health Regulations 2005 (RSI 2005), the list of diseases, injuries and events in public health, of compulsory notification throughout the national territory and establish flow, criteria, responsibilities and duties to professionals and health services<sup>23</sup>.</p>
+					</fn>
+				</fn-group>
+			</back>
+		</sub-article>
+	</article>

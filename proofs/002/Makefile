@@ -1,7 +1,8 @@
-TAG=0034-8910-rsp-48-01-0086
+TAG=0034-8910-rsp-48-01-0094
 
 all:
 	jats2tex $(TAG).xml -t template.yaml
+	sh replace.sh
 	cat $(TAG).tex
 
 2:
@@ -15,8 +16,13 @@ sublime:
 	subl3 -n . $(TAG).xml $(TAG).tex template.yaml Makefile
 
 pdf:
-	xelatex $(TAG).tex
+	latexmk -xelatex $(TAG).tex
+	sh replace.sh
 	evince $(TAG).pdf
+
+xelatex:
+	xelatex $(TAG).tex
+
 
 pdf-modelo:
 	evince MODELO.pdf
@@ -26,5 +32,11 @@ git:
 	-git commit -m "General edition"
 
 clean:
-	-rm *.aux *.log
+	-rm *.aux *.log *.xdv *.out 
+update:
+	-cp template.yaml ..
+	-cp template.yaml ~/Dropbox/SCIELO/jats2tex/default.yaml
+	-cp template.yaml /home/editorial/Dropbox_OUT/SCIELO/SPS+TeX/SCIELO_RENATA/scielo-sp-amostra/artigos/
+upgrade:
+	-cp ../template.yaml .
 
