@@ -607,16 +607,16 @@ b: |
 
 
 table: |
-  \begin{adjustbox}{1.1\textwidth}
-  \small
   \begin{table}
+  \begin{adjustbox}{width=1.1\textwidth}
+  \small
   \begin{xtabular}{@@heads}
   \hline
   @@bodies
   \end{xtabular}
+  \end{adjustbox}
   \caption{}
   \end{table}
-  \end{adjustbox}
 
 thead/tr:
   head: |

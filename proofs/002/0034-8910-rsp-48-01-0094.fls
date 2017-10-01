@@ -107,6 +107,10 @@ INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
 INPUT /usr/share/texmf-dist/tex/latex/xtab/xtab.sty
 INPUT /usr/share/texmf-dist/tex/latex/xtab/xtab.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 INPUT /usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 INPUT /usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -213,8 +217,6 @@ INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT /usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
 INPUT /usr/share/texmf-dist/tex/latex/colortbl/colortbl.sty
-INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/share/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 INPUT /usr/share/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 INPUT /usr/share/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
