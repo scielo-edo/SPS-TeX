@@ -347,10 +347,10 @@ INPUT 0034-8910-rsp-48-01-0094-gf02.jpg
 INPUT logo.png
 INPUT logo.png
 INPUT 0034-8910-rsp-48-01-0094-gf03.jpg
-INPUT logo.png
 INPUT 0034-8910-rsp-48-01-0094-gf01.jpg
 INPUT 0034-8910-rsp-48-01-0094-gf02.jpg
 INPUT 0034-8910-rsp-48-01-0094-gf03.jpg
+INPUT logo.png
 INPUT logo.png
 INPUT logo.png
 INPUT logo.png
@@ -359,5 +359,6 @@ INPUT logo.png
 INPUT logo.png
 INPUT metadata.tex
 INPUT metadata.tex
+INPUT logo.png
 INPUT logo.png
 INPUT 0034-8910-rsp-48-01-0094.aux

@@ -609,13 +609,12 @@ b: |
 table: |
   \begin{table}
   %\begin{adjustbox}{width=1.1\textwidth}
-  \small
+  \small\centering
   \begin{tabulary}{\linewidth}{@@heads}
   \hline
   @@bodies
   \end{tabulary}
   %\end{adjustbox}
-  \caption{}
   \end{table}
 
 thead/tr:

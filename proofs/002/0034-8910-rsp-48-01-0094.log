@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  1 OCT 2017 15:40
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  1 OCT 2017 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1643,8 +1643,6 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 182.
 [2]
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
@@ -1652,28 +1650,30 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 238.
  [3]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 242.
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 296.
+(babel)             in language  on input line 294.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 296.
+(babel)             in language  on input line 294.
  [4]
-Overfull \hbox (1.07034pt too wide) in paragraph at lines 297--307
+Overfull \hbox (1.07034pt too wide) in paragraph at lines 308--318
 []\TU/LinuxLibertineO(0)/m/n/10 Foram incorporados dados etnográficos de pesqui
 sas realizadas em favelas$[]$$[]$$[]$
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 308.
+(babel)             in language  on input line 319.
 File: 0034-8910-rsp-48-01-0094-gf01.jpg Graphic file (type QTm)
 <use  "0034-8910-rsp-48-01-0094-gf01.jpg" >
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 333.
+(babel)             in language  on input line 352.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 333.
+(babel)             in language  on input line 352.
  [5]
 File: 0034-8910-rsp-48-01-0094-gf02.jpg Graphic file (type QTm)
 
@@ -1681,30 +1681,23 @@ File: 0034-8910-rsp-48-01-0094-gf02.jpg Graphic file (type QTm)
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 392.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 400.
+(babel)             in language  on input line 392.
  [6]
 File: logo.png Graphic file (type QTm)
 
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 430.
+(babel)             in language  on input line 427.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 430.
+(babel)             in language  on input line 427.
  [7]
 File: 0034-8910-rsp-48-01-0094-gf03.jpg Graphic file (type QTm)
  <use  "0034-8910-rsp-48-01-0094-gf03.jpg" >
-File: logo.png Graphic file (type QTm)
-
-<use  "logo.png" >
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 469.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 469.
- [8]
 File: 0034-8910-rsp-48-01-0094-gf01.jpg Graphic file (type QTm)
- <use  "0034-8910-rsp-48-01-0094-gf01.jpg" >
+
+<use  "0034-8910-rsp-48-01-0094-gf01.jpg" >
 File: 0034-8910-rsp-48-01-0094-gf02.jpg Graphic file (type QTm)
 
 <use  "0034-8910-rsp-48-01-0094-gf02.jpg" >
@@ -1712,86 +1705,95 @@ File: 0034-8910-rsp-48-01-0094-gf03.jpg Graphic file (type QTm)
 
 <use  "0034-8910-rsp-48-01-0094-gf03.jpg" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 490.
+(babel)             in language  on input line 501.
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 512.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 524.
- [9]
+(babel)             in language  on input line 512.
+ [8]
 File: logo.png Graphic file (type QTm)
 
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 512.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 524.
+(babel)             in language  on input line 512.
+ [9]
+File: logo.png Graphic file (type QTm)
+ <use  "logo.png" >
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 512.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 512.
  [10]
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 577.
+(babel)             in language  on input line 564.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 577.
+(babel)             in language  on input line 564.
  [11]
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 9.00014pt on input line 628.
+(Font)              scaled to size 9.00014pt on input line 639.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.99986pt on input line 628.
+(Font)              scaled to size 8.99986pt on input line 639.
 
-Overfull \hbox (7.70813pt too wide) in paragraph at lines 628--628
+Overfull \hbox (7.70813pt too wide) in paragraph at lines 639--639
  []\TU/LinuxLibertineO(0)/m/n/9 1.585| 
  []
 
 
-Overfull \hbox (1.54314pt too wide) in paragraph at lines 628--628
+Overfull \hbox (1.54314pt too wide) in paragraph at lines 639--639
  []\TU/LinuxLibertineO(0)/m/n/9 131| 
  []
 
 
-Overfull \hbox (1.54314pt too wide) in paragraph at lines 628--628
+Overfull \hbox (1.54314pt too wide) in paragraph at lines 639--639
  []\TU/LinuxLibertineO(0)/m/n/9 120| 
- []
-
-
-Overfull \hbox (32.3759pt too wide) in paragraph at lines 629--630
-[] 
  []
 
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 664.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 665.
+(babel)             in language  on input line 664.
  [12]
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 719.
+(babel)             in language  on input line 706.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 719.
- [13] (./metadata.tex)
+(babel)             in language  on input line 706.
+ [13] (./metadata.tex
+File: logo.png Graphic file (type QTm)
 
+<use  "logo.png" >
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 20.
+ [14]) 
 AED: lastpage setting LastPage
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 738.
+(babel)             in language  on input line 744.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 738.
- [14]
+(babel)             in language  on input line 744.
+ [15]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 738.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 738.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 738.
+(babel)             in language  on input line 744.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 744.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 744.
  (./0034-8910-rsp-48-01-0094.aux
 LaTeX Info: Redefining \. on input line 33.
 LaTeX Info: Redefining \% on input line 33.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 738.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 738.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 744.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 744.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -1799,12 +1801,12 @@ LaTeX Warning: There were multiply-defined labels.
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
- 36839 strings out of 493068
- 686164 string characters out of 6141028
- 869765 words of memory out of 5000000
- 40152 multiletter control sequences out of 15000+600000
+ 36837 strings out of 493068
+ 686114 string characters out of 6141028
+ 868734 words of memory out of 5000000
+ 40150 multiletter control sequences out of 15000+600000
  11710 words of font info for 78 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  73i,17n,98p,10401b,1100s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0034-8910-rsp-48-01-0094.xdv (14 pages, 383048 bytes).
+Output written on 0034-8910-rsp-48-01-0094.xdv (15 pages, 387792 bytes).

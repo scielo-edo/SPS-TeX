@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  1 OCT 2017 15:42
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  1 OCT 2017 16:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1668,49 +1668,49 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 682.
+(babel)             in language  on input line 684.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 682.
+(babel)             in language  on input line 684.
  [5]
 File: logo.png Graphic file (type QTm)
 
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 682.
+(babel)             in language  on input line 684.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 682.
+(babel)             in language  on input line 684.
  [6]
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 682.
+(babel)             in language  on input line 684.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 682.
+(babel)             in language  on input line 684.
  [7]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 839.
+(babel)             in language  on input line 842.
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 847.
+(babel)             in language  on input line 850.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 847.
+(babel)             in language  on input line 850.
  [8]
 File: logo.png Graphic file (type QTm)
 
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 899.
+(babel)             in language  on input line 902.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 899.
+(babel)             in language  on input line 902.
  [9]
-Underfull \hbox (badness 1281) in paragraph at lines 939--945
+Underfull \hbox (badness 1281) in paragraph at lines 942--948
 []\TU/LinuxLibertineO(0)/m/n/10 Entre as estratégias empregadas por programas m
 ultidisciplinares des-
  []
 
 
-Underfull \hbox (badness 1205) in paragraph at lines 939--945
+Underfull \hbox (badness 1205) in paragraph at lines 942--948
 \TU/LinuxLibertineO(0)/m/n/10 tinados ao tratamento da dor crônica, a atividade
  física é uma das mais
  []
@@ -1718,14 +1718,14 @@ Underfull \hbox (badness 1205) in paragraph at lines 939--945
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 961.
+(babel)             in language  on input line 964.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 961.
+(babel)             in language  on input line 964.
  [10]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 962.
+(babel)             in language  on input line 965.
 
-Overfull \hbox (6.52493pt too wide) in paragraph at lines 985--988
+Overfull \hbox (6.52493pt too wide) in paragraph at lines 988--991
 \TU/LinuxLibertineO(0)/m/n/10 mográfico de 2010/2011. Disponível em http://www.
 ibge.gov.br/home/estati
  []
@@ -1733,17 +1733,17 @@ ibge.gov.br/home/estati
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1018.
+(babel)             in language  on input line 1021.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1018.
+(babel)             in language  on input line 1021.
  [11]
-Underfull \hbox (badness 2837) in paragraph at lines 1032--1036
+Underfull \hbox (badness 2837) in paragraph at lines 1035--1039
 \TU/LinuxLibertineO(0)/m/n/10 sos responsáveis pelos domicílios no Brasil 2000.
  Disponível em
  []
 
 
-Overfull \hbox (11.5727pt too wide) in paragraph at lines 1032--1036
+Overfull \hbox (11.5727pt too wide) in paragraph at lines 1035--1039
 \TU/LinuxLibertineO(0)/m/n/10 http://www.ibge.gov.br/home/estatistica/populacao
 /perfilidoso/default.shtm
  []
@@ -1751,9 +1751,9 @@ Overfull \hbox (11.5727pt too wide) in paragraph at lines 1032--1036
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1077.
+(babel)             in language  on input line 1080.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1077.
+(babel)             in language  on input line 1080.
  [12] (./metadata.tex
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
@@ -1767,26 +1767,26 @@ AED: lastpage setting LastPage
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1114.
+(babel)             in language  on input line 1117.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1114.
+(babel)             in language  on input line 1117.
  [14]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1114.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1114.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1114.
+(babel)             in language  on input line 1117.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1117.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1117.
  (./1415-790X-rbepid-18-01-00234.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1114.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1114.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1117.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1117.
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
  36824 strings out of 493068
  685915 string characters out of 6141028
- 894171 words of memory out of 5000000
+ 895171 words of memory out of 5000000
  40150 multiletter control sequences out of 15000+600000
  11615 words of font info for 76 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
  73i,16n,98p,10405b,1082s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 1415-790X-rbepid-18-01-00234.xdv (14 pages, 415264 bytes).
+Output written on 1415-790X-rbepid-18-01-00234.xdv (14 pages, 415352 bytes).
