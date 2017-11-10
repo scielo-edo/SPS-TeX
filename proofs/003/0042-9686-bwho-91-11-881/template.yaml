@@ -607,14 +607,12 @@ b: |
 
 
 table: |
+
   \begin{table}
-  %\begin{adjustbox}{width=1.1\textwidth}
-  \small\centering
-  \begin{tabulary}{\linewidth}{@@heads}
+  \begin{xtabular}{@@heads}
   \hline
   @@bodies
-  \end{tabulary}
-  %\end{adjustbox}
+  \end{xtabular}
   \end{table}
 
 thead/tr:
@@ -623,9 +621,9 @@ thead/tr:
       local ret = {}
       for i, element in ipairs(findAll('//th'))
       do
-        ret[i] = 'C'
+        ret[i] = 'l'
       end
-      return ' ' .. table.concat(ret, ' ') .. ' '
+      return ' ' .. table.concat(ret, ' | ') .. ' '
     )@@
 
   body: |
@@ -643,17 +641,17 @@ tbody/tr: |
 
 td: |
   @@lua(
-   output = children()
+    output = children()
 
-  if attr('colspan') ~= "" then
-     output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
-   end
+    if attr('colspan') ~= "" then
+      output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
+    end
 
-  if attr('rowspan') ~= "" then
-    output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
-  end
-  
-  return output
+    if attr('rowspan') ~= "" then
+      output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
+    end
+
+    return output
   )@@
 
 
