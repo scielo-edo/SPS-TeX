@@ -1,5 +1,6 @@
 article[@xml:lang="pt"]:
   head: |
+    % template.yaml 2.1.1 (trans-title-group; history; @date-type; ack)
     \documentclass{article}
     \usepackage{scielo}
 
@@ -70,6 +71,8 @@ article[@xml:lang="es"]:
     \input{metadata}
     \end{document}
 
+
+
 sub-article: ""
 
 
@@ -94,28 +97,41 @@ subtitle[1]:
 
       \newcommand{\subtitle}{@@children}
 
-trans-title[@xml:lang="pt"]:
+trans-title-group[@xml:lang="pt"]:
   head: |
 
       \newcommand{\transtitlefr}{@@children}
 
 
-trans-title[@xml:lang="fr"]:
+trans-title-group[@xml:lang="fr"]:
   head: |
 
       \newcommand{\transtitlefr}{@@children}
 
 
-trans-title[@xml:lang="en"]:
+trans-title-group[@xml:lang="en"]:
   head: |
 
       \newcommand{\transtitleen}{@@children}
 
 
-trans-title[@xml:lang="es"]:
+trans-title-group[@xml:lang="es"]:
   head: |
 
       \newcommand{\transtitlees}{@@children}
+
+
+
+
+trans-abstract[@xml:lang="zh"]: ""
+
+trans-abstract[@xml:lang="ar"]: ""
+
+trans-title-group[@xml:lang="zh"]: ""
+
+trans-title-group[@xml:lang="ar"]: ""
+
+trans-title-group[@xml:lang="ru"]: ""
 
 trans-subtitle: ""
 
@@ -237,8 +253,18 @@ copyright-statement:
 pub-date: 
   head: |
 
-    \date{@@lua(return find "//day")@@ @@lua(return find "//month")@@ @@lua(return find "//year")@@}
+    @@lua(return '\\date}{' .. find '//day' .. '-' .. find '//month' .. '-' .. find '//year' .. '}')@@}
 
+date: 
+  head: |
+       @@lua(if attr('date-type') ~= 'accepted' then 
+       return '\\newcommand{\\historydateaccepted}{' .. find '//day' .. '-' .. find '//month' .. '-' .. find '//year' .. '}'
+       end 
+       return '\\newcommand{\\historydatereceived}{' .. find '//day' .. '-' .. find '//month' .. '-' .. find '//year' .. '}')@@
+
+ack:
+  head: |
+      \newcommand{\ack}{@@children}
 
 subject:
   head: |
@@ -291,9 +317,12 @@ list[@list-type="roman-upper"]: |
 
 /sec: |
    \section{@@lua(return find('sec/title'))@@}
-   @@lua(return find('//p'))@@
+   @@lua(return find('sec/p'))@@
    @@lua(return find('//list'))@@
    @@lua(return find('//fig'))@@
+   @@lua(return '\\begin{quote}' .. find('//disp-quote') .. '\\end{quote}')@@
+
+
 
 copyright-year: 
   head: |
@@ -302,10 +331,6 @@ copyright-year:
 
 ext-link: "\\href{@@children}"
 
-disp-quote:  |
-    \begin{quote}
-    @@children
-    \end{quote}
 
 codebold:
   head: |
@@ -329,11 +354,11 @@ ref: |
 xref[@ref-type="fig"]: |
     @@children~\ref{fig:@@lua(return attr('rid'))@@}
 
-xref[@ref-type="fn"]:  | 
+xref[@ref-type="fn"]:  |
     @@lua(return "\\footnote{\\" .. attr 'rid' .."}")@@  
 
 
-xref[@ref-type="bibr"]:  | 
+xref[@ref-type="bibr"]:  |
     \textsuperscript{[}@@children\textsuperscript{]}  
 
 
@@ -579,15 +604,7 @@ trans-abstract[@xml:lang="fr"]: |
     \endgroup
 
 
-trans-abstract[@xml:lang="zh"]: ""
 
-trans-abstract[@xml:lang="ar"]: ""
-
-trans-title[@xml:lang="zh"]: ""
-
-trans-title[@xml:lang="ar"]: ""
-
-trans-title[@xml:lang="ru"]: ""
 
 /fig: |
   \begin{figure}
@@ -654,5 +671,3 @@ td: |
     return output
   )@@
 
-
-date: ""

@@ -1,4 +1,4 @@
-TAG=MODELO
+TAG=disp
 
 all:
 	jats2tex $(TAG).xml -t template.yaml
