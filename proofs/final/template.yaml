@@ -1,6 +1,6 @@
 article[@xml:lang="pt"]:
   head: |
-    % template.yaml 2.1.1 (trans-title-group; history; @date-type; ack)
+    % template.yaml 2.1.2 (sec/p)
     \documentclass{article}
     \usepackage{scielo}
 
@@ -319,13 +319,10 @@ list[@list-type="roman-upper"]: |
    \begin{enumerate}[(I)]
    @@children \end{enumerate}
 
-/sec: |
-   \section{@@lua(return find('sec/title'))@@}
-   @@lua(return find('sec/p'))@@
-   @@lua(return find('//list'))@@
-   @@lua(return find('//fig'))@@
-   @@lua(return '\\begin{quote}' .. find('//disp-quote') .. '\\end{quote}')@@
 
+sec: |
+   \section{@@lua(return find('sec/title'))@@}
+   @@children
 
 
 copyright-year: 
@@ -398,30 +395,8 @@ aff:
 break: "\n"
 
 
-p: |
+p: "\n\n@@children\n\n"
 
-  @@lua(
-    align_to_ragged = {
-      ["center"] = "Center",
-      ["left"] = "FlushLeft",
-      ["right"] = "FlushRight",
-    }
-
-    if attr('align') == nil then
-      return children()
-    end
-
-    env = align_to_ragged[attr('align')]
-    if env == nil then
-      return children()
-    end
-
-    return string.format([[
-      \begin{%s}
-      %s
-      \end{%s}
-    ]], env, children(), env)
-  )@@
 
 
 /abstract: |

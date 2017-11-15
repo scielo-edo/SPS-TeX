@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  12 NOV 2017 16:20
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016/Arch Linux) (preloaded format=xelatex 2017.5.22)  15 NOV 2017 15:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1246,42 +1246,39 @@ LaTeX Info: Redefining \rmfamily on input line 84.
 ) (./MODELO.aux
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
-
-
-LaTeX Warning: Label `fig:f01' multiply defined.
-
 )
 \openout1 = `MODELO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 109.
-LaTeX Font Info:    Try loading font information for EU1+lmr on input line 109.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 131.
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 131.
 
- (/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
+
+(/usr/share/texmf-dist/tex/latex/euenc/eu1lmr.fd
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Info: Redefining \dots on input line 109.
-LaTeX Info: Redefining \up on input line 109.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 131.
+LaTeX Font Info:    ... okay on input line 131.
+LaTeX Info: Redefining \dots on input line 131.
+LaTeX Info: Redefining \up on input line 131.
 \g__fontspec_family_latinmodern-math.otf_int=\count287
 .................................................
 . fontspec info: "defining-font"
@@ -1304,16 +1301,16 @@ T:script=math;language=DFLT;+ssty=1;"
 . - 'bold small caps'  (bx/sc) with NFSS spec.: 
 .................................................
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 109.
+(Font)              `operators' in the math version `normal' on input line 131.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(0)/m/n on input
- line 109.
+ line 131.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 109.
+(Font)              `operators' in the math version `bold' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(0)/bx/n on inp
-ut line 109.
+ut line 131.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1364,15 +1361,15 @@ Adjustment={\fontdimen
 . =2.5pt\relax \relax 
 .................................................
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 109.
+(Font)              `symbols' in the math version `normal' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(1)/m/n on inpu
-t line 109.
+t line 131.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 109.
+(Font)              `symbols' in the math version `bold' on input line 131.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(1)/bx/n on inp
-ut line 109.
+ut line 131.
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -1407,18 +1404,18 @@ Adjustment={\fontdimen
 .................................................
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 1
-09.
+31.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 109.
+t line 131.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 109
+(Font)              `largesymbols' in the math version `bold' on input line 131
 .
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(2)/bx/n on inp
-ut line 109.
+ut line 131.
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 109.
+Package hyperref Info: Link coloring OFF on input line 131.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1428,9 +1425,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count288
 )
-LaTeX Info: Redefining \ref on input line 109.
-LaTeX Info: Redefining \pageref on input line 109.
-LaTeX Info: Redefining \nameref on input line 109.
+LaTeX Info: Redefining \ref on input line 131.
+LaTeX Info: Redefining \pageref on input line 131.
+LaTeX Info: Redefining \nameref on input line 131.
  (./MODELO.out) (./MODELO.out)
 \@outlinefile=\write4
 \openout4 = `MODELO.out'.
@@ -1474,20 +1471,20 @@ Package caption Info: End \AtBeginDocument code.
 
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 109.
+(lastpage)             ! on input line 131.
 ABD: EveryShipout initializing macros
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.00018pt on input line 113.
+(Font)              scaled to size 12.00018pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.00012pt on input line 113.
+(Font)              scaled to size 8.00012pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.00009pt on input line 113.
+(Font)              scaled to size 6.00009pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 11.99982pt on input line 113.
+(Font)              scaled to size 11.99982pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.99988pt on input line 113.
+(Font)              scaled to size 7.99988pt on input line 135.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.99991pt on input line 113.
+(Font)              scaled to size 5.99991pt on input line 135.
  (./MODELO.toc
 LaTeX Info: Redefining \. on input line 3.
 LaTeX Info: Redefining \% on input line 3.
@@ -1495,8 +1492,8 @@ LaTeX Info: Redefining \% on input line 3.
 \tf@toc=\write5
 \openout5 = `MODELO.toc'.
 
-LaTeX Info: Redefining \. on input line 147.
-LaTeX Info: Redefining \% on input line 147.
+LaTeX Info: Redefining \. on input line 169.
+LaTeX Info: Redefining \% on input line 169.
 
 Overfull \hbox (102.20148pt too wide) has occurred while \output is active
  [][][][][][][][][][][][][]|
@@ -1504,9 +1501,6 @@ Overfull \hbox (102.20148pt too wide) has occurred while \output is active
 
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
-LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
-(Font)              scaled to size 8.0pt on input line 169.
-
 Underfull \hbox (badness 10000) has occurred while \output is active
 []\TU/LinuxLibertineO(0)/m/n/8 Correspondência | Correspondence :
  []
@@ -1531,65 +1525,62 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 \TU/LinuxLibertineO(0)/m/n/8 900 Brasília, DF, Brasil. E-mail:
  []
 
+LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
+(Font)              scaled to size 8.0pt on input line 190.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
-\TU/LinuxLibertineO(0)/m/n/8 helaine.capucho@saude.gov.br Os
- []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-\TU/LinuxLibertineO(0)/m/n/8 autores declaram não haver conflito de
+[]\TU/LinuxLibertineO(0)/m/n/8 Os autores declaram não haver conflito
  []
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.00008pt on input line 169.
+(Font)              scaled to size 5.00008pt on input line 190.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.99992pt on input line 169.
+(Font)              scaled to size 4.99992pt on input line 190.
 
 LaTeX Font Warning: Font shape `TU/lmss/m/sc' in size <10> not available
-(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 169.
+(Font)              Font shape `TU/lmr/m/sc' tried instead on input line 190.
 
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand <<
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand >>
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "=
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "~
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "!
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 Package babel Info: Redefining spanish shorthand "?
-(babel)             in language  on input line 169.
+(babel)             in language  on input line 190.
 [1
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 172.
+(babel)             in language  on input line 194.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.00015pt on input line 180.
+(Font)              scaled to size 10.00015pt on input line 203.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.01247pt on input line 180.
+(Font)              scaled to size 7.01247pt on input line 203.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 4.9808pt on input line 180.
+(Font)              scaled to size 4.9808pt on input line 203.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.99985pt on input line 180.
+(Font)              scaled to size 9.99985pt on input line 203.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.01224pt on input line 180.
+(Font)              scaled to size 7.01224pt on input line 203.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 4.98067pt on input line 180.
+(Font)              scaled to size 4.98067pt on input line 203.
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 
@@ -1599,113 +1590,114 @@ Package Fancyhdr Warning: \headheight is too small (27.023pt):
  This may cause the page layout to be inconsistent, however.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 256.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 246.
+(babel)             in language  on input line 256.
 [2]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 266.
+(babel)             in language  on input line 288.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 297.
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 303.
+(babel)             in language  on input line 314.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 303.
+(babel)             in language  on input line 314.
  [3]
-Overfull \hbox (249.83202pt too wide) in paragraph at lines 321--576
+Overfull \hbox (178.46283pt too wide) in paragraph at lines 368--426
 [] 
  []
 
 
-Overfull \hbox (39.23282pt too wide) in paragraph at lines 576--661
+Overfull \hbox (25.10411pt too wide) in paragraph at lines 426--706
 [] 
  []
 
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 737.
+(babel)             in language  on input line 723.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 737.
+(babel)             in language  on input line 723.
  [4]
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 737.
+(babel)             in language  on input line 723.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 737.
+(babel)             in language  on input line 723.
  [5]
-Underfull \hbox (badness 10000) in paragraph at lines 753--753
-[][][] \TU/LinuxLibertineO(0)/m/n/8 World Health Organization. \TU/LinuxLiberti
-neO(0)/m/sc/8 who \TU/LinuxLibertineO(0)/m/n/8 launches ‘Nine patient sa-
+Underfull \hbox (badness 10000) in paragraph at lines 813--813
+[]\TU/LinuxLibertineO(0)/m/n/8 World Health Organization. \TU/LinuxLibertineO(0
+)/m/sc/8 who \TU/LinuxLibertineO(0)/m/n/8 launches ‘Nine patient sa-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 753--753
+Underfull \hbox (badness 10000) in paragraph at lines 813--813
 \TU/LinuxLibertineO(0)/m/n/8 fety solutions. Geneva; 2007 [citado 2012 jun 2]. 
 Disponível em:
  []
 
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 786.
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 811.
+(babel)             in language  on input line 814.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 811.
+(babel)             in language  on input line 814.
  [6]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 815.
 File: 0034-8910-rsp-47-04-0791-gf01.jpg Graphic file (type QTm)
  <use  "0034-8910-rsp-47-04-0791-gf01.jpg" >
-File: 0034-8910-rsp-47-04-0791-g1.jpg Graphic file (type QTm)
-
-<use  "0034-8910-rsp-47-04-0791-g1.jpg" >
-File: logo.png Graphic file (type QTm)
- <use  "logo.png" >
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 876.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 876.
- [7]
 File: logo.png Graphic file (type QTm)
 
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 904.
+(babel)             in language  on input line 884.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 904.
+(babel)             in language  on input line 884.
+ [7]
+File: 0034-8910-rsp-47-04-0791-g1.jpg Graphic file (type QTm)
+ <use  "0034-8910-rsp-47-04-0791-g1.jpg" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: logo.png Graphic file (type QTm)
+<use  "logo.png" >
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 947.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 947.
  [8]
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 987.
+(babel)             in language  on input line 985.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 987.
+(babel)             in language  on input line 985.
  [9]
-File: 0034-8910-rsp-47-04-0791-gf01.jpg Graphic file (type QTm)
-
-<use  "0034-8910-rsp-47-04-0791-gf01.jpg" >
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1042.
+(babel)             in language  on input line 1062.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1042.
+(babel)             in language  on input line 1062.
  [10]
-Overfull \hbox (11.07048pt too wide) in paragraph at lines 1042--1046
+Overfull \hbox (11.07048pt too wide) in paragraph at lines 1070--1074
 \TU/LinuxLibertineO(0)/m/it/10 Latino-Am Enferm\TU/LinuxLibertineO(0)/m/n/10 . 
 2011;19(5):1272-3. \TU/LinuxLibertineO(0)/m/sc/10 doi\TU/LinuxLibertineO(0)/m/n
 /10 :10.1590/S0104-11692011000500027 
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 1047--1053
+Underfull \hbox (badness 2269) in paragraph at lines 1075--1081
 \TU/LinuxLibertineO(0)/m/n/10 paração entre notificações voluntárias manuscrita
 s e informatizadas
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 1047--1053
+Underfull \hbox (badness 1014) in paragraph at lines 1075--1081
 \TU/LinuxLibertineO(0)/m/n/10 sobre incidentes em saúde. \TU/LinuxLibertineO(0)
 /m/it/10 Rev Gaucha Enferm\TU/LinuxLibertineO(0)/m/n/10 . 2013;34(1):164-72.
  []
@@ -1713,17 +1705,17 @@ Underfull \hbox (badness 1014) in paragraph at lines 1047--1053
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1122.
+(babel)             in language  on input line 1137.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1122.
+(babel)             in language  on input line 1137.
  [11]
-Underfull \hbox (badness 1478) in paragraph at lines 1136--1139
+Underfull \hbox (badness 1478) in paragraph at lines 1164--1167
 []\TU/LinuxLibertineO(0)/m/n/10 Vincent C, Woloshynowych M. Adverse events in B
 ritish hospitals:
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 1136--1139
+Underfull \hbox (badness 1087) in paragraph at lines 1164--1167
 \TU/LinuxLibertineO(0)/m/n/10 preliminary retrospective record review. \TU/Linu
 xLibertineO(0)/m/itsc/10 bmj\TU/LinuxLibertineO(0)/m/n/10 . 2001;322(7285):517-
 9.
@@ -1733,41 +1725,37 @@ xLibertineO(0)/m/itsc/10 bmj\TU/LinuxLibertineO(0)/m/n/10 . 2001;322(7285):517-
 File: logo.png Graphic file (type QTm)
  <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 21.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 27.
+(babel)             in language  on input line 21.
  [12]) 
 AED: lastpage setting LastPage
 File: logo.png Graphic file (type QTm)
 <use  "logo.png" >
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1152.
+(babel)             in language  on input line 1180.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1152.
+(babel)             in language  on input line 1180.
  [13]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 1152.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1152.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1152.
+(babel)             in language  on input line 1180.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1180.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1180.
  (./MODELO.aux
 LaTeX Info: Redefining \. on input line 31.
 LaTeX Info: Redefining \% on input line 31.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1152.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1152.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1180.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 1180.
  )
 (\end occurred when \ifx on line 161 was incomplete) 
 Here is how much of TeX's memory you used:
  36152 strings out of 493068
  675065 string characters out of 6141028
- 865850 words of memory out of 5000000
+ 865832 words of memory out of 5000000
  39513 multiletter control sequences out of 15000+600000
  11157 words of font info for 74 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
- 73i,17n,77p,10383b,1340s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,18n,77p,10383b,1336s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on MODELO.xdv (13 pages, 349572 bytes).
+Output written on MODELO.xdv (13 pages, 354164 bytes).

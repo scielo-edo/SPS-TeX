@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1510510849 "MODELO.xdv" "MODELO.pdf" "MODELO" 1510510850
-  "MODELO.xdv" 1510510848 349572 8cd0f55ad136243d82887a2947f6c4fc "xelatex"
+["xdvipdfmx"] 1510766323 "MODELO.xdv" "MODELO.pdf" "MODELO" 1510766324
+  "MODELO.xdv" 1510766322 354164 7d163e0d5d6be35dfa2ba0c400eb5220 "xelatex"
   (generated)
   "MODELO.pdf"
-["xelatex"] 1510510841 "MODELO.tex" "MODELO.xdv" "MODELO" 1510510850
+["xelatex"] 1510766315 "MODELO.tex" "MODELO.xdv" "MODELO" 1510766324
   "/home/editorial/texmf/tex/penalidades.sty" 1492710435 5285 18e80aeaf88f978c2e3015ab1691a5e2 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1492575644 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/share/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1492575648 1528 f853c4d1b4e0550255e02831fdc8496f ""
@@ -184,16 +184,16 @@
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1495496277 4105410 32648e27c4f98bc572fcbad77761440e ""
   "0034-8910-rsp-47-04-0791-g1.jpg" 1509992596 1576 2e1b08f95d779721b85025d84d58207c ""
   "0034-8910-rsp-47-04-0791-gf01.jpg" 1509992512 512440 328578a449b8ebe384eb0e282be0f00a ""
-  "MODELO.aux" 1510510848 2223 0c700c17ee9faa798293bb0f9cf1e3c9 ""
-  "MODELO.out" 1510510848 609 d2402cf000831ed9a482ea4decb86f3a ""
-  "MODELO.tex" 1510510837 38864 fd6b3291f1e8b7da3075f71c142baf1e ""
-  "MODELO.toc" 1510510848 387 e197ff29de1add65426f23c5e1432b74 ""
+  "MODELO.aux" 1510766322 2210 4dbafacf1be44c836f68e4a1b625faf5 ""
+  "MODELO.out" 1510766322 991 b784d9f9dfa6eb9f42d5e85505c2e905 ""
+  "MODELO.tex" 1510766290 39381 5201645757b2e9494630221b22b3fb3d ""
+  "MODELO.toc" 1510766322 515 7be11599d2807ef1083f47e03a01128d ""
   "logo.png" 1510314023 12988 1c9cbe730563243214f13e22d247df0c ""
-  "metadata.tex" 1510510820 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
+  "metadata.tex" 1510766290 1914 e05a2c8cae51573ba6e4ed3e2cf5921a ""
   "scielo.sty" 1510314023 3510 1a2c8bb3b66a18d23d956f6873ea2131 ""
   (generated)
-  "MODELO.aux"
-  "MODELO.log"
   "MODELO.xdv"
-  "MODELO.toc"
+  "MODELO.log"
   "MODELO.out"
+  "MODELO.aux"
+  "MODELO.toc"
