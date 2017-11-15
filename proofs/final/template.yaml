@@ -253,13 +253,17 @@ copyright-statement:
 pub-date: 
   head: |
 
-    @@lua(return '\\date}{' .. find '//day' .. '-' .. find '//month' .. '-' .. find '//year' .. '}')@@}
+    @@lua(return '\\date{' .. find '//day' .. ' ' .. find '//month' .. ' ' .. find '//year' .. '}')@@
 
 date: 
   head: |
+
        @@lua(if attr('date-type') ~= 'accepted' then 
+       
        return '\\newcommand{\\historydateaccepted}{' .. find '//day' .. '-' .. find '//month' .. '-' .. find '//year' .. '}'
+       
        end 
+
        return '\\newcommand{\\historydatereceived}{' .. find '//day' .. '-' .. find '//month' .. '-' .. find '//year' .. '}')@@
 
 ack:
@@ -640,7 +644,7 @@ thead/tr:
       do
         ret[i] = 'l'
       end
-      return ' ' .. table.concat(ret, ' | ') .. ' '
+      return ' ' .. table.concat(ret, ' ') .. ' '
     )@@
 
   body: |
@@ -670,4 +674,3 @@ td: |
 
     return output
   )@@
-
