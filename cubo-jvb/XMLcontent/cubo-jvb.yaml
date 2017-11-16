@@ -1,0 +1,174 @@
+article:
+  head: |
+    \documentclass[numberinsection,times,10pt,spreadimages]{memoir}
+
+    % jats2tex requirements
+    % \usepackage[T1]{fontenc}
+    % \usepackage{amstext}
+    % \usepackage{authblk}
+    % \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+    \usepackage[jvb]{scielo}
+
+    @@heads
+
+    \newcommand{\scieloYear}{2015}
+    \newcommand\scieloArticlePubIdType{DOI}
+    \newcommand\scieloArticleType{ORIGINAL ARTICLE}
+    \newcommand{\scieloArticleRef}{2015 Oct.-Dec.; 14(4):281-288}
+    \newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/1677-5449.004015}
+    \newcommand{\scieloHeader}{Walter Junior Boim Araujo, Jorge Rufino Ribas Timi et al.}
+    \newcommand{\scieloAuthor}{Walter Junior Boim Araujo\scieloContributorFn{1}{xx}{1}{}, Jorge Rufino Ribas Timi\scieloContributorFn{1}{xx}{1}{}, Carlos Seme Nejm Júnior\scieloContributorFn{1}{xx}{1}{}, Filipe Carlos CaronCronos}
+
+    \begin{document}
+
+    \setcounter{footnote}{4}
+    \selectlanguage{english}
+
+    @@bodies
+
+    \end{document}
+
+article-title:
+  head: |
+    @@lua(
+      if attr('lang') == 'en' then
+        return "\newcommand\scieloArticleTitle{" .. children() .. "}"
+      end
+
+      return "\newcommand\scieloArticleTitleTranslation{" .. children() .. "}"
+    )@@
+
+back: ""
+
+name: |
+  @@lua(
+  s = find "//surname"
+  g = find "//given-names"
+  return s .. ", " .. g
+  )@@
+
+contrib-group:
+  head: |
+    \newcommand{\scieloAuthor}{@@children}
+
+# contrib:
+#   head: |
+#     @@children
+
+aff:
+  head: |
+    \affil[@@lua(
+      return attr('id')
+    )@@]{@@lua(
+      return find('//institution')
+    )@@}
+
+break: "\n"
+
+code: |
+  \code{@@children}
+
+codebold: |
+  \code{@@children}
+
+kwd: |
+  \textit{@@children}
+
+p: |
+
+  @@children
+
+pub-date: |
+  \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
+
+abstract: |
+
+  \abstract{@@children}
+
+volume: |
+  \newcommand{\volume}{@@children}
+
+numero: |
+  \newcommand{\numero}{@@children}
+
+fpage: |
+  \newcommand{\fpage}{@@children}
+
+lpage: |
+  \newcommand{\lpage}{@@children}
+
+copyright-statement: |
+  \newcommand{\copyrightstatement}{@@children}
+
+copyright-year: |
+  \newcommand{\copyrightyear}{@@children}
+
+b: |
+  \textbf{@@children}
+
+sup: |
+  \textsuperscript{@@children}
+
+sec: |
+  \section{@@lua(return find('//title'))@@}
+  @@lua(return find('//p'))@@
+
+table: |
+  \begin{tabular}{@@heads}
+  \hline
+  @@bodies
+  \end{tabular}
+
+thead/tr:
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('//th'))
+      do
+        ret[i] = 'l'
+      end
+      return '| ' .. table.concat(ret, ' | ') .. ' |'
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(findAll('//th'), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+tbody/tr: |
+  @@lua(
+    return table.concat(findAll('//td'), ' & ') .. '\\\\ \\hline \n'
+  )@@
+
+td: |
+  @@lua(
+    output = children()
+
+    if attr('colspan') ~= "" then
+      output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
+    end
+
+    if attr('rowspan') ~= "" then
+      output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
+    end
+
+    return output
+  )@@
+
+fig: |
+  \begin{figure}[h]
+  @@children
+  \end{figure}
+
+label: |
+  \label{@@children}
+
+caption: |
+  \caption{@@children}
+
+graphic: |
+  @@lua(
+    return "\\includegraphics[width=\\textwidth]{" .. attr('xlink:href') .. "}"
+  )@@

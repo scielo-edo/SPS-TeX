@@ -1,0 +1,174 @@
+article:
+  head: |
+    \documentclass{article}
+
+    \usepackage[T1]{fontenc}
+    \usepackage{amstext}
+    \usepackage{authblk}
+    \usepackage{unicode-math}
+    \usepackage{multirow}
+    \usepackage{graphicx}
+
+    \begin{document}
+
+    @@heads
+
+    \maketitle
+
+    @@bodies
+
+    \end{document}
+
+article-title:
+  head: |
+    \title{@@children}
+
+back: ""
+
+name: |
+  @@lua(
+  s = find "//surname"
+  g = find "//given-names"
+  return s .. ", " .. g
+  )@@
+
+contrib:
+  head: |
+
+    \author[@@lua(
+      return find('//xref')
+    )@@]{@@children}
+
+aff:
+  head: |
+    \affil[@@lua(
+      return attr('id')
+    )@@]{@@lua(
+      return find('//institution')
+    )@@}
+
+break: "\n"
+
+code: |
+  \code{@@children}
+
+codebold: |
+  \code{@@children}
+
+kwd: |
+  \textit{@@children}
+
+p: |
+
+  @@lua(
+    align_to_ragged = {
+      ["center"] = "Center",
+      ["left"] = "FlushLeft",
+      ["right"] = "FlushRight",
+    }
+
+    if attr('align') == nil then
+      return children()
+    end
+
+    env = align_to_ragged[attr('align')]
+    if env == nil then
+      return children()
+    end
+
+    return string.format([[
+      \begin{%s}
+      %s
+      \end{%s}
+    ]], env, children(), env)
+  )@@
+
+pub-date: |
+  \date{@@lua(return find "//year")@@}{@@lua(return find "//month")@@}{@@lua(return find "//day")@@}
+
+abstract: |
+  \begin{abstract}
+  @@children
+  \end{abstract}
+
+trans-abstract: |
+  \begin{abstract}
+  @@children
+  \end{abstract}
+
+volume: |
+  \newcommand{\volume}{@@children}
+
+numero: |
+  \newcommand{\numero}{@@children}
+
+fpage: |
+  \newcommand{\fpage}{@@children}
+
+lpage: |
+  \newcommand{\lpage}{@@children}
+
+copyright-statement: |
+  \newcommand{\copyrightstatement}{@@children}
+
+copyright-year: |
+  \newcommand{\copyrightyear}{@@children}
+
+b: |
+  \textbf{@@children}
+
+sup: |
+  \textsuperscript{th}
+
+sec: |
+  \section{@@lua(return find('//title'))@@}
+  @@lua(return find('//p'))@@
+
+table: |
+  \begin{tabular}{@@heads}
+  \hline
+  @@bodies
+  \end{tabular}
+
+thead/tr:
+  head: |
+    @@lua(
+      local ret = {}
+      for i, element in ipairs(findAll('//th'))
+      do
+        ret[i] = 'l'
+      end
+      return '| ' .. table.concat(ret, ' | ') .. ' |'
+    )@@
+
+  body: |
+    @@lua(
+      return table.concat(findAll('//th'), ' & ') .. '\\\\ \\hline \n'
+    )@@
+
+tbody/tr: |
+  @@lua(
+    return table.concat(findAll('//td'), ' & ') .. '\\\\ \\hline \n'
+  )@@
+
+td: |
+  @@lua(
+    output = children()
+
+    if attr('colspan') ~= "" then
+      output = "\\multicolumn{" .. attr('colspan') .. "}{l}{" .. output .. "}"
+    end
+
+    if attr('rowspan') ~= "" then
+      output = "\\multirow{" .. attr('rowspan') .. "}{*}{" .. output .. "}"
+    end
+
+    return output
+  )@@
+
+fig: ""
+
+journal-title: ""
+jornal-meta: ""
+jornal-id: ""
+licence: ""
