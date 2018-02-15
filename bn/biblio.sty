@@ -1,0 +1,34 @@
+\RequirePackage{textcomp}
+\RequirePackage{relsize}
+\RequirePackage{bm}
+\RequirePackage{fix2col}
+% \RequirePackage{fixltx2e} % latex 2015 warning
+\RequirePackage{lastpage}
+\RequirePackage{ifthen}
+\RequirePackage{enumerate}
+
+\newcommand{\scieloReferencesItem}[1]{\item #1~}%\MakeTextLowercase{\textsc{#1}}]}
+
+
+
+\newenvironment{scieloReferencesContainer}[1][Bibliografia]{%
+  \frenchspacing\footnotesize
+	\ifthenelse{\equal{#1}{}}%
+        {\relax}{\section*{{#1}}\vspace{2ex}}
+        \begin{enumerate}{}{
+				\setlength\leftmargin{4mm}	% identação do texto principal em
+								% relação à margem da 'página'
+				\setlength\rightmargin{0mm}
+				\setlength\labelwidth{4mm}	% tamanho "esperado" da caixa de rótulo
+								% define também o recuo usado
+		%
+		%		\setlength\listparindent{3mm}	% tamanho da identação dos parágrafos
+								% dentro do ítem
+		%
+				\setlength\labelsep{0mm}	% espaço entre rótulo e descrição
+				\setlength\parsep{0mm}		% espaço entre parágrafos de um item
+				\setlength\itemsep{1mm}		% espaço entre items
+				\setlength\lineskip{0mm}	% espaçamento entre linhas
+		}
+	}%
+	{\end{enumerate}}

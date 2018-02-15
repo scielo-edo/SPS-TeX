@@ -1,0 +1,678 @@
+%\RequirePackage[xetex,chicagofootnotes]{tipografia} % desabilitado chicagofootnotes para customizar as notas de rodape
+\RequirePackage[xetex]{tipografia}
+%\RequirePackage[standart,sempontinhos]{toc}
+
+\RequirePackage{anyfontsize}
+\RequirePackage{changepage}
+\DisemulatePackage{setspace}
+\RequirePackage{setspace}
+\RequirePackage{tikz}
+\RequirePackage{calc}
+\RequirePackage{geometry}
+
+\RequirePackage{hedraextra}
+\RequirePackage{penalidades}
+\RequirePackage{graficos}
+\RequirePackage{hedralogo}
+\RequirePackage{hifensextras}
+\RequirePackage{aparatos}
+\RequirePackage{tabelas}
+\RequirePackage{versos}
+\RequirePackage{abstract}
+\RequirePackage{amsmath,amsfonts,amsthm} % Math packages
+\RequirePackage{epstopdf}                       % Converts .eps to .pdf
+\RequirePackage{subfig}                         % Subfigures
+\RequirePackage{booktabs}                       % Nicer tables
+\RequirePackage{fix-cm}                         % Custom fontsizes
+\RequirePackage{ctable}
+\RequirePackage{textcase}
+\RequirePackage{etoolbox}
+\RequirePackage{flushend}
+\RequirePackage{mdframed}
+\RequirePackage{multicol}
+\RequirePackage[hyphens]{url}
+
+\RequirePackage{xeCJK}
+\RequirePackage{caption}
+\RequirePackage{hyphenat}
+\RequirePackage{verse}
+\RequirePackage{seqsplit}
+\RequirePackage{lscape}
+\RequirePackage{amssymb}
+\RequirePackage{mathtools}
+\RequirePackage{enumitem}
+\RequirePackage{array}
+\RequirePackage{multirow}
+\RequirePackage{pbox}
+\RequirePackage{longtable}
+\RequirePackage[pdfpagelabels,implicit=false,hidelinks,hyperfootnotes=false]{hyperref} % configurar pagina inicial do pdf
+
+% mathml to tex
+\RequirePackage{bm} % bold
+\RequirePackage{pmml-new} % math template
+\RequirePackage{unicode-math}
+
+
+%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% fontes chinesas
+\setCJKmainfont{SimSun}
+\setCJKsansfont{SimHei}
+\setCJKmonofont{FangSong}
+
+% math
+\setmathfont{XITS Math}
+
+% remove label automatico das tabelas
+\captionsetup{justification=raggedright, singlelinecheck=false}
+\captionsetup[table]{labelformat=empty}
+
+% remove padding entre colunas da tabela
+\setlength\tabcolsep{0.005\textwidth}
+
+% includegraphics maxwidth
+\def\maxwidth#1{\ifdim\Gin@nat@width>#1 #1\else\Gin@nat@width\fi}
+
+% table columns
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% attrib verse
+%\newcommand{\attrib}[1]{%
+%\nopagebreak{\raggedleft\footnotesize #1\par}}
+\renewcommand{\poemtitlefont}{\normalfont\large\itshape\centering}
+
+% override footnotes (tipografia.sty)
+\setlength{\footnotemargin}{0mm}
+\renewcommand*{\footnoterule}{
+\vfill %
+%\noindent{\rule{\textwidth}{1.2mm}} %
+\vspace{0mm}
+}
+
+% bibliografia
+\newcommand{\scieloReferencesItem}[1]{
+\item #1
+}
+
+\newenvironment{scieloReferencesContainer}[1][Bibliografia]{%
+  \ifthenelse{\equal{#1}{}}%
+  {\relax}{\scieloSectionContainer{{#1}}\vspace{1.2mm}}
+  \begin{spacing}{1.1}
+  \fontsize{7}{8.4}\selectfont
+  \begin{enumerate}[itemindent=0mm,labelsep=0mm,leftmargin=6mm,labelwidth=6mm,align=left,itemsep=0mm]
+}%
+{%
+  \end{enumerate} 
+  \end{spacing}
+  \normalsize
+}
+
+% cores
+\definecolor{graycolor}{RGB}{220,220,222}
+\definecolor{darkgraycolor}{RGB}{148,149,153}
+
+
+% footnotes
+\newcommand{\scieloTitleFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]{}\hspace{-0.7mm}%
+}%
+
+\newcommand{\scieloContributorFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]{}\hspace{-0.7mm}%
+}%
+
+\newcommand{\scieloBodyFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\ifx&#4&%
+\protect\footnote{#2}
+\else
+\protect\footnotemark[#3]{}\hspace{-0.7mm}%
+\fi
+}%
+
+\newcommand{\scieloCorrespFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]{}\hspace{-0.7mm}%
+}%
+
+% exibicao da seção
+\newcommand{\scieloSectionContainer}[1]{%
+\section*{#1}
+}%
+\newcommand{\scieloSubSectionContainer}[1]{%
+\subsection*{#1}
+}%
+
+% exibicao dos creditos do documento
+\newcommand{\scieloLicenseContainer}[1]{%
+\vspace*{3mm}
+\noindent{\fontsize{6}{7.2}\selectfont#1}
+}%
+
+% approved / received
+\newcommand{\scieloReceivedApprovedContainer}[1]{
+\parbox[t]{\linewidth}{%
+\begin{spacing}{1.05}
+\raggedright
+{\fontsize{8}{9.6}\selectfont{#1}\\}
+\end{spacing}
+}}
+
+% correspondencia
+\newcommand{\scieloCorrespondenceContainer}[2]{%
+\parbox[t]{\linewidth}{
+\begin{spacing}{1.05}
+\raggedright
+\ifx&#1&%
+\else%
+{\fontsize{8}{9.6}\selectfont\textbf{#1}}\\%
+\fi%
+{\fontsize{8}{9.6}\selectfont{#2}\\}%
+\end{spacing}
+}}%
+
+% exibicao do abstract
+\newcommand{\scieloAbstractContainer}[4]{%
+%
+\begin{spacing}{1}
+{\par\noindent\centurygothicfont\fontsize{11.5}{13.8}\selectfont\textbf{#1}}
+\par\vspace*{0.6mm}
+{\par\noindent\fontsize{8}{9.6}\selectfont{#2}\par}
+\end{spacing}
+\scieloKeywordsContainer{#3}{#4}\par
+\vspace*{5mm}
+%
+}%
+
+\newcommand{\scieloAbstractContainerTranslation}[4]{%
+%
+\scieloAbstractContainer{#1}{#2}{#3}{#4}
+%
+}%
+
+
+% exibicao keywords abstract
+\newcommand{\scieloKeywordsContainer}[2]{%
+\setlength\parindent{4.99mm}
+\vspace*{3mm}
+{\noindent\fontsize{8}{9.6}\selectfont{\textbf{#1} #2}}
+}%
+
+% image one col command
+\newcommand{\scieloImageContainerOneCol}[3]{% {width}{url}{caption}
+\vspace{8mm}
+\centerline{
+\includegraphics[width=\maxwidth{0.99\linewidth}]{#2}
+}
+\ifx&#3&%
+\else
+\captionof{figure}{#3} 
+\fi
+\vspace{8mm}
+}%
+
+% image two col command
+\newcommand{\scieloImageContainerTwoCol}[2]{% {url}{caption}
+\begin{figure*}
+\centerfloat
+\centerline{
+\includegraphics[width=\maxwidth{0.99\linewidth}]{#1}
+}
+\ifx&#2&%
+\else
+\caption{#2} 
+\fi
+\end{figure*}
+}%
+
+% image inline  command
+\newcommand{\scieloImageInlineContainer}[1]{% {url}{caption}
+{
+\centering{
+\includegraphics[width=\maxwidth{0.5\textwidth},height=0.7cm,keepaspectratio]{#1}
+}
+}
+}%
+
+% fontes
+\newfontfamily\centurygothicfont{Century Gothic}[%  
+  BoldFont=Century Gothic Bold,%
+  ItalicFont=Century Gothic Italic,%
+  BoldItalicFont=Century Gothic Bold Italic%
+]
+\newfontfamily\calibrifont{Calibri}[%  
+  BoldFont=Calibri-Bold,%
+  ItalicFont=Calibri-Italic,%
+  BoldItalicFont=Calibri-BoldItalic%
+]
+\setmainfont{Calibri}[%  
+  BoldFont=Calibri-Bold,%
+  ItalicFont=Calibri-Italic,%
+  BoldItalicFont=Calibri-BoldItalic%
+]
+
+% footer font size
+\renewcommand{\footnotesize}{\fontsize{8.5}{10.2}\selectfont}
+
+% paragrafo
+\setlength\parindent{4.95mm}
+\setlength\parskip{0.4mm}
+
+% espaçamento dos floats figure e table
+\setlength{\textfloatsep}{5mm}
+\setlength{\dbltextfloatsep}{5mm}
+\setlength{\dblfloatsep}{5mm}
+
+\renewcommand{\thefigure}{\arabic{figure}}
+
+\epigraphtextposition{flushleft}
+\epigraphsourceposition{flushright}
+\epigraphfontsize{\footnotesize}
+\setlength{\epigraphrule}{0pt}
+\setlength{\epigraphwidth}{.7\textwidth}
+
+\renewcommand*{\@fnsymbol}[1]{%
+  % Änderungen:
+  % * Symbol "**" an Position 2 verschoben.
+  % * Symbol "***" eingefügt.
+  % * Symbole mit \dagger entfernt.
+  \ensuremath{%
+    \ifcase#1%
+    \or
+      {*}%
+    \or
+      \ddagger
+    \or
+      \mathsection
+    \or
+      \mathparagraph
+    \or
+      \ddagger\ddagger
+    \else
+      \@ctrerr
+    \fi
+  }%
+}
+
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% http://tex.stackexchange.com/questions/88304/multipage-tables-with-ctable-package
+\newif\if@ctbl@long
+\define@key{ctbl}{long}[]{\@ctbl@longtrue}
+
+\long\def\foo#1\sbox#2!!{%
+\long\expandafter\def\csname\string\ctable\endcsname[##1]##2##3##4{%
+#1\if@ctbl@long\ctbl@long\fi\sbox#2}}
+
+\expandafter\expandafter\expandafter\foo
+\csname\string\ctable\endcsname[#1]{#2}{#3}{#4}!!
+
+\def\ctbl@long\fi\sbox#1#2#3\@ctblend{\fi
+\ctbl@@long#2%
+}
+
+\long\def\ctbl@@long#1#2#3#4#5#6{%
+\ctbl@@@long#6%
+}
+
+\def\ctbl@@@long#1\begin#2#3#4\end#5{%
+\def\@tempa{#5}%
+\def\@tempb{tabular}%
+\ifx\@tempa\@tempb\else\show\@tempa\ERROR\fi
+\begin{longtable}{#3}%
+%\caption{\@ctblcaption\ifx\@ctbllabel\empty\else\label{\@ctbllabel}\fi}%
+\caption{\@ctblcaption}
+\endfirsthead
+\caption*{\@ctblcaption\space(continued)}%
+\endhead
+#4\end{longtable}}
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% END Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+% Template GN1 Acta Fisatrica %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareOption{actafisiatrica}{%
+
+
+
+
+% se showtrims, aumenta o tamanho do stock em 20mm e centraliza para o trim
+\@ifclasswith{memoir}{showtrims}{
+  \setstocksize{300mm}{230mm} % {height}{width}
+  \setpagecc{280mm}{210mm}{*} % {height}{width}{ratio}
+}
+{
+  \setstocksize{280mm}{210mm} % {height}{width}
+  \settrimmedsize{\stockheight}{\stockwidth}{*} % {height}{width}{ratio}
+  \settrims{0mm}{0mm} % {top}{foredge}
+}
+
+% ao especificiar a largura do spine e fore-edge margin a largura do blocksize é calculado automaticamente
+\setlrmarginsandblock{10mm}{10mm}{*} % {spine}{edge}{ratio}
+
+% ao especificiar a margem top e bottom a altura do blocksize é calculado automaticamente
+\setulmarginsandblock{28mm}{28mm}{*} % {upper}{lower}{ratio}
+  
+% altura do header e footer
+\setheadfoot {10mm}{10mm} % {headheight}{footskip}
+
+% margens do header
+\setheaderspaces {11.4mm}{*}{*} % {headdrop}{headsep}{ratio}
+
+% não possui margin notes
+\setlength{\marginparwidth}{0mm}
+\setlength{\marginparsep}{0mm}
+\setlength{\marginparpush}{0mm}
+
+% compila as alterações no layout
+\checkandfixthelayout
+
+
+%%% Estilo de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makepagestyle{estilo}
+
+\newcommand{\scieloHeaderContainer}{% 
+\noindent\parbox{\textwidth}{%
+\parbox[t]{0.30\textwidth}{
+\hspace*{-0.4mm}\centurygothicfont\fontsize{8}{9.6}\selectfont\textbf{Acta Fisiatr.} \scieloArticleRef
+}%
+\parbox[t]{0.70\textwidth}{
+\raggedleft\centurygothicfont\fontsize{8}{9.6}\selectfont
+\textbf{\scieloHeaderLineOne}\\
+\scieloHeaderLineTwo
+\hspace*{-1.2mm}
+}
+}
+\noindent\parbox{\textwidth}{%
+\vspace*{3.4mm}
+\par\noindent
+\begin{tikzpicture}
+\draw [dotted] (0,0) -- (\textwidth,0);
+\end{tikzpicture}
+}
+}
+
+\newcommand{\scieloFooterContainer}{% 
+\parbox{\textwidth}{%
+\vspace*{8mm}
+\centering{\includegraphics[width=65mm,keepaspectratio]{footer-line.jpg}\\
+\par\noindent\vspace*{-2.2mm}
+\par\noindent\centurygothicfont\fontsize{11.5}{13.8}\selectfont\textbf{\thepage}}
+}
+
+}% end scieloFooterContainer
+
+\makeoddhead{estilo}{\scieloHeaderContainer}{}{}
+\makeevenhead{estilo}{\scieloHeaderContainer}{}{}
+
+\makeoddfoot{estilo}{}{\scieloFooterContainer}{}
+\makeevenfoot{estilo}{}{\scieloFooterContainer}{}
+
+\pagestyle{estilo}
+
+\makepagestyle{firstpage}
+\makeoddfoot{firstpage}{}{\scieloFooterContainer}{}
+\makeevenfoot{firstpage}{}{\scieloFooterContainer}{}
+
+%%% END Estilos de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%% Abertura %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\AtBeginDocument{%
+
+\input{BEFORE-BEGINDOC-COMMANDS.tex}
+
+
+\newcommand{\articleTypeRender}{
+\parbox[t]{\linewidth}{
+\vspace*{7.4mm}
+{\hfill\raggedleft\fontsize{11}{13.2}\selectfont\textbf{\scieloArticleType}\hspace*{0.2mm}}
+\vspace*{13.5mm}
+}}%% end parbox / articleTypeRender
+
+\newcommand{\articleTitleRender}{
+
+}%end parbox / articleTitleRender
+
+%
+% calcula a altura do header
+\newlength\firstpagecolumnmargin
+\newlength\firstpagecolumnheight
+\newlength\firstpageleftcolumnwidth
+\newlength\firstpagerightcolumnwidth
+\newlength\articleTypeHeight
+\newlength\articleAuthorHeight
+
+\setlength{\firstpagecolumnmargin}{-31.9mm}
+\setlength{\firstpagecolumnheight}{\textheight + 26mm}
+\setlength{\firstpageleftcolumnwidth}{57mm}
+\setlength{\firstpagerightcolumnwidth}{\textwidth - 57mm - 7.5mm -2mm}
+\settototalheight\articleTypeHeight{\articleTypeRender}
+\settototalheight\articleAuthorHeight{\articleTitleRender}
+\setlength\articleAuthorHeight{\articleAuthorHeight}
+
+\scieloDefineFootnotes
+
+% align abstract title left
+\renewcommand{\absnamepos}{flushleft}  
+
+% abstract font size
+\renewcommand{\abstractnamefont}{\fontsize{11}{13.5}\selectfont}
+\renewcommand{\abstracttextfont}{\fontsize{9.5}{13.5}\selectfont}
+
+% abstract margins
+\setlength{\absparindent}{0mm}
+\setlength{\absleftindent}{0mm}
+\setlength{\absrightindent}{0mm}
+
+% sections
+\setsubsecindent{0mm}
+\setsecindent{0mm}
+\setbeforesecskip{4mm}
+\setaftersecskip{4mm}
+\setbeforesubsecskip{0.5mm}
+\setaftersubsecskip{0.5mm}
+\setbeforesubsubsecskip{1mm}
+\setaftersubsubsecskip{1mm}
+\setsecheadstyle{\centurygothicfont\fontsize{11.5}{13.8}\selectfont\flushleft\textbf}%
+\setsubsecheadstyle{\centurygothicfont\fontsize{9}{10.8}\selectfont\flushleft\textbf}%
+\setsubsubsecheadstyle{\centurygothicfont\fontsize{9}{10.8}\selectfont\flushleft\textbf}%
+
+\setcolsepandrule{7.5mm}{0mm} % {colsep}{thickness}
+
+% estilo da primeira pagina
+\thispagestyle{firstpage}
+
+
+\newcommand\backgroundimage{
+\par\noindent\parbox[t]{\paperwidth}{
+\hspace*{-10mm}\includegraphics[width=\paperwidth,keepaspectratio]{bg.jpg}
+}
+}
+
+\newlength\backgroundImageHeight
+\settototalheight\backgroundImageHeight{\backgroundimage}
+\setlength{\backgroundImageHeight}{\backgroundImageHeight + 4mm}
+\setlength{\backgroundImageHeight}{\backgroundImageHeight * -1}
+
+%
+%
+% bg image
+\par\noindent\vspace*{\firstpagecolumnmargin}
+\backgroundimage
+%
+%
+% left column
+\vspace*{\backgroundImageHeight}%
+
+\noindent\parbox[t][\firstpagecolumnheight][t]{\paperwidth}{
+%
+%
+\noindent{\parbox[t][\firstpagecolumnheight][t]{\firstpageleftcolumnwidth}{
+%\vbox to \firstpagecolumnheight{\hbox to 57mm{
+{{
+%
+%
+\vspace*{-7mm}
+\colorbox{graycolor}{\parbox[t][82.4mm][t]{8.4mm}{
+\centering\vfill
+\rotatebox{90}{\centurygothicfont\fontsize{14}{16.2}\selectfont{\scieloArticleType}}
+\vspace*{2.6mm}
+}}
+
+\vspace*{3mm}
+
+\colorbox{darkgraycolor}{\parbox[t][7.2mm][t]{8.2mm}{
+\vfill~
+}}
+%
+%
+%
+\vfill
+%
+
+%
+%
+%
+%
+%
+%
+\ifdef\scieloContributorsFootNotes{%
+\parbox[t]{\linewidth}{%
+\begin{spacing}{1.05}
+\raggedright
+\fontsize{8}{9.6}\selectfont{\scieloContributorsFootNotes}
+\end{spacing}%
+}
+}{}
+%
+%
+%
+%
+\parbox[t]{\linewidth}{%
+
+\ifdef\scieloCorrespondence{%
+\vspace*{4mm}
+\scieloCorrespondence%
+}{}
+
+\ifdef\scieloReceivedApproved{%
+\vspace*{4mm}
+\scieloReceivedApproved%
+}{}
+
+%
+%
+%
+\ifdef\scieloArticleDOI{
+\parbox[t]{\linewidth}{
+\vspace*{2mm}
+\fontsize{6}{7.2}\selectfont{DOI: \scieloArticleDOI}\\}
+}{}
+\vspace*{1mm}
+%
+%
+%
+}
+
+%
+%
+%
+}}
+}%end color box
+}%
+%
+% space
+\parbox[t][\firstpagecolumnheight][t]{7.5mm}{
+~\vfill
+}%
+%
+%
+%
+% right column
+%\begin{minipage}[t][\firstpagecolumnheight][t]{0.60\textwidth}
+\parbox[t][\firstpagecolumnheight][t]{\firstpagerightcolumnwidth}{
+
+%\vspace*{20mm}
+
+\par\noindent\parbox[t][11mm][t]{\firstpagerightcolumnwidth}{
+\vfill~\vfill
+}
+
+\par\noindent\parbox[t]{\firstpagerightcolumnwidth}{
+\begin{spacing}{1.7}
+\raggedright
+{\hspace*{0.5mm}\centurygothicfont\fontsize{14}{16.2}\selectfont\textbf{\scieloArticleTitle}}
+\end{spacing}
+
+\ifdef\scieloArticleTitleTranslation
+{
+\vspace*{0.8mm}
+\begin{spacing}{1.05}
+\raggedright
+\hspace*{0.5mm}\noindent\centurygothicfont\fontsize{11.5}{13.8}\selectfont\textit{\scieloArticleTitleTranslation}
+\end{spacing}
+}{}
+
+\vspace*{4.8mm}
+
+\begin{spacing}{1.2}
+{\fontsize{9}{10.8}\selectfont{\scieloAuthor}}
+\end{spacing}
+
+\vspace*{1.4mm}
+\par\noindent
+\begin{tikzpicture}
+\draw [dotted] (0,0) -- (\linewidth,0);
+\end{tikzpicture}
+
+\noindent\vspace*{0mm}
+
+\ifdef\scieloRenderAbstracts{
+{
+\scieloRenderAbstracts
+}
+}{}
+
+
+}%end right column
+
+}
+
+
+} %%%
+
+\begin{spacing}{1.07}
+
+} % END AtBeginDocument
+
+
+\AtEndDocument{%
+
+\end{spacing}
+
+}
+
+} % \DeclareOption{actafisiatrica}{
+
+
+%END GN1 Acta Fisiatrica %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\DeclareOption{trimframe}{\renewcommand{\marcadecorte}{\trimFrame}}
+\DeclareOption{sembinding}{\setbinding{0mm}}
+\DeclareOption{semcabeco}{
+      \setulmargins{*}{*}{1.9}
+      \headsep=0pt}
+
+\DeclareOption{numberinsection}{%
+\setcounter{secnumdepth}{4}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\let\l@subsection\l@section
+\let\l@section\l@chapter}
+
+\ProcessOptions

@@ -1,0 +1,666 @@
+%\RequirePackage[xetex,chicagofootnotes]{tipografia} % desabilitado chicagofootnotes para customizar as notas de rodape
+\RequirePackage[xetex]{tipografia}
+%\RequirePackage[standart,sempontinhos]{toc}
+
+\RequirePackage{anyfontsize}
+\RequirePackage{changepage}
+\DisemulatePackage{setspace}
+\RequirePackage{setspace}
+%\RequirePackage{tikz}
+\RequirePackage{calc}
+\RequirePackage{geometry}
+
+\RequirePackage{hedraextra}
+\RequirePackage{penalidades}
+\RequirePackage{graficos}
+\RequirePackage{hedralogo}
+\RequirePackage{hifensextras}
+\RequirePackage{aparatos}
+\RequirePackage{tabelas}
+\RequirePackage{versos}
+\RequirePackage{abstract}
+\RequirePackage{amsmath,amsfonts,amsthm} % Math packages
+\RequirePackage{epstopdf}                       % Converts .eps to .pdf
+\RequirePackage{subfig}                         % Subfigures
+\RequirePackage{booktabs}                       % Nicer tables
+\RequirePackage{fix-cm}                         % Custom fontsizes
+\RequirePackage{ctable}
+\RequirePackage{textcase}
+\RequirePackage{etoolbox}
+\RequirePackage{flushend}
+\RequirePackage{mdframed}
+\RequirePackage{multicol}
+\RequirePackage[hyphens]{url}
+
+\RequirePackage{xeCJK}
+\RequirePackage{caption}
+\RequirePackage{hyphenat}
+\RequirePackage{verse}
+\RequirePackage{seqsplit}
+\RequirePackage{lscape}
+\RequirePackage{amssymb}
+\RequirePackage{mathtools}
+\RequirePackage{enumitem}
+\RequirePackage{array}
+\RequirePackage{multirow}
+\RequirePackage{pbox}
+\RequirePackage{longtable}
+\RequirePackage[pdfpagelabels,implicit=false,hidelinks,hyperfootnotes=false]{hyperref} % configurar pagina inicial do pdf
+
+% mathml to tex
+\RequirePackage{bm} % bold
+\RequirePackage{pmml-new} % math template
+\RequirePackage{unicode-math}
+
+
+%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% fontes chinesas
+\setCJKmainfont{SimSun}
+\setCJKsansfont{SimHei}
+\setCJKmonofont{FangSong}
+
+% math
+\setmathfont{XITS Math}
+
+% remove label automatico das tabelas
+\captionsetup{justification=raggedright, singlelinecheck=false}
+\captionsetup[table]{labelformat=empty}
+
+% remove padding entre colunas da tabela
+\setlength\tabcolsep{0.005\textwidth}
+
+% includegraphics maxwidth
+\def\maxwidth#1{\ifdim\Gin@nat@width>#1 #1\else\Gin@nat@width\fi}
+
+% table columns
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% attrib verse
+%\newcommand{\attrib}[1]{%
+%\nopagebreak{\raggedleft\footnotesize #1\par}}
+\renewcommand{\poemtitlefont}{\normalfont\large\itshape\centering}
+
+% override footnotes (tipografia.sty)
+\setlength{\footnotemargin}{0mm}
+\renewcommand*{\footnoterule}{
+\vfill %
+%\noindent{\rule{\textwidth}{1.2mm}} %
+\vspace{0mm}
+}
+
+% bibliografia
+\newcommand{\scieloReferencesItem}[1]{
+\item #1\vspace*{-1mm}
+}
+
+\newenvironment{scieloReferencesContainer}[1][Bibliografia]{%
+  \ifthenelse{\equal{#1}{}}%
+  {\relax}{\scieloSectionContainer{{#1}}\vspace{1.2mm}}
+  \begin{spacing}{0.95}
+  \zurichlightcondensedfont\fontsize{8.5}{10.2}\selectfont
+  \begin{enumerate}[itemindent=0mm,labelsep=0.5mm,leftmargin=7.2mm,labelwidth=2mm,align=right,itemsep=0mm]
+}%
+{%
+  \end{enumerate} 
+  \end{spacing}
+  \normalsize
+}
+
+% cores
+\definecolor{graycolor}{RGB}{220,220,222}
+
+
+% footnotes
+\newcommand{\scieloTitleFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]{}\hspace{-0.7mm}%
+}%
+
+\newcommand{\scieloContributorFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]{}\hspace{-0.7mm}%
+}%
+
+\newcommand{\scieloBodyFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\ifx&#4&%
+\protect\footnote{#2}
+\else
+\protect\footnotemark[#3]{}\hspace{-0.7mm}%
+\fi
+}%
+
+\newcommand{\scieloCorrespFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]{}\hspace{-0.7mm}%
+}%
+
+% exibicao da seção
+\newcommand{\scieloSectionContainer}[1]{%
+\section*{#1}
+}%
+\newcommand{\scieloSubSectionContainer}[1]{%
+\subsection*{#1}
+}%
+
+% exibicao dos creditos do documento
+\newcommand{\scieloLicenseContainer}[1]{%
+\vspace*{3mm}
+\noindent{\fontsize{6}{7.2}\selectfont#1}
+}%
+
+\newcommand{\scieloInterestsConflictContainer}[2]{%
+\parbox[t]{\linewidth}{%
+\begin{spacing}{1.05}
+\raggedright
+\ifx&#1&%
+\else%
+{\zurichcondensedfont\fontsize{8}{9.6}\selectfont\textbf{#1}}~%
+\fi%
+{\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{#2}\\}
+\end{spacing}
+}}
+
+% approved / received
+\newcommand{\scieloReceivedApprovedContainer}[1]{
+\parbox[t]{\linewidth}{%
+\begin{spacing}{1.05}
+\raggedright
+{\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{#1}\\}
+\end{spacing}
+}}
+
+% correspondencia
+\newcommand{\scieloCorrespondenceContainer}[2]{%
+\parbox[t]{\linewidth}{
+\begin{spacing}{1.05}
+\raggedright
+\ifx&#1&%
+\else%
+{\zurichcondensedfont\fontsize{8}{9.6}\selectfont\textbf{#1}}\\%
+\fi%
+{\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{#2}\\}%
+\end{spacing}
+}}%
+
+\newcommand{\scieloRespEditorContainer}[2]{%
+\parbox[t]{\linewidth}{%
+\begin{spacing}{1.05}
+\raggedright
+\ifx&#1&%
+\else%
+{\zurichcondensedfont\fontsize{8}{9.6}\selectfont\textbf{#1}}~%
+\fi%
+{\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{#2}\\}
+\end{spacing}
+}}%
+
+% exibicao do abstract
+\newcommand{\scieloAbstractContainer}[4]{%
+%
+\begin{spacing}{1}
+\par\zurichcondensedfont\fontsize{10}{12}\selectfont\textbf{#1}
+\par\vspace*{3mm}
+\par\adobegaramondprofont\fontsize{10}{12}\selectfont{#2}\par
+\end{spacing}
+\scieloKeywordsContainer{#3}{#4}\par
+\vspace*{3.6mm}
+%
+}%
+
+\newcommand{\scieloAbstractContainerTranslation}[4]{%
+%
+\scieloAbstractContainer{#1}{#2}{#3}{#4}
+%
+}%
+
+
+% exibicao keywords abstract
+\newcommand{\scieloKeywordsContainer}[2]{%
+\setlength\parindent{4.99mm}
+\vspace*{3mm}
+{\noindent\adobegaramondprofont\fontsize{10}{12}\selectfont{\textbf{#1} #2}}
+}%
+
+
+\newcommand{\scieloRenderAbstractTranslationsGroup}[1]{%
+\ifdef\scieloRenderAbstractTranslations{%
+\noindent\rule{\textwidth}{0.2mm}
+\begin{multicols}{2}
+\scieloRenderAbstractTranslations
+\end{multicols}
+}{}
+}
+
+% image one col command
+\newcommand{\scieloImageContainerOneCol}[3]{% {width}{url}{caption}
+\vspace{8mm}
+\centerline{
+\includegraphics[width=\maxwidth{0.99\linewidth}]{#2}
+}
+\ifx&#3&%
+\else
+\captionof{figure}{#3} 
+\fi
+\vspace{8mm}
+}%
+
+% image two col command
+\newcommand{\scieloImageContainerTwoCol}[2]{% {url}{caption}
+\begin{figure*}
+\centerfloat
+\centerline{
+\includegraphics[width=\maxwidth{0.99\linewidth}]{#1}
+}
+\ifx&#2&%
+\else
+\caption{#2} 
+\fi
+\end{figure*}
+}%
+
+% image inline  command
+\newcommand{\scieloImageInlineContainer}[1]{% {url}{caption}
+{
+\centering{
+\includegraphics[width=\maxwidth{0.5\textwidth},height=0.7cm,keepaspectratio]{#1}
+}
+}
+}%
+
+% fontes
+
+\newfontfamily\zurichcondensedfont{Zurich Cn BT}[%
+  BoldFont=Zurich Cn BT Bold,%
+  ItalicFont=Zurich Cn BT Italic,%
+  BoldItalicFont=Zurich Cn BT Bold Italic%
+]
+\newfontfamily\zurichlightfont{Zurich Lt BT}
+\newfontfamily\zurichlightcondensedfont{Zurich LtCn BT}
+
+\newfontfamily\adobegaramondprofont{Adobe Garamond Pro}[%
+  BoldFont=Adobe Garamond Pro Bold,%
+  ItalicFont=Adobe Garamond Pro Italic,%
+  BoldItalicFont=Adobe Garamond Pro Bold Italic%
+]
+\setmainfont{Adobe Garamond Pro}[%
+  BoldFont=Adobe Garamond Pro Bold,%
+  ItalicFont=Adobe Garamond Pro Italic,%
+  BoldItalicFont=Adobe Garamond Pro Bold Italic%
+]
+
+% footer font size
+\renewcommand{\footnotesize}{\fontsize{8.5}{10.2}\selectfont}
+
+% paragrafo
+\setlength\parindent{4.99mm}
+\setlength\parskip{0.4mm}
+
+% espaçamento dos floats figure e table
+\setlength{\textfloatsep}{5mm}
+\setlength{\dbltextfloatsep}{5mm}
+\setlength{\dblfloatsep}{5mm}
+
+\renewcommand{\thefigure}{\arabic{figure}}
+
+\epigraphtextposition{flushleft}
+\epigraphsourceposition{flushright}
+\epigraphfontsize{\footnotesize}
+\setlength{\epigraphrule}{0pt}
+\setlength{\epigraphwidth}{.7\textwidth}
+
+\renewcommand*{\@fnsymbol}[1]{%
+  % Änderungen:
+  % * Symbol "**" an Position 2 verschoben.
+  % * Symbol "***" eingefügt.
+  % * Symbole mit \dagger entfernt.
+  \ensuremath{%
+    \ifcase#1%
+    \or
+      {*}%
+    \or
+      \ddagger
+    \or
+      \mathsection
+    \or
+      \mathparagraph
+    \or
+      \ddagger\ddagger
+    \else
+      \@ctrerr
+    \fi
+  }%
+}
+
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% http://tex.stackexchange.com/questions/88304/multipage-tables-with-ctable-package
+\newif\if@ctbl@long
+\define@key{ctbl}{long}[]{\@ctbl@longtrue}
+
+\long\def\foo#1\sbox#2!!{%
+\long\expandafter\def\csname\string\ctable\endcsname[##1]##2##3##4{%
+#1\if@ctbl@long\ctbl@long\fi\sbox#2}}
+
+\expandafter\expandafter\expandafter\foo
+\csname\string\ctable\endcsname[#1]{#2}{#3}{#4}!!
+
+\def\ctbl@long\fi\sbox#1#2#3\@ctblend{\fi
+\ctbl@@long#2%
+}
+
+\long\def\ctbl@@long#1#2#3#4#5#6{%
+\ctbl@@@long#6%
+}
+
+\def\ctbl@@@long#1\begin#2#3#4\end#5{%
+\def\@tempa{#5}%
+\def\@tempb{tabular}%
+\ifx\@tempa\@tempb\else\show\@tempa\ERROR\fi
+\begin{longtable}{#3}%
+%\caption{\@ctblcaption\ifx\@ctbllabel\empty\else\label{\@ctbllabel}\fi}%
+\caption{\@ctblcaption}
+\endfirsthead
+\caption*{\@ctblcaption\space(continued)}%
+\endhead
+#4\end{longtable}}
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%% END Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+
+% Template GN1 RBTI %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareOption{rbti}{%
+
+
+
+
+% se showtrims, aumenta o tamanho do stock em 20mm e centraliza para o trim
+\@ifclasswith{memoir}{showtrims}{
+  \setstocksize{300mm}{230mm} % {height}{width}
+  \setpagecc{280mm}{210mm}{*} % {height}{width}{ratio}
+}
+{
+  \setstocksize{280mm}{210mm} % {height}{width}
+  \settrimmedsize{\stockheight}{\stockwidth}{*} % {height}{width}{ratio}
+  \settrims{0mm}{0mm} % {top}{foredge}
+}
+
+% ao especificiar a largura do spine e fore-edge margin a largura do blocksize é calculado automaticamente
+\setlrmarginsandblock{14.78mm}{14.78mm}{*} % {spine}{edge}{ratio}
+
+% ao especificiar a margem top e bottom a altura do blocksize é calculado automaticamente
+\setulmarginsandblock{24mm}{31mm}{*} % {upper}{lower}{ratio}
+  
+% altura do header e footer
+\setheadfoot {6.8mm}{16.6mm} % {headheight}{footskip}
+
+% margens do header
+\setheaderspaces {5mm}{*}{*} % {headdrop}{headsep}{ratio}
+
+% não possui margin notes
+\setlength{\marginparwidth}{0mm}
+\setlength{\marginparsep}{0mm}
+\setlength{\marginparpush}{0mm}
+
+% compila as alterações no layout
+\checkandfixthelayout
+
+
+%%% Estilo de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makepagestyle{estilo}
+
+\makeoddhead{estilo}{\zurichcondensedfont\fontsize{7}{8.4}\selectfont{\textbf{\thepage}}\hspace*{3.9mm}{\zurichlightfont\fontsize{7}{8.4}\selectfont\scieloHeaderEven}}{}{}
+\makeevenhead{estilo}{}{}{\zurichlightfont\fontsize{7}{8.4}\selectfont{\scieloHeaderOdd\hspace*{3.9mm}{\zurichcondensedfont\fontsize{7}{8.4}\selectfont\textbf\thepage}}}
+
+\makeoddfoot{estilo}{}{}{\zurichcondensedfont\fontsize{7}{8.4}\selectfont{Rev Bras Ter Intensiva. \scieloArticleRef}}
+\makeevenfoot{estilo}{\zurichcondensedfont\fontsize{7}{8.4}\selectfont{Rev Bras Ter Intensiva. \scieloArticleRef}}{}{}
+
+\pagestyle{estilo}
+
+\makepagestyle{firstpage}
+\makeoddfoot{firstpage}{}{}{\zurichcondensedfont\fontsize{7}{8.4}\selectfont{Rev Bras Ter Intensiva. \scieloArticleRef}}
+\makeevenfoot{firstpage}{\zurichcondensedfont\fontsize{7}{8.4}\selectfont{Rev Bras Ter Intensiva. \scieloArticleRef}}{}{}
+
+%%% END Estilos de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%%% Abertura %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\AtBeginDocument{%
+
+\input{BEFORE-BEGINDOC-COMMANDS.tex}
+
+
+\newcommand{\articleTypeRender}{
+\parbox[t]{\linewidth}{
+\vspace*{7.4mm}
+{\hfill\raggedleft\zurichcondensedfont\fontsize{11}{13.2}\selectfont\textbf{\scieloArticleType}\hspace*{0.2mm}}
+\vspace*{13.5mm}
+}}%% end parbox / articleTypeRender
+
+\newcommand{\articleTitleRender}{
+\parbox[t]{\firstpagerightcolumnwidth}{
+\begin{spacing}{1.5}
+\raggedright
+{\adobegaramondprofont\fontsize{16}{19.2}\selectfont\textbf{\scieloArticleTitle}}
+\end{spacing}
+
+\ifdef\scieloArticleTitleTranslation
+{
+\vspace*{-1.2mm}
+\begin{spacing}{1.05}
+\raggedright
+\noindent\adobegaramondprofont\fontsize{14}{16.8}\selectfont\textit{\scieloArticleTitleTranslation}
+\end{spacing}
+}{}
+
+\vspace*{4mm}
+}}%end parbox / articleTitleRender
+
+%
+% calcula a altura do header
+\newlength\firstpagecolumnmargin
+\newlength\firstpagecolumnheight
+\newlength\firstpageleftcolumnwidth
+\newlength\firstpagerightcolumnwidth
+\newlength\articleTypeHeight
+\newlength\articleAuthorHeight
+
+\setlength{\firstpagecolumnmargin}{\uppermargin + \headdrop + 3mm}
+\setlength{\firstpagecolumnmargin}{\firstpagecolumnmargin * -1}
+\setlength{\firstpagecolumnheight}{250.5mm}
+\setlength{\firstpageleftcolumnwidth}{57mm}
+\setlength{\firstpagerightcolumnwidth}{\textwidth - 56mm - 5mm -2mm}
+\settototalheight\articleTypeHeight{\articleTypeRender}
+\settototalheight\articleAuthorHeight{\articleTitleRender}
+\setlength\articleAuthorHeight{\articleAuthorHeight}
+
+\scieloDefineFootnotes
+
+% align abstract title left
+\renewcommand{\absnamepos}{flushleft}  
+
+% abstract font size
+\renewcommand{\abstractnamefont}{\fontsize{11}{13.5}\selectfont}
+\renewcommand{\abstracttextfont}{\fontsize{9.5}{13.5}\selectfont}
+
+% abstract margins
+\setlength{\absparindent}{0mm}
+\setlength{\absleftindent}{0mm}
+\setlength{\absrightindent}{0mm}
+
+% sections
+\setsubsecindent{\parindent}
+\setsecindent{\parindent}
+\setbeforesecskip{0mm}
+\setaftersecskip{1.8mm}
+\setbeforesubsecskip{0mm}
+\setaftersubsecskip{2mm}
+\setbeforesubsubsecskip{2mm}
+\setaftersubsubsecskip{2mm}
+\setsecheadstyle{\zurichcondensedfont\fontsize{11}{13.2}\selectfont\flushleft\textbf}%
+\setsubsecheadstyle{\zurichcondensedfont\fontsize{11}{13.2}\selectfont\flushleft\textbf}%
+\setsubsubsecheadstyle{\zurichcondensedfont\fontsize{9}{10.8}\selectfont\flushleft\textbf}%
+
+\setcolsepandrule{7.5mm}{0mm} % {colsep}{thickness}
+
+% estilo da primeira pagina
+\thispagestyle{firstpage}
+%
+%
+% left column
+\vspace*{\firstpagecolumnmargin}%
+\noindent\parbox[t][\firstpagecolumnheight][t]{\paperwidth}{
+%
+%
+\noindent\hspace*{-2mm}\colorbox{graycolor}{\parbox[t][\firstpagecolumnheight][t]{\firstpageleftcolumnwidth}{
+%\vbox to \firstpagecolumnheight{\hbox to 57mm{
+{{
+%
+%
+% margem lateral
+\noindent\hspace*{3.6mm}\parbox[t][\firstpagecolumnheight][t]{48.2mm}{%
+%
+%
+%
+\vspace*{\articleTypeHeight}
+%
+%
+%
+\parbox[t][\articleAuthorHeight][t]{\linewidth}{%
+\raggedright
+\begin{spacing}{0.7}
+{\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{\scieloAuthor}}
+\end{spacing}
+}
+%
+%
+%
+%
+%
+%
+\ifdef\scieloContributorsFootNotes{%
+\parbox[t]{\linewidth}{%
+\begin{spacing}{1.05}
+\raggedright
+\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{\scieloContributorsFootNotes}
+\end{spacing}%
+}
+}{}
+%
+%
+\vfill
+%
+%
+%
+\parbox[t]{\linewidth}{%
+
+\ifdef\scieloInterestsConflict{%
+\scieloInterestsConflict%
+%\vspace*{1mm}
+}{}
+
+\ifdef\scieloReceivedApproved{%
+\vspace*{2mm}
+\scieloReceivedApproved%
+}{}
+
+\ifdef\scieloCorrespondence{%
+\vspace*{4mm}
+\scieloCorrespondence%
+}{}
+
+\ifdef\scieloRespEditor{%
+\vspace*{4mm}
+\scieloRespEditor%
+}{}
+
+%
+%
+%
+\ifdef\scieloArticleDOI{
+\parbox[t]{\linewidth}{
+\vspace*{2mm}
+\zurichlightcondensedfont\fontsize{8}{9.6}\selectfont{DOI: \scieloArticleDOI}\\}
+}{}
+\vspace*{1.5mm}
+%
+%
+%
+}
+
+
+%
+}\hspace*{3.6mm}%end margem
+%
+%
+%
+}}
+}%end color box
+}%
+%
+% space
+\parbox[t][\firstpagecolumnheight][t]{5mm}{
+~\vfill
+}
+%
+%
+%
+% right column
+%\begin{minipage}[t][\firstpagecolumnheight][t]{0.60\textwidth}
+\parbox[t][\firstpagecolumnheight][t]{\firstpagerightcolumnwidth}{
+
+\articleTypeRender
+
+\articleTitleRender
+
+\ifdef\scieloRenderAbstract{
+{
+\setlength\parindent{4.99mm}
+\setlength{\multicolsep}{0mm}
+\begin{multicols*}{2}
+\scieloRenderAbstract
+\end{multicols*}
+}
+}{}
+%
+%
+%
+%\end{minipage}
+}
+
+
+} %%%
+
+\begin{spacing}{0.95}
+
+} % END AtBeginDocument
+
+
+\AtEndDocument{%
+
+\end{spacing}
+
+}
+
+} % \DeclareOption{rbti}{
+
+
+%END GN1 RBTI %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\DeclareOption{trimframe}{\renewcommand{\marcadecorte}{\trimFrame}}
+\DeclareOption{sembinding}{\setbinding{0mm}}
+\DeclareOption{semcabeco}{
+      \setulmargins{*}{*}{1.9}
+      \headsep=0pt}
+
+\DeclareOption{numberinsection}{%
+\setcounter{secnumdepth}{4}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\let\l@subsection\l@section
+\let\l@section\l@chapter}
+
+\ProcessOptions

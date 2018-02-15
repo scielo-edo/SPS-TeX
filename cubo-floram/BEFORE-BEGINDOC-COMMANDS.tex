@@ -1,0 +1,27 @@
+\makeatletter
+\def\@fnsymbol#1{
+     \ensuremath{
+         \ifcase#1
+\or 1
+         \fi
+     }
+}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\makeatother
+
+\newcommand\scieloDefineFootnotes{
+\footnotetext[1]{Departamento de Ciência Florestal, Faculdade de Ciências Agronômicas, Universidade Estadual Paulista - UNESP, Botucatu/SP, Brasil}
+}
+
+\newcommand{\scieloYear}{2015}
+\newcommand\scieloArticlePubIdType{DOI}
+\newcommand\scieloArticleType{Artigo Original}
+\newcommand{\scieloArticleRef}{2015; 22(3): 355-367}
+\newcommand\scieloArticleTitle{Estrutura Diamétrica e Arranjo Espacial das Espécies Mais Abundantes de um Fragmento de Floresta Estacional Semidecidual em Botucatu, SP} 
+%\newcommand\scieloArticleTitleTranslation{Tradução do título 1\\Tradução do título 2}
+\newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/2179-8087.027713} 
+\newcommand{\scieloHeader}{Estrutura Diamétrica e Arranjo Espacial...}
+\newcommand{\scieloAuthor}{Luiz Alberto Blanco Jorge\scieloContributorFn{1}{xx}{1}{}, Thais Maria Millani\scieloContributorFn{1}{xx}{1}{}, Renata Cristina Batista Fonseca\scieloContributorFn{1}{xx}{1}{}, Aparecido Agostinho}
+\newcommand\scieloContributorsFootNotes{\textsuperscript{1}Departamento de Ciência Florestal, Faculdade de Ciências Agronômicas, Universidade Estadual Paulista - UNESP, Botucatu/SP, Brasil}
+\newcommand{\scieloISSNImpresso}{1415-0980}
+\newcommand{\scieloISSNOnline}{2179-8087}

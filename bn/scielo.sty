@@ -1,0 +1,448 @@
+\RequirePackage[xetex,chicagofootnotes]{tipografia}
+%\RequirePackage[standart,sempontinhos]{toc}
+\RequirePackage{hedraextra}
+\RequirePackage{penalidades}
+\RequirePackage{graficos}
+\RequirePackage{hedralogo}
+\RequirePackage{hifensextras}
+\RequirePackage{aparatos}
+\RequirePackage{tabelas}
+\RequirePackage{versos}
+\RequirePackage{abstract}                       % Package to create dummy text
+\RequirePackage{biblio}
+\RequirePackage{amsmath,amsfonts,amsthm}          % Math packages
+%\RequirePackage[hang, small,labelfont=bf,up,textfont=it,up]{caption} % Custom captions under/above floats
+\RequirePackage{epstopdf}                       % Converts .eps to .pdf
+\RequirePackage{subfig}                         % Subfigures
+\RequirePackage{booktabs}                       % Nicer tables
+\RequirePackage{fix-cm}                         % Custom fontsizes
+\RequirePackage{ctable}
+\RequirePackage{textcase}
+\RequirePackage{etoolbox}
+\RequirePackage{flushend}
+\RequirePackage{mdframed}
+\RequirePackage{multicol}
+\RequirePackage[hyphens]{url}
+
+\RequirePackage{xeCJK}
+\RequirePackage{caption}
+\RequirePackage{hyphenat}
+\RequirePackage{verse}
+\RequirePackage{seqsplit}
+\RequirePackage{lscape}
+\RequirePackage{amssymb}
+\RequirePackage{mathtools}
+\RequirePackage{enumitem}
+\RequirePackage{array}
+\RequirePackage{multirow}
+\RequirePackage{pbox}
+\RequirePackage{longtable}
+\RequirePackage[pdfpagelabels,implicit=false,hidelinks,hyperfootnotes=false]{hyperref} % configurar pagina inicial do pdf
+
+% mathml to tex
+\RequirePackage{bm} % bold
+\RequirePackage{pmml-new} % math template
+\RequirePackage{unicode-math}
+
+
+%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareOption{numberinsection}{%
+\setcounter{secnumdepth}{4}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\let\l@subsection\l@section
+\let\l@section\l@chapter}
+
+% fontes chinesas
+\setCJKmainfont{SimSun}
+\setCJKsansfont{SimHei}
+\setCJKmonofont{FangSong}
+
+% math
+\setmathfont{XITS Math}
+
+% remove label automatico das tabelas
+\captionsetup{justification=raggedright, singlelinecheck=false}
+\captionsetup[table]{labelformat=empty}
+
+% remove padding entre colunas da tabela
+\setlength\tabcolsep{0.005\textwidth}
+
+% includegraphics maxwidth
+\def\maxwidth#1{\ifdim\Gin@nat@width>#1 #1\else\Gin@nat@width\fi}
+
+% table columns
+\newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+% attrib verse
+%\newcommand{\attrib}[1]{%
+%\nopagebreak{\raggedleft\footnotesize #1\par}}
+\renewcommand{\poemtitlefont}{\normalfont\large\itshape\centering}
+
+% footnotes
+\newcommand{\scieloTitleFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+\newcommand{\scieloContributorFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+\newcommand{\scieloBodyFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\ifx&#4&%
+\protect\footnote{#2}
+\else
+\protect\footnotemark[#3]
+\fi
+}%
+
+\newcommand{\scieloCorrespFn}[4]{% {label}{description}{footnotemarkindex}{use footnotemark}
+\footnotemark[#3]
+}%
+
+% exibicao da seção
+\newcommand{\scieloSectionContainer}[1]{%
+\section*{#1}
+}%
+\newcommand{\scieloSubSectionContainer}[1]{%
+\subsection*{#1}
+}%
+
+% exibicao dos creditos do documento
+\newcommand{\scieloLicenseContainer}[1]{%
+\medskip\par\noindent
+\footnotesize{#1}
+}%
+
+% exibicao do abstract
+\newcommand{\scieloAbstractContainer}[4]{%
+\renewcommand{\abstractname}{#1}
+\begin{abstract}
+#2
+\scieloKeywordsContainer{#3}{#4}
+\end{abstract}
+}%
+
+% exibicao keywords abstract
+\newcommand{\scieloKeywordsContainer}[2]{%
+\medskip\par\noindent
+\footnotesize{\textit{#1} #2}
+}%
+
+% image one col command
+\newcommand{\scieloImageContainerOneCol}[3]{% {width}{url}{caption}
+\par
+\centerline{
+\includegraphics[width=\maxwidth{#1}]{#2}
+}
+\ifx&#3&%
+\else
+\captionof{figure}{#3} 
+\fi
+\par
+}%
+
+% image two col command
+\newcommand{\scieloImageContainerTwoCol}[2]{% {url}{caption}
+\begin{figure*}
+\centerfloat
+\includegraphics[width=\maxwidth{\textwidth}]{#1}
+\ifx&#2&%
+\else
+\caption{#2} 
+\fi
+\end{figure*}
+}%
+
+% image inline  command
+\newcommand{\scieloImageInlineContainer}[1]{% {url}{caption}
+{
+\centering{
+\includegraphics[width=\maxwidth{0.5\textwidth},height=0.7cm,keepaspectratio]{#1}
+}
+}
+}%
+
+%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% http://tex.stackexchange.com/questions/88304/multipage-tables-with-ctable-package
+\newif\if@ctbl@long
+\define@key{ctbl}{long}[]{\@ctbl@longtrue}
+
+\long\def\foo#1\sbox#2!!{%
+\long\expandafter\def\csname\string\ctable\endcsname[##1]##2##3##4{%
+#1\if@ctbl@long\ctbl@long\fi\sbox#2}}
+
+\expandafter\expandafter\expandafter\foo
+\csname\string\ctable\endcsname[#1]{#2}{#3}{#4}!!
+
+\def\ctbl@long\fi\sbox#1#2#3\@ctblend{\fi
+\ctbl@@long#2%
+}
+
+\long\def\ctbl@@long#1#2#3#4#5#6{%
+\ctbl@@@long#6%
+}
+
+\def\ctbl@@@long#1\begin#2#3#4\end#5{%
+\def\@tempa{#5}%
+\def\@tempb{tabular}%
+\ifx\@tempa\@tempb\else\show\@tempa\ERROR\fi
+\begin{longtable}{#3}%
+%\caption{\@ctblcaption\ifx\@ctbllabel\empty\else\label{\@ctbllabel}\fi}%
+\caption{\@ctblcaption}
+\endfirsthead
+\caption*{\@ctblcaption\space(continued)}%
+\endhead
+#4\end{longtable}}
+%% ctable + longtable %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+%BJ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareOption{bj}{%
+  %%% Opções de tamanho de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \setbinding{3mm}
+  \stockaiii 
+  \settrimmedsize{297mm}{210mm}{*}
+%  \settrimmedsize{191mm}{127mm}{*}
+  \settypeblocksize{240mm}{150mm}{*}
+  \setlrmargins{25mm}{*}{*}
+  \setulmargins{*}{*}{1.6}
+%  \setheadfoot{5mm}{10mm}
+%  \setheaderspaces{*}{*}{0}
+  \headsep=15mm
+\newcommand{\marcadecorte}{}
+\setlength{\trimtop}{20mm}
+\setlength{\trimedge}{\stockwidth} 
+\addtolength{\trimedge}{-\paperwidth}
+\setlength{\trimedge}{0.5\trimedge}
+\quarkmarks
+\marcadecorte
+\setmarginnotes{0pt}{.25\textwidth}{-3cm}
+\checkandfixthelayout
+  %%% Opções de tamanho de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+  %%% Estilo de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makepagestyle{estilo}
+\makeevenfoot{plain}{}{\footnotesize\thepage}{}{}
+\makeoddfoot{plain}{}{\footnotesize\thepage}{}{}
+\renewcommand{\thefigure}{\arabic{figure}}
+\epigraphtextposition{flushleft}
+\epigraphsourceposition{flushright}
+\epigraphfontsize{\footnotesize}
+\setlength{\epigraphrule}{0pt}
+\setlength{\epigraphwidth}{.7\textwidth}
+% cabeços e rodapé
+  \pagestyle{estilo}
+  \makeoddhead{estilo}{\tiny\thepage}{}{\tiny\autorabrev}
+  \makeoddfoot{estilo}{\tiny\revista}{}{\tiny\site}
+  \makeevenhead{estilo}{\tiny\titabrev}{}{\tiny\thepage}
+  \makeevenfoot{estilo}{\tiny\site}{}{\tiny\revista}
+%seção
+  \setbeforesecskip{1\onelineskip}%
+  \setaftersecskip{\onelineskip}%
+  \setbeforesubsecskip{1\onelineskip}%
+  \setaftersubsecskip{\onelineskip}%
+  \setbeforesubsubsecskip{1\onelineskip}%
+  \setaftersubsubsecskip{\onelineskip}%
+  \setsecheadstyle{\bfseries\flushleft}%
+  \setsubsecheadstyle{\small\itshape\flushleft}%
+  \setsubsubsecheadstyle{\small\centering\itshape}%
+\makepagestyle{abertura}
+\makeoddhead{abertura}{\tiny\revista\par\vspace{-3pt} \issn}{}{}
+\makeoddfoot{abertura}{\tiny\revista}{}{\tiny\site}
+\makeevenhead{abertura}{\tiny\revista\par\vspace{-3pt} \issn}{}{}
+\makeevenfoot{abertura}{\tiny\revista}{}{\tiny\site}
+%fita cinza
+\renewcommand{\makeheadrule}[3]{%
+  \mem@ps@safe@change{#1}%
+  \@namedef{#1headrule}{%
+\@nameuse{#1headruleprefix}\color{gray!40}\hrule\@width #2\@height #3 \vskip-#3}}
+\makeheadrule{abertura}{\textwidth}{4pt}{}%
+\makeheadrule{estilo}{\textwidth}{4pt}{}%
+% abstract
+\absleftindent=0pt 
+\absrightindent=0pt
+\renewcommand{\absnamepos}{flushleft}
+%%% Estilos de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Abertura %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\AtBeginDocument{%  
+
+\input{BEFORE-BEGINDOC-COMMANDS.tex}
+
+\scieloDefineFootnotes
+
+  \thispagestyle{abertura}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+{
+\hfill
+\begin{minipage}{.8\textwidth}
+  \begin{flushright}
+    \Huge\tituloLatex
+
+    \makeatletter
+    \@ifundefined{tituloTraducoes}
+    {}{
+        \medskip\normalsize\tituloTraducoes
+    }
+    \makeatother
+
+  \end{flushright}
+\end{minipage}
+}
+
+\begin{mdframed}[backgroundcolor=gray!40,roundcorner=0pt,linecolor=gray!40]
+    \begin{flushright}
+      \large\scieloAutor
+
+      \ifx\scieloContributorsFootNotes\empty
+      \else
+      \medskip\footnotesize\textit{\scieloContributorsFootNotes}
+      \fi
+
+    \end{flushright}
+\end{mdframed}}
+} %BN %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%BN %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\DeclareOption{bn}{%
+%%% Opções de tamanho de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+  \setbinding{3mm}
+  \stockaiii 
+  \settrimmedsize{297mm}{210mm}{*}
+%  \settrimmedsize{191mm}{127mm}{*}
+  \settypeblocksize{240mm}{150mm}{*}
+  \setlrmargins{25mm}{*}{*}
+  \setulmargins{*}{*}{1.6}
+%  \setheadfoot{5mm}{10mm}
+%  \setheaderspaces{*}{*}{0}
+  \headsep=15mm
+\newcommand{\marcadecorte}{}
+\setlength{\trimtop}{20mm}
+\setlength{\trimedge}{\stockwidth} 
+\addtolength{\trimedge}{-\paperwidth}
+\setlength{\trimedge}{0.5\trimedge}
+\quarkmarks
+\marcadecorte
+\setmarginnotes{0pt}{.25\textwidth}{-3cm}
+\checkandfixthelayout
+%%% Opções de tamanho de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Estilo de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makepagestyle{estilo}
+\makeevenfoot{plain}{}{\footnotesize\thepage}{}{}
+\makeoddfoot{plain}{}{\footnotesize\thepage}{}{}
+\renewcommand{\thefigure}{\arabic{figure}}
+\epigraphtextposition{flushleft}
+\epigraphsourceposition{flushright}
+\epigraphfontsize{\footnotesize}
+\setlength{\epigraphrule}{0pt}
+\setlength{\epigraphwidth}{.7\textwidth}
+% cabeços e rodapé
+  \pagestyle{estilo}
+  \makeevenhead{estilo}{\tiny\thepage}{\vspace{-5mm}\tiny\autorabrev}{\tiny\revista}
+  \makeevenfoot{estilo}{\tiny\textcolor{blue}{\site}}{}{\tiny\textcolor{blue}{\urlartigo}}
+  \makeoddhead{estilo}{\tiny\revista}{\vspace{-5mm}\tiny\scieloTitulo}{\tiny\thepage}
+  \makeoddfoot{estilo}{\tiny\textcolor{blue}{\urlartigo}}{}{\tiny\textcolor{blue}{\site}}
+%seção
+  \setbeforesecskip{1\onelineskip}%
+  \setaftersecskip{\onelineskip}%
+  \setbeforesubsecskip{1\onelineskip}%
+  \setaftersubsecskip{\onelineskip}%
+  \setbeforesubsubsecskip{1\onelineskip}%
+  \setaftersubsubsecskip{\onelineskip}%
+  \setsecheadstyle{\bfseries\flushleft}%
+  \setsubsecheadstyle{\small\itshape\flushleft}%
+  \setsubsubsecheadstyle{\small\centering\itshape}%
+% abstract
+  \renewenvironment{abstract}{\noindent\textbf{\abstractname}:\quad}{\bigskip}
+%%% Estilos de página %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%% Abertura %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\AtBeginDocument{%
+
+\input{BEFORE-BEGINDOC-COMMANDS.tex}
+
+\thispagestyle{plain}
+\hspace{-25mm}\noindent\includegraphics[width=.25\textwidth]{logo1.jpg}
+\begin{minipage}{4cm}
+\vspace{-1cm}
+\tiny\revista\par\site\par
+\vspace{-1ex}\rule{4cm}{1pt}
+\includegraphics[width=15mm]{ccbynp.jpg}
+\end{minipage}
+\hspace{60mm}\includegraphics[width=.2\textwidth]{logo2.jpg}
+\vspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% registra footnotes
+\scieloDefineTitleFn
+
+\begin{center}
+
+\begin{bfseries}
+\tituloLatex
+
+\makeatletter
+\@ifundefined{tituloTraducoes}
+{}{
+    \medskip\tituloTraducoes
+}
+\makeatother
+
+\end{bfseries}
+
+\medskip
+
+\scieloAutor
+
+\ifx\scieloContributorsFootNotes\empty
+\else
+\medskip\textit{\scieloContributorsFootNotes}
+\fi
+
+\end{center}
+\medskip
+}
+}
+%BN %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\DeclareOption{trimframe}{\renewcommand{\marcadecorte}{\trimFrame}}
+\DeclareOption{sembinding}{\setbinding{0mm}}
+\DeclareOption{semcabeco}{
+      \setulmargins{*}{*}{1.9}
+      \headsep=0pt}
+\ProcessOptions
+
+%%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\renewcommand*{\@fnsymbol}[1]{%
+  % Änderungen:
+  % * Symbol "**" an Position 2 verschoben.
+  % * Symbol "***" eingefügt.
+  % * Symbole mit \dagger entfernt.
+  \ensuremath{%
+    \ifcase#1%
+    \or
+      {*}%
+    \or
+      \ddagger
+    \or
+      \mathsection
+    \or
+      \mathparagraph
+    \or
+      \ddagger\ddagger
+    \else
+      \@ctrerr
+    \fi
+  }%
+}
+%%% Gerais %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,0 +1,32 @@
+\makeatletter
+\def\@fnsymbol#1{
+     \ensuremath{
+         \ifcase#1
+\or a
+\or b
+\or c
+\or *
+         \fi
+     }
+}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\makeatother
+
+\newcommand\scieloDefineFootnotes{
+\footnotetext[1]{PUCMinas - Pontifícia Universidade Católica de Minas Gerais, Belo Horizonte, MG, Brasil}
+\footnotetext[2]{UNA - Centro Universitário UNA, Belo Horizonte, MG, Brasil}
+\footnotetext[3]{UNIFI - The University of Florence, Italy}
+}
+
+\newcommand{\scieloISSN}{1807-2577}
+\newcommand{\scieloYear}{2015}
+\newcommand\scieloArticlePubIdType{Doi}
+\newcommand\scieloArticleType{ARTIGO ORIGINAL}
+\newcommand{\scieloArticleRef}{2015 May-June; 19(3):217-225}
+\newcommand\scieloArticleTitle{Do orthodontists recommend Class II treatment according to evidence-based knowledge?}
+%\newcommand\scieloArticleTitleTranslation{Tradução do título 1\\Tradução do título 2}
+%\newcommand{\scieloArticleSubtitle}{Os ortodontistas recomendam o tratamento das más oclusões de Classe II de acordo com os conceitos\\científicos atuais?}
+\newcommand{\scieloArticleUrl}{http://dx.doi.org/10.1590/1807-2577.0004}
+\newcommand{\scieloHeaderCenter}{Do orthodontists recommend Class II...}
+\newcommand{\scieloAuthor}{Soraia Azevedo ALMEIDA\scieloContributorFn{a}{xx}{1}{}, Paula Loureiro CHEIB\scieloContributorFn{a}{xx}{1}{}, Gustavo Quiroga SOUKI\scieloContributorFn{b}{xx}{2}{},\\Lorenzo FRANCHI\scieloContributorFn{c}{xx}{3}{}, Bernardo SOUKI\scieloContributorFn{a}{xx}{1}{}\scieloContributorFn{*}{xx}{4}{}}
+\newcommand\scieloContributorsFootNotes{\textsuperscript{a}{PUCMinas - Pontifícia Universidade Católica de Minas Gerais, Belo Horizonte, MG, Brasil}\\\textsuperscript{b}{UNA - Centro Universitário UNA, Belo Horizonte, MG, Brasil}\\\textsuperscript{c}{UNIFI - The University of Florence, Italy}}
